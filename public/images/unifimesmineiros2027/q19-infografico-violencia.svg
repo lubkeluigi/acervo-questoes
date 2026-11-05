@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900" width="760" height="900" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Total de casos notificados com sexo informado</title>
+  <desc id="descricao">Total de 202.831 casos. Meninas: 174.786 casos, 86,2 por cento; faixa etária mais frequente de 10 a 14 anos, 43,0 por cento; pretas ou pardas 56,3 por cento, brancas 33,6 por cento, indígenas 1,4 por cento, amarelas 0,8 por cento e ignorada ou em branco 8,0 por cento. Meninos: 28.045 casos, 13,8 por cento; faixa etária mais frequente de 5 a 9 anos, 41,4 por cento; pretos ou pardos 49,8 por cento, brancos 38,8 por cento, indígenas 0,5 por cento, amarelos 0,6 por cento e ignorada ou em branco 10,3 por cento.</desc>
+  <defs>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#273c37}.titulo{font-weight:700}.muted{fill:#64736d}.valor{font-weight:700}.rotulo{font-size:14px}.percentual{font-size:14px;font-weight:700;text-anchor:end}.barra-fundo{fill:#e9eeeb}.fonte{font-size:10.5px;fill:#6b7771}
+    </style>
+  </defs>
+  <rect width="760" height="900" fill="#fff"/>
+  <rect x="40" y="22" width="680" height="118" rx="14" fill="#fffdf8" stroke="#c9b68a" stroke-width="1.5"/>
+  <path d="M72 91 H145 M615 91 H688" stroke="#b59a61" stroke-width="2"/>
+  <text x="380" y="59" text-anchor="middle" class="titulo" font-size="14">TOTAL DE CASOS NOTIFICADOS COM SEXO INFORMADO</text>
+  <text x="380" y="106" text-anchor="middle"><tspan class="valor" font-size="36">202.831</tspan><tspan font-size="15"> casos</tspan></text>
+
+  <!-- Painel das meninas -->
+  <rect x="40" y="165" width="320" height="675" rx="12" fill="#fff" stroke="#eadcbf"/>
+  <path d="M52 165 H348" stroke="#e67e22" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="200" cy="165" r="31" fill="#e67e22" stroke="#fff" stroke-width="2"/>
+  <circle cx="200" cy="156" r="6.5" fill="#fff"/>
+  <path d="M186 184 Q188 168 200 168 Q212 168 214 184 M191 174 L187 190 M209 174 L213 190" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="200" y="272" text-anchor="middle" font-size="29" class="titulo" fill="#dc710e">Meninas</text>
+  <text x="200" y="315" text-anchor="middle" font-size="31" class="valor">174.786 <tspan font-size="15" font-weight="400">casos</tspan></text>
+  <text x="200" y="355" text-anchor="middle" font-size="30" class="valor" fill="#e67e22">86,2%</text>
+  <path d="M62 378 H338" stroke="#eadfcd"/>
+
+  <rect x="63" y="399" width="25" height="23" rx="3" fill="none" stroke="#e67e22" stroke-width="1.6"/>
+  <path d="M63 406 H88 M69 395 V402 M82 395 V402" stroke="#e67e22" stroke-width="1.6"/>
+  <text x="99" y="416" class="rotulo muted">Faixa etária mais frequente</text>
+  <text x="200" y="457" text-anchor="middle" font-size="27" class="valor">10 a 14 anos</text>
+  <text x="200" y="491" text-anchor="middle" font-size="25" class="valor" fill="#e67e22">43,0%</text>
+  <path d="M62 510 H338" stroke="#eadfcd"/>
+  <circle cx="72" cy="535" r="9" fill="none" stroke="#e67e22" stroke-width="1.5"/>
+  <circle cx="84" cy="538" r="7" fill="none" stroke="#e67e22" stroke-width="1.5"/>
+  <path d="M60 554 Q72 542 84 554 M78 554 Q88 546 96 554" fill="none" stroke="#e67e22" stroke-width="1.5"/>
+  <text x="105" y="545" class="rotulo titulo">Raça/cor da pele</text>
+
+  <g aria-label="Raça ou cor das meninas">
+    <circle cx="61" cy="581" r="5" fill="#252525"/><text x="74" y="586" class="rotulo">Pretas ou pardas</text><rect x="190" y="575" width="100" height="10" rx="5" class="barra-fundo"/><rect x="190" y="575" width="56.3" height="10" rx="5" fill="#252525"/><text x="337" y="586" class="percentual">56,3%</text>
+    <circle cx="61" cy="629" r="5" fill="#d10073"/><text x="74" y="634" class="rotulo">Brancas</text><rect x="190" y="623" width="100" height="10" rx="5" class="barra-fundo"/><rect x="190" y="623" width="33.6" height="10" rx="5" fill="#d10073"/><text x="337" y="634" class="percentual">33,6%</text>
+    <circle cx="61" cy="677" r="5" fill="#169b62"/><text x="74" y="682" class="rotulo">Indígenas</text><rect x="190" y="671" width="100" height="10" rx="5" class="barra-fundo"/><rect x="190" y="671" width="3" height="10" rx="1.5" fill="#169b62"/><text x="337" y="682" class="percentual">1,4%</text>
+    <circle cx="61" cy="725" r="5" fill="#e67e22"/><text x="74" y="730" class="rotulo">Amarelas</text><rect x="190" y="719" width="100" height="10" rx="5" class="barra-fundo"/><rect x="190" y="719" width="3" height="10" rx="1.5" fill="#e67e22"/><text x="337" y="730" class="percentual">0,8%</text>
+    <circle cx="61" cy="773" r="5" fill="#777"/><text x="74" y="778" font-size="12.5">Ignorada/em branco</text><rect x="190" y="767" width="100" height="10" rx="5" class="barra-fundo"/><rect x="190" y="767" width="8" height="10" rx="5" fill="#777"/><text x="337" y="778" class="percentual">8,0%</text>
+  </g>
+
+  <!-- Painel dos meninos -->
+  <rect x="400" y="165" width="320" height="675" rx="12" fill="#fff" stroke="#d2e5d9"/>
+  <path d="M412 165 H708" stroke="#169b62" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="560" cy="165" r="31" fill="#169b62" stroke="#fff" stroke-width="2"/>
+  <circle cx="560" cy="156" r="6.5" fill="#fff"/>
+  <path d="M546 184 Q548 168 560 168 Q572 168 574 184 M552 183 L549 192 M568 183 L571 192" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="560" y="272" text-anchor="middle" font-size="29" class="titulo" fill="#128554">Meninos</text>
+  <text x="560" y="315" text-anchor="middle" font-size="31" class="valor">28.045 <tspan font-size="15" font-weight="400">casos</tspan></text>
+  <text x="560" y="355" text-anchor="middle" font-size="30" class="valor" fill="#169b62">13,8%</text>
+  <path d="M422 378 H698" stroke="#dce9e1"/>
+
+  <rect x="423" y="399" width="25" height="23" rx="3" fill="none" stroke="#169b62" stroke-width="1.6"/>
+  <path d="M423 406 H448 M429 395 V402 M442 395 V402" stroke="#169b62" stroke-width="1.6"/>
+  <text x="459" y="416" class="rotulo muted">Faixa etária mais frequente</text>
+  <text x="560" y="457" text-anchor="middle" font-size="27" class="valor">5 a 9 anos</text>
+  <text x="560" y="491" text-anchor="middle" font-size="25" class="valor" fill="#169b62">41,4%</text>
+  <path d="M422 510 H698" stroke="#dce9e1"/>
+  <circle cx="432" cy="535" r="9" fill="none" stroke="#169b62" stroke-width="1.5"/>
+  <circle cx="444" cy="538" r="7" fill="none" stroke="#169b62" stroke-width="1.5"/>
+  <path d="M420 554 Q432 542 444 554 M438 554 Q448 546 456 554" fill="none" stroke="#169b62" stroke-width="1.5"/>
+  <text x="465" y="545" class="rotulo titulo">Raça/cor da pele</text>
+
+  <g aria-label="Raça ou cor dos meninos">
+    <circle cx="421" cy="581" r="5" fill="#252525"/><text x="434" y="586" class="rotulo">Pretos ou pardos</text><rect x="550" y="575" width="100" height="10" rx="5" class="barra-fundo"/><rect x="550" y="575" width="49.8" height="10" rx="5" fill="#252525"/><text x="697" y="586" class="percentual">49,8%</text>
+    <circle cx="421" cy="629" r="5" fill="#155a9c"/><text x="434" y="634" class="rotulo">Brancos</text><rect x="550" y="623" width="100" height="10" rx="5" class="barra-fundo"/><rect x="550" y="623" width="38.8" height="10" rx="5" fill="#155a9c"/><text x="697" y="634" class="percentual">38,8%</text>
+    <circle cx="421" cy="677" r="5" fill="#169b62"/><text x="434" y="682" class="rotulo">Indígenas</text><rect x="550" y="671" width="100" height="10" rx="5" class="barra-fundo"/><rect x="550" y="671" width="3" height="10" rx="1.5" fill="#169b62"/><text x="697" y="682" class="percentual">0,5%</text>
+    <circle cx="421" cy="725" r="5" fill="#e67e22"/><text x="434" y="730" class="rotulo">Amarelos</text><rect x="550" y="719" width="100" height="10" rx="5" class="barra-fundo"/><rect x="550" y="719" width="3" height="10" rx="1.5" fill="#e67e22"/><text x="697" y="730" class="percentual">0,6%</text>
+    <circle cx="421" cy="773" r="5" fill="#777"/><text x="434" y="778" font-size="12.5">Ignorada/em branco</text><rect x="550" y="767" width="100" height="10" rx="5" class="barra-fundo"/><rect x="550" y="767" width="10.3" height="10" rx="5" fill="#777"/><text x="697" y="778" class="percentual">10,3%</text>
+  </g>
+  <text x="380" y="875" text-anchor="middle" class="fonte">Imagem original do caderno: gerada por IA (https://chatgpt.com) · recriação vetorial</text>
+</svg>

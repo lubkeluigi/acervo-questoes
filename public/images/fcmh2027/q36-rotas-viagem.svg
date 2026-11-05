@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Duas rotas entre as cidades A e B</title>
+  <desc id="desc">A rota 1 é reta e a rota 2 é mais longa e sinuosa. Ambas ligam a cidade A à cidade B.</desc>
+  <defs>
+    <marker id="setaRoxa" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10L2.5 5Z" fill="#30266f"/></marker>
+    <marker id="setaDourada" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10L2.5 5Z" fill="#e3a42a"/></marker>
+  </defs>
+  <path d="M120 330C65 283 72 232 108 190C145 147 99 117 148 76C202 31 291 65 460 65" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 330C65 283 72 232 108 190C145 147 99 117 148 76C202 31 291 65 460 65" fill="none" stroke="#30266f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 330L460 65" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round"/>
+  <path d="M120 330L460 65" fill="none" stroke="#e3a42a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M99 222L107 194" fill="none" stroke="#30266f" stroke-width="3" marker-end="url(#setaRoxa)"/>
+  <path d="M274 209L303 184" fill="none" stroke="#e3a42a" stroke-width="3" marker-end="url(#setaDourada)"/>
+  <g font-family="Arial, sans-serif" fill="#172b3a">
+    <text x="27" y="145" font-size="28">Rota 2</text>
+    <text x="321" y="229" font-size="28">Rota 1</text>
+    <text x="148" y="372" font-size="27">Cidade A</text>
+    <text x="486" y="75" font-size="25">Cidade B</text>
+  </g>
+  <g stroke="#26323b" stroke-width="3">
+    <circle cx="120" cy="330" r="14" fill="#d64850"/>
+    <circle cx="460" cy="65" r="14" fill="#d64850"/>
+  </g>
+  <g fill="#f7b8bb"><circle cx="115" cy="325" r="4"/><circle cx="455" cy="60" r="4"/></g>
+</svg>

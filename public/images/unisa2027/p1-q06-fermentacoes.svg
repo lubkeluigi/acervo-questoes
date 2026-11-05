@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="515" viewBox="0 0 476 515" role="img" aria-labelledby="title desc">
+<title id="title">Glicólise e fermentações lática e alcoólica</title>
+<desc id="desc">Esquema vetorial recriado conforme o caderno UNISA: glicose, dois piruvatos, ATP, NAD, Lactobacillus, Saccharomyces e produtos.</desc>
+<defs>
+  <linearGradient id="arrow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#656a6b"/><stop offset=".22" stop-color="#a9adae"/><stop offset=".48" stop-color="#d6d9d8"/><stop offset=".7" stop-color="#9da2a2"/><stop offset="1" stop-color="#5e6364"/></linearGradient>
+  <linearGradient id="milk" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e98bb6"/><stop offset=".45" stop-color="#f8b4d1"/><stop offset="1" stop-color="#e789b2"/></linearGradient>
+  <linearGradient id="tub" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b9dce7"/><stop offset=".48" stop-color="#dcf0f4"/><stop offset="1" stop-color="#b7dce7"/></linearGradient>
+  <linearGradient id="wine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8e111c"/><stop offset=".38" stop-color="#cf2933"/><stop offset=".7" stop-color="#b51c27"/><stop offset="1" stop-color="#7e1019"/></linearGradient>
+  <linearGradient id="beer" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dc9d00"/><stop offset=".35" stop-color="#ffd33b"/><stop offset=".7" stop-color="#f4b700"/><stop offset="1" stop-color="#d99500"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity=".25"/><stop offset=".45" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#d9e2e2" stop-opacity=".35"/></linearGradient>
+  <marker id="blackArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5 0 10Z" fill="#242625"/></marker>
+  <clipPath id="bottleClip"><path d="M387 374h10v31c0 7 7 12 7 21v73q-12 8-24 0v-73c0-9 7-14 7-21z"/></clipPath>
+  <style>text{font-family:Arial,Helvetica,sans-serif;fill:#262827}.box{fill:#fff;stroke:#606260;stroke-width:1.25}.pipe-outer{fill:none;stroke:#64696a;stroke-width:18;stroke-linecap:butt;stroke-linejoin:round}.pipe-mid{fill:none;stroke:#a3a8a8;stroke-width:14;stroke-linecap:butt;stroke-linejoin:round}.pipe-light{fill:none;stroke:#d4d7d6;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;opacity:.72}</style>
+</defs>
+<rect width="476" height="515" fill="#fff"/>
+
+<!-- Seta principal da glicólise -->
+<path d="M188 40h18v67l12-8-20 36-20-36 12 8V40z" fill="url(#arrow)" stroke="#666b6b" stroke-width="1.1"/>
+<rect class="box" x="154" y="10" width="90" height="30"/>
+<text x="199" y="31" text-anchor="middle" font-size="16">Glicose</text>
+<rect class="box" x="154" y="135" width="90" height="30"/>
+<text x="199" y="156" text-anchor="middle" font-size="15.5">2 Piruvatos</text>
+
+<!-- Formação de ATP -->
+<ellipse cx="28" cy="61" rx="17" ry="15" fill="#fff" stroke="#6d706d" stroke-width="1.2"/>
+<text x="28" y="67" text-anchor="middle" font-size="14">2 Pi</text>
+<text x="55" y="68" text-anchor="middle" font-size="20">+</text>
+<rect x="72" y="47" width="64" height="28" rx="14" fill="#fff" stroke="#6d706d" stroke-width="1.2"/>
+<text x="104" y="66" text-anchor="middle" font-size="14">2 ADP</text>
+<path d="M136 60C176 54 193 61 191 78 189 97 161 106 126 105" fill="none" stroke="#242625" stroke-width="1.8" marker-end="url(#blackArrow)"/>
+<path d="M96 91l7 13 14-7-3 15 16 2-12 11 14 9-16 3 3 16-15-8-8 15-6-16-15 8 3-17-17-4 14-10-12-12 17 3 1-17 12 12z" fill="#fff" stroke="#737672" stroke-width="1.15"/>
+<text x="96" y="130" text-anchor="middle" font-size="15">2 ATP</text>
+
+<!-- NAD+ e NADH -->
+<rect x="260" y="37" width="66" height="27" rx="13.5" fill="#fff" stroke="#6d706d" stroke-width="1.2"/>
+<text x="293" y="55" text-anchor="middle" font-size="14">2 NAD⁺</text>
+<rect x="244" y="81" width="70" height="28" rx="14" fill="#fff" stroke="#6d706d" stroke-width="1.2"/>
+<text x="279" y="100" text-anchor="middle" font-size="14">2 NADH</text>
+<rect x="325" y="81" width="66" height="28" rx="14" fill="#fff" stroke="#6d706d" stroke-width="1.2"/>
+<text x="358" y="100" text-anchor="middle" font-size="14">2 NAD⁺</text>
+<path d="M260 50C232 37 207 38 207 57" fill="none" stroke="#242625" stroke-width="1.8"/>
+<path d="M207 57C207 75 221 84 241 92" fill="none" stroke="#242625" stroke-width="1.8" marker-end="url(#blackArrow)"/>
+<path d="M278 109C278 141 320 151 330 110" fill="none" stroke="#242625" stroke-width="1.8" marker-end="url(#blackArrow)"/>
+
+<!-- Bifurcação dos dois piruvatos -->
+<path class="pipe-outer" d="M244 149h43c18 0 28 10 28 31"/>
+<path class="pipe-mid" d="M244 149h43c18 0 28 10 28 31"/>
+<path class="pipe-light" d="M244 146h43c18 0 28 10 28 31"/>
+<path class="pipe-outer" d="M315 180c-17 0-34-5-49 2-13 6-16 14-16 26M315 180c17 0 34-5 49 2 13 6 18 14 18 26"/>
+<path class="pipe-mid" d="M315 180c-17 0-34-5-49 2-13 6-16 14-16 26M315 180c17 0 34-5 49 2 13 6 18 14 18 26"/>
+<path class="pipe-light" d="M315 176c-17 0-34-5-49 2-13 6-16 14-16 26M315 176c17 0 34-5 49 2 13 6 18 14 18 26"/>
+<path d="M232 197l11 6 7-9 7 9 11-6-18 31zM364 197l11 6 7-9 7 9 11-6-18 31z" fill="url(#arrow)" stroke="#656a6a" stroke-width="1.1"/>
+
+<!-- Microorganismos e produtos das vias -->
+<text x="250" y="250" text-anchor="middle" font-size="16" font-style="italic">Lactobacillus</text>
+<text x="388" y="250" text-anchor="middle" font-size="16" font-style="italic">Saccharomyces</text>
+<path d="M243 258h14v34l12-7-19 39-19-39 12 7zM375 258h14v34l12-7-19 39-19-39 12 7z" fill="url(#arrow)" stroke="#656a6a" stroke-width="1.1"/>
+<text x="250" y="355" text-anchor="middle" font-size="16">Ácido Láctico</text>
+<text x="386" y="355" text-anchor="middle" font-size="16">Etanol, CO₂</text>
+
+<!-- Iogurte -->
+<g stroke="#6c6267" stroke-width="1.05" stroke-linejoin="round">
+<path d="M188 426l18-10v62l-18 14z" fill="#d97ca5"/>
+<rect x="145" y="426" width="43" height="66" fill="url(#milk)"/>
+<path d="M145 426l11-25h40l10 15-18 10z" fill="#f2a6c6"/>
+<path d="M188 426l8-25 10 15z" fill="#ce739c"/>
+<rect x="156" y="394" width="40" height="7" fill="#f6f5f1"/>
+<path d="M145 439h43v32h-43z" fill="#f7f6f2"/>
+<path d="M188 439l18-9v32l-18 9z" fill="#eee9eb"/>
+<path d="M145 472h43v20h-43z" fill="#ee9fc2"/>
+</g>
+<text x="166.5" y="459" text-anchor="middle" font-size="13.5" font-weight="600">Iogurte</text>
+
+<!-- Cream cheese -->
+<path d="M215 432h83l-9 61h-64z" fill="url(#tub)" stroke="#657174" stroke-width="1.15"/>
+<rect x="207" y="419" width="98" height="14" rx="2" fill="#147cac" stroke="#53656c" stroke-width="1.1"/>
+<path d="M211 422h90" stroke="#68b5d4" stroke-width="2"/>
+<text x="256" y="458" text-anchor="middle" font-size="16">Cream</text>
+<text x="256" y="478" text-anchor="middle" font-size="16">cheese</text>
+
+<!-- Taça de vinho -->
+<path d="M352 427h23c0 17-4 27-11.5 27s-11.5-10-11.5-27z" fill="url(#glass)" stroke="#777c7b" stroke-width="1"/>
+<path d="M354 438h19c-.7 10-3.7 14-9.5 14s-8.8-4-9.5-14z" fill="url(#wine)"/>
+<path d="M352 427h23M354 438h19" stroke="#8a8e8c" stroke-width="1"/>
+<path d="M363.5 454v39" stroke="#858a88" stroke-width="2"/>
+<ellipse cx="363.5" cy="499" rx="12" ry="3" fill="url(#glass)" stroke="#858a88" stroke-width="1"/>
+
+<!-- Garrafa de vinho -->
+<path d="M387 374h10v31c0 7 7 12 7 21v73q-12 8-24 0v-73c0-9 7-14 7-21z" fill="#f5f5ee" stroke="#777c7b" stroke-width="1.1"/>
+<rect x="379" y="407" width="26" height="96" fill="url(#wine)" clip-path="url(#bottleClip)"/>
+<path d="M387 374h10v31c0 7 7 12 7 21v73q-12 8-24 0v-73c0-9 7-14 7-21z" fill="none" stroke="#777c7b" stroke-width="1.1"/>
+<rect x="389" y="360" width="7" height="15" rx="1" fill="#8b5b3d" stroke="#777065" stroke-width=".8"/>
+<path d="M385 423v69" stroke="#fff" stroke-opacity=".48" stroke-width="2"/>
+
+<!-- Cerveja -->
+<path d="M425 407q20-8 41 0l-4 60c-1 15 5 25 0 32-7 6-25 6-32 0-5-7 1-17 0-32z" fill="url(#glass)" stroke="#7b7c72" stroke-width="1.05"/>
+<path d="M429 416h33l-3 51c-1 15 5 25 0 30-6 5-20 5-26 0-5-5 1-15 0-30z" fill="url(#beer)"/>
+<path d="M425 407q20-8 41 0l-1 12c-8-5-12 3-19-1-8-4-12 3-19 0z" fill="#fffdf1" stroke="#a7a28d" stroke-width=".7"/>
+<g fill="#fffdf5" stroke="#b9b39d" stroke-width=".55"><circle cx="431" cy="403" r="4"/><circle cx="439" cy="401" r="5"/><circle cx="448" cy="403" r="4.5"/><circle cx="457" cy="401" r="4"/><circle cx="462" cy="406" r="3"/></g>
+<g fill="#fff8d7" opacity=".85"><circle cx="437" cy="431" r="1.4"/><circle cx="451" cy="439" r="1.2"/><circle cx="441" cy="452" r="1.1"/><circle cx="455" cy="462" r="1.5"/><circle cx="437" cy="475" r="1"/></g>
+<path d="M431 421l3 46c1 12-2 22 1 29" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="2"/>
+</svg>

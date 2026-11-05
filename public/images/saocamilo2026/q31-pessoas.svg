@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 290" width="520" height="290" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+<title id="title">Andrea e Luiz em movimento</title><desc id="desc">Andrea caminha para a esquerda e Luiz para a direita, afastando-se do ponto P.</desc>
+<defs><marker id="arrowQ31" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#314a52"/></marker></defs>
+<rect width="520" height="290" fill="white"/>
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#26343b"><text x="130" y="25" font-size="21" font-weight="600">Andrea</text><text x="390" y="25" font-size="21" font-weight="600">Luiz</text></g>
+<g fill="none" stroke="#314a52" stroke-width="2.4" stroke-linecap="round"><path d="M195 45H55" marker-end="url(#arrowQ31)"/><path d="M325 45H465" marker-end="url(#arrowQ31)"/></g>
+<g transform="translate(165 73) scale(-1 1)" stroke="#34464d" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="169" rx="48" ry="5" fill="#dfe7e5" stroke="none"/>
+<path d="M-9 47L-27 82L-14 108" fill="none" stroke="#bd8665" stroke-width="9"/>
+<path d="M3 99L25 134L45 157" fill="none" stroke="#3e5e9b" stroke-width="15"/>
+<path d="M43 158L59 160" fill="none" stroke="#725243" stroke-width="9"/>
+<path d="M-5 99L-18 136L-39 158" fill="none" stroke="#3e5e9b" stroke-width="15"/>
+<path d="M-40 159L-56 158" fill="none" stroke="#725243" stroke-width="9"/>
+<path d="M-15 34Q0 27 16 37L20 91Q4 104 -19 93Z" fill="#e5aa32"/>
+<path d="M-13 38L-23 62M14 40L24 60" fill="none" stroke="#e5aa32" stroke-width="11"/>
+<path d="M14 46L31 76L16 101" fill="none" stroke="#d6a077" stroke-width="9"/>
+<path d="M1 30V20" fill="none" stroke="#d6a077" stroke-width="10"/>
+<circle cx="4" cy="2" r="18" fill="#d6a077"/>
+<path d="M19 -2L26 3L19 8Z" fill="#d6a077"/>
+<path d="M-14 1Q-15 -21 6 -19Q22 -17 20 -3Q7 -12 -12 -5Z" fill="#433630"/>
+<path d="M-12 -5Q-23 5 -17 25Q-8 20 -7 9Z" fill="#3d3230" stroke="#3d3230"/><circle cx="15" cy="0" r="1.7" fill="#26343b" stroke="none"/><path d="M17 11Q12 14 8 11" fill="none" stroke-width="1.2"/>
+</g><g transform="translate(355 73) scale(1 1)" stroke="#34464d" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="169" rx="48" ry="5" fill="#dfe7e5" stroke="none"/>
+<path d="M-9 47L-27 82L-14 108" fill="none" stroke="#bd8665" stroke-width="9"/>
+<path d="M3 99L25 134L45 157" fill="none" stroke="#328495" stroke-width="15"/>
+<path d="M43 158L59 160" fill="none" stroke="#725243" stroke-width="9"/>
+<path d="M-5 99L-18 136L-39 158" fill="none" stroke="#328495" stroke-width="15"/>
+<path d="M-40 159L-56 158" fill="none" stroke="#725243" stroke-width="9"/>
+<path d="M-15 34Q0 27 16 37L20 91Q4 104 -19 93Z" fill="#81539b"/>
+<path d="M-13 38L-23 62M14 40L24 60" fill="none" stroke="#81539b" stroke-width="11"/>
+<path d="M14 46L31 76L16 101" fill="none" stroke="#d6a077" stroke-width="9"/>
+<path d="M1 30V20" fill="none" stroke="#d6a077" stroke-width="10"/>
+<circle cx="4" cy="2" r="18" fill="#d6a077"/>
+<path d="M19 -2L26 3L19 8Z" fill="#d6a077"/>
+<path d="M-14 1Q-15 -21 6 -19Q22 -17 20 -3Q7 -12 -12 -5Z" fill="#433630"/>
+<circle cx="15" cy="0" r="1.7" fill="#26343b" stroke="none"/><path d="M17 11Q12 14 8 11" fill="none" stroke-width="1.2"/>
+</g>
+<path d="M30 246H490" stroke="#31454a" stroke-width="2.6" stroke-linecap="round"/><circle cx="260" cy="246" r="4.5" fill="#31454a"/><path d="M260 251V260" stroke="#31454a" stroke-width="1.5"/><text x="260" y="281" text-anchor="middle" font-size="20" font-weight="600" font-family="Arial, Helvetica, sans-serif" fill="#26343b">P</text>
+</svg>
