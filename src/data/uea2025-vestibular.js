@@ -74,7 +74,7 @@ export const uea2025Vestibular = [
       "em um futuro hipotético.",
       "em um futuro próximo.",
       "em um passado recente.",
-      "em um tempo indeterminado. Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura. A televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha. Para salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos. Nem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema. O impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução. A Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto. A IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa. A Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes. (www.olhardigital.com.br, 02.05.2025. Adaptado.)"
+      "em um tempo indeterminado."
     ],
     "correct": 3,
     "resolution": [
@@ -226,11 +226,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“As produções também aceleraram a adoção do filme colorido” (2o parágrafo).",
-      "“Nem todas as ideias pegaram” (3o parágrafo).",
-      "“Textos, músicas, pinturas e roteiros podem ser produzidos em minutos” (5o parágrafo).",
-      "“Inovar não era apenas uma questão de sobrevivência” (4o parágrafo).",
-      "“Vieram o widescreen, o 3D e o som multicanal” (2o parágrafo)."
+      "“As produções também aceleraram a adoção do filme colorido” (2º parágrafo).",
+      "“Nem todas as ideias pegaram” (3º parágrafo).",
+      "“Textos, músicas, pinturas e roteiros podem ser produzi- dos em minutos” (5º parágrafo).",
+      "“Inovar não era apenas uma questão de sobrevivência” (4º parágrafo).",
+      "“Vieram o widescreen, o 3D e o som multicanal” (2º pará- grafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -282,7 +282,7 @@ export const uea2025Vestibular = [
       "Além de.",
       "A ponto de.",
       "Depois de.",
-      "No lugar de. Leia o trecho a seguir, retirado do romance Macunaíma, de Mário de Andrade, para responder às questões 07 e 08. Uma feita a Sol cobrira os três manos duma escaminha de suor e Macunaíma se lembrou de tomar banho. Porém no rio era impossível por causa das piranhas tão vorazes que de quando em quando, na luta pra pegar um naco de irmã espedaçada, pulavam aos cachos pra fora d’água metro e mais. Então Macunaíma enxergou numa lapa bem no meio do rio uma cova cheia d’água. E a cova era que nem a marca dum pé gigante. Abicaram. O herói depois de muitos gritos por causa do frio da água entrou na cova e se lavou inteirinho. Mas a água era encantada porque aquele buraco na lapa era marca do pezão do Sumé, do tempo em que andava pregando o evangelho de Jesus pra indiada brasileira. Quando o herói saiu do banho estava branco loiro e de olhos azuizinhos, água lavara o pretume dele. E ninguém não seria capaz mais de indicar nele um filho da tribo retinta dos Tapanhumas. Nem bem Jiguê percebeu o milagre, se atirou na marca do pezão do Sumé. Porém a água já estava muito suja da negrura do herói e por mais que Jiguê esfregasse feito maluco atirando água pra todos os lados só conseguiu ficar da cor do bronze novo. Macunaíma teve dó e consolou: — Olhe, mano Jiguê, branco você ficou não, porém pretume foi-se e antes fanhoso que sem nariz. (Macunaíma, 2013.)"
+      "No lugar de."
     ],
     "correct": 4,
     "resolution": [
@@ -430,7 +430,7 @@ export const uea2025Vestibular = [
       "integrar os povos indígenas à natureza.",
       "diminuir a desigualdade entre as pessoas na sociedade.",
       "alertar os países-membros da ONU sobre a importância da biodiversidade.",
-      "fazer uma previsão otimista sobre o futuro da humanidade.",
+      "fazer uma previsão otimista sobre o futuro da humani- dade.",
       "identificar as fontes de poluição da natureza."
     ],
     "correct": 1,
@@ -720,7 +720,7 @@ export const uea2025Vestibular = [
     "alternatives": [
       "favoreceu a organização dos sovietes como conselhos formados por operários e soldados.",
       "desencadeou a revolta dos marinheiros do Potemkin por causa das duras condições de vida.",
-      "agravou a crise de abastecimento e aumentou os protestos populares contra o czarismo.",
+      "agravou a crise de abastecimento e aumentou os protes- tos populares contra o czarismo.",
       "intensificou disputas entre o Império Russo e o Japão por territórios estratégicos.",
       "resultou no massacre do Domingo Sangrento durante manifestações contra o czarismo."
     ],
@@ -768,7 +768,7 @@ export const uea2025Vestibular = [
       "tratava do feminicídio de mulheres negras no estado do Rio Grande do Sul.",
       "celebrava a inclusão social dos negros libertos na região Sul do país.",
       "criticava a permanência do trabalho infantil na cidade de Porto Alegre.",
-      "questionava a permanência da desigualdade étnico-racial no país.",
+      "questionava a permanência da desigualdade étnico- -racial no país.",
       "revelava a criminalização dos praticantes da capoeira no país."
     ],
     "correct": 3,
@@ -907,9 +907,9 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "desvincula do passado colonial as práticas do racismo, já que elas surgem de dinâmicas nacionais contemporâneas.",
-      "reafirma a neutralidade das instituições políticas atuais, já que elas estão dissociadas de desigualdades históricas de classe e de gênero.",
-      "propõe enfrentar as heranças coloniais, que persistem nas estruturas sociais, culturais e políticas após a independência formal dos países colonizados.",
+      "desvincula do passado colonial as práticas do racismo, já que elas surgem de dinâmicas nacionais contempo- râneas.",
+      "reafirma a neutralidade das instituições políticas atuais, já que elas estão dissociadas de desigualdades históri- cas de classe e de gênero.",
+      "propõe enfrentar as heranças coloniais, que persistem nas estruturas sociais, culturais e políticas após a inde- pendência formal dos países colonizados.",
       "remete ao embate entre as colônias e suas metrópoles, que resultou na eliminação das estruturas coloniais nos países recém-independentes.",
       "parte do princípio de que a descolonização foi eficaz, já que resolveu os principais problemas herdados do neocolonialismo."
     ],
@@ -954,9 +954,9 @@ export const uea2025Vestibular = [
     "alternatives": [
       "a escravização de africanos teve pouca importância na Amazônia devido ao uso do trabalho indígena em larga escala nessa região.",
       "a escravização de africanos na Amazônia durante o período colonial moldou profundamente a cultura e a identidade da região.",
-      "a invisibilidade dos afrodescendentes na região amazônica deve-se à historiografia brasileira voltada para o estudo da escravidão africana no Sudeste.",
+      "a invisibilidade dos afrodescendentes na região amazôni- ca deve-se à historiografia brasileira voltada para o estudo da escravidão africana no Sudeste.",
       "a transação de escravizados africanos para o Norte da América portuguesa era regular e mais lucrativo do que a rota para o Nordeste.",
-      "a contribuição dos negros escravizados e libertos se restringiu à construção de patrimônios materiais na região amazônica."
+      "a contribuição dos negros escravizados e libertos se res- tringiu à construção de patrimônios materiais na região amazônica."
     ],
     "correct": 1,
     "resolution": [
@@ -998,10 +998,10 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "adoção do sistema plantation para o progresso da agricultura na região.",
+      "adoção do sistema plantation para o progresso da agri- cultura na região.",
       "comercialização regular da borracha amazônica para a região Sudeste do país.",
       "extensão da economia cafeeira para as províncias do Amazonas e do Pará.",
-      "extração de recursos da floresta para auxiliar o crescimento da economia nacional.",
+      "extração de recursos da floresta para auxiliar o cresci- mento da economia nacional.",
       "vinculação da produção agrícola da região ao mercado interno."
     ],
     "correct": 4,
@@ -1052,7 +1052,7 @@ export const uea2025Vestibular = [
       "material.",
       "imaterial.",
       "natural.",
-      "mundial. Leia o texto para responder às questões 23 e 24. A construção da Rodovia Transamazônica serviu de alavanca para um ambicioso programa de colonização que incluía o deslocamento de quase 1 milhão de pessoas com o objetivo de ocupar estrategicamente a região, não deixar despovoado nenhum espaço do território nacional e tamponar a área de fronteiras. A estrada foi inaugurada pelo presidente Emílio Garrastazu Médici em 27 de setembro de 1972 e utilizada para potencializar uma imagem ufanista do Brasil, compartilhar o sentimento de que estava em curso um processo formidável de modernização do país e produzir identidade. Mas não foi bem assim. A construção da Transamazônica massacrou a floresta, consumiu bilhões de dólares e até hoje a estrada tem trechos intransitáveis por conta das chuvas, dos desmoronamentos e das enchentes dos rios. (Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2015. Adaptado.)"
+      "mundial."
     ],
     "correct": 1,
     "resolution": [
@@ -1146,7 +1146,7 @@ export const uea2025Vestibular = [
       "a melhoria imediata e duradoura das condições de vida e de trabalho dos colonos assentados.",
       "o crescimento expressivo do mercado de trabalho na região com a contratação de mão de obra qualificada.",
       "a aplicação de grandes recursos financeiros em políticas públicas de saúde e educação na região.",
-      "o fortalecimento das culturas tradicionais indígenas devido à expulsão de estrangeiros da região."
+      "o fortalecimento das culturas tradicionais indígenas devi- do à expulsão de estrangeiros da região."
     ],
     "correct": 0,
     "resolution": [
@@ -1192,11 +1192,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "presente em países emergentes, em razão das desigualdades socioeconômicas.",
+      "presente em países emergentes, em razão das desigual- dades socioeconômicas.",
       "alarmante nos países setentrionais da África, em razão das mudanças climáticas.",
       "incomum em países emergentes, devido à supressão do modelo produtivo familiar.",
       "evidente nos países ricos, graças às políticas públicas para a soberania alimentar.",
-      "crítica no Sul Global, por efeito da regulação internacional na produção de alimentos."
+      "crítica no Sul Global, por efeito da regulação internacio- nal na produção de alimentos."
     ],
     "correct": 0,
     "resolution": [
@@ -1237,11 +1237,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "pela técnica de mapeamento que define a posição relativa do imóvel rural, por meio da rosa-dos-ventos, e determina o local aparente do Sol.",
+      "pela técnica de mapeamento que define a posição relati- va do imóvel rural, por meio da rosa-dos-ventos, e deter- mina o local aparente do Sol.",
       "pela confecção do mapa temático que representa as informações existentes no imóvel rural, por meio da semiologia gráfica e do sistema de localização.",
       "pela adoção do sistema de projeção afilática que mapeia o imóvel rural, por meio das linhas de latitude e longitude, e reduz a distorção no tamanho da propriedade.",
-      "pelo uso do sensoriamento remoto que obtém a delimitação de toda a extensão territorial do imóvel rural, por meio da medição da radiação eletromagnética.",
-      "pelo levantamento topográfico que determina a localização precisa do imóvel rural, por meio das coordenadas geográficas, e descreve seus limites e confrontações."
+      "pelo uso do sensoriamento remoto que obtém a delimi- tação de toda a extensão territorial do imóvel rural, por meio da medição da radiação eletromagnética.",
+      "pelo levantamento topográfico que determina a localiza- ção precisa do imóvel rural, por meio das coordenadas geográficas, e descreve seus limites e confrontações."
     ],
     "correct": 4,
     "resolution": [
@@ -1280,12 +1280,17 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
       "proteção à comunidade primitiva para sua inserção na dinâmica demográfica e urbana em Rondônia.",
-      "marco histórico para a valorização das atividades extrativistas e comerciais praticada pelos indígenas.",
+      "marco histórico para a valorização das atividades extrati- vistas e comerciais praticada pelos indígenas.",
       "amparo legal à população tradicional em seu território para preservar sua identidade étnico-cultural.",
-      "segurança jurídica para a exploração pública dos recursos naturais existentes no território indígena.",
+      "segurança jurídica para a exploração pública dos recur- sos naturais existentes no território indígena.",
       "direito ao isolamento voluntário dos povos ribeirinhos para a apropriação das terras devolutas da União."
     ],
     "correct": 2,
@@ -1384,9 +1389,9 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "econômico, pois leva à substituição do manejo na pecuária de corte extensiva por intensiva.",
+      "econômico, pois leva à substituição do manejo na pecuá- ria de corte extensiva por intensiva.",
       "logístico, pois dificulta o escoamento das mercadorias pela contração na circulação hidroviária.",
-      "ambiental, pois aumenta o processo de evapotranspiração da floresta pelo excesso de calor.",
+      "ambiental, pois aumenta o processo de evapotranspira- ção da floresta pelo excesso de calor.",
       "social, pois aumenta a oferta e o consumo de alimentos produzidos pela agricultura familiar.",
       "político, pois provoca o aumento da migração da capital Manaus para o interior do estado."
     ],
@@ -1432,8 +1437,8 @@ export const uea2025Vestibular = [
       "o aumento do número de trabalhadores desempregados e a redução da inflação.",
       "o investimento na indústria nacional e a redução na exportação de commodities.",
       "a diversificação econômica e o aumento do comércio bilateral com outros países.",
-      "a política de ajuste fiscal nacional e a retração do mercado consumidor interno.",
-      "a balança comercial com superávit e o elevado investimento em logística reversa."
+      "a política de ajuste fiscal nacional e a retração do mer- cado consumidor interno.",
+      "a balança comercial com superávit e o elevado investi- mento em logística reversa."
     ],
     "correct": 2,
     "resolution": [
@@ -1475,7 +1480,7 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "a criação de empregos qualificados a fim de aumentar produtividade, promovendo monocultura de cultivos.",
-      "o incentivo às práticas agrícolas e extrativistas sustentáveis, importando recursos naturais de países vizinhos.",
+      "o incentivo às práticas agrícolas e extrativistas susten- táveis, importando recursos naturais de países vizinhos.",
       "o fortalecimento da autonomia e capacidade de gestão entre os cooperados, suprimindo a concorrência.",
       "a geração de renda e a inclusão social, contribuindo para a melhoria da qualidade de vida das comunidades.",
       "a consolidação da rede de produção entre empresas familiares e multinacionais, monopolizando o consumo."
@@ -1528,7 +1533,7 @@ export const uea2025Vestibular = [
       "as emissões exacerbadas de gases do efeito estufa e inviabilizar as práticas fundamentais da economia verde.",
       "a degradação da paisagem urbana e depreciar as ações comunitárias vinculadas ao empreendorismo social.",
       "a ocupação do espaço natural e fomentar o trabalho informal para a expansão das cidades inteligentes.",
-      "o excesso de poluição produzida pelas indústrias 4.0 e estimular benefícios socias para o bem-estar da população."
+      "o excesso de poluição produzida pelas indústrias 4.0 e estimular benefícios socias para o bem-estar da popu- lação."
     ],
     "correct": 0,
     "resolution": [
@@ -1618,7 +1623,7 @@ export const uea2025Vestibular = [
       "agrofloresta, pois acontece em pequenas propriedades, com plantio consorciado entre floresta-árvores frutíferas, e emprega baixa tecnologia.",
       "bioeconomia, pois ocorre em micro propriedades, em sistema de cooperativismo de trabalho, e proporciona o equilíbrio ambiental.",
       "agronegócio, pois ocorre em propriedades de diferentes dimensões territoriais, com cultivo de monoculturas, e gera renda.",
-      "agricultura familiar, pois acontece em pequenas propriedades, com uso de mão de obra familiar, e busca por sustentabilidade."
+      "agricultura familiar, pois acontece em pequenas proprie- dades, com uso de mão de obra familiar, e busca por sustentabilidade."
     ],
     "correct": 4,
     "resolution": [
@@ -1657,12 +1662,17 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q35-1.svg",
+        "alt": "Figura de apoio da questão 35."
+      }
+    ],
     "alternatives": [
       "um descrédito da pesquisa científica sobre o aumento de fenômenos meteorológicos extremos, considerados como algo específico das forças da natureza.",
-      "uma inabilidade das organizações internacionais, decorrente do alinhamento político dos países que integram o bloco econômico do Sul Global.",
-      "uma desconfiança nas instituições monetárias em assegurar a solidez das transações comerciais, marcada pelo arroxo nas políticas tarifárias.",
-      "um despreparo dos órgãos de direitos humanos em promover ações de conflitos entre Estados, observado nas elevadas mortes em guerra.",
+      "uma inabilidade das organizações internacionais, decor- rente do alinhamento político dos países que integram o bloco econômico do Sul Global.",
+      "uma desconfiança nas instituições monetárias em asse- gurar a solidez das transações comerciais, marcada pelo arroxo nas políticas tarifárias.",
+      "um despreparo dos órgãos de direitos humanos em pro- mover ações de conflitos entre Estados, observado nas elevadas mortes em guerra.",
       "uma interferência proposital de lobbies nos sistemas de comunicação, disseminando a desinformação a fim de manipular a opinião pública."
     ],
     "correct": 4,
@@ -1755,8 +1765,8 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "2 indica os lisossomos, estruturas produtoras de anticorpos.",
-      "5 indica o nucléolo, responsável pela síntese de cromossomos.",
+      "2 indica os lisossomos, estruturas produtoras de anti- corpos.",
+      "5 indica o nucléolo, responsável pela síntese de cromos- somos.",
       "1 indica os grânulos de insulina, substância secretada no intestino delgado.",
       "4 indica o retículo endoplasmático rugoso, produtor das enzimas digestivas.",
       "3 indica uma mitocôndria, organela responsável pelo metabolismo autotrófico."
@@ -1803,10 +1813,10 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "endócrina ocorre quando há liberação de suco pancreático no estômago.",
-      "exócrina ocorre quando há secreção de hormônios reguladores da glicemia.",
-      "exócrina ocorre quando há liberação de enzimas digestivas no intestino delgado.",
-      "endócrina ocorre quando há liberação de enzimas digestivas na corrente sanguínea.",
+      "endócrina ocorre quando há liberação de suco pancreá- tico no estômago.",
+      "exócrina ocorre quando há secreção de hormônios regu- ladores da glicemia.",
+      "exócrina ocorre quando há liberação de enzimas digesti- vas no intestino delgado.",
+      "endócrina ocorre quando há liberação de enzimas diges- tivas na corrente sanguínea.",
       "endócrina ocorre quando há secreção de bile no intestino delgado."
     ],
     "correct": 2,
@@ -1846,10 +1856,10 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a vida sempre existiu no planeta, e sua origem não está relacionada às transformações químicas da matéria inanimada.",
-      "a vida surgiu espontaneamente a partir de microrganismos trazidos por meteoros, em um processo conhecido como panspermia.",
+      "a vida sempre existiu no planeta, e sua origem não está relacionada às transformações químicas da matéria ina- nimada.",
+      "a vida surgiu espontaneamente a partir de microrganis- mos trazidos por meteoros, em um processo conhecido como panspermia.",
       "a primeira forma de vida surgiu por geração espontânea, a partir de matéria orgânica em decomposição.",
-      "os compostos orgânicos formaram-se a partir de substâncias inorgânicas da Terra primitiva e, posteriormente, originaram as primeiras células.",
+      "os compostos orgânicos formaram-se a partir de subs- tâncias inorgânicas da Terra primitiva e, posteriormente, originaram as primeiras células.",
       "a atmosfera primitiva continha gás oxigênio livre, o que permitiu a formação imediata de organismos aeróbicos."
     ],
     "correct": 3,
@@ -1892,7 +1902,7 @@ export const uea2025Vestibular = [
     "alternatives": [
       "as leguminosas (feijão e soja) associam-se a bactérias fixadoras de nitrogênio em suas raízes.",
       "a queima de combustíveis fósseis é uma maneira de converter o nitrogênio em moléculas assimiláveis pelas plantas.",
-      "as plantas absorvem diretamente o nitrogênio atmosférico por meio de seus estômatos durante a fotossíntese.",
+      "as plantas absorvem diretamente o nitrogênio atmosfé- rico por meio de seus estômatos durante a fotossíntese.",
       "os vegetais são os principais responsáveis pela fixação do nitrogênio atmosférico, por meio da fotossíntese.",
       "a decomposição da matéria orgânica libera nitrogênio na forma gasosa, diretamente para a assimilação pelas plantas."
     ],
@@ -1942,9 +1952,9 @@ export const uea2025Vestibular = [
     "alternatives": [
       "o gás carbônico corresponde ao reagente que gera o produto gás oxigênio.",
       "o gás carbônico corresponde ao reagente que é a fonte de carbono para formar a glicose.",
-      "a glicose corresponde a um reagente inorgânico importante da fotossíntese.",
+      "a glicose corresponde a um reagente inorgânico impor- tante da fotossíntese.",
       "a água corresponde ao produto orgânico que é usado no crescimento da planta.",
-      "o gás oxigênio corresponde ao produto orgânico abundante em energia química."
+      "o gás oxigênio corresponde ao produto orgânico abun- dante em energia química."
     ],
     "correct": 1,
     "resolution": [
@@ -1984,9 +1994,9 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "o ambiente físico, como o solo e os galhos, caracteriza o nicho ecológico de cada espécie de sapo.",
-      "os sapos, quando vivem no mesmo hábitat, são da mesma espécie.",
+      "os sapos, quando vivem no mesmo hábitat, são da mes- ma espécie.",
       "o tipo de alimentação e o comportamento das espécies de sapos indicam seus respectivos nichos ecológicos.",
-      "o comportamento alimentar específico determina o hábitat de cada espécie de sapo.",
+      "o comportamento alimentar específico determina o hábi- tat de cada espécie de sapo.",
       "as diferentes espécies de sapos possuem o mesmo nicho ecológico, pois vivem no mesmo hábitat."
     ],
     "correct": 2,
@@ -2030,7 +2040,7 @@ export const uea2025Vestibular = [
       "a gêneros distintos, embora tenham a mesma origem evolutiva.",
       "a ordens taxonômicas distintas, apesar de pertencerem à mesma família.",
       "a espécies distintas, em função de suas diferentes origens geográficas.",
-      "à mesma espécie, embora apresentem fenótipos distintos."
+      "à mesma espécie, embora apresentem fenótipos dis- tintos."
     ],
     "correct": 4,
     "resolution": [
@@ -2075,7 +2085,7 @@ export const uea2025Vestibular = [
       "a laqueadura é um método reversível indicado para adolescentes.",
       "os adesivos são altamente eficazes porque inibem a ação dos hormônios ovarianos.",
       "o dispositivo intrauterino (DIU) de cobre inibe a ovulação e altera o ciclo menstrual.",
-      "a pílula anticoncepcional atua impedindo que os espermatozoides atinjam o óvulo."
+      "a pílula anticoncepcional atua impedindo que os esper- matozoides atinjam o óvulo."
     ],
     "correct": 0,
     "resolution": [
@@ -2600,7 +2610,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q56-1.svg",
+        "alt": "Figura de apoio da questão 56."
+      }
+    ],
     "alternatives": [
       "13 m.",
       "16 m.",
@@ -2644,7 +2659,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q57-1.svg",
+        "alt": "Figura de apoio da questão 57."
+      }
+    ],
     "alternatives": [
       "6 cm.",
       "9 cm.",
@@ -2733,13 +2753,18 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q59-1.svg",
+        "alt": "Figura de apoio da questão 59."
+      }
+    ],
     "alternatives": [
-      "1 953 cm3.",
-      "1 825 cm3.",
-      "1 746 cm3.",
-      "2 531 cm3.",
-      "1 519 cm3."
+      "1 953 cm³.",
+      "1 825 cm³.",
+      "1 746 cm³.",
+      "2 531 cm³.",
+      "1 519 cm³."
     ],
     "correct": 0,
     "resolution": [
@@ -2872,11 +2897,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "0,82 m/s2.",
-      "0,41 m/s2.",
-      "2,45 m/s2.",
-      "1,23 m/s2.",
-      "2,83 m/s2."
+      "0,82 m/$s^{2}$.",
+      "0,41 m/$s^{2}$.",
+      "2,45 m/$s^{2}$.",
+      "1,23 m/$s^{2}$.",
+      "2,83 m/$s^{2}$."
     ],
     "correct": 2,
     "resolution": [
@@ -2922,11 +2947,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "FP > FA e vP > vA",
-      "FP = FA e vP > vA",
-      "FP < FA e vP < vA",
-      "FP = FA e vP = vA",
-      "FP > FA e vP = vA"
+      "$F_{P}$ > $F_{A}$ e $v_{P}$ > $v_{A}$",
+      "$F_{P}$ = $F_{A}$ e $v_{P}$ > $v_{A}$",
+      "$F_{P}$ < $F_{A}$ e $v_{P}$ < $v_{A}$",
+      "$F_{P}$ = $F_{A}$ e $v_{P}$ = $v_{A}$",
+      "$F_{P}$ > $F_{A}$ e $v_{P}$ = $v_{A}$"
     ],
     "correct": 0,
     "resolution": [
@@ -2964,7 +2989,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q65-1.svg",
+        "alt": "Figura de apoio da questão 65."
+      }
+    ],
     "alternatives": [
       "40 mA, 20 mA e 20 mA.",
       "60 mA, 20 mA e 40 mA.",
@@ -3011,11 +3041,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "27 ºCo.",
-      "73 ºCo.",
-      "87 ºCo.",
-      "77 ºCo.",
-      "– 23 ºCo."
+      "27 º$C_{o}$.",
+      "73 º$C_{o}$.",
+      "87 º$C_{o}$.",
+      "77 º$C_{o}$.",
+      "– 23 º$C_{o}$."
     ],
     "correct": 3,
     "resolution": [
@@ -3397,7 +3427,7 @@ export const uea2025Vestibular = [
     ],
     "alternatives": [
       "Thomson, segundo o qual os prótons estão localizados em um núcleo pequeno e denso.",
-      "Rutherford-Bohr, que considera a existência de nêutrons distribuídos em camadas no núcleo.",
+      "Rutherford-Bohr, que considera a existência de nêu- trons distribuídos em camadas no núcleo.",
       "Dalton, que considera a existência de elétrons ao redor do núcleo, como um sistema planetário.",
       "Thomson, que considera o átomo como uma esfera maciça, que muda de cor ao receber energia.",
       "Rutherford-Bohr, segundo o qual elétrons transitam entre camadas ou níveis de energia."
@@ -3490,11 +3520,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "+ 0,34 V; o cobre; Ag+ e catódico.",
-      "– 0,34 V; o cobre; Ag+ e catódico.",
+      "+ 0,34 V; o cobre; $Ag^{+}$ e catódico.",
+      "– 0,34 V; o cobre; $Ag^{+}$ e catódico.",
       "+ 0,34 V; a prata; Cu2+ e anódico.",
       "– 1,14 V; a prata; Cu2+ e anódico.",
-      "+ 1,14 V; o cobre; Ag+ e anódico."
+      "+ 1,14 V; o cobre; $Ag^{+}$ e anódico."
     ],
     "correct": 0,
     "resolution": [
@@ -3535,9 +3565,9 @@ export const uea2025Vestibular = [
     "alternatives": [
       "CO",
       "NO",
-      "CO2",
-      "O2",
-      "N2"
+      "$CO_{2}$",
+      "$O_{2}$",
+      "$N_{2}$"
     ],
     "correct": 2,
     "resolution": [
@@ -3583,10 +3613,10 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "a partícula alfa, que é carregada negativamente, tem a maior energia entre as três emissões e, por isso, apresenta menor grau de penetração no sistema biológico.",
+      "a partícula alfa, que é carregada negativamente, tem a maior energia entre as três emissões e, por isso, apre- senta menor grau de penetração no sistema biológico.",
       "a radiação gama, que não possui carga nem massa, é a emissão radioativa de maior energia entre as três e, por isso, apresenta maior grau de penetração no sistema biológico.",
       "a partícula beta, que não tem carga elétrica, tem energia intermediária entre as três e, por isso, apresenta grau de penetração intermediário no sistema biológico.",
-      "a partícula alfa, que tem carga elétrica positiva, é a mais leve e a de menor energia entre as três e, por isso, apresenta menor grau de penetração no sistema biológico.",
+      "a partícula alfa, que tem carga elétrica positiva, é a mais leve e a de menor energia entre as três e, por isso, apre- senta menor grau de penetração no sistema biológico.",
       "a radiação gama, que é carregada negativamente, tem a menor energia entre as três e, por isso, apresenta maior grau de penetração no sistema biológico."
     ],
     "correct": 1,
@@ -3627,7 +3657,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q79-1.svg",
+        "alt": "Figura de apoio da questão 79."
+      }
+    ],
     "alternatives": [
       "maior ou igual – energia de ligação.",
       "menor ou igual – energia de ativação.",
@@ -3672,7 +3707,7 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "etanol, produzido a partir da fermentação da cana-de-açúcar ou do milho.",
+      "etanol, produzido a partir da fermentação da cana-de- -açúcar ou do milho.",
       "metanol, obtido a partir da reação do gás natural e vapor d’água, em condições específicas.",
       "querosene, obtido a partir do processo que envolve a destilação fracionada do petróleo.",
       "carvão mineral, formado a partir da transformação da matéria orgânica, ao longo de milhões de anos.",
@@ -3949,9 +3984,9 @@ export const uea2025Vestibular = [
     "alternatives": [
       "tornou desnecessária a comunicação entre os indivíduos da população.",
       "contribuiu para deixar as mãos livres, favorecendo o uso de ferramentas.",
-      "facilitou a locomoção sobre as árvores das florestas tropicais.",
-      "permitiu aos hominídeos utilizarem os membros anteriores para locomoção.",
-      "surgiu como consequência direta do aumento do tamanho do cérebro nos primeiros hominídeos."
+      "facilitou a locomoção sobre as árvores das florestas tro- picais.",
+      "permitiu aos hominídeos utilizarem os membros anterio- res para locomoção.",
+      "surgiu como consequência direta do aumento do tama- nho do cérebro nos primeiros hominídeos."
     ],
     "correct": 1,
     "resolution": [
@@ -3999,9 +4034,9 @@ export const uea2025Vestibular = [
     ],
     "alternatives": [
       "a matéria seja totalmente eliminada no final da cadeia.",
-      "a energia solar seja reciclada da mesma forma que a matéria.",
+      "a energia solar seja reciclada da mesma forma que a ma- téria.",
       "a energia circule indefinidamente entre os seres vivos.",
-      "a energia flua e se dissipe, enquanto a matéria seja reciclada.",
+      "a energia flua e se dissipe, enquanto a matéria seja re- ciclada.",
       "a matéria seja perdida constantemente como calor."
     ],
     "correct": 3,
@@ -4086,7 +4121,7 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "escolher o solo mais fértil para garantir que todas as plantas cresçam homogeneamente.",
+      "escolher o solo mais fértil para garantir que todas as plan- tas cresçam homogeneamente.",
       "concluir que a luz afeta o crescimento das plantas sem necessidade de experimentação.",
       "repetir o experimento com os vegetais várias vezes para obter o mesmo resultado sempre.",
       "divulgar os resultados do experimento com as plantas o mais rápido possível.",
@@ -4131,7 +4166,7 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "população, pois os macacos-prego são seres da mesma espécie.",
-      "população, pois todos os organismos citados compartilham o mesmo ecossistema.",
+      "população, pois todos os organismos citados comparti- lham o mesmo ecossistema.",
       "comunidade, pois os macacos-prego pertencem ao mesmo ecossistema.",
       "comunidade, pois cada espécie isolada é composta por vários indivíduos.",
       "população, pois todos os organismos da floresta vivem no mesmo ambiente."
@@ -4177,7 +4212,7 @@ export const uea2025Vestibular = [
       "a vitamina D é essencial para a coagulação sanguínea, e sua deficiência leva ao escorbuto.",
       "a vitamina A está relacionada à fisiologia da visão, e sua deficiência causa a cegueira noturna.",
       "a vitamina C participa da absorção de cálcio, e sua carência provoca raquitismo.",
-      "a vitamina K atua na produção de melanina, e sua ausência causa anemia.",
+      "a vitamina K atua na produção de melanina, e sua ausên- cia causa anemia.",
       "a vitamina B12 é responsável pela digestão de proteínas, e sua deficiência causa osteoporose."
     ],
     "correct": 1,
@@ -4226,10 +4261,10 @@ export const uea2025Vestibular = [
     ],
     "alternatives": [
       "depende da ação de músculos esqueléticos e tem seu início na cavidade bucal.",
-      "ocorre por meio de contrações voluntárias e tem seu início no estômago.",
+      "ocorre por meio de contrações voluntárias e tem seu iní- cio no estômago.",
       "ocorre nos intestinos para intensificar a absorção de nutrientes.",
       "ocorre por meio de contrações involuntárias controladas pelo sistema nervoso.",
-      "depende da secreção constante de hormônios pancreáticos."
+      "depende da secreção constante de hormônios pancreá- ticos."
     ],
     "correct": 3,
     "resolution": [
@@ -4320,11 +4355,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "o útero produza o líquido amniótico nas primeiras semanas.",
+      "o útero produza o líquido amniótico nas primeiras se- manas.",
       "a placenta atue como barreira mecânica contra os agentes externos.",
       "a implantação do embrião ocorra nas tubas uterinas.",
       "o cordão umbilical transporte gás oxigênio dos pulmões do feto para a mãe.",
-      "a placenta permita trocas de substâncias entre a circulação da mãe e a circulação do feto."
+      "a placenta permita trocas de substâncias entre a circu- lação da mãe e a circulação do feto."
     ],
     "correct": 4,
     "resolution": [
@@ -4461,7 +4496,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g1/q14-1.svg",
+        "alt": "Figura de apoio da questão 14."
+      }
+    ],
     "alternatives": [
       "interações dipolo induzido-dipolo induzido.",
       "interações íon-dipolo.",
@@ -4553,11 +4593,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "CaO e H2SO4",
-      "HCl e Cl2",
-      "Al2(SO4)3 e Cl2",
+      "CaO e $H_{2}$ $SO_{4}$",
+      "HCl e $Cl_{2}$",
+      "$Al_{2}$($SO_{4}$ 3 e $Cl_{2}$",
       "HCl e NaCl",
-      "Al2(SO4)3 e H2SO4"
+      "$Al_{2}$($SO_{4}$ 3 e $H_{2}$ $SO_{4}$"
     ],
     "correct": 2,
     "resolution": [
@@ -4740,11 +4780,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "4 × 103 cal.",
-      "4 × 104 cal.",
-      "2 × 103 cal.",
-      "2 × 102 cal.",
-      "4 × 102 cal."
+      "4 × $10^{3}$ cal.",
+      "4 × $10^{4}$cal.",
+      "2 × $10^{3}$ cal.",
+      "2 × $10^{2}$ cal.",
+      "4 × $10^{2}$cal."
     ],
     "correct": 1,
     "resolution": [
@@ -4791,11 +4831,16 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g1/q21-1.svg",
+        "alt": "Figura de apoio da questão 21."
+      }
+    ],
     "alternatives": [
       "a energia elétrica obtida do vento oxida a água no compartimento catódico.",
       "o oxigênio se forma no eletrólito e ganha elétrons no ânodo.",
-      "as moléculas de água ganham elétrons no compartimento catódico.",
+      "as moléculas de água ganham elétrons no compartimen- to catódico.",
       "a evaporação da água resulta nos gases hidrogênio e oxigênio.",
       "o gás hidrogênio se forma por uma reação de oxidação."
     ],
@@ -4838,9 +4883,9 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "ocorrência de reações químicas entre petróleo e água, elevando a temperatura e o pH da água.",
-      "formação de névoa por hidrocarbonetos voláteis, alterando o pH da água e a atmosfera local.",
+      "formação de névoa por hidrocarbonetos voláteis, alte- rando o pH da água e a atmosfera local.",
       "deposição de petróleo no fundo do mar, afetando as correntes marinhas e contaminado a biota aquática.",
-      "dissolução do petróleo na água, elevando o pH e contaminando a fauna e a flora aquática com substâncias orgânicas.",
+      "dissolução do petróleo na água, elevando o pH e con- taminando a fauna e a flora aquática com substâncias orgânicas.",
       "formação de uma camada opaca na superfície da água, dificultando a penetração da luz solar e trocas gasosas."
     ],
     "correct": 4,
@@ -5033,7 +5078,7 @@ export const uea2025Vestibular = [
       "a evolução dos materiais.",
       "a falta de sentido da vida.",
       "a psicologia humana.",
-      "a criação artística. Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31. Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional. — Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores… E o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação. Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas lutulentas1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes2, como aquelas que ele tinha ali. Ricardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente3 e a sua deliquescência4. Mal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição: — Vamos ver. Tire a escala, major. (Triste fim de Policarpo Quaresma, 2010.) 1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água."
+      "a criação artística."
     ],
     "correct": 4,
     "resolution": [
@@ -5137,11 +5182,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1o parágrafo).",
-      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7o parágrafo).",
-      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6o parágrafo).",
-      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8o parágrafo)."
+      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1º parágrafo).",
+      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7º parágrafo).",
+      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6º parágrafo).",
+      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -5191,11 +5236,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“E o jantar correu assim, nesse tom” (5o parágrafo).",
-      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8o parágrafo).",
-      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito” (1o parágrafo).",
-      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6o parágrafo)."
+      "“E o jantar correu assim, nesse tom” (5º parágrafo).",
+      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8º parágrafo).",
+      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito” (1º parágrafo).",
+      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -5299,11 +5344,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“E o jantar correu assim, nesse tom” (5o parágrafo)",
-      "“quando o crepúsculo vinha devagar” (7o parágrafo)",
-      "“Está bom, hein?” (2o parágrafo)",
-      "“o major era em jardinagem essencialmente nacional” (6o parágrafo)",
-      "“como aquelas que ele tinha ali” (6o parágrafo)"
+      "“E o jantar correu assim, nesse tom” (5$\\frac{o}{o}$ parágrafo)",
+      "“quando o crepúsculo vinha devagar” (7 parágrafo)",
+      "“Está bom, hein?” (2º parágrafo)",
+      "“o major era em jardinagem essencialmente nacional” (6º parágrafo)",
+      "“como aquelas que ele tinha ali” (6º parágrafo)"
     ],
     "correct": 4,
     "resolution": [
@@ -5350,7 +5395,7 @@ export const uea2025Vestibular = [
       "uma crítica aberta ao precário processo de modernização da cidade de Manaus.",
       "uma defesa ponderada dos benefícios trazidos pela modernização à cidade de Manaus.",
       "um lamento saudosista acerca da diminuição do ritmo de crescimento da cidade de Manaus.",
-      "um retrato idealizado da natureza exuberante que atravessa a cidade de Manaus."
+      "um retrato idealizado da natureza exuberante que atra- vessa a cidade de Manaus."
     ],
     "correct": 1,
     "resolution": [
@@ -5647,7 +5692,7 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "o apoio governamental à burguesia local e os cercamentos das terras comuns.",
-      "a mecanização da agricultura e a abundância de matérias-primas.",
+      "a mecanização da agricultura e a abundância de matérias- -primas.",
       "o fortalecimento da aristocracia feudal e a acumulação de capitais no território.",
       "o isolamento do mercado externo e a política protecionista do governo.",
       "a predominância do trabalho artesanal e a ação dos corsários no Atlântico."
@@ -5691,10 +5736,10 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "a retomada do poder espanhol devido à restauração da União Ibérica após o fim do conflito com os holandeses.",
-      "a crise da economia açucareira devido à concorrência do açúcar produzido nas colônias caribenhas pelos holandeses.",
-      "a abolição da escravidão no Norte da colônia como recompensa pela participação dos negros na luta contra os holandeses.",
+      "a crise da economia açucareira devido à concorrência do açúcar produzido nas colônias caribenhas pelos holan- deses.",
+      "a abolição da escravidão no Norte da colônia como re- compensa pela participação dos negros na luta contra os holandeses.",
       "a anulação do pacto colonial como incentivo à reconstrução dos engenhos de açúcar pelos senhores pernambucanos.",
-      "a mudança do polo econômico colonial do Nordeste açucareiro para o Sudeste devido à descoberta simultânea das minas de ouro."
+      "a mudança do polo econômico colonial do Nordeste açucareiro para o Sudeste devido à descoberta simul- tânea das minas de ouro."
     ],
     "correct": 1,
     "resolution": [
@@ -5740,7 +5785,7 @@ export const uea2025Vestibular = [
       "à busca de especiarias nas Índias e à extração de metais preciosos nas colônias.",
       "à intensificação da escravização de africanos e à partilha imparcial da África.",
       "à transferência de tecnologia para as colônias e à missão civilizadora europeia.",
-      "à obtenção de mercados e à aplicação de capitais excedentes nas colônias."
+      "à obtenção de mercados e à aplicação de capitais exce- dentes nas colônias."
     ],
     "correct": 4,
     "resolution": [
@@ -5789,7 +5834,7 @@ export const uea2025Vestibular = [
     "alternatives": [
       "expressaram o descontentamento de setores da sociedade brasileira com o domínio das elites agrárias.",
       "preservaram valores tradicionais da cultura brasileira influenciados por padrões europeus.",
-      "defenderam uma aliança política com as oligarquias dominantes com o intuito de promover reformas graduais no país.",
+      "defenderam uma aliança política com as oligarquias do- minantes com o intuito de promover reformas graduais no país.",
       "organizaram conjuntamente um partido político para enfrentar o coronelismo e o voto de cabresto no interior do país.",
       "promoveram a ideologia comunista nos quartéis para a tomada do poder federal pelos militares."
     ],
@@ -5836,9 +5881,9 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "caracterizava-se por distinções puramente biológicas, que eram dissociadas de causas sociais, econômicas ou culturais.",
-      "aceitava sem resistência ou questionamentos a primazia branca, que perdurava desde o início da colonização americana.",
+      "aceitava sem resistência ou questionamentos a prima- zia branca, que perdurava desde o início da colonização americana.",
       "apresentava uma estrutura hierárquica rígida, que era baseada na origem étnica e no local de nascimento das pessoas.",
-      "discriminava os peninsulares, que eram vistos como imigrantes indesejáveis nas terras americanas e usurpadores dos empregos dos americanos.",
+      "discriminava os peninsulares, que eram vistos como imi- grantes indesejáveis nas terras americanas e usurpado- res dos empregos dos americanos.",
       "valorizava a miscigenação como símbolo de identidade nacional, que constituía importante ferramenta de luta pela independência."
     ],
     "correct": 2,
@@ -5883,10 +5928,10 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "amplia a autonomia das instituições sociais e políticas do país, mas valoriza a figura de líderes carismáticos e populares.",
-      "permite a exclusão dos trabalhadores da cidadania política, mas atende a certas demandas populares.",
-      "possibilita a modernização do país, mas atende prioritariamente às demandas das elites econômicas.",
-      "promove avanços sociais e políticos, mas limita a participação democrática por meio do controle estatal.",
-      "prioriza o livre mercado para a solução dos problemas econômicos, mas defende a mediação estatal nas relações entre patrões e trabalhadores."
+      "permite a exclusão dos trabalhadores da cidadania políti- ca, mas atende a certas demandas populares.",
+      "possibilita a modernização do país, mas atende priorita- riamente às demandas das elites econômicas.",
+      "promove avanços sociais e políticos, mas limita a parti- cipação democrática por meio do controle estatal.",
+      "prioriza o livre mercado para a solução dos problemas econômicos, mas defende a mediação estatal nas rela- ções entre patrões e trabalhadores."
     ],
     "correct": 3,
     "resolution": [
@@ -6027,7 +6072,7 @@ export const uea2025Vestibular = [
     "alternatives": [
       "critica a concentração de riquezas no país.",
       "elogia a expansão das oportunidades de emprego.",
-      "questiona o abandono dos programas sociais pelo governo.",
+      "questiona o abandono dos programas sociais pelo go- verno.",
       "valoriza a integração étnico-racial no país.",
       "denuncia o consumismo desenfreado do período."
     ],
@@ -6072,8 +6117,8 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "extensão do ensino público às camadas mais pobres, responsável pelo desajuste entre sociedade e política no país.",
-      "permanência de uma cultura política tradicional desajustada às demandas da sociedade contemporânea.",
+      "extensão do ensino público às camadas mais pobres, res- ponsável pelo desajuste entre sociedade e política no país.",
+      "permanência de uma cultura política tradicional desajus- tada às demandas da sociedade contemporânea.",
       "continuidade de práticas e valores políticos vinculados ao Estado de bem estar social.",
       "dependência econômica e tecnológica do país em relação às nações ricas e industrializadas.",
       "passividade da maioria da população frente aos desafios políticos da sociedade brasileira."
@@ -6120,7 +6165,7 @@ export const uea2025Vestibular = [
     "alternatives": [
       "soluções efetivas para o conflito de interesses entre as diferentes classes sociais.",
       "artigos voltados para a implementação da igualdade socioeconômica.",
-      "direitos individuais e coletivos para grupos sociais historicamente excluídos.",
+      "direitos individuais e coletivos para grupos sociais histo- ricamente excluídos.",
       "prerrogativas para as elites econômicas em detrimento das camadas populares.",
       "dispositivos democráticos especiais para os grupos sociais emergentes."
     ],
@@ -6217,7 +6262,7 @@ export const uea2025Vestibular = [
       "a ampliação dos programas de transferência de renda que, ao limitar o desenvolvimento econômico, reduz a dependência dos serviços públicos.",
       "a criação de unidades agropecuárias extensivas que, ao destinar a produção para o mercado externo, retrai os lucros investidos no território.",
       "o incentivo à iniciativa privada para a abertura de polos de garimpo que, ao realizar o extrativismo predador na floresta, financia a demarcação de terras indígenas.",
-      "o estímulo ao empreendedorismo que, ao promover o desenvolvimento econômico, gera empregos e dinamiza as economias locais."
+      "o estímulo ao empreendedorismo que, ao promover o desenvolvimento econômico, gera empregos e dinami- za as economias locais."
     ],
     "correct": 4,
     "resolution": [
@@ -6263,11 +6308,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "exalta as características fenotípicas das comunidades indígenas isoladas da Amazônia no processo de miscigenação da população brasileira.",
-      "revela que as atividades econômicas produzidas na Amazônia estão fundamentadas nos princípios do desenvolvimento e do equilíbrio sustentável.",
-      "reconhece que o processo de integração dos povos indígenas isolados na Amazônia precisa ser incentivado pela comunidade internacional.",
-      "valoriza os povos e comunidades tradicionais da Amazônia para contribuir com a garantia da preservação cultural e ambiental da região.",
-      "prestigia a territorialidade cultural existente na Amazônia para desenvolver, em larga escala, a produção e o comércio dos produtos de origem indígena."
+      "exalta as características fenotípicas das comunidades indígenas isoladas da Amazônia no processo de miscige- nação da população brasileira.",
+      "revela que as atividades econômicas produzidas na Amazônia estão fundamentadas nos princípios do de- senvolvimento e do equilíbrio sustentável.",
+      "reconhece que o processo de integração dos povos indí- genas isolados na Amazônia precisa ser incentivado pela comunidade internacional.",
+      "valoriza os povos e comunidades tradicionais da Amazô- nia para contribuir com a garantia da preservação cultural e ambiental da região.",
+      "prestigia a territorialidade cultural existente na Amazônia para desenvolver, em larga escala, a produção e o co- mércio dos produtos de origem indígena."
     ],
     "correct": 3,
     "resolution": [
@@ -6362,10 +6407,10 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "à estrutura empresarial truste, pois, nos conglomerados produtivos, as multinacionais de diferentes ramos e com sede nos países desenvolvidos detêm a maior parte do mercado consumidor.",
-      "à Nova Divisão Internacional do Trabalho, pois, nas cadeias mundiais de produção, cada etapa de fabricação pode ser realizada em diferentes países, interligadas por meio de fluxos de comunicação e de transporte.",
-      "às holdings por aglomeração, pois, nas corporações transnacionais, as empresas desempenham um papel importante na organização e na localização das atividades produtivas em diferentes países.",
-      "aos blocos geoeconômicos, pois, nas zonas de livre comércio, as vantagens no fluxo contínuo de mercadorias asseguram a atração e a concentração de investimentos estrangeiros para estimular a inovação e o crescimento econômico.",
-      "à seletividade dos lugares, pois, na consolidação do capitalismo financeiro, a dinâmica da circulação de capitais e de lucros entre as empresas nos países ricos está condicionada pela paridade padrão-dólar."
+      "à Nova Divisão Internacional do Trabalho, pois, nas ca- deias mundiais de produção, cada etapa de fabricação pode ser realizada em diferentes países, interligadas por meio de fluxos de comunicação e de transporte.",
+      "às holdings por aglomeração, pois, nas corporações transnacionais, as empresas desempenham um papel importante na organização e na localização das ativida- des produtivas em diferentes países.",
+      "aos blocos geoeconômicos, pois, nas zonas de livre co- mércio, as vantagens no fluxo contínuo de mercadorias asseguram a atração e a concentração de investimentos estrangeiros para estimular a inovação e o crescimento econômico.",
+      "à seletividade dos lugares, pois, na consolidação do capitalismo financeiro, a dinâmica da circulação de capi- tais e de lucros entre as empresas nos países ricos está condicionada pela paridade padrão-dólar."
     ],
     "correct": 1,
     "resolution": [
@@ -6411,11 +6456,11 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "solidariedade diplomática, a partir da instalação de regimes políticos fundamentalistas de base teocrática no Irã e na Jordânia.",
-      "segurança e interesse diplomático mútuo, tendo em vista o contexto de instabilidade presente nos territórios do Oriente Médio.",
-      "cooperação técnica e política, haja vista a adoção de medidas de soft power com arsenal nuclear para intimidar os adversários.",
-      "assistência econômica, já que a ajuda financeira recíproca garante acesso mais barato ao petróleo pelos Estados Unidos.",
-      "controle integrado bélico-militar, haja vista a administração conjunta do Canal de Suez em uma zona de tensão."
+      "solidariedade diplomática, a partir da instalação de regi- mes políticos fundamentalistas de base teocrática no Irã e na Jordânia.",
+      "segurança e interesse diplomático mútuo, tendo em vista o contexto de instabilidade presente nos territó- rios do Oriente Médio.",
+      "cooperação técnica e política, haja vista a adoção de medidas de soft power com arsenal nuclear para intimi- dar os adversários.",
+      "assistência econômica, já que a ajuda financeira recípro- ca garante acesso mais barato ao petróleo pelos Estados Unidos.",
+      "controle integrado bélico-militar, haja vista a administra- ção conjunta do Canal de Suez em uma zona de tensão."
     ],
     "correct": 1,
     "resolution": [
@@ -6458,7 +6503,7 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "a redução do número de habitantes — intrarregional, a partir do estado do Rio de Janeiro.",
-      "a ampliação do envelhecimento da população — transumância, a partir do estado do Pará.",
+      "a ampliação do envelhecimento da população — transu- mância, a partir do estado do Pará.",
       "a redução da população economicamente ativa — inter-regional, a partir do estado do Rio de Janeiro.",
       "a perda de diversidade cultural — sazonal, a partir do estado de Rondônia.",
       "a queda na arrecadação de impostos — diáspora, a partir do estado do Pará."
@@ -6508,7 +6553,7 @@ export const uea2025Vestibular = [
       }
     ],
     "alternatives": [
-      "Economia criativa, que mantém os instrumentos financeiros do capitalismo globalizado, extraindo os recursos naturais de forma acelerada.",
+      "Economia criativa, que mantém os instrumentos finan- ceiros do capitalismo globalizado, extraindo os recursos naturais de forma acelerada.",
       "Economia circular, que promove a lógica de produção e de consumo exacerbado em extrair, produzir e usar bens e mercadorias, valorizando diversidade socioambiental regional.",
       "Economia bioecológica, que viabiliza uma abordagem prática de interação entre a sociedade e o ambiente, a fim de assegurar a exploração predatória dos recursos naturais.",
       "Economia verde, que promove o crescimento econômico de forma sustentável, priorizando a redução de impactos ambientais e a melhora do bem-estar social.",
@@ -6557,7 +6602,7 @@ export const uea2025Vestibular = [
       "das ações do poder público para financiar a expansão dos investimentos sociais no país.",
       "das medidas de austeridade para frear os gastos públicos que contribuíram com a crise no país.",
       "da iniciativa econômica para limitar a livre concorrência e o livre mercado no país.",
-      "das práticas protecionistas para restringir os investimentos internacionais no país.",
+      "das práticas protecionistas para restringir os investi- mentos internacionais no país.",
       "das operações cambiais para criar a paridade de valor entre o dólar e a moeda do país."
     ],
     "correct": 1,
@@ -6649,13 +6694,18 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g2/q23-1.svg",
+        "alt": "Figura de apoio da questão 23."
+      }
+    ],
     "alternatives": [
       "o grupo de adultos (15-59 anos) apresenta crescimento em todo o período, em decorrência da elevada taxa de natalidade.",
       "o grupo de adultos (15-59 anos) apresenta o pico de crescimento em 2030, favorecendo a formação de um bônus demográfico da população economicamente ativa.",
       "o grupo de crianças e jovens (0-14 anos) apresenta crescimento constante em todo o período, devido à elevada taxa de fecundidade.",
-      "o grupo de crianças e jovens (0-14 anos) apresenta retração a partir de 1990, reduzindo a oferta de mão de obra nos países desenvolvidos.",
-      "o grupo de idosos (60 anos ou mais) apresenta crescimento contínuo em quase todo o século XXI, em decorrência da melhoria da qualidade de vida da população."
+      "o grupo de crianças e jovens (0-14 anos) apresenta retra- ção a partir de 1990, reduzindo a oferta de mão de obra nos países desenvolvidos.",
+      "o grupo de idosos (60 anos ou mais) apresenta cresci- mento contínuo em quase todo o século XXI, em decor- rência da melhoria da qualidade de vida da população."
     ],
     "correct": 4,
     "resolution": [
@@ -6806,7 +6856,7 @@ export const uea2025Vestibular = [
       "a falta de sentido da vida.",
       "a psicologia humana.",
       "a criação artística.",
-      "a evolução dos materiais. Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31. Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional. — Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores… E o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação. Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas lutulentas1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes2, como aquelas que ele tinha ali. Ricardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente3 e a sua deliquescência4. Mal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição: — Vamos ver. Tire a escala, major. (Triste fim de Policarpo Quaresma, 2010.) 1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água."
+      "a evolução dos materiais."
     ],
     "correct": 3,
     "resolution": [
@@ -6910,11 +6960,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7o parágrafo).",
-      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1o parágrafo).",
-      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7o parágrafo).",
-      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8o parágrafo)."
+      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7º parágrafo).",
+      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1º parágrafo).",
+      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7º parágrafo).",
+      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -6964,11 +7014,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8o parágrafo).",
-      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8o parágrafo).",
-      "“E o jantar correu assim, nesse tom” (5o parágrafo).",
-      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito” (1o parágrafo)."
+      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8º parágrafo).",
+      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8º parágrafo).",
+      "“E o jantar correu assim, nesse tom” (5º parágrafo).",
+      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito” (1º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -7072,11 +7122,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Está bom, hein?” (2o parágrafo)",
-      "“quando o crepúsculo vinha devagar” (7o parágrafo)",
-      "“E o jantar correu assim, nesse tom” (5o parágrafo)",
-      "“como aquelas que ele tinha ali” (6o parágrafo)",
-      "“o major era em jardinagem essencialmente nacional” (6o parágrafo)"
+      "“Está bom, hein?” (2º parágrafo)",
+      "“quando o crepúsculo vinha devagar” (7$\\frac{o}{o}$ parágrafo)",
+      "“E o jantar correu assim, nesse tom” (5 parágrafo)",
+      "“como aquelas que ele tinha ali” (6º parágrafo)",
+      "“o major era em jardinagem essencialmente nacional” (6º parágrafo)"
     ],
     "correct": 3,
     "resolution": [
@@ -7120,9 +7170,9 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "um posicionamento favorável à integração dos povos originários ao espaço urbano da cidade de Manaus.",
-      "uma defesa ponderada dos benefícios trazidos pela modernização à cidade de Manaus.",
+      "uma defesa ponderada dos benefícios trazidos pela mo- dernização à cidade de Manaus.",
       "uma crítica aberta ao precário processo de modernização da cidade de Manaus.",
-      "um retrato idealizado da natureza exuberante que atravessa a cidade de Manaus.",
+      "um retrato idealizado da natureza exuberante que atra- vessa a cidade de Manaus.",
       "um lamento saudosista acerca da diminuição do ritmo de crescimento da cidade de Manaus."
     ],
     "correct": 2,
@@ -7508,13 +7558,18 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q04-1.svg",
+        "alt": "Figura de apoio da questão 04."
+      }
+    ],
     "alternatives": [
-      "49 cm2.",
-      "48 cm2.",
-      "50 cm2.",
-      "46 cm2.",
-      "45 cm2."
+      "49 cm².",
+      "48 cm².",
+      "50 cm².",
+      "46 cm².",
+      "45 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -7557,7 +7612,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q05-1.svg",
+        "alt": "Figura de apoio da questão 05."
+      }
+    ],
     "alternatives": [
       "34 cm.",
       "36 cm.",
@@ -7834,7 +7894,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q12-1.svg",
+        "alt": "Figura de apoio da questão 12."
+      }
+    ],
     "alternatives": [
       "9.",
       "12.",
@@ -8027,7 +8092,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q17-1.svg",
+        "alt": "Figura de apoio da questão 17."
+      }
+    ],
     "alternatives": [
       "4 → 1.",
       "1 → 2.",
@@ -8219,7 +8289,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q21-1.svg",
+        "alt": "Figura de apoio da questão 21."
+      }
+    ],
     "alternatives": [
       "50,0%.",
       "60,9%.",
@@ -8319,7 +8394,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-g3/q23-1.svg",
+        "alt": "Figura de apoio da questão 23."
+      }
+    ],
     "alternatives": [
       "10 mA.",
       "40 mA.",
@@ -8474,7 +8554,7 @@ export const uea2025Vestibular = [
       "a beleza dos pequenos acontecimentos.",
       "a psicologia humana.",
       "a criação artística.",
-      "a evolução dos materiais. Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31. Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional. — Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores… E o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação. Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas lutulentas1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes2, como aquelas que ele tinha ali. Ricardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente3 e a sua deliquescência4. Mal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição: — Vamos ver. Tire a escala, major. (Triste fim de Policarpo Quaresma, 2010.) 1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água."
+      "a evolução dos materiais."
     ],
     "correct": 3,
     "resolution": [
@@ -8578,11 +8658,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7o parágrafo).",
-      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1o parágrafo).",
-      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7o parágrafo).",
-      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8o parágrafo)."
+      "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7º parágrafo).",
+      "“Acabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor” (6º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional” (1º parágrafo).",
+      "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7º parágrafo).",
+      "“apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar” (8º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -8632,11 +8712,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8o parágrafo).",
-      "“Ricardo agarrou o cálice com delicadeza e respeito” (1o parágrafo).",
-      "“E o jantar correu assim, nesse tom” (5o parágrafo).",
-      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6o parágrafo).",
-      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8o parágrafo)."
+      "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8º parágrafo).",
+      "“Ricardo agarrou o cálice com delicadeza e respeito” (1º parágrafo).",
+      "“E o jantar correu assim, nesse tom” (5º parágrafo).",
+      "“Como em tudo o mais, o major era em jardinagem essencialmente nacional” (6º parágrafo).",
+      "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -8740,11 +8820,11 @@ export const uea2025Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“como aquelas que ele tinha ali” (6o parágrafo)",
-      "“Está bom, hein?” (2o parágrafo)",
-      "“E o jantar correu assim, nesse tom” (5o parágrafo)",
-      "“o major era em jardinagem essencialmente nacional” (6o parágrafo)",
-      "“quando o crepúsculo vinha devagar” (7o parágrafo)"
+      "“como aquelas que ele tinha ali” (6º parágrafo)",
+      "“Está bom, hein?” (2º parágrafo)",
+      "“E o jantar correu assim, nesse tom” (5º parágrafo)",
+      "“o major era em jardinagem essencialmente nacional” (6º parágrafo)",
+      "“quando o crepúsculo vinha devagar” (7º parágrafo)"
     ],
     "correct": 0,
     "resolution": [
@@ -8788,10 +8868,10 @@ export const uea2025Vestibular = [
     "images": [],
     "alternatives": [
       "um posicionamento favorável à integração dos povos originários ao espaço urbano da cidade de Manaus.",
-      "uma defesa ponderada dos benefícios trazidos pela modernização à cidade de Manaus.",
+      "uma defesa ponderada dos benefícios trazidos pela mo- dernização à cidade de Manaus.",
       "uma crítica aberta ao precário processo de modernização da cidade de Manaus.",
       "um lamento saudosista acerca da diminuição do ritmo de crescimento da cidade de Manaus.",
-      "um retrato idealizado da natureza exuberante que atravessa a cidade de Manaus."
+      "um retrato idealizado da natureza exuberante que atra- vessa a cidade de Manaus."
     ],
     "correct": 2,
     "resolution": [

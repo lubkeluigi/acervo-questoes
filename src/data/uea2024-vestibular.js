@@ -263,7 +263,7 @@ export const uea2024Vestibular = [
     "images": [],
     "alternatives": [
       "do preconceito sofrido pelo personagem na casa de Dona Ester.",
-      "da traição consumada pelo personagem contra os Capitães da Areia.",
+      "da traição consumada pelo personagem contra os Capi- tães da Areia.",
       "da violência policial perpetrada contra o personagem.",
       "da fuga do personagem para outra cidade.",
       "do acolhimento do personagem pelos Capitães da Areia."
@@ -358,11 +358,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“sabia que se corresse na rua o pegariam com certeza” (1o parágrafo).",
-      "“cospe na cara de um que se aproxima estendendo os braços” (1o parágrafo).",
-      "“‘Se jogou’, diz uma mulher, e desmaia” (2o parágrafo).",
-      "“Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más” (1o parágrafo).",
-      "“Estes tinham se despreocupado dos outros” (1o parágrafo)."
+      "“sabia que se corresse na rua o pegariam com certeza” (1º parágrafo).",
+      "“cospe na cara de um que se aproxima estendendo os braços” (1º parágrafo).",
+      "“‘Se jogou’, diz uma mulher, e desmaia” (2º parágrafo).",
+      "“Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más” (1º parágrafo).",
+      "“Estes tinham se despreocupado dos outros” (1º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -708,7 +708,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "descobrir os projetos confidenciais dos grupos políticos rivais.",
       "difundir suas ideologias que remodelam a realidade.",
-      "divulgar os ideais do liberalismo, por exemplo, a liberdade de expressão.",
+      "divulgar os ideais do liberalismo, por exemplo, a liberda- de de expressão.",
       "proporcionar uma visão de mundo que se baseia na experiência sensorial.",
       "formar uma opinião pública favorável à diversidade de convicções."
     ],
@@ -842,7 +842,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "expandir o programa global de combate ao comunismo.",
       "defender a estabilidade monetária da zona euro-atlântica.",
-      "proteger os países-membros com seu exército permanente.",
+      "proteger os países-membros com seu exército perma- nente.",
       "instituir uma política de defesa dos direitos humanos.",
       "limitar a autonomia dos países para garantir direitos às minorias."
     ],
@@ -1019,11 +1019,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a disponibilidade de mão de obra na região Norte e a reduzida produtividade da força de trabalho nos seringais.",
+      "a disponibilidade de mão de obra na região Norte e a redu- zida produtividade da força de trabalho nos seringais.",
       "a popularização do automóvel e a produção da borracha na Ásia.",
       "a eclosão da Segunda Guerra Mundial e a extração de mudas de seringueiras por estrangeiros.",
       "a modernização de cidades, em especial Manaus e Belém, e a baixa qualidade do produto amazônico.",
-      "a produção da borracha sintética e a abolição da escravidão no Amazonas."
+      "a produção da borracha sintética e a abolição da escra- vidão no Amazonas."
     ],
     "correct": 1,
     "resolution": [
@@ -1068,9 +1068,9 @@ export const uea2024Vestibular = [
     "alternatives": [
       "incompatibilizava os interesses locais e os nacionais.",
       "antevia um desenvolvimento rápido por estar inserido no Plano de Metas do país.",
-      "previa a promoção de condições básicas para o desenvolvimento regional.",
+      "previa a promoção de condições básicas para o desen- volvimento regional.",
       "priorizava a recuperação do extrativismo da borracha.",
-      "buscava implantar um modelo de desenvolvimento sustentável na região."
+      "buscava implantar um modelo de desenvolvimento sus- tentável na região."
     ],
     "correct": 2,
     "resolution": [
@@ -1158,12 +1158,17 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q25-1.svg",
+        "alt": "Figura de apoio da questão 25."
+      }
+    ],
     "alternatives": [
       "o aumento mostrado entre 2020 e 2022 ocorreu devido ao incremento de ações voltadas ao manejo inadequado da floresta.",
-      "a redução registrada entre 2016 e 2017 decorreu das atividades de fiscalização e proteção das áreas de floresta.",
+      "a redução registrada entre 2016 e 2017 decorreu das ati- vidades de fiscalização e proteção das áreas de floresta.",
       "o aumento registrado entre 2021 e 2022 resultou do processo de internacionalização das áreas de floresta.",
-      "a variação indicada entre 2008 e 2014 resultou da instalação do Programa Calha Norte para a conservação da floresta.",
+      "a variação indicada entre 2008 e 2014 resultou da insta- lação do Programa Calha Norte para a conservação da floresta.",
       "a redução em mais de 10% entre 2022 e 2023 ocorreu devido à criação do Fundo Amazônia para a preservação da floresta."
     ],
     "correct": 0,
@@ -1256,11 +1261,11 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "na Zona Franca de Manaus, instalada na área metropolitana, na região de Lábrea.",
-      "no entorno dos corredores logísticos, junto à rede rodoferroviária, na região do Madeira-Mamoré.",
+      "na Zona Franca de Manaus, instalada na área metropoli- tana, na região de Lábrea.",
+      "no entorno dos corredores logísticos, junto à rede rodo- ferroviária, na região do Madeira-Mamoré.",
       "em áreas da floresta de terra firme, voltadas à exploração de madeira, na região de Tefé.",
       "próxima ao curso dos rios, com destaque para o trecho do rio Amazonas, na região de Parintins.",
-      "na zona de expansão da fronteira agrícola, ao sul do estado, na região de São Gabriel da Cachoeira."
+      "na zona de expansão da fronteira agrícola, ao sul do es- tado, na região de São Gabriel da Cachoeira."
     ],
     "correct": 3,
     "resolution": [
@@ -1299,11 +1304,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o êxodo rural, que proporcionou melhores condições de vida à população sulista.",
-      "a migração inter-regional, com a atração da população de origem nordestina.",
+      "o êxodo rural, que proporcionou melhores condições de",
+      "a migração inter-regional, com a atração da população de",
       "a migração pendular, que permitiu o fluxo das pessoas entre a casa e o trabalho.",
       "a transumância, com o deslocamento populacional do Centro-Oeste.",
-      "a migração intrarregional, com a contratação dos trabalhadores da zona da Caatinga."
+      "a migração intrarregional, com a contratação dos traba- lhadores da zona da Caatinga."
     ],
     "correct": 1,
     "resolution": [
@@ -1395,9 +1400,9 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "permitiu ao regime da União Soviética requerer a condição de país-membro permanente no Conselho de Segurança das Nações Unidas.",
-      "assegurou a interferência dos Estados Unidos no processo de independência dos países africanos e das ditaduras no Sudeste Asiático.",
-      "consolidou a zona de influência imperialista dos Estados Unidos sobre os países capitalistas para conter a expansão do socialismo.",
+      "permitiu ao regime da União Soviética requerer a condi- ção de país-membro permanente no Conselho de Segu- rança das Nações Unidas.",
+      "assegurou a interferência dos Estados Unidos no proces- so de independência dos países africanos e das ditadu- ras no Sudeste Asiático.",
+      "consolidou a zona de influência imperialista dos Estados Unidos sobre os países capitalistas para conter a expan- são do socialismo.",
       "favoreceu a formação de uma aliança militar do ocidente para instituir o regime democrático na Alemanha Oriental.",
       "estimulou a propaganda ideológica socialista da União Soviética dentro da Cortina de Ferro, no leste da Europa e na região dos Balcãs."
     ],
@@ -1452,7 +1457,7 @@ export const uea2024Vestibular = [
       "Nordeste vinculam-se à estrutura produtiva das plantation com produção voltada ao mercado interno.",
       "Sul relacionam-se à demarcação de territórios quilombolas em propriedades com monocultura de citrus.",
       "Centro-Oeste ligam-se à expansão da fronteira agrícola sobre as propriedades familiares tradicionais.",
-      "Norte relacionam-se à exploração ilegal de recursos naturais em áreas indígenas e unidades de conservação."
+      "Norte relacionam-se à exploração ilegal de recursos na- turais em áreas indígenas e unidades de conservação."
     ],
     "correct": 4,
     "resolution": [
@@ -1539,11 +1544,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "da precarização das condições do emprego, que reduz o direito ao crédito e provoca o aumento dos gastos previdenciários.",
+      "da precarização das condições do emprego, que reduz o direito ao crédito e provoca o aumento dos gastos previ- denciários.",
       "do subemprego, que reduz o poder de compra e limita o acesso aos benefícios oferecidos pela seguridade social.",
       "da livre iniciativa produtiva, que reduz a capacidade de produtividade e oportuniza a qualificação profissional.",
-      "da previsibilidade do emprego, que reduz o vínculo empregatício e compromete a circulação de bens e mercadorias no mercado local.",
-      "da uberização profissional, que reduz o número de postos de emprego pelo avanço tecnológico e fomenta a responsabilidade do poder público."
+      "da previsibilidade do emprego, que reduz o vínculo em- pregatício e compromete a circulação de bens e merca- dorias no mercado local.",
+      "da uberização profissional, que reduz o número de pos- tos de emprego pelo avanço tecnológico e fomenta a res- ponsabilidade do poder público."
     ],
     "correct": 1,
     "resolution": [
@@ -1589,9 +1594,9 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "investir em políticas de vantagens locacionais, para oferecer segurança tributária aos municípios e empresários.",
-      "fragmentar as linhas de produção das empresas, para implementar o modelo taylorista de organização empresarial.",
-      "flexibilizar as jornadas de trabalho, para possibilitar ao trabalhador uma interação em outras atividades produtivas e analógicas.",
+      "investir em políticas de vantagens locacionais, para ofe- recer segurança tributária aos municípios e empresários.",
+      "fragmentar as linhas de produção das empresas, para implementar o modelo taylorista de organização empre- sarial.",
+      "flexibilizar as jornadas de trabalho, para possibilitar ao trabalhador uma interação em outras atividades produ- tivas e analógicas.",
       "estabelecer centros de pesquisa e desenvolvimento (P&D), para ampliar as possibilidades de produção.",
       "modernizar a infraestrutura de logística, para dinamizar os fluxos informacionais de comunicação e controle."
     ],
@@ -1833,10 +1838,10 @@ export const uea2024Vestibular = [
     "images": [],
     "alternatives": [
       "ocorreu a formação das primeiras células, chamadas coacervados, na terra primitiva.",
-      "todo ser vivo é formado por algum tipo celular com diferentes reações químicas.",
-      "os seres vivos surgiram de outros seres vivos pré-existentes.",
+      "todo ser vivo é formado por algum tipo celular com dife- rentes reações químicas.",
+      "os seres vivos surgiram de outros seres vivos pré-exis- tentes.",
       "as primeiras formas de vida surgiram em outro planeta.",
-      "houve um aumento gradual da complexidade dos processos metabólicos."
+      "houve um aumento gradual da complexidade dos pro- cessos metabólicos."
     ],
     "correct": 4,
     "resolution": [
@@ -2060,12 +2065,17 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "aos sistemas agroflorestais.",
       "à área do buraco na camada de ozônio.",
       "à temperatura média global.",
-      "à concentração de N2 atmosférico.",
+      "à concentração de $N_{2}$ atmosférico.",
       "ao metabolismo respiratório dos vegetais."
     ],
     "correct": 2,
@@ -2585,13 +2595,18 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q57-1.svg",
+        "alt": "Figura de apoio da questão 57."
+      }
+    ],
     "alternatives": [
-      "15 cm2.",
-      "10 cm2.",
-      "20 cm2.",
-      "18 cm2.",
-      "8 cm2."
+      "15 cm².",
+      "10 cm².",
+      "20 cm².",
+      "18 cm².",
+      "8 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -2635,7 +2650,12 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q58-1.svg",
+        "alt": "Figura de apoio da questão 58."
+      }
+    ],
     "alternatives": [
       "35 cm.",
       "28 cm.",
@@ -2683,7 +2703,12 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q59-1.svg",
+        "alt": "Figura de apoio da questão 59."
+      }
+    ],
     "alternatives": [
       "1,5 cm.",
       "0,5 cm.",
@@ -2773,7 +2798,12 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q61-1.svg",
+        "alt": "Figura de apoio da questão 61."
+      }
+    ],
     "alternatives": [
       "1 vez.",
       "10 vezes.",
@@ -2916,11 +2946,11 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "∆Ec = 0",
+      "∆ $E_{c}$ = 0",
       "∆ETa + ∆ETp = 0",
-      "∆Ec + ∆EP + ∆ETp + ∆ETa = 0",
-      "∆Ec + ∆EP = 0",
-      "∆EP = 0"
+      "∆ $E_{c}$ + ∆ $E_{P}$ + ∆ETp + ∆ETa = 0",
+      "∆ $E_{c}$ + ∆ $E_{P}$ = 0",
+      "∆ $E_{P}$ = 0"
     ],
     "correct": 2,
     "resolution": [
@@ -3005,7 +3035,7 @@ export const uea2024Vestibular = [
       "as temperaturas tanto dos cubos de gelo quanto da água nos dedos da pessoa diminuíram.",
       "o calor foi transferido da água nos dedos da pessoa para os cubos de gelo.",
       "a temperatura dos cubos de gelo foi transferida para a água nos dedos da pessoa.",
-      "a temperatura da água nos dedos da pessoa foi transferida para os cubos de gelo.",
+      "a temperatura da água nos dedos da pessoa foi transferi- da para os cubos de gelo.",
       "o calor foi transferido dos cubos de gelo para a água nos dedos da pessoa."
     ],
     "correct": 1,
@@ -3099,7 +3129,12 @@ export const uea2024Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q68-1.svg",
+        "alt": "Figura de apoio da questão 68."
+      }
+    ],
     "alternatives": [
       "Júpiter – Netuno.",
       "Urano – Mercúrio.",
@@ -3666,7 +3701,12 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q80-1.svg",
+        "alt": "Figura de apoio da questão 80."
+      }
+    ],
     "alternatives": [
       "73 horas.",
       "146 horas.",
@@ -3764,7 +3804,12 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-cg/q82-1.svg",
+        "alt": "Figura de apoio da questão 82."
+      }
+    ],
     "alternatives": [
       "ramificada, insaturada e alifática (não aromática).",
       "normal, insaturada e alifática (não aromática).",
@@ -3812,7 +3857,7 @@ export const uea2024Vestibular = [
       "H Cl C C H H",
       "H C C H H",
       "H H C C H H",
-      "H CH3 C C H H",
+      "H C C $CH_{3}$ H H",
       "F F C C F F"
     ],
     "correct": 2,
@@ -4450,7 +4495,12 @@ export const uea2024Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-g1/q13-1.svg",
+        "alt": "Figura de apoio da questão 13."
+      }
+    ],
     "alternatives": [
       "homogênea e cristalização.",
       "heterogênea e evaporação.",
@@ -4676,7 +4726,12 @@ export const uea2024Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-g1/q18-1.svg",
+        "alt": "Figura de apoio da questão 18."
+      }
+    ],
     "alternatives": [
       "eutética; 2 e 4.",
       "azeotrópica; 3 e 5.",
@@ -4979,7 +5034,7 @@ export const uea2024Vestibular = [
       "expõe, para o leitor, a dificuldade de Jair para cumprir horários.",
       "confirma, para o leitor, a veracidade das afirmações feitas pelo cliente.",
       "revela, para o leitor, o desinteresse de Jair por seu trabalho.",
-      "explicita, para o leitor, a relação de amizade existente entre os dois personagens.",
+      "explicita, para o leitor, a relação de amizade existente en- tre os dois personagens.",
       "aponta, para o leitor, uma contradição nas considerações feitas pelo cliente."
     ],
     "correct": 1,
@@ -5295,7 +5350,7 @@ export const uea2024Vestibular = [
       "fato pontual, isolado, no presente.",
       "estado suposto, hipotético.",
       "fato repetitivo.",
-      "estado contínuo, duradouro. Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35. Existe uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual. É quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais. É uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito. Pois a paixão só é idêntica para quem não enxerga as diferenças. É como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos. Mudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script. É uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas. Não há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios. Você oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória. Recorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis. Acredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga. O que vive está longe de ser amor, é obsessão. (Carpinejar. Para onde vai o amor, 2015.)"
+      "estado contínuo, duradouro."
     ],
     "correct": 4,
     "resolution": [
@@ -5352,8 +5407,8 @@ export const uea2024Vestibular = [
       "ocorre na fase final de um relacionamento afetivo, quando ele já está destinado a acabar.",
       "prejudica um relacionamento afetivo e pode levá-lo ao término.",
       "acontece depois que um relacionamento afetivo já acabou.",
-      "beneficia um dos envolvidos em um relacionamento afetivo, mas não ambos.",
-      "parece positivo, mas que destrói um relacionamento afetivo discretamente e aos poucos."
+      "beneficia um dos envolvidos em um relacionamento afe- tivo, mas não ambos.",
+      "parece positivo, mas que destrói um relacionamento afe- tivo discretamente e aos poucos."
     ],
     "correct": 2,
     "resolution": [
@@ -5523,11 +5578,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2o parágrafo).",
-      "“Alcança aquilo que foi ensaiado com o antecessor” (11o parágrafo).",
-      "“apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis” (12o parágrafo).",
-      "“É como remanejar presentes, aproveitar alianças antigas” (5o parágrafo).",
-      "“um segredo com pequenas chances de ser revelado, porém a consciência não é boba” (13o parágrafo)."
+      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2º parágrafo).",
+      "“Alcança aquilo que foi ensaiado com o antecessor” (11º parágrafo).",
+      "“apaga a invenção a dois e a costura por caminhos sur- preendentes e inesquecíveis” (12º parágrafo).",
+      "“É como remanejar presentes, aproveitar alianças anti- gas” (5º parágrafo).",
+      "“um segredo com pequenas chances de ser revelado, po- rém a consciência não é boba” (13º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -5575,7 +5630,7 @@ export const uea2024Vestibular = [
       "oferece ao leitor um espelho para suas próprias atitudes, conduzindo-o ao sofrimento e ao sentimento de culpa a respeito de suas transgressões cotidianas.",
       "desperta no leitor um instinto destrutivo que o leva a ter prazer em presenciar o sofrimento alheio.",
       "estabelece um critério objetivo do que é correto, dando ao leitor uma sensação reconfortante de justiça social.",
-      "prepara o leitor para a violência da realidade urbana, fazendo com que fique mais precavido em sua rotina no espaço público."
+      "prepara o leitor para a violência da realidade urbana, fa- zendo com que fique mais precavido em sua rotina no espaço público."
     ],
     "correct": 0,
     "resolution": [
@@ -5615,10 +5670,10 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "pela produção agrária autossuficiente com base no trabalho servil.",
-      "pela ausência de moedas no comércio realizado por escambo.",
-      "pela produção agrícola em latifúndios com base no trabalho de escravizados.",
-      "pela produção artesanal com base na mão de obra assalariada.",
+      "pela produção agrária autossuficiente com base no tra- balho servil.",
+      "pela ausência de moedas no comércio realizado por es- cambo.",
+      "pela produção agrícola em latifúndios com base no traba- lho de escravizados.",
+      "pela produção artesanal com base na mão de obra as- salariada.",
       "pelo comércio marítimo de especiarias vindas do Oriente."
     ],
     "correct": 2,
@@ -5666,11 +5721,11 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "conversão forçada de judeus, que passavam a ser chamados de “cristãos novos” nas colônias da América.",
+      "conversão forçada de judeus, que passavam a ser cha- mados de “cristãos novos” nas colônias da América.",
       "nova doutrina cristã, que defendia a livre interpretação da Bíblia pelos fiéis.",
       "formação da Companhia de Jesus, que tinha o objetivo de expandir a fé católica.",
       "contrarreforma, que publicou uma lista de livros proibidos aos seguidores do catolicismo.",
-      "teoria da predestinação, que advogava a ideia da salvação pré-estabelecida por Deus."
+      "teoria da predestinação, que advogava a ideia da salva- ção pré-estabelecida por Deus."
     ],
     "correct": 1,
     "resolution": [
@@ -5802,10 +5857,10 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a existência de cidades-Estado, o artesanato desenvolvido e a contabilidade dos recursos estatais por meio de quipus (cordas com nós).",
+      "a existência de cidades-Estado, o artesanato desenvol- vido e a contabilidade dos recursos estatais por meio de quipus (cordas com nós).",
       "a formação de impérios, o uso de moedas de metais no comércio e a presença da escrita hieroglífica.",
-      "a subordinação de outros povos, a criação das chinampas (ilhas artificiais para o plantio) e o monoteísmo.",
-      "a organização de Estados teocráticos, o desenvolvimento da agricultura e a formação de centros urbanos.",
+      "a subordinação de outros povos, a criação das chinam- pas (ilhas artificiais para o plantio) e o monoteísmo.",
+      "a organização de Estados teocráticos, o desenvolvimen- to da agricultura e a formação de centros urbanos.",
       "a consolidação de reinos independentes, a mobilidade social e a construção de pirâmides."
     ],
     "correct": 3,
@@ -5850,7 +5905,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "ao caráter mercantil em larga escala da escravidão moderna.",
       "ao respeito à diversidade cultural dos escravizados.",
-      "à semelhança entre a escravidão praticada pelos africanos e pelos europeus.",
+      "à semelhança entre a escravidão praticada pelos africa- nos e pelos europeus.",
       "à inclusão dos escravizados nas sociedades coloniais.",
       "ao papel dos africanos na organização do tráfico negreiro."
     ],
@@ -5896,10 +5951,10 @@ export const uea2024Vestibular = [
     "images": [],
     "alternatives": [
       "consolidação de estruturas sociais baseadas na etnia e na ocupação dos indivíduos.",
-      "grande mobilidade social baseada na possibilidade de alforria dos escravizados.",
+      "grande mobilidade social baseada na possibilidade de al- forria dos escravizados.",
       "democracia racial fundada na miscigenação de brancos, negros e indígenas.",
       "diversificação das atividades econômicas fundada na agricultura e no artesanato.",
-      "ocupação do sertão estimulada pela necessidade de novas terras para o plantio."
+      "ocupação do sertão estimulada pela necessidade de no- vas terras para o plantio."
     ],
     "correct": 0,
     "resolution": [
@@ -5948,7 +6003,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "empreendeu a conquista do governo da capitania de Pernambuco.",
       "constituiu uma das formas de resistência ao regime escravista.",
-      "organizou mocambos compostos por escravizados libertos pelas cartas de alforria.",
+      "organizou mocambos compostos por escravizados liber- tos pelas cartas de alforria.",
       "participou da formação do movimento abolicionista no Brasil.",
       "consistiu em uma comunidade autônoma de africanos islamizados."
     ],
@@ -6044,9 +6099,9 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "a imigração em massa de portugueses para a capital, já que a implementação da vacina eliminaria a varíola, doença temida pelos estrangeiros.",
+      "a imigração em massa de portugueses para a capital, já que a implementação da vacina eliminaria a varíola, do- ença temida pelos estrangeiros.",
       "a insatisfação da elite gaúcha com o governo federal, já que a campanha de vacinação ficou restrita à capital.",
-      "a instalação de diferentes postos de vacinação pela capital, medida que fez aumentar a popularidade do governo entre as camadas sociais mais pobres.",
+      "a instalação de diferentes postos de vacinação pela capi- tal, medida que fez aumentar a popularidade do governo entre as camadas sociais mais pobres.",
       "um motim popular contra a obrigatoriedade da vacina e contra as reformas urbanas e sanitárias promovidas pelo governo.",
       "um levante que reuniu os marinheiros contra os castigos físicos e a falta de vacinas para a prevenção de doenças na Marinha nacional."
     ],
@@ -6096,9 +6151,9 @@ export const uea2024Vestibular = [
     ],
     "alternatives": [
       "pedia o fim das eleições indiretas para governadores e prefeitos das grandes capitais do país.",
-      "demandava a anulação dos atos institucionais e da censura decretada pelos presidentes da República ao longo do regime militar.",
-      "exigia a aprovação de emenda constitucional pelo Congresso Nacional para restabelecer as eleições diretas para Presidente da República.",
-      "pleiteava a anistia para os presos políticos e para os exilados pela ditadura civil-militar.",
+      "demandava a anulação dos atos institucionais e da cen- sura decretada pelos presidentes da República ao longo do regime militar.",
+      "exigia a aprovação de emenda constitucional pelo Con- gresso Nacional para restabelecer as eleições diretas para Presidente da República.",
+      "pleiteava a anistia para os presos políticos e para os exi- lados pela ditadura civil-militar.",
       "reivindicava a volta do pluripartidarismo e a garantia de livre organização dos sindicatos dos trabalhadores da área cultural."
     ],
     "correct": 2,
@@ -6141,7 +6196,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "reformas de base e reestruturou o sistema tributário nacional.",
       "planos de ampliação da malha ferroviária e encerrou o programa de reforma agrária.",
-      "medidas populistas e garantiu um aumento real do salário mínimo de 100%.",
+      "medidas populistas e garantiu um aumento real do salá- rio mínimo de 100%.",
       "projetos de industrialização e implantou novas indústrias de base no país.",
       "práticas neoliberais e executou a privatização de grandes empresas estatais."
     ],
@@ -6183,12 +6238,17 @@ export const uea2024Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-g2/q13-1.svg",
+        "alt": "Figura de apoio da questão 13."
+      }
+    ],
     "alternatives": [
       "quilombolas, sendo que a maior parte desse grupo está vinculada à agricultura familiar.",
       "indígenas, sendo que a maior parte desse grupo vive em áreas sem demarcação oficial.",
       "caiçaras, sendo que a maior parte desse grupo tem como fonte de renda o extrativismo.",
-      "ribeirinhos, sendo que a maior parte desse grupo desenvolve a pesca comercial.",
+      "ribeirinhos, sendo que a maior parte desse grupo desen- volve a pesca comercial.",
       "venezuelanos, sendo que a maior parte desse grupo vive na condição de refúgio humanitário."
     ],
     "correct": 1,
@@ -6233,11 +6293,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "infantil, o que desobriga o estado de realizar investimentos em áreas assistenciais relacionados à população adulta ou idosa.",
-      "adulta, o que exige maior ação das políticas públicas voltadas a emprego e renda no estado em relação ao cenário do país.",
+      "infantil, o que desobriga o estado de realizar investimen- tos em áreas assistenciais relacionados à população adulta ou idosa.",
+      "adulta, o que exige maior ação das políticas públicas vol- tadas a emprego e renda no estado em relação ao cená- rio do país.",
       "adulta, o que exige maior arrecadação do sistema público de previdência pelo estado em relação ao contexto do país.",
-      "jovem, o que possibilita uma transição demográfica acelerada ao estado, quando comparado com o contexto do país.",
-      "jovem, o que assegura um maior período de bônus demográfico ao estado, quando comparado com o cenário do país."
+      "jovem, o que possibilita uma transição demográfica ace- lerada ao estado, quando comparado com o contexto do país.",
+      "jovem, o que assegura um maior período de bônus de- mográfico ao estado, quando comparado com o cenário do país."
     ],
     "correct": 4,
     "resolution": [
@@ -6280,10 +6340,10 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a incerteza do direito à cidade, pois, na cidade do consumo, o espaço urbano é estabelecido pelos princípios de seguridade social.",
-      "a fragilização das identidades étnico-culturais, pois, na cidade do espetáculo, o espaço urbano é restrito às premissas coloniais.",
-      "a precarização das condições de vida, pois, na cidade capitalista, o espaço urbano é condição e reflexo das desigualdades socioespaciais.",
-      "a inconstância do direito à espoliação urbana, pois, na cidade do capital, o espaço urbano é fragmentado e dissociado do interesse individual.",
+      "a incerteza do direito à cidade, pois, na cidade do consu- mo, o espaço urbano é estabelecido pelos princípios de seguridade social.",
+      "a fragilização das identidades étnico-culturais, pois, na cidade do espetáculo, o espaço urbano é restrito às pre- missas coloniais.",
+      "a precarização das condições de vida, pois, na cidade capitalista, o espaço urbano é condição e reflexo das de- sigualdades socioespaciais.",
+      "a inconstância do direito à espoliação urbana, pois, na ci- dade do capital, o espaço urbano é fragmentado e disso- ciado do interesse individual.",
       "a insegurança econômica, pois, na cidade da mercadoria, o espaço urbano é um complexo de equidade e justiça social."
     ],
     "correct": 2,
@@ -6331,11 +6391,11 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "imperial do governo venezuelano ao tentar invadir parte do território do Suriname, que está em zona de interesse comercial entre os dois países, para extrair recursos naturais de origem fóssil.",
+      "imperial do governo venezuelano ao tentar invadir parte do território do Suriname, que está em zona de interesse comercial entre os dois países, para extrair recursos na- turais de origem fóssil.",
       "suprema do governo venezuelano ao tentar conquistar parte do território do Suriname, que está em situação de contestação diplomática entre os dois países, para lograr os recursos provenientes de óleo mineral.",
-      "hegemônica do governo venezuelano ao tentar ocupar parte do território da Colômbia, que está em situação de domínio internacional, para obter o domínio sobre os recursos energéticos regionais.",
-      "unilateral do governo venezuelano ao desejar anexar o território da Guiana, que está em situação de litígio entre os dois países, para acessar importantes reservas de hidrocarbonetos.",
-      "centralizadora do governo venezuelano ao desejar apossar parte do território da Guiana Francesa, que está em disputa entre os dois países, para estabelecer o controle soberano sobre os recursos naturais."
+      "hegemônica do governo venezuelano ao tentar ocupar parte do território da Colômbia, que está em situação de domínio internacional, para obter o domínio sobre os re- cursos energéticos regionais.",
+      "unilateral do governo venezuelano ao desejar anexar o território da Guiana, que está em situação de litígio en- tre os dois países, para acessar importantes reservas de hidrocarbonetos.",
+      "centralizadora do governo venezuelano ao desejar apos- sar parte do território da Guiana Francesa, que está em disputa entre os dois países, para estabelecer o controle soberano sobre os recursos naturais."
     ],
     "correct": 3,
     "resolution": [
@@ -6378,10 +6438,10 @@ export const uea2024Vestibular = [
     "images": [],
     "alternatives": [
       "a consolidação do sistema de produção agroflorestal e a promoção do desenvolvimento local de base sustentável.",
-      "o estímulo ao uso da técnica agrícola da coivara e a fixação do trabalhador formal no campo.",
-      "a realização da reforma agrária local e o fomento ao espírito de cooperativismo entre os produtores.",
-      "o estabelecimento do sistema de manejo em terraceamento e a ampliação do empreendorismo social.",
-      "a dinamização do agronegócio e o incentivo para a realização de projetos vinculados à economia planificada."
+      "o estímulo ao uso da técnica agrícola da coivara e a fixa- ção do trabalhador formal no campo.",
+      "a realização da reforma agrária local e o fomento ao es- pírito de cooperativismo entre os produtores.",
+      "o estabelecimento do sistema de manejo em terracea- mento e a ampliação do empreendorismo social.",
+      "a dinamização do agronegócio e o incentivo para a reali- zação de projetos vinculados à economia planificada."
     ],
     "correct": 0,
     "resolution": [
@@ -6475,7 +6535,7 @@ export const uea2024Vestibular = [
     ],
     "alternatives": [
       "pelo uso da terra, o que restringe a expansão urbana.",
-      "pela fotossíntese, capaz de compensar parte das emissões de CO2.",
+      "pela fotossíntese, capaz de compensar parte das emis- sões de $CO_{2}$.",
       "pelo estabelecimento de barreiras físicas à circulação atmosférica.",
       "pela adoção de regras de combate ao sobrepastoreio.",
       "pela restrição à utilização de espécies exóticas à região."
@@ -6614,7 +6674,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "a condição da baixa profundidade dos rios em planalto e as barreiras para conter alagamentos nos igarapés.",
       "a variação do movimento das marés durante os dias e a poluição do lixo urbano descartado nos igarapés.",
-      "o elevado potencial pesqueiro dos rios e a intensa impermeabilização das áreas no entorno dos igarapés.",
+      "o elevado potencial pesqueiro dos rios e a intensa imper- meabilização das áreas no entorno dos igarapés.",
       "as oscilações do nível dos rios em diferentes épocas do ano e o processo de canalização dos igarapés.",
       "as demandas da água para o abastecimento urbano por meio dos rios e a ação do assoreamento nos igarapés."
     ],
@@ -6664,10 +6724,10 @@ export const uea2024Vestibular = [
     ],
     "alternatives": [
       "a corrida tecnológica entre o governo dos dois países para assegurar a hegemonia mundial dos semicondutores.",
-      "o acirramento pelo registro de marcas patentes tecno-analógicas entre os setores produtivos dos dois países.",
+      "o acirramento pelo registro de marcas patentes tecno- -analógicas entre os setores produtivos dos dois países.",
       "a disparada na guerra cambial entre os dois países para manter a paridade do dólar com a moeda chinesa.",
-      "a ruptura diplomática entre os dois países para consolidar unilateralmente as zonas de influência econômica na América Latina.",
-      "a repentina Guerra Fria voltada para a proteção do mercado consumidor interno, no setor de inovações."
+      "a ruptura diplomática entre os dois países para consoli- dar unilateralmente as zonas de influência econômica na América Latina.",
+      "a repentina Guerra Fria voltada para a proteção do mer- cado consumidor interno, no setor de inovações."
     ],
     "correct": 0,
     "resolution": [
@@ -6761,7 +6821,7 @@ export const uea2024Vestibular = [
     "alternatives": [
       "confirma, para o leitor, a veracidade das afirmações feitas pelo cliente.",
       "expõe, para o leitor, a dificuldade de Jair para cumprir horários.",
-      "explicita, para o leitor, a relação de amizade existente entre os dois personagens.",
+      "explicita, para o leitor, a relação de amizade existente en- tre os dois personagens.",
       "aponta, para o leitor, uma contradição nas considerações feitas pelo cliente.",
       "revela, para o leitor, o desinteresse de Jair por seu trabalho."
     ],
@@ -7078,7 +7138,7 @@ export const uea2024Vestibular = [
       "fato repetitivo.",
       "estado suposto, hipotético.",
       "estado contínuo, duradouro.",
-      "fato pontual, isolado, no passado. Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35. Existe uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual. É quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais. É uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito. Pois a paixão só é idêntica para quem não enxerga as diferenças. É como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos. Mudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script. É uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas. Não há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios. Você oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória. Recorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis. Acredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga. O que vive está longe de ser amor, é obsessão. (Carpinejar. Para onde vai o amor, 2015.)"
+      "fato pontual, isolado, no passado."
     ],
     "correct": 3,
     "resolution": [
@@ -7133,9 +7193,9 @@ export const uea2024Vestibular = [
     "images": [],
     "alternatives": [
       "acontece depois que um relacionamento afetivo já acabou.",
-      "beneficia um dos envolvidos em um relacionamento afetivo, mas não ambos.",
+      "beneficia um dos envolvidos em um relacionamento afe- tivo, mas não ambos.",
       "ocorre na fase final de um relacionamento afetivo, quando ele já está destinado a acabar.",
-      "parece positivo, mas que destrói um relacionamento afetivo discretamente e aos poucos.",
+      "parece positivo, mas que destrói um relacionamento afe- tivo discretamente e aos poucos.",
       "prejudica um relacionamento afetivo e pode levá-lo ao término."
     ],
     "correct": 0,
@@ -7306,11 +7366,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“É como remanejar presentes, aproveitar alianças antigas” (5o parágrafo).",
-      "“Alcança aquilo que foi ensaiado com o antecessor” (11o parágrafo).",
-      "“um segredo com pequenas chances de ser revelado, porém a consciência não é boba” (13o parágrafo).",
-      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2o parágrafo).",
-      "“apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis” (12o parágrafo)."
+      "“É como remanejar presentes, aproveitar alianças anti- gas” (5º parágrafo).",
+      "“Alcança aquilo que foi ensaiado com o antecessor” (11º parágrafo).",
+      "“um segredo com pequenas chances de ser revelado, po- rém a consciência não é boba” (13º parágrafo).",
+      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2º parágrafo).",
+      "“apaga a invenção a dois e a costura por caminhos sur- preendentes e inesquecíveis” (12º parágrafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -7358,7 +7418,7 @@ export const uea2024Vestibular = [
       "estabelece um critério objetivo do que é correto, dando ao leitor uma sensação reconfortante de justiça social.",
       "desperta no leitor um instinto destrutivo que o leva a ter prazer em presenciar o sofrimento alheio.",
       "oferece ao leitor um espelho para suas próprias atitudes, conduzindo-o ao sofrimento e ao sentimento de culpa a respeito de suas transgressões cotidianas.",
-      "prepara o leitor para a violência da realidade urbana, fazendo com que fique mais precavido em sua rotina no espaço público."
+      "prepara o leitor para a violência da realidade urbana, fa- zendo com que fique mais precavido em sua rotina no espaço público."
     ],
     "correct": 0,
     "resolution": [
@@ -7442,13 +7502,18 @@ export const uea2024Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2024-g3/q02-1.svg",
+        "alt": "Figura de apoio da questão 02."
+      }
+    ],
     "alternatives": [
-      "4,0 cm2.",
-      "3,8 cm2.",
-      "4,2 cm2.",
-      "3,6 cm2.",
-      "4,4 cm2."
+      "4,0 cm².",
+      "3,8 cm².",
+      "4,2 cm².",
+      "3,6 cm².",
+      "4,4 cm²."
     ],
     "correct": 3,
     "resolution": [
@@ -7847,11 +7912,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "36π cm2.",
-      "27π cm2.",
-      "32π cm2.",
-      "40π cm2.",
-      "42π cm2."
+      "36π cm².",
+      "27π cm².",
+      "32π cm².",
+      "40π cm².",
+      "42π cm²."
     ],
     "correct": 0,
     "resolution": [
@@ -8099,11 +8164,11 @@ export const uea2024Vestibular = [
       }
     ],
     "alternatives": [
-      "metal das latas, que converte ondas mecânicas em ondas eletromagnéticas.",
-      "vácuo entre as estações, que permite que ondas mecânicas se propaguem livremente.",
-      "barbante, que serve como meio material para a propagação de ondas eletromagnéticas.",
-      "vácuo entre as estações, que impede que ondas eletromagnéticas bloqueiem ondas mecânicas.",
-      "barbante, que serve como meio material para a propagação de ondas mecânicas."
+      "metal das latas, que converte ondas mecânicas em on- das eletromagnéticas.",
+      "vácuo entre as estações, que permite que ondas mecâni- cas se propaguem livremente.",
+      "barbante, que serve como meio material para a propaga- ção de ondas eletromagnéticas.",
+      "vácuo entre as estações, que impede que ondas eletro- magnéticas bloqueiem ondas mecânicas.",
+      "barbante, que serve como meio material para a propaga- ção de ondas mecânicas."
     ],
     "correct": 4,
     "resolution": [
@@ -8392,8 +8457,8 @@ export const uea2024Vestibular = [
       "revela, para o leitor, o desinteresse de Jair por seu trabalho.",
       "expõe, para o leitor, a dificuldade de Jair para cumprir horários.",
       "aponta, para o leitor, uma contradição nas considerações feitas pelo cliente.",
-      "explicita, para o leitor, a relação de amizade existente entre os dois personagens.",
-      "confirma, para o leitor, a veracidade das afirmações feitas pelo cliente. Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30. Virgínia subiu precipitadamente a escada e trancou-se no quarto. — Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga. — Virgínia, eu não estou brincando, menina. Abre logo, anda! — Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto. — Ou você abre ou conto para o seu tio. É isto que você quer, é isto? Virgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio: — Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai. (Ciranda de pedra, 2009.)"
+      "explicita, para o leitor, a relação de amizade existente en- tre os dois personagens.",
+      "confirma, para o leitor, a veracidade das afirmações feitas pelo cliente."
     ],
     "correct": 4,
     "resolution": [
@@ -8765,8 +8830,8 @@ export const uea2024Vestibular = [
       "acontece depois que um relacionamento afetivo já acabou.",
       "prejudica um relacionamento afetivo e pode levá-lo ao término.",
       "ocorre na fase final de um relacionamento afetivo, quando ele já está destinado a acabar.",
-      "parece positivo, mas que destrói um relacionamento afetivo discretamente e aos poucos.",
-      "beneficia um dos envolvidos em um relacionamento afetivo, mas não ambos."
+      "parece positivo, mas que destrói um relacionamento afe- tivo discretamente e aos poucos.",
+      "beneficia um dos envolvidos em um relacionamento afe- tivo, mas não ambos."
     ],
     "correct": 0,
     "resolution": [
@@ -8936,11 +9001,11 @@ export const uea2024Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“um segredo com pequenas chances de ser revelado, porém a consciência não é boba” (13o parágrafo).",
-      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2o parágrafo).",
-      "“Alcança aquilo que foi ensaiado com o antecessor” (11o parágrafo).",
-      "“É como remanejar presentes, aproveitar alianças antigas” (5o parágrafo).",
-      "“apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis” (12o parágrafo)."
+      "“um segredo com pequenas chances de ser revelado, po- rém a consciência não é boba” (13º parágrafo).",
+      "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2º parágrafo).",
+      "“Alcança aquilo que foi ensaiado com o antecessor” (11º parágrafo).",
+      "“É como remanejar presentes, aproveitar alianças anti- gas” (5º parágrafo).",
+      "“apaga a invenção a dois e a costura por caminhos sur- preendentes e inesquecíveis” (12º parágrafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -8988,7 +9053,7 @@ export const uea2024Vestibular = [
       "faz com que as infrações usuais e cotidianas pareçam, para o leitor, pequenas em comparação com os crimes noticiados.",
       "desperta no leitor um instinto destrutivo que o leva a ter prazer em presenciar o sofrimento alheio.",
       "estabelece um critério objetivo do que é correto, dando ao leitor uma sensação reconfortante de justiça social.",
-      "prepara o leitor para a violência da realidade urbana, fazendo com que fique mais precavido em sua rotina no espaço público."
+      "prepara o leitor para a violência da realidade urbana, fa- zendo com que fique mais precavido em sua rotina no espaço público."
     ],
     "correct": 1,
     "resolution": [

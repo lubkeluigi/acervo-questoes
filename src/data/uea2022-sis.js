@@ -366,11 +366,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "(El Greco (1541-1614). .) Laocoonte",
-      "(Johannes Vermeer (1632-1675) .) O geógrafo",
-      "(Jakob Philipp Hackert (1737-1807). .) Paisagem italiana",
-      "(Eugène Delacroix (1798-1863). .) A liberdade guiando o povo",
-      "(Pieter Bruegel (1564-1638). .) Retorno da taberna"
+      "(El Greco (1541-1614). Laocoonte.)",
+      "(Johannes Vermeer (1632-1675) O geógrafo.)",
+      "(Jakob Philipp Hackert (1737-1807). Paisagem italiana.)",
+      "(Eugène Delacroix (1798-1863). A liberdade guiando o povo.)",
+      "(Pieter Bruegel (1564-1638). Retorno da taberna.)"
     ],
     "correct": 2,
     "resolution": [
@@ -470,7 +470,7 @@ export const uea2022Sis = [
       "convencer os leitores a buscarem diferentes fontes de informação.",
       "oferecer informações sobre o resultado de um estudo.",
       "analisar pormenorizadamente os resultados de um estudo.",
-      "alertar sobre a importância do desenvolvimento de habilidades cognitivas.",
+      "alertar sobre a importância do desenvolvimento de habi- lidades cognitivas.",
       "descrever uma sequência de passos para solucionar um problema."
     ],
     "correct": 1,
@@ -623,8 +623,8 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "os projetos bem-sucedidos para acabar com os trabalhos em condições análogas à escravidão dos dalits e povos tribais.",
-      "as transformações sociopolíticas significativas em um território marcado pela hierarquia social pautada na religião.",
-      "a continuidade da submissão política em relação à Inglaterra após o processo formal de independência.",
+      "as transformações sociopolíticas significativas em um ter- ritório marcado pela hierarquia social pautada na religião.",
+      "a continuidade da submissão política em relação à Ingla- terra após o processo formal de independência.",
       "a superação da desigualdade social e do machismo em uma nação segregada oficialmente por séculos.",
       "os caminhos traçados para a equiparação econômica entre os grupos sociais da segunda maior população mundial."
     ],
@@ -722,7 +722,7 @@ export const uea2022Sis = [
     ],
     "alternatives": [
       "da produção em manufaturas têxteis como base da economia.",
-      "de um artesanato focado na fabricação de adornos femininos.",
+      "de um artesanato focado na fabricação de adornos femi- ninos.",
       "de materiais desconhecidos pelos europeus quando chegaram à América.",
       "da valorização dos esportes praticados por crianças e adultos.",
       "de um complexo sistema matemático e de registros do cotidiano."
@@ -769,7 +769,7 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "utilizar discursos ordenadores para a permanência do status quo.",
-      "permitir que a autoridade de civis e militares fosse equiparada.",
+      "permitir que a autoridade de civis e militares fosse equi- parada.",
       "aplicar a democracia política a partir de atos violentos.",
       "restringir o progresso social e econômico aos militares.",
       "enfraquecer a hierarquia das patentes estabelecidas pelo exército."
@@ -818,7 +818,7 @@ export const uea2022Sis = [
     "alternatives": [
       "a redução das desigualdades sociais e a cobrança de impostos.",
       "a privatização de estatais e o estímulo da globalização da economia.",
-      "o protecionismo econômico e o enxugamento da máquina pública.",
+      "o protecionismo econômico e o enxugamento da máqui- na pública.",
       "o aumento dos gastos com serviços públicos e o ajuste fiscal.",
       "a defesa dos direitos sociais dos cidadãos e o fim dos monopólios."
     ],
@@ -864,7 +864,7 @@ export const uea2022Sis = [
       "a hegemonia de homens devido às restrições religiosas.",
       "a ausência de movimentos em territórios de maioria xiita.",
       "a utilização ampla das redes sociais pelos manifestantes.",
-      "a homogeneidade político-econômica dos países envolvidos.",
+      "a homogeneidade político-econômica dos países envol- vidos.",
       "a invisibilidade das manifestações na mídia internacional."
     ],
     "correct": 2,
@@ -1000,12 +1000,17 @@ export const uea2022Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a1/q21-1.svg",
+        "alt": "Figura de apoio da questão 21."
+      }
+    ],
     "alternatives": [
       "à modelagem espacial, que torna o geoprocessamento mais dinâmico e permite estabelecer uma representação mais realista aos processos espaço-temporais.",
       "à projeção cartográfica digital, que utiliza computadores para tratamento das informações e construção dos mapas qualitativos.",
       "aos mapas digitais, que são uma representação de regiões geográficas e oferecem capacidade de interação que gera e recebe informações do usuário.",
-      "aos satélites artificiais, que são equipamentos localizados próximos à Terra que captam imagens de fenômenos em um determinado instante.",
+      "aos satélites artificiais, que são equipamentos localiza- dos próximos à Terra que captam imagens de fenômenos em um determinado instante.",
       "ao sistema de informação geográfica, que corresponde ao conjunto de procedimentos computacionais utilizados para armazenar ou manipular dados georreferenciados."
     ],
     "correct": 4,
@@ -1049,12 +1054,17 @@ export const uea2022Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a1/q22-1.svg",
+        "alt": "Figura de apoio da questão 22."
+      }
+    ],
     "alternatives": [
       "brancos, devido à política de branqueamento implantada no país após 1990.",
-      "pretos, em virtude das políticas públicas de ações afirmativas.",
+      "pretos, em virtude das políticas públicas de ações afir- mativas.",
       "pardos, em razão do processo de emigração de haitianos.",
-      "brancos, por efeito do empoderamento da cultura eurocêntrica.",
+      "brancos, por efeito do empoderamento da cultura euro- cêntrica.",
       "pretos, em função do processo de miscigenação no país após 1990."
     ],
     "correct": 1,
@@ -1100,8 +1110,8 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a fixação da fronteira agrícola e a desapropriação de terras produtivas.",
-      "a demarcação de terras indígenas e o direito à especulação imobiliária.",
+      "a fixação da fronteira agrícola e a desapropriação de ter- ras produtivas.",
+      "a demarcação de terras indígenas e o direito à especula- ção imobiliária.",
       "a anistia aos grileiros e a legitimação da ocupação ilegal de terras.",
       "a recuperação de terras devolutas e a implementação da reforma agrária.",
       "o financiamento de propriedades e a extinção da função social da terra."
@@ -1151,7 +1161,7 @@ export const uea2022Sis = [
       "unilaterais dos EUA que visam implementar barreiras para a expansão comercial e geopolítica da China.",
       "ineficientes dos BRICS em promover o multilateralismo entre os países em desenvolvimento e periféricos.",
       "político-econômicas da União Europeia para aumentar sua influência nos países da África do Norte.",
-      "multilaterais da União Europeia, já que os países-membros desse bloco implementam práticas protecionistas para assegurar a concorrência intrabloco."
+      "multilaterais da União Europeia, já que os países-mem- bros desse bloco implementam práticas protecionistas para assegurar a concorrência intrabloco."
     ],
     "correct": 1,
     "resolution": [
@@ -1296,9 +1306,9 @@ export const uea2022Sis = [
       }
     ],
     "alternatives": [
-      "as maiores concentrações industriais estão no hemisfério norte devido aos vales férteis e ao clima temperado.",
+      "as maiores concentrações industriais estão no hemisfé- rio norte devido aos vales férteis e ao clima temperado.",
       "as regiões densamente industrializadas no hemisfério norte estão perdendo relevância na economia mundial.",
-      "as concentrações industriais nos países em desenvolvimento surgiram a partir da década de 1930.",
+      "as concentrações industriais nos países em desenvolvi- mento surgiram a partir da década de 1930.",
       "as concentrações industriais no hemisfério sul estão associadas com as maiores populações absolutas das civilizações modernas.",
       "as áreas que apresentam as maiores concentrações industriais estão nos países que concentram o maior número de arsenais nucleares."
     ],
@@ -1707,7 +1717,7 @@ export const uea2022Sis = [
       "o metabolismo ficará reduzido devido ao excesso de calorias.",
       "o tecido adiposo terá excesso de proteínas armazenadas em vesículas.",
       "as vitaminas e alguns sais minerais estarão reduzidos no organismo.",
-      "a alta concentração de fibras dificultará o trabalho intestinal.",
+      "a alta concentração de fibras dificultará o trabalho intes- tinal.",
       "o sódio e a glicose estarão reduzidos no organismo."
     ],
     "correct": 2,
@@ -1838,7 +1848,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a1/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
       "6,3 cm.",
       "6,6 cm.",
@@ -1884,13 +1899,18 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a1/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
-      "8 cm2.",
-      "9 cm2.",
-      "10 cm2.",
-      "12 cm2.",
-      "15 cm2."
+      "8 cm².",
+      "9 cm².",
+      "10 cm².",
+      "12 cm².",
+      "15 cm²."
     ],
     "correct": 4,
     "resolution": [
@@ -2067,7 +2087,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a1/q46-1.svg",
+        "alt": "Figura de apoio da questão 46."
+      }
+    ],
     "alternatives": [
       "2,0 m/s.",
       "2,5 m/s.",
@@ -2114,7 +2139,7 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "quanto mais afastada é a órbita de um planeta em relação ao Sol, maior deve ser sua velocidade de translação.",
+      "quanto mais afastada é a órbita de um planeta em rela- ção ao Sol, maior deve ser sua velocidade de translação.",
       "quanto mais próxima é a órbita de um planeta em relação ao Sol, maior deve ser seu período de rotação.",
       "conforme um planeta em sua órbita se aproxima do Sol, menor será sua velocidade de translação.",
       "o período de translação de um planeta é inversamente proporcional à distância que ele se mantém do Sol.",
@@ -2436,7 +2461,7 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "ampolas contendo gases rarefeitos submetidos a altas tensões elétricas.",
-      "a incidência de partículas alfa em lâminas metálicas delgadas.",
+      "a incidência de partículas alfa em lâminas metálicas del- gadas.",
       "proporções entre as massas de reagentes e produtos de reações químicas.",
       "os efeitos magnéticos provocados pela corrente elétrica.",
       "emissão de espectros luminosos por elementos químicos submetidos a aquecimento."
@@ -3005,11 +3030,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Não sendo meu costume dissimular ou esconder nada, contarei nesta página o caso do muro” (1o parágrafo).",
-      "“Entrando em casa de D. Plácida, vi um papelinho dobrado sobre a mesa; era um bilhete de Virgília” (1o parágrafo).",
-      "“A carta pareceu-me descomunalmente audaciosa, mal pensada e até ridícula” (2o parágrafo).",
-      "“Reli o papel, mirei-o, remirei-o; era, na verdade, um antigo bilhete de Virgília, recebido no começo dos nossos amores” (9o parágrafo).",
-      "“Guardei o papel e... Tive uma sensação esquisita” (9o parágrafo)."
+      "“Não sendo meu costume dissimular ou esconder nada, contarei nesta página o caso do muro” (1º parágrafo).",
+      "“Entrando em casa de D. Plácida, vi um papelinho dobrado sobre a mesa; era um bilhete de Virgília” (1º parágrafo).",
+      "“A carta pareceu-me descomunalmente audaciosa, mal pensada e até ridícula” (2º parágrafo).",
+      "“Reli o papel, mirei-o, remirei-o; era, na verdade, um an- tigo bilhete de Virgília, recebido no começo dos nossos amores” (9º parágrafo).",
+      "“Guardei o papel e... Tive uma sensação esquisita” (9º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -3050,7 +3075,7 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Não era só convidar o escândalo, era convidá-lo de parceria com a risota”.",
+      "“Não era só convidar o escândalo, era convidá-lo de par- ceria com a risota”.",
       "“Naturalmente Virgília não soube o que fez; era possível que já estivesse arrependida”.",
       "“Olhei para o papel, um pedaço de papel amarrotado, mas inflexível”.",
       "“Tive comichões de o rasgar, em trinta mil pedaços, e atirá-los ao vento”.",
@@ -3095,11 +3120,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Eles estavam prestes a embarcar” (1o parágrafo).",
-      "“Não era só convidar o escândalo” (2o parágrafo).",
-      "“Imaginei-me a saltar o muro” (2o parágrafo).",
-      "“Olhei para o papel” (2o parágrafo).",
-      "“Tive comichões de o rasgar” (2o parágrafo). Leia o texto para responder às questões de 09 a 12. The United Nations (UN) agency interviewed its followers on Twitter and LinkedIn to find out what worries them most about children being active online. They were asked to rank three common online fears: cyberbullying, data protection lapses, and the threat of grooming, which refers to abusers deliberately exploiting children online. Roughly 40 per cent listed cyberbullying as the chief concern, with the two other choices at 27 per cent and 26 per cent respectively. Respondents also cited other fears that were not featured in the survey, such as the risk of excessive screentime, or whether children are aware of mechanisms for reporting online threats. That cyberbullying emerged as the top concern is hardly surprising, considering how the internet permeates nearly every facet of life. Young people spend more time online than the rest of the population, the International Telecommunication Union (ITU) said — an estimated 71 per cent of people aged 15 to 24 using the internet, compared to just 57 per cent for all other age groups. The internet has also evolved over time, giving rise to the emergence of new threats, making the protection of children and youth online even more critical. ITU recalled that the problem of cyberbullying inspired Gitanjali Rao, TIME magazine’s first-ever Kid of the Year, to use technology to tackle the issue. Ms. Rao, now 16, conceptualized Kindly, an open-source Application Programming Interface (API) that uses machine learning algorithms to detect “toxic” language in text messages, emails, or social media posts before they are sent. Speaking to UN News, she described it as like “the spellcheck of bullying.” Children receive instantaneous feedback on their draft messages, thus allowing them to reconsider or modify what they have written. As the Kindly website puts it, the goal is to “end cyberbullying one message at a time.” (https://news.un.org, 08.02.2022. Adaptado.)"
+      "“Eles estavam prestes a embarcar” (1$\\frac{o}{o}$ parágrafo).",
+      "“Não era só convidar o escândalo” (2 parágrafo).",
+      "“Imaginei-me a saltar o muro” (2º parágrafo).",
+      "“Olhei para o papel” (2º parágrafo).",
+      "“Tive comichões de o rasgar” (2º parágrafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -3456,7 +3481,7 @@ export const uea2022Sis = [
       "se revelado um gênio precoce na área de programação de computadores.",
       "sido vítima frequente de cyberbullying na infância e na juventude.",
       "desenvolvido um programa para combater cyberbullying em redes sociais.",
-      "recebido um prêmio da revista TIME devido a suas postagens nas redes sociais. Leia o texto para responder às questões de 09 a 12. ¿Qué es tsundoku y qué tiene que ver con los libros? Confieso que la palabra tsundoku me representa a la perfección. A menudo me siento afortunado por tener tantos libros nuevos para leer, pero luego pienso en el poco tiempo, espacio e inversión económica que hay detrás de esta acumulación libresca. Supongo que ya sabrás o habrás imaginado lo que significa este vocablo. De todas formas, trataré de darte una explicación más clara. Tsundoku es un término japonés que se refiere al acto de comprar un libro y dejarlo sin leer junto con otros libros no leídos. Dicha palabra se podría asemejar en español a bibliomanía: propensión exagerada a acumular libros. Bien es cierto que el término castellano no hace referencia expresa a la no lectura de dichos libros, aunque se puede intuir de este trastorno obsesivo-compulsivo de coleccionar libros. El idioma japonés dispone de una extensa cantidad de palabras para referirse a cada una de las cosas cotidianas que les rodean. Uno de esos vocablos es tsundoku, que nace de modificar la expresión tsunde oku cuyo significado es «dejar que algo se acumule». La parte final oku lleva una d puesto que doku significa leer. (www.julianmarquina.es, 09.08.2022. Adaptado.)"
+      "recebido um prêmio da revista TIME devido a suas posta- gens nas redes sociais."
     ],
     "correct": 3,
     "resolution": [
@@ -3603,8 +3628,8 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "um período de paz mais duradoura entre Portugal e Espanha em relação às fronteiras de seus domínios americanos.",
-      "o fim definitivo da Guerra do Paraguai pela brusca redução de contingente nos exércitos dos países envolvidos.",
+      "um período de paz mais duradoura entre Portugal e Espanha em relação às fronteiras de seus domínios ame- ricanos.",
+      "o fim definitivo da Guerra do Paraguai pela brusca redu- ção de contingente nos exércitos dos países envolvidos.",
       "um sentimento de revanche nos gaúchos, que motivaria a Guerra dos Farrapos durante as regências.",
       "a interrupção das negociações entre Brasil e Argentina acerca do território uruguaio, que se tornou autônomo.",
       "a suspensão dos planos brasileiros de adquirir o território do Acre devido às difíceis negociações com os bolivianos."
@@ -3652,11 +3677,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "um questionamento da organização política vigente, exigindo a ocupação feminina da presidência.",
-      "uma releitura da declaração redigida anteriormente, incluindo as mulheres de forma direta.",
+      "um questionamento da organização política vigente, exi- gindo a ocupação feminina da presidência.",
+      "uma releitura da declaração redigida anteriormente, in- cluindo as mulheres de forma direta.",
       "uma defesa da monarquia absolutista, considerando que as mulheres eram mais valorizadas.",
-      "uma escrita de novas propostas, ignorando os documentos publicados previamente.",
-      "um posicionamento contra girondinos e jacobinos, abolindo a polarização partidária corrente."
+      "uma escrita de novas propostas, ignorando os documen- tos publicados previamente.",
+      "um posicionamento contra girondinos e jacobinos, abolin- do a polarização partidária corrente."
     ],
     "correct": 1,
     "resolution": [
@@ -3753,7 +3778,7 @@ export const uea2022Sis = [
       "à formação de demanda voltada essencialmente ao comércio interno.",
       "ao estabelecimento do trabalho compulsório indígena na região.",
       "ao desenvolvimento do mercado consumidor interessado na matéria-prima.",
-      "à descoberta recente do carvão como combustível industrial."
+      "à descoberta recente do carvão como combustível indus- trial."
     ],
     "correct": 3,
     "resolution": [
@@ -3798,7 +3823,7 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "os escravizados, que buscavam trabalhos livres como possibilidades de melhores condições de vida.",
-      "os cafeicultores em crise, que acreditavam na industrialização como a solução dos problemas econômicos do país.",
+      "os cafeicultores em crise, que acreditavam na industria- lização como a solução dos problemas econômicos do país.",
       "os imigrantes italianos, que já haviam participado das lutas operárias em seu país de origem.",
       "os adeptos do liberalismo econômico, que defendiam a gestão democrática das fábricas feita pelos operários.",
       "os trabalhadores rurais, que lutavam pela reforma agrária como forma de diminuir as desigualdades sociais."
@@ -3894,7 +3919,7 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "restringem-se ao universo feminino quando o tema abordado é a aparência corporal.",
+      "restringem-se ao universo feminino quando o tema abor- dado é a aparência corporal.",
       "têm potencial para questionar estereótipos estabelecidos.",
       "valorizam padrões de beleza e a quebra desses padrões na mesma proporção.",
       "discutem mudanças sociais com pouca participação dos usuários.",
@@ -3949,7 +3974,7 @@ export const uea2022Sis = [
     "alternatives": [
       "projetos de desenvolvimento territorial implantados pelo Estado para viabilizar a integração regional principalmente na Amazônia Meridional.",
       "terras demarcadas como unidades de conservação para manter as populações indígenas livres de invasões.",
-      "distritos industriais cuja territorialização priorizou as indústrias de base para desenvolver a mineração.",
+      "distritos industriais cuja territorialização priorizou as indús- trias de base para desenvolver a mineração.",
       "bases de vigilância para monitorar, prevenir e combater o desmatamento na Amazônia Oriental.",
       "portos fluviais e silos para armazenagem de grãos para facilitar o escoamento de grãos."
     ],
@@ -4000,10 +4025,10 @@ export const uea2022Sis = [
       }
     ],
     "alternatives": [
-      "a redução do processo de urbanização na região Centro-Oeste, em razão da expansão do agronegócio destinado à produção e exportação de grãos.",
+      "a redução do processo de urbanização na região Centro- -Oeste, em razão da expansão do agronegócio destinado à produção e exportação de grãos.",
       "o processo de integração nacional, devido aos avanços tecnológicos nos sistemas de comunicação e transporte.",
       "o predomínio da atividade agropecuária tradicional no Nordeste, resultado de uma mão de obra que continua migrando para a região Sudeste.",
-      "a concentração da população vivendo em áreas metropolitanas, em virtude da garantia de acesso à política do pleno emprego no setor industrial.",
+      "a concentração da população vivendo em áreas metro- politanas, em virtude da garantia de acesso à política do pleno emprego no setor industrial.",
       "a dispersão produtiva na região Amazônica, em conse quência da legislação ambiental que proíbe a instalação de atividades agropecuárias com manejo florestal."
     ],
     "correct": 1,
@@ -4187,11 +4212,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "investimentos externos diretos e da importação de tecnologia.",
+      "investimentos externos diretos e da importação de tec- nologia.",
       "investimentos indiretos e do recrudescimento da indústria de base.",
       "investimentos em empresas privadas e da atração de mão de obra estrangeira.",
       "investimentos estatais dos impostos e da flexibilização da legislação trabalhista.",
-      "investimentos na revitalização de prédios e do estabelecimento de contratos do tipo joint-venture."
+      "investimentos na revitalização de prédios e do estabele- cimento de contratos do tipo joint-venture."
     ],
     "correct": 0,
     "resolution": [
@@ -4232,9 +4257,14 @@ export const uea2022Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
-      "o aumento da área plantada e da produção agrícola é devido à adoção do sistema de produção policultura voltado para o mercado externo.",
+      "o aumento da área plantada e da produção agrícola é devido à adoção do sistema de produção policultura vol- tado para o mercado externo.",
       "o aumento da produção agrícola e da produtividade de grãos é resultado das políticas de subsídios do Estado brasileiro aos produtores rurais.",
       "o aumento da produtividade e o pequeno aumento da área plantada é reflexo da aplicação de novas tecnologias.",
       "a área plantada manteve-se inalterada devido à criação das políticas de conservação ambiental.",
@@ -4370,13 +4400,18 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q30-1.svg",
+        "alt": "Figura de apoio da questão 30."
+      }
+    ],
     "alternatives": [
-      "CO2, CO2, O2 e O2",
-      "CO2, O2, CO2 e O2",
-      "O2, O2, CO2 e CO2",
-      "O2, CO2, O2 e CO2",
-      "O2, CO2, CO2 e O2"
+      "$CO_{2}$, $CO_{2}$, $O_{2}$ e $O_{2}$",
+      "$CO_{2}$, $O_{2}$, $CO_{2}$ e $O_{2}$",
+      "$O_{2}$, $O_{2}$, $CO_{2}$ e $CO_{2}$",
+      "$O_{2}$, $CO_{2}$, $O_{2}$ e $CO_{2}$",
+      "$O_{2}$, $CO_{2}$, $CO_{2}$ e $O_{2}$"
     ],
     "correct": 3,
     "resolution": [
@@ -4600,7 +4635,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q35-1.svg",
+        "alt": "Figura de apoio da questão 35."
+      }
+    ],
     "alternatives": [
       "A e d.",
       "A e B.",
@@ -4646,7 +4686,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q36-1.svg",
+        "alt": "Figura de apoio da questão 36."
+      }
+    ],
     "alternatives": [
       "meiose I.",
       "meiose II.",
@@ -4830,7 +4875,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "456.",
       "678.",
@@ -4922,11 +4972,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "800 cm2.",
-      "832 cm2.",
-      "864 cm2.",
-      "896 cm2.",
-      "928 cm2."
+      "800 cm².",
+      "832 cm².",
+      "864 cm².",
+      "896 cm².",
+      "928 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -5158,7 +5208,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q48-1.svg",
+        "alt": "Figura de apoio da questão 48."
+      }
+    ],
     "alternatives": [
       "78 cm.",
       "81 cm.",
@@ -5249,7 +5304,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a2/q50-1.svg",
+        "alt": "Figura de apoio da questão 50."
+      }
+    ],
     "alternatives": [
       "8 000 J.",
       "6 000 J.",
@@ -5590,9 +5650,9 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "aumentar a temperatura e aumentar a concentração de CH4 (g).",
+      "aumentar a temperatura e aumentar a concentração de $CH_{4}$ (g).",
       "aumentar a temperatura e aumentar a pressão.",
-      "diminuir a temperatura e aumentar a concentração de CH4 (g).",
+      "diminuir a temperatura e aumentar a concentração de $CH_{4}$ (g).",
       "diminuir a temperatura e aumentar a pressão.",
       "diminuir a temperatura e diminuir a pressão."
     ],
@@ -5832,11 +5892,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“ventos mornos espalharam na terra queimada uma poeira cinzenta” (1o parágrafo).",
-      "“Frio e calor, trevas densas e claridades ofuscantes” (1o parágrafo).",
-      "“pedaços de mim mesmo que boiavam no passado confuso” (2o parágrafo).",
-      "“Às vezes as peças se deslocavam — e surgiam estranhas mudanças” (2o parágrafo).",
-      "“Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado” (3o parágrafo)."
+      "“ventos mornos espalharam na terra queimada uma poeira cinzenta” (1º parágrafo).",
+      "“Frio e calor, trevas densas e claridades ofuscantes” (1º parágrafo).",
+      "“pedaços de mim mesmo que boiavam no passado confuso” (2º parágrafo).",
+      "“Às vezes as peças se deslocavam — e surgiam estra- nhas mudanças” (2º parágrafo).",
+      "“Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado” (3º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -5882,11 +5942,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Às vezes as peças se deslocavam — e surgiam estranhas mudanças” (2o parágrafo).",
-      "“E o céu era terrível, e os donos da casa eram fortes” (3o parágrafo).",
-      "“Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado” (3o parágrafo).",
-      "“Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos” (2o parágrafo).",
-      "“Fechava-se o doce parêntese — e isso me desorientava” (3o parágrafo)."
+      "“Às vezes as peças se deslocavam — e surgiam estra- nhas mudanças” (2º parágrafo).",
+      "“E o céu era terrível, e os donos da casa eram fortes” (3º parágrafo).",
+      "“Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado” (3º parágrafo).",
+      "“Os objetos se tornavam irreconhecíveis, e a humanida- de, feita de indivíduos que me atormentavam e indivídu- os que não me atormentavam, perdia os característicos” (2º parágrafo).",
+      "“Fechava-se o doce parêntese — e isso me desorientava” (3º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -6090,11 +6150,11 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Ora, na sala do poeta o relógio / marcava horas que ninguém vivera” (3a estrofe).",
-      "“pensando que fosse o avião / que levaria de sua noite furiosa” (2a estrofe).",
-      "“e nos olhos, vistos por fora, do poeta / vão nascer duas flores secas” (4a estrofe).",
-      "“No telefone do poeta / desceram vozes sem cabeça” (1a estrofe).",
-      "“Nuvens porém brancas de pássaros / acenderam a noite do poeta” (4a estrofe)."
+      "“Ora, na sala do poeta o relógio / marcava horas que ninguém vivera” (3ª estrofe).",
+      "“pensando que fosse o avião / que levaria de sua noite furiosa” (2ª estrofe).",
+      "“e nos olhos, vistos por fora, do poeta / vão nascer duas flores secas” (4ª estrofe).",
+      "“No telefone do poeta / desceram vozes sem cabeça” (1ª estrofe).",
+      "“Nuvens porém brancas de pássaros / acenderam a noite do poeta” (4ª estrofe)."
     ],
     "correct": 3,
     "resolution": [
@@ -6141,9 +6201,9 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "esportes individuais são mais indicados para crianças e adolescentes do que esportes coletivos.",
-      "meninas que praticam esportes coletivos têm mais dificuldade para cumprir regras.",
-      "crianças e adolescentes que praticam esportes coletivos têm menos probabilidade de ter problemas de saúde mental.",
-      "meninos costumam apresentar mais dificuldade de atenção do que meninas na prática de esportes coletivos.",
+      "meninas que praticam esportes coletivos têm mais difi- culdade para cumprir regras.",
+      "crianças e adolescentes que praticam esportes coleti- vos têm menos probabilidade de ter problemas de saúde mental.",
+      "meninos costumam apresentar mais dificuldade de aten- ção do que meninas na prática de esportes coletivos.",
       "esportes coletivos são mais indicados para adolescentes do que para crianças."
     ],
     "correct": 2,
@@ -6197,7 +6257,7 @@ export const uea2022Sis = [
       "presentar las programaciones turísticas de 2022.",
       "explicar en qué consiste una nueva propuesta culinaria.",
       "detallar el papel de los sentidos en el goce gastronómico.",
-      "describir la conjunción entre luz y música en los restaurantes."
+      "describir la conjunción entre luz y música en los restau- rantes."
     ],
     "correct": 2,
     "resolution": [
@@ -6456,7 +6516,7 @@ export const uea2022Sis = [
       "“mental health difficulties”.",
       "“levels”.",
       "“children and adolescents”.",
-      "“syndromes”. Leia o texto para responder às questões de 09 a 12. ¿Qué es la gastronomía inmersiva? La gastronomía inmersiva, cocina inmersiva o gastronomía hecha espectáculo, es la forma idónea de atraer comensales a tu restaurante, y es una de las tendencias en hostelería más populares para este año 2022. Algunos ejemplos de gastronomía inmersiva son todos aquellos restaurantes que permiten a los clientes formar parte en la preparación de los platos que ellos mismos han elegido en el menú. Otro ejemplo son los restaurantes que invitan a vivir una experiencia culinaria haciendo uso de todos los sentidos. También los restaurantes que usan imágenes, estímulos sonoros, aromáticos, visuales, táctiles y gustativos para hacer sentir que se está viviendo una experiencia que está más allá del hecho de comer. Para ello, los restaurantes se presentan acordes a la experiencia. A través de luz tenue y música adecuada para aprovechar de esta forma el poder de los sentidos, lo que hace de la cocina inmersiva una experiencia gastronómica sin igual. No podemos hablar de gastronomía inmersiva sin mencionar la importancia que tiene la tecnología para poder llevarla a cabo. La tecnología inmersiva abre enormes posibilidades para activar los sentidos en el mundo culinario y la hostelería. Esta cocina, impulsada por tecnología 3D, brinda a los comensales una experiencia integral y recibe recomendaciones adaptadas a sus gustos y preferencias. Gracias al uso de las nuevas tecnologías, el cliente puede percibir el brillo y los matices de los exquisitos platos que va a consumir. Además, esta tecnología no solo ayuda en la experiencia gastronómica de los platos, sino que también permite reconocer a los comensales cuando llegan al local. Puede darles la bienvenida y permitirles elegir lo que verán en su mesa, de forma multitáctil e interactiva. El contenido audiovisual potencia los aspectos lúdicos para brindar a los clientes una experiencia culinaria inolvidable, como puede ser el reconocimiento facial o los mapas de calor. (“Gastronomia inmersiva en hostelería”. https://controliza.com, 29.04.2022. Adaptado.)"
+      "“syndromes”."
     ],
     "correct": 3,
     "resolution": [
@@ -6610,11 +6670,11 @@ export const uea2022Sis = [
       }
     ],
     "alternatives": [
-      "expressa a indignação dos artistas acerca das transformações socioculturais.",
+      "expressa a indignação dos artistas acerca das transfor- mações socioculturais.",
       "critica as violências praticadas ao longo da Segunda Guerra Mundial.",
       "valoriza as cores vivas em detrimento das imagens sobrepostas.",
       "destaca situações polêmicas a partir do princípio “arte pela arte”.",
-      "provoca a reflexão sobre a construção dos valores estadunidenses."
+      "provoca a reflexão sobre a construção dos valores esta- dunidenses."
     ],
     "correct": 4,
     "resolution": [
@@ -6661,11 +6721,11 @@ export const uea2022Sis = [
       }
     ],
     "alternatives": [
-      "arrecadar fundos para a construção da rodovia Transamazônica e integrar o território nacional.",
-      "intensificar a produção de borracha e alterar o eixo político do país para derrubar Getúlio Vargas.",
+      "arrecadar fundos para a construção da rodovia Transa- mazônica e integrar o território nacional.",
+      "intensificar a produção de borracha e alterar o eixo políti- co do país para derrubar Getúlio Vargas.",
       "substituir o café como principal produto de exportação e alavancar a economia em crise.",
-      "suprir a demanda dos EUA e auxiliar os Aliados a vencerem a Segunda Guerra Mundial.",
-      "criar empregos para nordestinos e amenizar as desigualdades entre as regiões brasileiras."
+      "suprir a demanda dos EUA e auxiliar os Aliados a vence- rem a Segunda Guerra Mundial.",
+      "criar empregos para nordestinos e amenizar as desigual- dades entre as regiões brasileiras."
     ],
     "correct": 3,
     "resolution": [
@@ -7150,10 +7210,10 @@ export const uea2022Sis = [
     "images": [],
     "alternatives": [
       "proporcionar formas sustentáveis de geração de emprego para comunidades locais.",
-      "assegurar a efetividade das atividades agrícolas sustentáveis dos indígenas.",
-      "evitar os prejuízos ecológicos proporcionados pela migração das comunidades indígenas.",
+      "assegurar a efetividade das atividades agrícolas susten- táveis dos indígenas.",
+      "evitar os prejuízos ecológicos proporcionados pela mi- gração das comunidades indígenas.",
       "permitir o desenvolvimento de projetos de educação ambiental para conscientização da população local.",
-      "garantir a efetividade da atuação dos órgãos de fiscalização ambiental na preservação da biodiversidade."
+      "garantir a efetividade da atuação dos órgãos de fiscaliza- ção ambiental na preservação da biodiversidade."
     ],
     "correct": 4,
     "resolution": [
@@ -7199,7 +7259,7 @@ export const uea2022Sis = [
     "alternatives": [
       "a modernização das áreas de exploração mineral.",
       "a matriz de transporte precária e concentrada no setor rodoviário.",
-      "a pressão da União Europeia para reduzir tarifas alfandegárias.",
+      "a pressão da União Europeia para reduzir tarifas alfan- degárias.",
       "a concorrência das rotas comerciais chinesas com os produtos africanos.",
       "a influência política dos países do Oriente Médio na exploração de petróleo."
     ],
@@ -7243,7 +7303,12 @@ export const uea2022Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a3/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
       "o aumento da capacidade de carga com baixo impacto ambiental.",
       "o cumprimento das metas do Acordo de Paris assumido pelo Brasil até 2028.",
@@ -7340,8 +7405,8 @@ export const uea2022Sis = [
     "alternatives": [
       "viroses transmitidas por picada de inseto contaminado.",
       "viroses transmitidas por gotículas de saliva.",
-      "bacterioses transmitidas por picada de carrapato contaminado.",
-      "bacterioses transmitidas por ingestão de água contaminada.",
+      "bacterioses transmitidas por picada de carrapato conta- minado.",
+      "bacterioses transmitidas por ingestão de água contami- nada.",
       "bacterioses transmitidas por relação sexual sem proteção."
     ],
     "correct": 0,
@@ -7383,9 +7448,9 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "da mesma espécie e pertencem obrigatoriamente à mesma classe.",
+      "da mesma espécie e pertencem obrigatoriamente à mes- ma classe.",
       "da mesma ordem e podem ser do mesmo reino.",
-      "do mesmo gênero e pertencem obrigatoriamente à mesma família.",
+      "do mesmo gênero e pertencem obrigatoriamente à mes- ma família.",
       "do mesmo gênero e podem ser da mesma divisão.",
       "da mesma ordem e podem ser da mesma espécie."
     ],
@@ -7614,7 +7679,7 @@ export const uea2022Sis = [
       "têm a mesma origem embrionária e evidenciam um caso de irradiação adaptativa.",
       "têm origens embrionárias diferentes e evidenciam um caso de irradiação adaptativa.",
       "decorreram de mutações direcionadas e demonstram uma semelhança ao acaso.",
-      "decorreram de seleção natural, que resulta da necessidade de adaptação ao meio."
+      "decorreram de seleção natural, que resulta da necessida- de de adaptação ao meio."
     ],
     "correct": 1,
     "resolution": [
@@ -7654,7 +7719,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a3/q36-1.svg",
+        "alt": "Figura de apoio da questão 36."
+      }
+    ],
     "alternatives": [
       "mutualismo.",
       "protocooperação.",
@@ -7791,7 +7861,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a3/q39-1.svg",
+        "alt": "Figura de apoio da questão 39."
+      }
+    ],
     "alternatives": [
       "4.",
       "5.",
@@ -8290,7 +8365,12 @@ export const uea2022Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2022-a3/q50-1.svg",
+        "alt": "Figura de apoio da questão 50."
+      }
+    ],
     "alternatives": [
       "1 Ω.",
       "3 Ω.",
@@ -8382,10 +8462,10 @@ export const uea2022Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a agulha de uma bússola é um ímã e o lado que aponta para o polo Norte geográfico terrestre é o polo Norte magnético desse ímã.",
+      "a agulha de uma bússola é um ímã e o lado que aponta para o polo Norte geográfico terrestre é o polo Norte mag- nético desse ímã.",
       "alguns ímãs que apresentam apenas um polo magnético, podendo ser ele somente o polo Sul ou somente o polo Norte.",
-      "em um ímã o polo magnético Norte produz um campo magnético mais intenso que o produzido pelo polo magnético Sul.",
-      "além dos polos magnéticos Norte e Sul, os ímãs também apresentam os polos magnéticos Leste e Oeste indicados em bússolas.",
+      "em um ímã o polo magnético Norte produz um campo magnético mais intenso que o produzido pelo polo mag- nético Sul.",
+      "além dos polos magnéticos Norte e Sul, os ímãs também apresentam os polos magnéticos Leste e Oeste indica- dos em bússolas.",
       "se um ímã for partido, na região entre seus polos, em dois pedaços idênticos, uma das partes apresentará somente o polo Sul e a outra somente o polo Norte."
     ],
     "correct": 0,

@@ -78,7 +78,7 @@ export const uea2023Sis = [
       "enigmático.",
       "metalinguístico.",
       "contraditório.",
-      "satírico. Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655. Assim como Cristo, Senhor nosso, disse a Dimas1: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu2: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença. (Antônio Vieira. Essencial, 2011. Adaptado.) 1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano."
+      "satírico."
     ],
     "correct": 2,
     "resolution": [
@@ -113,7 +113,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nSegundo Antônio Vieira, Jesus Cristo não prometeu logo a salvação a Zaqueu porque este",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nSegundo Antônio Vieira, Jesus Cristo não prometeu logo a salvação a Zaqueu porque este",
     "blockTypes": [
       "prose",
       "prose",
@@ -123,7 +123,7 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "precisava antes se arrepender verdadeiramente dos roubos praticados.",
+      "precisava antes se arrepender verdadeiramente dos rou- bos praticados.",
       "era pobre e não teria como devolver o que havia roubado.",
       "precisava antes devolver o que havia roubado.",
       "era pobre e havia roubado por necessidade.",
@@ -162,7 +162,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nDe acordo com o sermão, Dimas não teria sido condenado",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nDe acordo com o sermão, Dimas não teria sido condenado",
     "blockTypes": [
       "prose",
       "prose",
@@ -211,7 +211,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz”, a locução sublinhada pode ser substituída, sem qualquer prejuízo para o sentido da frase, por:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz”, a locução sublinhada pode ser substituída, sem qualquer prejuízo para o sentido da frase, por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -260,7 +260,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa”, o termo sublinhado pode ser substituído, sem prejuízo para o sentido do texto, por:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa”, o termo sublinhado pode ser substituído, sem prejuízo para o sentido do texto, por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -309,7 +309,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nPor razões estilísticas, Antônio Vieira recorre a várias inversões (ou seja, a alterações da ordem direta da frase). Em ordem direta, o trecho “a Dimas prometeu [...] o Senhor a salvação” assume a seguinte redação:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nPor razões estilísticas, Antônio Vieira recorre a várias inversões (ou seja, a alterações da ordem direta da frase). Em ordem direta, o trecho “a Dimas prometeu [...] o Senhor a salvação” assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -369,7 +369,7 @@ export const uea2023Sis = [
       }
     ],
     "alternatives": [
-      "barroca, retratando elementos que aludem à efemeridade da vida.",
+      "barroca, retratando elementos que aludem à efemerida- de da vida.",
       "árcade, retratando elementos que aludem à fruição da vida.",
       "quinhentista, retratando elementos que aludem ao início da colonização brasileira.",
       "árcade, retratando elementos que aludem ao tópico do “bucolismo”.",
@@ -723,7 +723,7 @@ export const uea2023Sis = [
     ],
     "alternatives": [
       "pela coexistência entre a aproximação e o controle dos trabalhadores.",
-      "pelas falsas promessas do presidente de criação da legislação trabalhista.",
+      "pelas falsas promessas do presidente de criação da le- gislação trabalhista.",
       "pela liberdade dada aos movimentos e associações trabalhistas.",
       "pela defesa da soberania popular nas decisões de cunho político.",
       "pela valorização da cultura como formadora de cidadãos críticos."
@@ -1059,8 +1059,8 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "jovem, o que evidencia uma situação de elevado crescimento vegetativo.",
-      "jovem, o que evidencia uma situação de bônus demográfico.",
+      "jovem, o que evidencia uma situação de elevado cresci- mento vegetativo.",
+      "jovem, o que evidencia uma situação de bônus demo- gráfico.",
       "jovem, o que contribui para uma razão de dependência maior.",
       "idosa, o que evidencia uma situação de envelhecimento populacional.",
       "idosa, o que contribui para uma razão de dependência menor."
@@ -1111,11 +1111,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "conservação da floresta amazônica, em oposição à expansão econômica capitalista que degrada o meio ambiente.",
-      "ampliação das terras demarcadas como propriedade privada, com o intuito de minimizar a ação de garimpeiros.",
-      "manutenção das condições de vida das comunidades indígenas, visto que estas foram os primeiros habitantes do território.",
+      "conservação da floresta amazônica, em oposição à expan- são econômica capitalista que degrada o meio ambiente.",
+      "ampliação das terras demarcadas como propriedade pri- vada, com o intuito de minimizar a ação de garimpeiros.",
+      "manutenção das condições de vida das comunidades in- dígenas, visto que estas foram os primeiros habitantes do território.",
       "defesa da cultura indígena pela arte, em ruptura com a invisibilidade imposta pela sociedade capitalista.",
-      "garantia aos indígenas do direito de manter seus costumes nas cidades, com o intuito de reduzir o preconceito."
+      "garantia aos indígenas do direito de manter seus costu- mes nas cidades, com o intuito de reduzir o preconceito."
     ],
     "correct": 3,
     "resolution": [
@@ -1161,7 +1161,7 @@ export const uea2023Sis = [
     "images": [],
     "alternatives": [
       "formação de tecnopolos, com o controle de bens de consumo.",
-      "substituição de importação, com o fornecimento de gêneros agropecuários.",
+      "substituição de importação, com o fornecimento de gêne- ros agropecuários.",
       "instalação de centros logísticos, com a isenção de impostos.",
       "criação de áreas de livre comércio, com a disponibilidade de mão de obra barata.",
       "difusão das exportações, com a instalação de empresas multinacionais."
@@ -1211,9 +1211,9 @@ export const uea2023Sis = [
     "alternatives": [
       "padronização da sociedade, intensificada pelo processo de globalização.",
       "valorização de costumes ocidentais, difundida pela internet no período da Guerra Fria.",
-      "disputa econômica entre as empresas mundiais, favorecida pelo capitalismo comercial.",
-      "divisão internacional do trabalho, marcada pelo estabelecimento da seguridade social.",
-      "dinâmica das redes imateriais e materiais, ampliada pelos acordos comerciais supranacionais."
+      "disputa econômica entre as empresas mundiais, favore- cida pelo capitalismo comercial.",
+      "divisão internacional do trabalho, marcada pelo estabele- cimento da seguridade social.",
+      "dinâmica das redes imateriais e materiais, ampliada pe- los acordos comerciais supranacionais."
     ],
     "correct": 0,
     "resolution": [
@@ -1351,7 +1351,12 @@ export const uea2023Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q28-1.svg",
+        "alt": "Figura de apoio da questão 28."
+      }
+    ],
     "alternatives": [
       "facilidade da emissão de documentação de cidadania brasileira.",
       "ausência de comportamentos de aversão a estrangeiros.",
@@ -1630,11 +1635,11 @@ export const uea2023Sis = [
       }
     ],
     "alternatives": [
-      "H2O, O2 e N2",
-      "CO, H2O e O2",
-      "CO2, O2 e N2",
-      "CO2, O2 e H2O",
-      "H2O, CO2 e O3"
+      "$H_{2}$O, $O_{2}$ e $N_{2}$",
+      "CO, $H_{2}$O e $O_{2}$",
+      "$CO_{2}$, $O_{2}$ e $N_{2}$",
+      "$CO_{2}$, $O_{2}$ e $H_{2}$O",
+      "$H_{2}$O, $CO_{2}$ e $O_{3}$"
     ],
     "correct": 3,
     "resolution": [
@@ -1678,7 +1683,7 @@ export const uea2023Sis = [
       "verdadeira, porque o corpo desenvolve uma tolerância à droga.",
       "verdadeira, porque o corpo necessita da droga para ter a abstinência.",
       "falsa, porque o corpo consegue regular a eliminação da droga na urina.",
-      "falsa, porque o corpo fica cada vez mais imune aos efeitos da droga.",
+      "falsa, porque o corpo fica cada vez mais imune aos efei- tos da droga.",
       "falsa, porque o corpo decompõe rapidamente a droga no fígado."
     ],
     "correct": 0,
@@ -1809,13 +1814,18 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
-      "6 cm2.",
-      "12 cm2.",
-      "24 cm2.",
-      "30 cm2.",
-      "60 cm2."
+      "6 cm².",
+      "12 cm².",
+      "24 cm².",
+      "30 cm².",
+      "60 cm²."
     ],
     "correct": 3,
     "resolution": [
@@ -1855,13 +1865,18 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
-      "20 cm2.",
-      "25 cm2.",
-      "30 cm2.",
-      "35 cm2.",
-      "40 cm2."
+      "20 cm².",
+      "25 cm².",
+      "30 cm².",
+      "35 cm².",
+      "40 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -1905,7 +1920,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "19 cm.",
       "19,4 cm.",
@@ -2184,11 +2204,11 @@ export const uea2023Sis = [
       }
     ],
     "alternatives": [
-      "0,1 m/s2.",
-      "0,2 m/s2.",
-      "0,4 m/s2.",
-      "1,2 m/s2.",
-      "1,8 m/s2."
+      "0,1 m/$s^{2}$.",
+      "0,2 m/$s^{2}$.",
+      "0,4 m/$s^{2}$.",
+      "1,2 m/$s^{2}$.",
+      "1,8 m/$s^{2}$."
     ],
     "correct": 1,
     "resolution": [
@@ -2277,10 +2297,10 @@ export const uea2023Sis = [
     "images": [],
     "alternatives": [
       "a lã, utilizada na fabricação de roupas, cobertores e edredons.",
-      "a borracha, presente nos trajes usados por mergulhadores e surfistas.",
+      "a borracha, presente nos trajes usados por mergulhado- res e surfistas.",
       "a manta de fibra de vidro, que preenche o interior das paredes de geladeiras.",
-      "o isopor, do qual são feitas caixas térmicas para transporte de alimentos.",
-      "o aço, empregado nas chapas para preparação de hambúrgueres em lanchonetes."
+      "o isopor, do qual são feitas caixas térmicas para transpor- te de alimentos.",
+      "o aço, empregado nas chapas para preparação de ham- búrgueres em lanchonetes."
     ],
     "correct": 4,
     "resolution": [
@@ -2320,7 +2340,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q51-1.svg",
+        "alt": "Figura de apoio da questão 51."
+      }
+    ],
     "alternatives": [
       "290 m.",
       "340 m.",
@@ -2598,7 +2623,12 @@ export const uea2023Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a1/q57-1.svg",
+        "alt": "Figura de apoio da questão 57."
+      }
+    ],
     "alternatives": [
       "o hélio e o oxigênio.",
       "o oxigênio e nitrogênio.",
@@ -2858,11 +2888,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“— Vejamos, pensava ele; vejamos se chego enfim à última verdade.” (3o parágrafo)",
-      "“— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?” (5o parágrafo)",
-      "“Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.” (6o parágrafo)",
-      "“Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado?” (7o parágrafo)",
-      "“A aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem.” (8o parágrafo)"
+      "“— Vejamos, pensava ele; vejamos se chego enfim à últi- ma verdade.” (3º parágrafo)",
+      "“— Mas deveras estariam eles doidos, e foram cura- dos por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?” (5º parágrafo)",
+      "“Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.” (6º parágrafo)",
+      "“Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado?” (7º parágrafo)",
+      "“A aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem.” (8º parágrafo)"
     ],
     "correct": 3,
     "resolution": [
@@ -2917,11 +2947,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Agora, se imaginais que o alienista ficou radiante ao ver sair o último hóspede da Casa Verde, mostrais com isso que ainda não conheceis o nosso homem.” (2o parágrafo)",
-      "“Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão.” (2o parágrafo)",
-      "“Dizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade.” (4o parágrafo)",
-      "“Chegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento.” (7o parágrafo)",
-      "“Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão.” (8o parágrafo)"
+      "“Agora, se imaginais que o alienista ficou radiante ao ver sair o último hóspede da Casa Verde, mostrais com isso que ainda não conheceis o nosso homem.” (2º parágrafo)",
+      "“Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão.” (2º parágrafo)",
+      "“Dizia isto, passeando ao longo da vasta sala, onde fulgu- rava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade.” (4º parágrafo)",
+      "“Chegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento.” (7º parágrafo)",
+      "“Mas as tempestades só aterram os fracos; os fortes enri- jam-se contra elas e fitam o trovão.” (8º parágrafo)"
     ],
     "correct": 0,
     "resolution": [
@@ -3035,11 +3065,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“teoria verdadeira” (2o parágrafo).",
-      "“tenebroso problema” (4o parágrafo).",
-      "“pacientes investigações” (7o parágrafo).",
-      "“primeiro efeito” (7o parágrafo).",
-      "“perfeito equilíbrio” (10o parágrafo)."
+      "“teoria verdadeira” (2$\\frac{o}{o}$ parágrafo).",
+      "“tenebroso problema” (4 parágrafo).",
+      "“pacientes investigações” (7º parágrafo).",
+      "“primeiro efeito” (7$\\frac{o}{o}$ parágrafo).",
+      "“perfeito equilíbrio” (10 parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -3153,11 +3183,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral” (10o parágrafo).",
-      "“alumiou-se a fisionomia do alienista de uma suave claridade” (8o parágrafo).",
-      "“as tempestades só aterram os fracos; os fortes enrijam-se contra elas” (8o parágrafo).",
-      "“a teoria nova tinha, em si mesma, outra e novíssima teoria” (2o parágrafo).",
-      "“No fim de cinco meses e meio estava vazia a Casa Verde” (1o parágrafo)."
+      "“Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral” (10º parágrafo).",
+      "“alumiou-se a fisionomia do alienista de uma suave clari- dade” (8º parágrafo).",
+      "“as tempestades só aterram os fracos; os fortes enrijam- -se contra elas” (8º parágrafo).",
+      "“a teoria nova tinha, em si mesma, outra e novíssima teoria” (2º parágrafo).",
+      "“No fim de cinco meses e meio estava vazia a Casa Verde” (1º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -3459,7 +3489,7 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "menosprezava a figura papal ao divulgar os princípios religiosos de forma heterogênea.",
+      "menosprezava a figura papal ao divulgar os princípios re- ligiosos de forma heterogênea.",
       "continuava com suas ideias inacessíveis ao pregar no idioma falado pelos devotos.",
       "priorizava a frequência dos fiéis às missas em detrimento do pagamento do dízimo.",
       "defendia a liberdade de interpretação do livro sagrado aos seus frequentadores.",
@@ -3509,8 +3539,8 @@ export const uea2023Sis = [
     "alternatives": [
       "o desejo dos colonos em romper com as referências metropolitanas.",
       "a relação amistosa entre holandeses e ingleses na colonização.",
-      "o interesse dos ingleses na posse de territórios sul-americanos.",
-      "a criação de uma nova memória histórica a partir da colonização do espaço.",
+      "o interesse dos ingleses na posse de territórios sul- -americanos.",
+      "a criação de uma nova memória histórica a partir da co- lonização do espaço.",
       "o respeito dos holandeses em relação ao Tratado de Tordesilhas."
     ],
     "correct": 3,
@@ -3653,7 +3683,7 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "na concordância ou discordância com os ideais totalitários europeus.",
+      "na concordância ou discordância com os ideais totalitá- rios europeus.",
       "no desenvolvimento econômico e cultural do país.",
       "na resolução do maior conflito bélico ocorrido até aquele momento.",
       "em uma nova tentativa de conter a crise da produção cafeeira.",
@@ -3706,7 +3736,7 @@ export const uea2023Sis = [
     ],
     "alternatives": [
       "à relação de trabalho demonstrada na permanência da escravidão.",
-      "à celebração do casamento religioso revelado em segundo plano.",
+      "à celebração do casamento religioso revelado em segun- do plano.",
       "à desorganização do espaço urbano evidenciada pela paisagem.",
       "à desigualdade social expressa nas distintas relações com o alimento.",
       "à incoerência entre a tradição oriental e as roupas ocidentalizadas."
@@ -3900,7 +3930,7 @@ export const uea2023Sis = [
     "alternatives": [
       "a redistribuição da renda e o aquecimento da economia nacional.",
       "as políticas de repatriação e a formação de mão de obra qualificada.",
-      "os comportamentos preconceituosos e a violência praticada por grupos locais.",
+      "os comportamentos preconceituosos e a violência prati- cada por grupos locais.",
       "a concessão de terras e a formação de conglomerados industriais.",
       "os investimentos em agrovilas e a instalação de parques nucleares."
     ],
@@ -3954,7 +3984,7 @@ export const uea2023Sis = [
       "a intensificação da demarcação das terras indígenas e o registro de patentes na Amazônia.",
       "a manutenção da soberania nacional e a diminuição da vulnerabilidade de proteção da Amazônia.",
       "a instalação de infraestrutura para ocupação territorial e a vigilância das reservas indígenas.",
-      "a interiorização da população local e a instalação de postos de saúde para indígenas.",
+      "a interiorização da população local e a instalação de pos- tos de saúde para indígenas.",
       "a ampliação de radares para monitoramento da floresta e a fiscalização da rede de transporte."
     ],
     "correct": 1,
@@ -4246,10 +4276,10 @@ export const uea2023Sis = [
     "images": [],
     "alternatives": [
       "da ruptura das placas tectônicas, que libera gases do magma.",
-      "dos raios ultravioletas, que aquecem diretamente a superfície terrestre.",
+      "dos raios ultravioletas, que aquecem diretamente a su- perfície terrestre.",
       "das atividades microbianas, sobretudo da decomposição de seres marinhos.",
       "das erupções vulcânicas recorrentes na região do círculo do fogo.",
-      "das ações antrópicas, sobretudo da queima de combustíveis fósseis."
+      "das ações antrópicas, sobretudo da queima de combus- tíveis fósseis."
     ],
     "correct": 4,
     "resolution": [
@@ -4294,9 +4324,9 @@ export const uea2023Sis = [
     "alternatives": [
       "utilizar uma enzima de restrição para cortar um gene específico.",
       "que esse organismo não consiga expressar seus genes naturais.",
-      "que esse organismo não gere descendentes com os genes de outras espécies.",
-      "inserir uma enzima no RNA produzido por vírus para expressarem os genes.",
-      "que alguma proteína consiga se expressar quando exposta à radiação U.V."
+      "que esse organismo não gere descendentes com os ge- nes de outras espécies.",
+      "inserir uma enzima no RNA produzido por vírus para ex- pressarem os genes.",
+      "que alguma proteína consiga se expressar quando ex- posta à radiação U.V."
     ],
     "correct": 0,
     "resolution": [
@@ -4478,7 +4508,7 @@ export const uea2023Sis = [
     "alternatives": [
       "provoca mutações gênicas aleatórias.",
       "estimula a formação de pinossomos.",
-      "bloqueia a penetração de gás O2 nas células.",
+      "bloqueia a penetração de gás $O_{2}$ nas células.",
       "induz a produção de moléculas de ATP.",
       "promove a descondensação dos cromossomos."
     ],
@@ -4569,9 +4599,9 @@ export const uea2023Sis = [
     "images": [],
     "alternatives": [
       "a extinção de espécies polinizadoras, como abelhas e borboletas.",
-      "a explosão populacional de bactérias fixadoras de substâncias nitrogenadas.",
+      "a explosão populacional de bactérias fixadoras de subs- tâncias nitrogenadas.",
       "a rápida seleção natural de ervas daninhas resistentes às pragas.",
-      "a fragmentação das áreas destinadas à produção agroflorestal.",
+      "a fragmentação das áreas destinadas à produção agro- florestal.",
       "o combate às pragas agrícolas em função do controle biológico."
     ],
     "correct": 0,
@@ -4613,7 +4643,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q37-1.svg",
+        "alt": "Figura de apoio da questão 37."
+      }
+    ],
     "alternatives": [
       "16.",
       "32.",
@@ -4654,7 +4689,7 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere as seguintes funções de uma linguagem de programação e a explicação de seu uso: • \u0007Resto10(y); essa função recebe uma variável y representando um número real, calcula o resto da divisão de y por 10 e armazena o resultado na variável y. Por exemplo, se y = 23, após a execução de Resto10(y), o valor da variável y será 3, pois o resto da divisão de 23 por 10 é 3. • \u0007Soma(y, q); essa função recebe uma variável y e um número q e executa a soma y + q, armazenando o resultado na variável y. Por exemplo, supondo-se que a variável y esteja armazenando o número 12; após a execução de Soma(y, 3), o valor da variável y passará a ser 15, pois 12 + 3 = 15. Nessa linguagem, a instrução executa todos os comandos entre chaves n vezes, em que n é uma variável que armazena um número inteiro. Considere o seguinte código escrito nessa linguagem:\n\nn = 3;\ny = 24;\nRepete n\n{\nResto10(y);\nSoma(y, 12);\n}\n\nAo fim da execução desse código, o valor da variável y será",
+    "statement": "Considere as seguintes funções de uma linguagem de programação e a explicação de seu uso: • Resto10(y); essa função recebe uma variável y representando um número real, calcula o resto da divisão de y por 10 e armazena o resultado na variável y. Por exemplo, se y = 23, após a execução de Resto10(y), o valor da variável y será 3, pois o resto da divisão de 23 por 10 é 3. • Soma(y, q); essa função recebe uma variável y e um número q e executa a soma y + q, armazenando o resultado na variável y. Por exemplo, supondo-se que a variável y esteja armazenando o número 12; após a execução de Soma(y, 3), o valor da variável y passará a ser 15, pois 12 + 3 = 15. Nessa linguagem, a instrução executa todos os comandos entre chaves n vezes, em que n é uma variável que armazena um número inteiro. Considere o seguinte código escrito nessa linguagem:\n\nn = 3;\ny = 24;\nRepete n\n{\nResto10(y);\nSoma(y, 12);\n}\n\nAo fim da execução desse código, o valor da variável y será",
     "blockTypes": [
       "prose",
       "poem",
@@ -4754,13 +4789,18 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
-      "140 cm2.",
-      "164 cm2.",
-      "188 cm2.",
-      "212 cm2.",
-      "236 cm2."
+      "140 cm².",
+      "164 cm².",
+      "188 cm².",
+      "212 cm².",
+      "236 cm²."
     ],
     "correct": 2,
     "resolution": [
@@ -4801,7 +4841,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
       "15,5 anos.",
       "15,8 anos.",
@@ -4847,7 +4892,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "3.",
       "4.",
@@ -5085,11 +5135,11 @@ export const uea2023Sis = [
       }
     ],
     "alternatives": [
-      "3 × 108 Hz e 3 × 1014 Hz.",
-      "3 × 1014 Hz e 3 × 1022 Hz.",
-      "3 × 1014 Hz e 3 × 1020 Hz.",
-      "3 × 1016 Hz e 3 × 1020 Hz.",
-      "3 × 1016 Hz e 3 × 1022 Hz."
+      "3 × $10^{8}$ Hz e 3 × $10^{14}$ Hz.",
+      "3 × $10^{14}$ Hz e 3 × $10^{22}$ Hz.",
+      "3 × $10^{14}$ Hz e 3 × $10^{20}$ Hz.",
+      "3 × $10^{16}$ Hz e 3 × $10^{20}$ Hz.",
+      "3 × $10^{16}$ Hz e 3 × $10^{22}$ Hz."
     ],
     "correct": 4,
     "resolution": [
@@ -5129,7 +5179,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q48-1.svg",
+        "alt": "Figura de apoio da questão 48."
+      }
+    ],
     "alternatives": [
       "um refrigerador – maior – maior.",
       "um refrigerador – menor – menor.",
@@ -5364,11 +5419,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "na produção de glicose pelas plantas a partir da fotossíntese.",
+      "na produção de glicose pelas plantas a partir da fotos- síntese.",
       "no aquecimento de água por placas de captação solar.",
       "na geração de eletricidade por efeito fotoelétrico.",
       "no aquecimento de um ambiente em uma estufa de vidro.",
-      "na formação de correntes de vento para movimentar turbinas eólicas."
+      "na formação de correntes de vento para movimentar tur- binas eólicas."
     ],
     "correct": 0,
     "resolution": [
@@ -5416,11 +5471,11 @@ export const uea2023Sis = [
       }
     ],
     "alternatives": [
-      "aumenta uma unidade, formando um núcleo de , o nitrogênio-14.",
-      "aumenta uma unidade, formando um núcleo de , o nitrogênio-15.",
-      "aumenta duas unidades, formando um núcleo de , o oxigênio-14.",
-      "diminui uma unidade, formando um núcleo de , o boro-14.",
-      "diminui uma unidade, formando um núcleo de , o boro-13."
+      "aumenta uma unidade, formando um núcleo de, o nitrogênio-14.",
+      "aumenta uma unidade, formando um núcleo de, o nitrogênio-15.",
+      "aumenta duas unidades, formando um núcleo de, o oxigênio-14.",
+      "diminui uma unidade, formando um núcleo de, o boro-14.",
+      "diminui uma unidade, formando um núcleo de, o boro-13."
     ],
     "correct": 0,
     "resolution": [
@@ -5510,10 +5565,10 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "evitar o mau cheiro produzido pelos resíduos orgânicos enterrados e produzir gases que neutralizam a chuva ácida.",
-      "gerar energia limpa e reduzir a emissão de gases de efeito estufa.",
+      "evitar o mau cheiro produzido pelos resíduos orgânicos en- terrados e produzir gases que neutralizam a chuva ácida.",
+      "gerar energia limpa e reduzir a emissão de gases de efei- to estufa.",
       "gerar energia limpa e produzir gases que neutralizam a chuva ácida.",
-      "produzir gases que neutralizam a chuva ácida e minimizam o efeito estufa.",
+      "produzir gases que neutralizam a chuva ácida e minimi- zam o efeito estufa.",
       "contribuir com a diminuição de insetos e roedores atraídos pelo odor do lixo em decomposição."
     ],
     "correct": 1,
@@ -5564,7 +5619,7 @@ export const uea2023Sis = [
     "alternatives": [
       "elétrons migram do metal menos reativo para o metal mais reativo.",
       "íons positivos da ponte salina migram para o béquer em que ocorre corrosão do eletrodo.",
-      "as soluções dos compartimentos anódico e catódico permanecem eletricamente neutras.",
+      "as soluções dos compartimentos anódico e catódico per- manecem eletricamente neutras.",
       "os eletrodos que constituem o cátodo e o ânodo sofrem corrosão.",
       "a ddp registrada no voltímetro permanece constante."
     ],
@@ -5704,7 +5759,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a2/q60-1.svg",
+        "alt": "Figura de apoio da questão 60."
+      }
+    ],
     "alternatives": [
       "síntese limpa e economia atômica.",
       "síntese limpa e otimização do uso de energia.",
@@ -5760,11 +5820,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo.” (2o parágrafo)",
-      "“Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: ‘Se não era formado, para quê? Pedantismo!’” (2o parágrafo)",
-      "“Eram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro.” (4o parágrafo)",
-      "“Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?” (4o parágrafo)",
-      "“E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”” (6o parágrafo)"
+      "“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam es- quisito e misantropo.” (2º parágrafo)",
+      "“Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Sega- das, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: ‘Se não era formado, para quê? Pedantismo!’” (2º parágrafo)",
+      "“Eram esses os seus hábitos; ultimamente, porém, mu- dara um pouco; e isso provocava comentários no bairro.” (4º parágrafo)",
+      "“Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?” (4º parágrafo)",
+      "“E as cordas vibravam vagarosamente a nota ferida; em se- guida, o mestre aduzia: “É ‘ré’, aprendeu?”” (6º parágrafo)"
     ],
     "correct": 3,
     "resolution": [
@@ -5961,7 +6021,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNa construção de seu poema, Murilo Mendes mobiliza fundamentalmente o seguinte recurso expressivo:",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 gaturamo: espécie de pássaro. 2 monista: relativo a monismo, uma vertente filosófica. 3 sururu: briga envolvendo muitas pessoas, confusão. 4 Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNa construção de seu poema, Murilo Mendes mobiliza fundamentalmente o seguinte recurso expressivo:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6011,7 +6071,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nPredomina no poema de Murilo Mendes um tom",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 gaturamo: espécie de pássaro. 2 monista: relativo a monismo, uma vertente filosófica. 3 sururu: briga envolvendo muitas pessoas, confusão. 4 Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nPredomina no poema de Murilo Mendes um tom",
     "blockTypes": [
       "prose",
       "prose",
@@ -6061,7 +6121,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNo poema, o eu lírico",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 gaturamo: espécie de pássaro. 2 monista: relativo a monismo, uma vertente filosófica. 3 sururu: briga envolvendo muitas pessoas, confusão. 4 Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNo poema, o eu lírico",
     "blockTypes": [
       "prose",
       "prose",
@@ -6111,7 +6171,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nConsiderando o contexto em que se encontra e sem prejuízo para a correção gramatical do verso, pode-se inserir uma vírgula em:",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia onde cantam gaturamos¹ de Veneza. Os poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 gaturamo: espécie de pássaro. 2 monista: relativo a monismo, uma vertente filosófica. 3 sururu: briga envolvendo muitas pessoas, confusão. 4 Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nConsiderando o contexto em que se encontra e sem prejuízo para a correção gramatical do verso, pode-se inserir uma vírgula em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6122,11 +6182,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“onde cantam gaturamos de Veneza.” (1a estrofe) → onde cantam, gaturamos de Veneza.",
-      "“Os poetas da minha terra” (1a estrofe) → Os poetas, da minha terra",
-      "“A gente não pode dormir” (1a estrofe) → A gente não, pode dormir",
-      "“Nossas flores são mais bonitas” (1a estrofe) → Nossas flores, são mais bonitas",
-      "“nossas frutas mais gostosas” (1a estrofe) → nossas frutas, mais gostosas"
+      "“onde cantam gaturamos de Veneza.” (1ª estrofe) → onde cantam, gaturamos de Veneza.",
+      "“Os poetas da minha terra” (1ª estrofe) → Os poetas, da minha terra",
+      "“A gente não pode dormir” (1ª estrofe) → A gente não, pode dormir",
+      "“Nossas flores são mais bonitas” (1ª estrofe) → Nossas flores, são mais bonitas",
+      "“nossas frutas mais gostosas” (1ª estrofe) → nossas frutas, mais gostosas"
     ],
     "correct": 4,
     "resolution": [
@@ -6710,7 +6770,7 @@ export const uea2023Sis = [
     ],
     "alternatives": [
       "a integração econômica com a criação de núcleos de colonização.",
-      "o entreguismo com o aumento da presença de multinacionais.",
+      "o entreguismo com o aumento da presença de multi- nacionais.",
       "a consolidação da identidade nacional com a democracia varguista.",
       "a valorização do indígena com inspiração no exemplo estadunidense.",
       "o incentivo às ferrovias com favorecimento do fluxo da produção regional."
@@ -7004,11 +7064,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "da instalação de infraestrutura e de projetos econômicos que permitiram um novo padrão de articulação e fragmentação entre as cidades.",
+      "da instalação de infraestrutura e de projetos econômicos que permitiram um novo padrão de articulação e frag- mentação entre as cidades.",
       "de investimentos privados e sociais que introduziram um novo padrão dos núcleos urbanos com a realocação da população.",
-      "do processo migratório incentivado pelo governo que favoreceu o surgimento de núcleos urbanos ribeirinhos.",
-      "da integração produtiva por meio de hidrovias que permitiu a consolidação da indústria nos núcleos urbanos ribeirinhos.",
-      "da formação de centros de pesquisa que permitiu a consolidação de tecnopolos e a fragmentação das áreas urbanas."
+      "do processo migratório incentivado pelo governo que fa- voreceu o surgimento de núcleos urbanos ribeirinhos.",
+      "da integração produtiva por meio de hidrovias que per- mitiu a consolidação da indústria nos núcleos urbanos ribeirinhos.",
+      "da formação de centros de pesquisa que permitiu a con- solidação de tecnopolos e a fragmentação das áreas urbanas."
     ],
     "correct": 0,
     "resolution": [
@@ -7100,9 +7160,9 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "as cidades que menos crescem são as cidades menores, com até 20 000 habitantes, devido ao processo de êxodo rural.",
+      "as cidades que menos crescem são as cidades meno- res, com até 20 000 habitantes, devido ao processo de êxodo rural.",
       "as cidades que mais crescem são as cidades com mais de 500 000 habitantes, devido ao processo de metropolização.",
-      "as grandes cidades, com mais de 1 000 000 de habitantes, são as que mais crescem devido ao processo de especulação imobiliária.",
+      "as grandes cidades, com mais de 1 000 000 de habitan- tes, são as que mais crescem devido ao processo de especulação imobiliária.",
       "o crescimento das cidades médias, entre 100 000 a 500 000 habitantes, é consequência do processo de desmetropolização.",
       "o crescimento das cidades pequenas, entre 20 000 a 50 000 habitantes, é consequência da expansão da fronteira agrícola."
     ],
@@ -7147,11 +7207,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o intemperismo das rochas, que intensifica o assoreamento dos rios.",
+      "o intemperismo das rochas, que intensifica o assorea- mento dos rios.",
       "o desgaste do solo, que forma materiais impermeáveis.",
       "a extração mineral, que canaliza os rios para a utilização da água.",
       "a expansão de hidrelétricas, que instalam reservatórios de água.",
-      "a ocupação nas margens dos rios, que dificulta a drenagem da água."
+      "a ocupação nas margens dos rios, que dificulta a drena- gem da água."
     ],
     "correct": 4,
     "resolution": [
@@ -7344,7 +7404,7 @@ export const uea2023Sis = [
       "tornar o Mercosul um mercado comum.",
       "criar uma área de livre comércio entre a União Europeia e o Mercosul.",
       "estender o espaço Schengen para os países do Mercosul.",
-      "formar uma organização supranacional entre a União Europeia e o Mercosul.",
+      "formar uma organização supranacional entre a União Eu- ropeia e o Mercosul.",
       "encerrar o embargo econômico da Venezuela imposto pela União Europeia."
     ],
     "correct": 1,
@@ -7435,9 +7495,9 @@ export const uea2023Sis = [
     "alternatives": [
       "está em conformidade com as ideias e conceitos fixistas.",
       "reflete as hipóteses de relação evolutiva entre os grupos de seres vivos.",
-      "está em conformidade com as ideias e os critérios elaborados por Lineu.",
+      "está em conformidade com as ideias e os critérios elabo- rados por Lineu.",
       "agrupa exclusivamente os seres vivos eucariontes multicelulares.",
-      "reflete o momento em que houve separação entre os seres procariotos dos eucariotos."
+      "reflete o momento em que houve separação entre os se- res procariotos dos eucariotos."
     ],
     "correct": 1,
     "resolution": [
@@ -7657,10 +7717,15 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q35-1.svg",
+        "alt": "Figura de apoio da questão 35."
+      }
+    ],
     "alternatives": [
-      "a energia assimilada pela população I será transferida integralmente para a população IV.",
-      "as setas que direcionam para o meio ambiente representam a perda de energia.",
+      "a energia assimilada pela população I será transferida in- tegralmente para a população IV.",
+      "as setas que direcionam para o meio ambiente represen- tam a perda de energia.",
       "a população X consegue devolver a energia para a população I.",
       "existem quatro níveis tróficos trocando energia na cadeia alimentar esquematizada.",
       "a quantidade de matéria e de energia aumenta ao longo da cadeia trófica."
@@ -7706,11 +7771,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "1 200 indivíduos/m2.",
-      "2,0 indivíduos/m2.",
-      "0,4 indivíduo/m2.",
-      "0,2 indivíduo/m2.",
-      "1,2 indivíduo/m2."
+      "1 200 indivíduos/$m^{2}$.",
+      "2,0 indivíduos/$m^{2}$.",
+      "0,4 indivíduo/$m^{2}$.",
+      "0,2 indivíduo/$m^{2}$.",
+      "1,2 indivíduo/$m^{2}$."
     ],
     "correct": 4,
     "resolution": [
@@ -7795,7 +7860,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q38-1.svg",
+        "alt": "Figura de apoio da questão 38."
+      }
+    ],
     "alternatives": [
       "x - y - 5 = 0",
       "x - 2y - 4 = 0",
@@ -8069,7 +8139,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "4 e 9.",
       "5 e 7.",
@@ -8205,7 +8280,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q47-1.svg",
+        "alt": "Figura de apoio da questão 47."
+      }
+    ],
     "alternatives": [
       "1,0 C e - 2,5 C.",
       "2,5 C e 4,0 C.",
@@ -8251,7 +8331,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q48-1.svg",
+        "alt": "Figura de apoio da questão 48."
+      }
+    ],
     "alternatives": [
       "0 V.",
       "1,5 V.",
@@ -8342,7 +8427,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q51-1.svg",
+        "alt": "Figura de apoio da questão 51."
+      }
+    ],
     "alternatives": [
       "2 Ω.",
       "4 Ω.",
@@ -8388,7 +8478,12 @@ export const uea2023Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2023-a3/q52-1.svg",
+        "alt": "Figura de apoio da questão 52."
+      }
+    ],
     "alternatives": [
       "100 C.",
       "50 C.",
@@ -8487,11 +8582,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "C5H12O e 2",
-      "C5H10O e 3",
-      "C7H14O e 2",
-      "C7H16O e 2",
-      "C7H16O e 3"
+      "$C_{5}$$H_{12}$O e 2",
+      "$C_{5}$$H_{10}$O e 3",
+      "$C_{7}$$H_{14}$O e 2",
+      "$C_{7}$$H_{16}$O e 2",
+      "$C_{7}$$H_{16}$O e 3"
     ],
     "correct": 3,
     "resolution": [
@@ -8533,11 +8628,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "sp, sp e sp3.",
-      "sp, sp2 e sp3.",
-      "sp2, sp2 e sp3.",
-      "sp2, sp e sp3.",
-      "sp3, sp3 e sp2."
+      "sp, sp e sp³.",
+      "sp, sp² e sp³.",
+      "sp², sp² e sp³.",
+      "sp², sp e sp³.",
+      "sp³, sp³ e sp²."
     ],
     "correct": 2,
     "resolution": [
@@ -8671,11 +8766,11 @@ export const uea2023Sis = [
     ],
     "images": [],
     "alternatives": [
-      "são isômeros constitucionais entre si e ambas apresentam isomeria óptica.",
+      "são isômeros constitucionais entre si e ambas apresen- tam isomeria óptica.",
       "são isômeros constitucionais entre si e não apresentam isomeria óptica.",
-      "não são isômeros constitucionais entre si e apenas a varfarina apresenta isomeria óptica.",
+      "não são isômeros constitucionais entre si e apenas a var- farina apresenta isomeria óptica.",
       "não são isômeros constitucionais entre si e apenas a femprocumona apresenta isomeria óptica.",
-      "não são isômeros constitucionais entre si e ambas apresentam isomeria óptica."
+      "não são isômeros constitucionais entre si e ambas apre- sentam isomeria óptica."
     ],
     "correct": 4,
     "resolution": [

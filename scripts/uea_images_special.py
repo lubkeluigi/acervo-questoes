@@ -109,6 +109,30 @@ extract_vector(page, rect, os.path.join(outdir, 'q20-1.svg'))
 doc.close()
 refs['uea-vestibular-2025-g3-q20'] = [{'src': '/images/uea/vestibular-2025-g3/q20-1.svg', 'alt': 'Esquema de uma usina termoelétrica: entrada de energia, caldeira, turbina e gerador, com os rendimentos de cada etapa e saída de energia.'}]
 
+# --- 2022-cg q63/q64: candle + statue shadow figure (shared, right column) ---
+q = ALL['uea-vestibular-2022-cg-q63']
+doc = fitz.open(os.path.join(ROOT, q['sourcePdf']))
+page = doc[q['sourcePage'] - 1]
+rect = fitz.Rect(342, 171, 478, 276)
+outdir = os.path.join(ROOT, 'public', 'images', 'uea', 'vestibular-2022-cg')
+os.makedirs(outdir, exist_ok=True)
+extract_vector(page, rect, os.path.join(outdir, 'q63-1.svg'))
+doc.close()
+candle_ref = [{'src': '/images/uea/vestibular-2022-cg/q63-1.svg', 'alt': 'Vela acesa e estátua sobre uma mesa, com a sombra da estátua projetada pela luz da vela (fora de escala).'}]
+refs['uea-vestibular-2022-cg-q63'] = candle_ref
+refs['uea-vestibular-2022-cg-q64'] = candle_ref
+
+# --- 2022-cg q79/q80: flare (biogas burner) illustration (shared) ---
+q = ALL['uea-vestibular-2022-cg-q79']
+doc = fitz.open(os.path.join(ROOT, q['sourcePdf']))
+page = doc[q['sourcePage'] - 1]
+rect = fitz.Rect(303, 126, 562, 262)
+extract_vector(page, rect, os.path.join(outdir, 'q79-1.svg'))
+doc.close()
+flare_ref = [{'src': '/images/uea/vestibular-2022-cg/q79-1.svg', 'alt': 'Ilustração de um flare (queimador de biogás) captando e queimando o gás metano de um aterro sanitário.'}]
+refs['uea-vestibular-2022-cg-q79'] = flare_ref
+refs['uea-vestibular-2022-cg-q80'] = flare_ref
+
 json.dump(refs, open(os.path.join(STATE, 'uea_imgrefs.json'), 'w'), ensure_ascii=False, indent=1)
 json.dump(altimg, open(os.path.join(STATE, 'uea_altimg.json'), 'w'), ensure_ascii=False, indent=1)
 print('special cases done; refs:', len(refs), 'altimg:', len(altimg))

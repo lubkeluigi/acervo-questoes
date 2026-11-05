@@ -285,5 +285,21 @@
       "prose",
       "command"
     ]
+  },
+  "uea-vestibular-2022-cg-q63": {
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nConsiderando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de",
+    "blockTypes": ["prose", "prose", "command"]
+  },
+  "uea-vestibular-2022-cg-q64": {
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nPara que a sombra da estátua dobre de tamanho em relação ao momento em que a vela foi acesa, será necessário que se passe",
+    "blockTypes": ["prose", "prose", "command"]
+  },
+  "uea-vestibular-2022-cg-q79": {
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nCom base nas informações fornecidas, afirma-se que, na reação ocorrida no “flare”,",
+    "blockTypes": ["prose", "prose", "command"]
+  },
+  "uea-vestibular-2022-cg-q80": {
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nA geometria molecular do gás metano e a do gás dióxido de carbono são, respectivamente,",
+    "blockTypes": ["prose", "prose", "command"]
   }
 }

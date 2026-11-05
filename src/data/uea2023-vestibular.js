@@ -79,7 +79,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "os internos do hospício mantinham entre si uma vida social que os conservava mentalmente saudáveis.",
+      "os internos do hospício mantinham entre si uma vida so- cial que os conservava mentalmente saudáveis.",
       "os internos do hospício eram pessoas saudáveis, não eram de fato doentes mentais.",
       "a maior parte dos internos do hospício tinha episódios frequentes de lucidez e conexão com a realidade.",
       "uma parcela dos internos do hospício era mais calma do que o senso comum costumava supor.",
@@ -382,11 +382,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“nada vem do nada” (2o parágrafo).",
-      "“Alguns acham essa ideia deprimente” (4o parágrafo).",
-      "“O que um bom artista entende é que” (2o parágrafo).",
-      "“abraçar a influência ao invés de fugirmos dela” (5o parágrafo).",
-      "“não conhecem as referências ou as fontes originais envolvidas” (1o parágrafo)."
+      "“nada vem do nada” (2º parágrafo).",
+      "“Alguns acham essa ideia deprimente” (4$\\frac{o}{o}$ parágrafo).",
+      "“O que um bom artista entende é que” (2 parágrafo).",
+      "“abraçar a influência ao invés de fugirmos dela” (5º parágrafo).",
+      "“não conhecem as referências ou as fontes originais en- volvidas” (1º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -543,7 +543,7 @@ export const uea2023Vestibular = [
       "afinal.",
       "portanto.",
       "entretanto.",
-      "embora. Leia o texto para responder às questões 11 e 12. Drug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain. There are over 190 million drug users around the world and the problem has been increasing at alarming rates, especially among young adults under the age of 30. Apart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections. Drugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include: • \u0007Curiosity and peer pressure, especially among school children and young adults; • \u0007The use of prescription drugs that were originally intended to target pain relief may have turned into recreational use and become addictive; • \u0007Chemicals may be used as part of religious practices or rituals; • \u0007Recreational purposes; • \u0007As a means of obtaining creative inspiration. (Ananya Mandal. www.news-medical.net, 17.02.2023. Adaptado.)"
+      "embora."
     ],
     "correct": 4,
     "resolution": [
@@ -627,7 +627,7 @@ export const uea2023Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 11 e 12.\n\nDrug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain. There are over 190 million drug users around the world and the problem has been increasing at alarming rates, especially among young adults under the age of 30.\n\nApart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections.\n\nDrugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include:\n\n• \u0007Curiosity and peer pressure, especially among school\nchildren and young adults;\n• \u0007The use of prescription drugs that were originally\nintended to target pain relief may have turned into\nrecreational use and become addictive;\n• \u0007Chemicals may be used as part of religious practices or\nrituals;\n• \u0007Recreational purposes;\n• \u0007As a means of obtaining creative inspiration.\n\n(Ananya Mandal. www.news-medical.net, 17.02.2023. Adaptado.)\n\nO trecho do texto que alerta sobre os malefícios à saúde do uso abusivo de drogas é:",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nDrug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain. There are over 190 million drug users around the world and the problem has been increasing at alarming rates, especially among young adults under the age of 30.\n\nApart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections.\n\nDrugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include:\n\n• Curiosity and peer pressure, especially among school\nchildren and young adults;\n• The use of prescription drugs that were originally\nintended to target pain relief may have turned into\nrecreational use and become addictive;\n• Chemicals may be used as part of religious practices or\nrituals;\n• Recreational purposes;\n• As a means of obtaining creative inspiration.\n\n(Ananya Mandal. www.news-medical.net, 17.02.2023. Adaptado.)\n\nO trecho do texto que alerta sobre os malefícios à saúde do uso abusivo de drogas é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -639,11 +639,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Drug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain” (1o parágrafo).",
-      "“There are over 190 million drug users around the world and the problem has been increasing at alarming rates” (1o parágrafo).",
-      "“Curiosity and peer pressure, especially among school children and young adults” (3o parágrafo).",
-      "“As a means of obtaining creative inspiration” (3o parágrafo).",
-      "“Apart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections” (2o parágrafo)."
+      "“Drug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain” (1º parágrafo).",
+      "“There are over 190 million drug users around the world and the problem has been increasing at alarming rates” (1º parágrafo).",
+      "“Curiosity and peer pressure, especially among school children and young adults” (3º parágrafo).",
+      "“As a means of obtaining creative inspiration” (3º parágrafo).",
+      "“Apart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections” (2º parágrafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -689,7 +689,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "entra em crise a partir de junho de 2023, depois do desaparecimento de um submergível.",
+      "entra em crise a partir de junho de 2023, depois do desa- parecimento de um submergível.",
       "é o tipo de atividade mais recomendado pelos guias de turismo.",
       "chama a atenção devido ao elevado número de acidentes.",
       "é ilimitado porque permite chegar a qualquer lugar.",
@@ -727,7 +727,7 @@ export const uea2023Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 11 e 12.\n\nDrug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain. There are over 190 million drug users around the world and the problem has been increasing at alarming rates, especially among young adults under the age of 30.\n\nApart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections.\n\nDrugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include:\n\n• \u0007Curiosity and peer pressure, especially among school\nchildren and young adults;\n• \u0007The use of prescription drugs that were originally\nintended to target pain relief may have turned into\nrecreational use and become addictive;\n• \u0007Chemicals may be used as part of religious practices or\nrituals;\n• \u0007Recreational purposes;\n• \u0007As a means of obtaining creative inspiration.\n\n(Ananya Mandal. www.news-medical.net, 17.02.2023. Adaptado.)\n\nIn the excerpt from the third paragraph “Drugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include”, the underlined word refers to",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nDrug abuse or substance abuse refers to the use of certain chemicals for the purpose of creating pleasurable effects on the brain. There are over 190 million drug users around the world and the problem has been increasing at alarming rates, especially among young adults under the age of 30.\n\nApart from the long-term damage to the body drug abuse causes, drug addicts who use needles are also at risk of contracting HIV and hepatitis B and C infections.\n\nDrugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include:\n\n• Curiosity and peer pressure, especially among school\nchildren and young adults;\n• The use of prescription drugs that were originally\nintended to target pain relief may have turned into\nrecreational use and become addictive;\n• Chemicals may be used as part of religious practices or\nrituals;\n• Recreational purposes;\n• As a means of obtaining creative inspiration.\n\n(Ananya Mandal. www.news-medical.net, 17.02.2023. Adaptado.)\n\nIn the excerpt from the third paragraph “Drugs of abuse are usually psychoactive drugs that are used by people for various different reasons, which may include”, the underlined word refers to",
     "blockTypes": [
       "prose",
       "prose",
@@ -881,11 +881,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "constitui uma arte marcial e mesclou heranças africanas e portuguesas presentes nos instrumentos musicais usados nessa atividade física.",
+      "constitui uma arte marcial e mesclou heranças africanas e portuguesas presentes nos instrumentos musicais usa- dos nessa atividade física.",
       "desenvolve técnicas de defesa pessoal e obteve grande aceitação no mundo por se assemelhar a outros esportes olímpicos.",
-      "é em essência uma prática de combate e nasceu de rituais de povos indígenas escravizados pelos portugueses no Brasil colonial.",
-      "fortalece o físico e a mente de forma integrada e chegou ao Brasil com os africanos escravizados que já conheciam a prática em suas terras de origem.",
-      "mistura dança, música e luta e surgiu como uma forma de resistência dos africanos escravizados e de seus descendentes no Brasil colonial."
+      "é em essência uma prática de combate e nasceu de ritu- ais de povos indígenas escravizados pelos portugueses no Brasil colonial.",
+      "fortalece o físico e a mente de forma integrada e chegou ao Brasil com os africanos escravizados que já conhe- ciam a prática em suas terras de origem.",
+      "mistura dança, música e luta e surgiu como uma forma de resistência dos africanos escravizados e de seus descen- dentes no Brasil colonial."
     ],
     "correct": 4,
     "resolution": [
@@ -975,7 +975,7 @@ export const uea2023Vestibular = [
       "é a capacidade de fazer tudo o que se queira sem causar injustiça a ninguém.",
       "é a ausência de constrangimentos legais que impeçam o gozo dos bens privados.",
       "é fundamentalmente a liberdade religiosa a ser garantida aos cidadãos.",
-      "está na autonomia do indivíduo que participa do ordenamento legal da sociedade.",
+      "está na autonomia do indivíduo que participa do ordena- mento legal da sociedade.",
       "está na essência da política a ser realizada no Estado totalitário."
     ],
     "correct": 3,
@@ -1018,7 +1018,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a incapacidade de as máquinas desenvolverem habilidades cognitivas.",
+      "a incapacidade de as máquinas desenvolverem habilida- des cognitivas.",
       "as possíveis mudanças no mercado de trabalho.",
       "a maior eficiência do trabalho humano.",
       "a automatização preponderante dos trabalhos manuais.",
@@ -1066,8 +1066,8 @@ export const uea2023Vestibular = [
       "é inválida a ideia de sobreposição de discriminação de gênero e raça.",
       "existe uma democracia racial aplicada na sociedade brasileira.",
       "é necessária uma consciência crítica sobre a prevalência branca em espaços privilegiados.",
-      "persiste o preconceito às identidades regionais sobretudo em relação à região nordeste do país.",
-      "é pertinente a relação entre a política de cotas e a conservação das estruturas de desigualdade racial."
+      "persiste o preconceito às identidades regionais sobretu- do em relação à região nordeste do país.",
+      "é pertinente a relação entre a política de cotas e a con- servação das estruturas de desigualdade racial."
     ],
     "correct": 2,
     "resolution": [
@@ -1108,9 +1108,9 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o desperdício era inexistente na sociedade do Antigo Regime mesmo entre os membros da burguesia e da nobreza.",
-      "o acesso a mercadorias de qualquer parte do planeta tornou o consumidor mais exigente e seletivo na sociedade atual.",
-      "a ênfase em dividir os bens produzidos para um consumo mais igualitário era uma característica da sociedade pré-industrial.",
+      "o desperdício era inexistente na sociedade do Antigo Regi- me mesmo entre os membros da burguesia e da nobreza.",
+      "o acesso a mercadorias de qualquer parte do planeta tornou o consumidor mais exigente e seletivo na socie- dade atual.",
+      "a ênfase em dividir os bens produzidos para um consu- mo mais igualitário era uma característica da sociedade pré-industrial.",
       "a maioria da população tem dificuldade em consumir o básico para a sua sobrevivência na sociedade atual.",
       "a transformação de uma “sociedade de produtores” para uma “sociedade de consumidores” é uma característica atual."
     ],
@@ -1302,7 +1302,7 @@ export const uea2023Vestibular = [
       "a abertura da economia do país ao capital estrangeiro com o rompimento dos países do Leste Europeu com a União Soviética.",
       "a promoção de mais liberdade e transparência política no país com a desagregação da União Soviética.",
       "a modernização da economia socialista com o combate à ineficiência do Estado soviético.",
-      "a mobilização popular em apoio às reformas de Gorbatchev com o sucesso do golpe de Estado feito pelos grupos conservadores no país.",
+      "a mobilização popular em apoio às reformas de Gorbatchev com o sucesso do golpe de Estado feito pelos grupos con- servadores no país.",
       "a nova política educacional adotada por Gorbatchev com o incentivo à livre expressão de ideias no país."
     ],
     "correct": 1,
@@ -1346,8 +1346,8 @@ export const uea2023Vestibular = [
     "alternatives": [
       "os Bois do Médio Amazonas e de Parintins ocorrem na primeira semana de julho para se diferenciar dos festejos juninos dos santos católicos.",
       "os Bois do Médio Amazonas e de Parintins apresentam diferentes modalidades da brincadeira.",
-      "o Boi de Parintins se assemelha ao Boi de Rua por acontecer no espaço urbano e sem lugar fixo.",
-      "o Boi de Parintins apresenta o tema da morte e da ressurreição do animal e traz, em sua estrutura, um ritual em quatro momentos.",
+      "o Boi de Parintins se assemelha ao Boi de Rua por acon- tecer no espaço urbano e sem lugar fixo.",
+      "o Boi de Parintins apresenta o tema da morte e da res- surreição do animal e traz, em sua estrutura, um ritual em quatro momentos.",
       "o Boi Bumbá do Médio Amazonas é caracterizado pela competição entre o grupo Garantido e o Caprichoso."
     ],
     "correct": 1,
@@ -1440,10 +1440,10 @@ export const uea2023Vestibular = [
     "images": [],
     "alternatives": [
       "demográfico, como consequência da taxa de natalidade maior que a taxa de mortalidade e do aumento no saldo migratório.",
-      "relativo, como resultado do aumento da população absoluta em relação à população economicamente ativa e da redução na imigração.",
-      "demográfico, como consequência da taxa de fecundidade menor que a taxa de natalidade e da diminuição no saldo migratório.",
+      "relativo, como resultado do aumento da população abso- luta em relação à população economicamente ativa e da redução na imigração.",
+      "demográfico, como consequência da taxa de fecundida- de menor que a taxa de natalidade e da diminuição no saldo migratório.",
       "vegetativo, como resultado do aumento na expectativa de vida em relação à taxa de mortalidade e do aumento na emigração.",
-      "vegetativo, como resultado da taxa de fecundidade superior à taxa de mortalidade infantil e do aumento na emigração."
+      "vegetativo, como resultado da taxa de fecundidade su- perior à taxa de mortalidade infantil e do aumento na emigração."
     ],
     "correct": 0,
     "resolution": [
@@ -1537,8 +1537,8 @@ export const uea2023Vestibular = [
       "a geração de emprego e renda, que permite reverter o fenômeno do desemprego estrutural instalado no campo brasileiro.",
       "o abastecimento alimentar, que garante o fornecimento dos alimentos para o mercado interno.",
       "a consolidação da produção para o mercado externo, que dinamiza a balança comercial com produtos de alto valor agregado.",
-      "o estabelecimento da monocultura, que possibilita a expansão do uso de sementes crioulas para a produção em larga escala de cereais.",
-      "a formação de latifúndios, que assegura a elevada concentração das terras em um menor número de propriedades rurais."
+      "o estabelecimento da monocultura, que possibilita a ex- pansão do uso de sementes crioulas para a produção em larga escala de cereais.",
+      "a formação de latifúndios, que assegura a elevada con- centração das terras em um menor número de proprie- dades rurais."
     ],
     "correct": 4,
     "resolution": [
@@ -1584,11 +1584,11 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "a paridade monetária entre as moedas dos países-membros.",
+      "a paridade monetária entre as moedas dos países- -membros.",
       "um sistema legislativo comum para os países-membros.",
       "a incorporação do Chile e da Venezuela como países associados aos países-membros.",
       "uma área de livre comércio entre os países-membros.",
-      "a unificação das balanças comerciais entre os países-membros."
+      "a unificação das balanças comerciais entre os países- -membros."
     ],
     "correct": 3,
     "resolution": [
@@ -1631,7 +1631,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "o incentivo fiscal e a promoção de rotas comerciais.",
       "o aumento da produtividade e a independência econômica.",
-      "a valorização produtiva e a dependência de matéria-prima local.",
+      "a valorização produtiva e a dependência de matéria-pri- ma local.",
       "a integração nacional e o desenvolvimento regional.",
       "a desconcentração industrial e a descentralização urbana."
     ],
@@ -1678,7 +1678,7 @@ export const uea2023Vestibular = [
       "restabelecer o domínio financeiro norte-americano na Europa.",
       "promover a expansão da industrialização bélica no Leste Europeu.",
       "substituir gradualmente as ações geopolíticas da ONU no Leste Europeu.",
-      "assegurar a proteção mútua em caso de agressão armada pela Rússia."
+      "assegurar a proteção mútua em caso de agressão arma- da pela Rússia."
     ],
     "correct": 4,
     "resolution": [
@@ -1728,7 +1728,7 @@ export const uea2023Vestibular = [
       "aos investimentos tecnológicos despendidos pelas Big Techs para fortalecer a produção de conteúdo em áreas de combate.",
       "à estruturação produtiva dos sistemas de transmissão de informações presentes no ciberespaço.",
       "à intensificação do combate cibernético e dos ataques hackers para reestabelecer a verdade sobre um conflito para a opinião pública.",
-      "à implementação do meio técnico-científico-informacional para ampliar a comunicação via satélite entre zonas de conflito."
+      "à implementação do meio técnico-científico-informacio- nal para ampliar a comunicação via satélite entre zonas de conflito."
     ],
     "correct": 0,
     "resolution": [
@@ -1773,7 +1773,7 @@ export const uea2023Vestibular = [
       "especulação imobiliária, que atribui ao poder público a implementação das ações de planejamento urbano.",
       "segregação socioespacial, que concentra a população de baixa renda em locais com baixa infraestrutura urbana.",
       "periferização, que corresponde à junção de dois ou mais tecidos urbanos distintos.",
-      "espoliação urbana, que provoca o espraiamento do tecido urbano para assegurar o direito à propriedade na cidade.",
+      "espoliação urbana, que provoca o espraiamento do te- cido urbano para assegurar o direito à propriedade na cidade.",
       "gentrificação, que possibilita a valorização dos bairros afastados do centro da cidade em contato direto com a natureza."
     ],
     "correct": 1,
@@ -1909,7 +1909,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "apátridas, que perderam a nacionalidade em seu país de origem.",
       "expatriados, que declinaram dos valores étnicos em seu país de origem.",
-      "foragidos, que cometeram violações dos direitos humanos em seu país de origem.",
+      "foragidos, que cometeram violações dos direitos huma- nos em seu país de origem.",
       "refugiados, que sofreram perseguições em seu país de origem.",
       "exilados, que abdicaram do regime monárquico em seu país de origem."
     ],
@@ -2042,7 +2042,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q39-1.svg",
+        "alt": "Figura de apoio da questão 39."
+      }
+    ],
     "alternatives": [
       "procariotos.",
       "protistas.",
@@ -2711,7 +2716,12 @@ export const uea2023Vestibular = [
     "blockTypes": [
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q54-1.svg",
+        "alt": "Figura de apoio da questão 54."
+      }
+    ],
     "alternatives": [
       "16 cm.",
       "18 cm.",
@@ -2800,7 +2810,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q56-1.svg",
+        "alt": "Figura de apoio da questão 56."
+      }
+    ],
     "alternatives": [
       "3 cm.",
       "4 cm.",
@@ -2933,13 +2948,18 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q59-1.svg",
+        "alt": "Figura de apoio da questão 59."
+      }
+    ],
     "alternatives": [
-      "72,0 cm2.",
-      "54,0 cm2.",
-      "63,0 cm2.",
-      "67,5 cm2.",
-      "58,5 cm2."
+      "72,0 cm².",
+      "54,0 cm².",
+      "63,0 cm².",
+      "67,5 cm².",
+      "58,5 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -3023,9 +3043,9 @@ export const uea2023Vestibular = [
     "alternatives": [
       "receberá uma multa, pois a velocidade média do carro foi de 120 km/h.",
       "receberá uma multa, pois a velocidade média do carro foi de 130 km/h.",
-      "não receberá uma multa, pois a velocidade média do carro foi de 110 km/h.",
+      "não receberá uma multa, pois a velocidade média do car- ro foi de 110 km/h.",
       "receberá uma multa, pois a velocidade média do carro foi de 150 km/h.",
-      "não receberá uma multa, pois a velocidade média do carro foi de 90 km/h."
+      "não receberá uma multa, pois a velocidade média do car- ro foi de 90 km/h."
     ],
     "correct": 0,
     "resolution": [
@@ -3162,7 +3182,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q64-1.svg",
+        "alt": "Figura de apoio da questão 64."
+      }
+    ],
     "alternatives": [
       "R.",
       "O.",
@@ -3391,13 +3416,18 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q70-1.svg",
+        "alt": "Figura de apoio da questão 70."
+      }
+    ],
     "alternatives": [
-      "R4",
-      "R5",
-      "R3",
-      "R2",
-      "R1"
+      "$R_{4}$",
+      "$R_{5}$",
+      "$R_{3}$",
+      "$R_{2}$",
+      "$R_{1}$"
     ],
     "correct": 1,
     "resolution": [
@@ -3529,7 +3559,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q74-1.svg",
+        "alt": "Figura de apoio da questão 74."
+      }
+    ],
     "alternatives": [
       "fixação e nitrificação.",
       "nitrificação e fixação.",
@@ -3798,7 +3833,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-cg/q80-1.svg",
+        "alt": "Figura de apoio da questão 80."
+      }
+    ],
     "alternatives": [
       "ânodo; perde; oxidação.",
       "cátodo; perde; redução.",
@@ -3983,7 +4023,7 @@ export const uea2023Vestibular = [
     ],
     "alternatives": [
       "em meio isotônico, a hemácia ganha água por transporte ativo.",
-      "em meio hipertônico, a hemácia perde água por transporte ativo.",
+      "em meio hipertônico, a hemácia perde água por trans- porte ativo.",
       "em meio hipertônico, a hemácia perde água por difusão facilitada.",
       "em meio hipotônico, a hemácia ganha água por osmose.",
       "em meio hipotônico, a hemácia perde água por difusão facilitada."
@@ -4028,11 +4068,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a contingência, pois os ácidos nucleicos são mais simples que as proteínas.",
+      "a contingência, pois os ácidos nucleicos são mais sim- ples que as proteínas.",
       "a contingência, pois essas biomoléculas estão altamente integradas no metabolismo.",
       "o determinismo, pois as proteínas são responsáveis por gerar ácidos nucleicos.",
       "o determinismo, pois os aminoácidos e os nucleotídeos são semelhantes.",
-      "a contingência, pois essas moléculas são estruturalmente simples."
+      "a contingência, pois essas moléculas são estruturalmen- te simples."
     ],
     "correct": 1,
     "resolution": [
@@ -4079,11 +4119,11 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "a água (H2O) é utilizada para auxiliar a absorção de luz solar pela clorofila.",
-      "a glicose (C6H12O6) é eliminada pelas folhas junto com o vapor d’água (H2O).",
+      "a água ($H_{2}$O) é utilizada para auxiliar a absorção de luz solar pela clorofila.",
+      "a glicose ($C_{6}$$H_{12}$ $O_{6}$) é eliminada pelas folhas junto com o vapor d’água ($H_{2}$O).",
       "a luz solar é captada de forma homogênea pela folha.",
-      "o gás oxigênio (O2) é gerado a partir da quebra do gás carbônico (CO2).",
-      "o gás carbônico (CO2) é assimilado pela planta na forma de glicose (C6H12O6)."
+      "o gás oxigênio ($O_{2}$) é gerado a partir da quebra do gás carbônico ($CO_{2}$).",
+      "o gás carbônico ($CO_{2}$) é assimilado pela planta na forma de glicose ($C_{6}$$H_{12}$ $O_{6}$)."
     ],
     "correct": 4,
     "resolution": [
@@ -4273,7 +4313,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "da adição de genes de uma espécie em organismos de outra espécie.",
       "do melhoramento genético a partir do próprio genoma do organismo manipulado.",
-      "da reprodução assexuada por clonagem entre organismos eucarióticos.",
+      "da reprodução assexuada por clonagem entre organis- mos eucarióticos.",
       "do cruzamento por hibridização entre espécies de grupos diferentes.",
       "da produção, em laboratório, de novas espécies de seres uni e pluricelulares."
     ],
@@ -4315,7 +4355,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "absorção reduzida, pelos vegetais, de nutrientes minerais ricos em carbono.",
+      "absorção reduzida, pelos vegetais, de nutrientes mine- rais ricos em carbono.",
       "ampliação das falhas na camada de ozônio em função do efeito estufa.",
       "acidificação das chuvas decorrentes da reação do vapor d’água com o metano.",
       "redução da quantidade de nutrientes orgânicos nos alimentos vegetais.",
@@ -4446,7 +4486,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g1/q11-1.svg",
+        "alt": "Figura de apoio da questão 11."
+      }
+    ],
     "alternatives": [
       "à genética mendeliana.",
       "à teoria moderna da evolução.",
@@ -4590,11 +4635,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "CH4",
-      "C2H2",
-      "C3H8",
-      "C2H6",
-      "C4H10"
+      "$CH_{4}$",
+      "$C_{2}$$H_{2}$",
+      "$C_{3}$$H_{8}$",
+      "$C_{2}$$H_{6}$",
+      "$C_{4}$$H_{10}$"
     ],
     "correct": 0,
     "resolution": [
@@ -4695,11 +4740,11 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "CO2",
+      "$CO_{2}$",
       "HCl",
-      "CH4",
-      "SO2",
-      "NH3"
+      "$CH_{4}$",
+      "$SO_{2}$",
+      "$NH_{3}$"
     ],
     "correct": 4,
     "resolution": [
@@ -4738,7 +4783,12 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g1/q17-1.svg",
+        "alt": "Figura de apoio da questão 17."
+      }
+    ],
     "alternatives": [
       "12 dias.",
       "8 dias.",
@@ -4791,11 +4841,11 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "CaO e Al2(SO4)3",
+      "CaO e $Al_{2}$($SO_{4}$ 3",
       "NaClO e NaF",
       "CaO e NaF",
-      "Al2(SO4)3 e NaF",
-      "Al2(SO4)3 e NaClO"
+      "$Al_{2}$($SO_{4}$ 3 e NaF",
+      "$Al_{2}$($SO_{4}$ 3 e NaClO"
     ],
     "correct": 4,
     "resolution": [
@@ -4930,11 +4980,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "sp3 e sp",
-      "sp2 e sp3",
-      "sp e sp2",
-      "sp2 e sp",
-      "sp3 e sp2"
+      "sp³ e sp",
+      "sp² e sp³",
+      "sp e sp²",
+      "sp² e sp",
+      "sp³ e sp²"
     ],
     "correct": 4,
     "resolution": [
@@ -5077,7 +5127,7 @@ export const uea2023Vestibular = [
       "às funções orgânicas álcool e cetona; cis.",
       "à função orgânica ácido carboxílico; cis.",
       "às funções orgânicas álcool e cetona; trans.",
-      "às funções orgânicas aldeído e álcool; trans. Leia o texto de Jared Diamond para responder às questões de 25 a 28. Todos nós sabemos que a história avançou de modo muito diferente para os povos de cada parte do globo. Nos 13 000 anos que se passaram desde o fim da última Era Glacial, algumas partes do mundo desenvolveram sociedades industriais e letradas, que usavam utensílios de metal, enquanto outras produziram apenas sociedades agrícolas analfabetas e ainda outras se mantiveram caçadoras-coletoras de alimentos, usando artefatos feitos com pedras. Essas desigualdades projetaram grandes sombras sobre o mundo moderno, uma vez que as sociedades letradas que possuíam utensílios de metal conquistaram ou exterminaram as outras sociedades. Embora essas diferenças representem os fatos mais elementares da história mundial, suas causas continuam incertas e controvertidas. (Armas, germes e aço, 2013.)"
+      "às funções orgânicas aldeído e álcool; trans."
     ],
     "correct": 2,
     "resolution": [
@@ -5354,7 +5404,7 @@ export const uea2023Vestibular = [
       "afirma que a razão é uma boa maneira de descobrir os mistérios do mundo.",
       "defende uma poesia que expresse os sentimentos de maneira indireta.",
       "reconhece que qualquer coisa, mesmo a mais simples, pode ter inúmeros significados.",
-      "critica a poesia que atribui às palavras um sentido metafórico."
+      "critica a poesia que atribui às palavras um sentido meta- fórico."
     ],
     "correct": 4,
     "resolution": [
@@ -5399,9 +5449,9 @@ export const uea2023Vestibular = [
     "alternatives": [
       "o ser humano tem as mesmas habilidades e as mesmas dificuldades dos demais animais.",
       "os seres humanos vestem roupas como maneira de afirmar sua superioridade frente aos demais animais.",
-      "o ser humano é um ser cultural, prejudicado pela racionalização excessiva.",
+      "o ser humano é um ser cultural, prejudicado pela raciona- lização excessiva.",
       "o ser humano é um ser vaidoso que se preocupa mais consigo mesmo do que com os outros.",
-      "os seres humanos vestem roupas diferentes para diferenciar as classes sociais em uma sociedade desigual."
+      "os seres humanos vestem roupas diferentes para dife- renciar as classes sociais em uma sociedade desigual."
     ],
     "correct": 2,
     "resolution": [
@@ -5444,11 +5494,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Se ver e ouvir são ver e ouvir?” (1a estrofe)",
-      "“Por que é que ver e ouvir seria iludirmo-nos” (1a estrofe)",
-      "“O que nós vemos das cousas são as cousas.” (1a estrofe)",
-      "“Saber ver sem estar a pensar,” (2a estrofe)",
-      "“Mas onde afinal as estrelas não são senão estrelas” (3a estrofe)"
+      "“Se ver e ouvir são ver e ouvir?” (1ª estrofe)",
+      "“Por que é que ver e ouvir seria iludirmo-nos” (1ª estrofe)",
+      "“O que nós vemos das cousas são as cousas.” (1ª estrofe)",
+      "“Saber ver sem estar a pensar,” (2ª estrofe)",
+      "“Mas onde afinal as estrelas não são senão estrelas” (3ª estrofe)"
     ],
     "correct": 1,
     "resolution": [
@@ -5482,7 +5532,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5499,7 +5549,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "o narrador se dirige diretamente a seus leitores para fazer comentários sobre a narrativa.",
       "os personagens são pertencentes às altas classes sociais.",
-      "o narrador apresenta os fatos como parte de um experimento científico.",
+      "o narrador apresenta os fatos como parte de um experi- mento científico.",
       "o fluxo dos fatos é construído de maneira direta, sem divagações nem desvios.",
       "os personagens são os próprios narradores de suas histórias."
     ],
@@ -5535,7 +5585,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
     "blockTypes": [
       "prose",
       "prose",
@@ -5588,7 +5638,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",
@@ -5647,10 +5697,10 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "à convivência harmoniosa entre a elite urbana e as classes sociais mais pobres.",
+      "à convivência harmoniosa entre a elite urbana e as clas- ses sociais mais pobres.",
       "à preocupação das elites em incluir os trabalhadores e lhes garantir acesso à região mais moderna da cidade.",
       "às dificuldades técnicas que o clima e a geografia local impuseram ao crescimento urbano manauara.",
-      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cidades europeias.",
+      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cida- des europeias.",
       "às contradições entre um centro urbano europeizado e uma periferia pobre e marginalizada."
     ],
     "correct": 4,
@@ -5792,10 +5842,10 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "pela rápida integração econômica com o mercado europeu, que ocorreu desde o primeiro século da exploração portuguesa.",
+      "pela rápida integração econômica com o mercado euro- peu, que ocorreu desde o primeiro século da exploração portuguesa.",
       "pela produção das “drogas do sertão”, sobretudo o látex e o cacau, que eram colhidas por trabalhadores livres e assalariados, na sua maioria mestiços da região.",
-      "pela predominância da escravidão africana, já que, diferentemente dos indígenas, os africanos desconheciam a região e, assim, as fugas do cativeiro eram raras.",
-      "pela decisiva mestiçagem e a influência cultural dos indígenas, já que havia poucas mulheres brancas e foi desenvolvida uma “língua geral”.",
+      "pela predominância da escravidão africana, já que, dife- rentemente dos indígenas, os africanos desconheciam a região e, assim, as fugas do cativeiro eram raras.",
+      "pela decisiva mestiçagem e a influência cultural dos in- dígenas, já que havia poucas mulheres brancas e foi de- senvolvida uma “língua geral”.",
       "pelos frequentes conflitos entre jesuítas e colonos, já que os religiosos, diferentemente dos colonos, defendiam a manutenção das tradições culturais dos povos indígenas."
     ],
     "correct": 3,
@@ -5889,7 +5939,7 @@ export const uea2023Vestibular = [
       "o acordo aprovado pelos fazendeiros de café do Sudeste, que concordaram com o fim da escravidão sem prévia indenização.",
       "o fim da escravidão antes da Lei Áurea na capital do Império, onde a elite imperial se desinteressava pela manutenção do sistema escravista.",
       "a grande inclusão de personagens negros no quadro de funcionários graduados do Império, o que reforçou a luta contra o preconceito racial.",
-      "a difusão da Campanha Abolicionista pelo país, que favoreceu a fuga em massa de escravizados das fazendas.",
+      "a difusão da Campanha Abolicionista pelo país, que favo- receu a fuga em massa de escravizados das fazendas.",
       "o plano governamental aprovado pelo parlamento, que previa a qualificação dos trabalhadores escravizados após a abolição."
     ],
     "correct": 3,
@@ -5930,10 +5980,10 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "foi motivada pela exigência dos trabalhadores do ramo de transporte pela regulamentação do trabalho intermitente e pela flexibilização das férias.",
-      "tinha como exigências a expansão dos direitos trabalhistas para o campo com a aprovação do Estatuto do Trabalhador Rural e a criação da contribuição sindical obrigatória.",
+      "foi motivada pela exigência dos trabalhadores do ramo de transporte pela regulamentação do trabalho intermi- tente e pela flexibilização das férias.",
+      "tinha como exigências a expansão dos direitos traba- lhistas para o campo com a aprovação do Estatuto do Trabalhador Rural e a criação da contribuição sindical obrigatória.",
       "tinha como pauta de reivindicação a implantação da Consolidação das Leis Trabalhistas (CLT) e da igualdade salarial entre homens e mulheres.",
-      "resultou no reconhecimento legal do direito à greve e na criação do Ministério do Trabalho para arbitrar os conflitos entre patrões e operários.",
+      "resultou no reconhecimento legal do direito à greve e na criação do Ministério do Trabalho para arbitrar os confli- tos entre patrões e operários.",
       "foi impulsionada, entre outros fatores, pela luta operária por uma jornada de 8 horas diárias de trabalho e pela proibição do trabalho de menores de 14 anos."
     ],
     "correct": 4,
@@ -5974,7 +6024,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o ativista negro Martin Luther King Jr. foi assassinado por um supremacista branco em um evento a favor da igualdade racial, em 1968.",
+      "o ativista negro Martin Luther King Jr. foi assassinado por um supremacista branco em um evento a favor da igual- dade racial, em 1968.",
       "a pressão do levante antirracista global ganhou força contra a discriminação racial estadunidense com o fim da segregação na África do Sul, em 1994.",
       "surgiram organizações da população afrodescendente de luta contra a discriminação racial, entre as décadas de 1950 e 1970.",
       "foi eleito Barack Obama, o primeiro presidente negro a assumir um alto posto da administração federal dos Estados Unidos, em 2009.",
@@ -6073,7 +6123,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "a defesa da autodeterminação dos povos presente na Carta das Nações Unidas aprovada no pós-guerra.",
       "o desgaste político, econômico e militar das potências europeias após a Segunda Guerra Mundial.",
-      "a contestação da presença europeia na Ásia pelos governos estadunidense e soviético.",
+      "a contestação da presença europeia na Ásia pelos gover- nos estadunidense e soviético.",
       "o declínio das potências imperialistas com o avanço do socialismo na Europa Ocidental após a Segunda Guerra Mundial.",
       "o desenvolvimento de movimentos nacionalistas entre os povos asiáticos durante o conflito mundial."
     ],
@@ -6267,7 +6317,7 @@ export const uea2023Vestibular = [
     ],
     "alternatives": [
       "relações hipsométricas de variações territoriais estáticas.",
-      "atributos dos sensores remotos em satélites de comunicação.",
+      "atributos dos sensores remotos em satélites de comu- nicação.",
       "informações georreferenciadas de forma interativa.",
       "uma rede icnográfica de posicionamento por satélites.",
       "um sistema de projeção afilática multiespectral."
@@ -6363,7 +6413,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "constituíram o Pacto de Varsóvia e são países integrantes da zona de livre comércio da Organização de Cooperação Centro-Asiática (CACO).",
+      "constituíram o Pacto de Varsóvia e são países integran- tes da zona de livre comércio da Organização de Coope- ração Centro-Asiática (CACO).",
       "integraram a extinta União Soviética e constituem uma aliança de cooperação militar da Organização do Tratado de Segurança Coletiva (OTSC).",
       "constituíram o Pacto de Varsóvia e estabelecem uma reciprocidade de cooperação bélico-militar do Conselho de Segurança do Golfo (CSG).",
       "estabeleceram uma política econômica planificada e mantêm em vigor o Conselho de Assistência Econômica Mútua (COMECON).",
@@ -6408,11 +6458,16 @@ export const uea2023Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g2/q16-1.svg",
+        "alt": "Figura de apoio da questão 16."
+      }
+    ],
     "alternatives": [
-      "a elevação no número de empregos gerados é consequência da qualificação profissional atrelada à supressão dos direitos trabalhistas.",
+      "a elevação no número de empregos gerados é conse- quência da qualificação profissional atrelada à supres- são dos direitos trabalhistas.",
       "a redução no crescimento geral dos indicadores para a Amazônia é resguardada pela geração de bens com baixo valor agregado.",
-      "a retração no uso do solo na Amazônia é decorrente do aumento das áreas destinadas a unidades de conservação.",
+      "a retração no uso do solo na Amazônia é decorrente do aumento das áreas destinadas a unidades de con- servação.",
       "a expansão dos sistemas de infraestrutura e energia é assegurado pelos investimentos em energia limpa e renovável.",
       "o crescimento do PIB na bioeconomia é assegurado pela ampliação do agroextrativismo consorciado com os latifúndios devolutos."
     ],
@@ -6456,11 +6511,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a Autoridade Palestina detém o controle dos assentamentos árabes na Cisjordânia e na Faixa de Gaza.",
+      "a Autoridade Palestina detém o controle dos assenta- mentos árabes na Cisjordânia e na Faixa de Gaza.",
       "o Estado de Israel mantém anexada a península do Sinai ao seu território desde a Guerra do Yom Kipur, em 1973.",
       "o reconhecimento dos dois Estados autônomos pela Organização das Nações Unidas (ONU) depende da transformação de Jerusalém em cidade internacional.",
       "o grupo jihadista Hezbollah, que governa a Faixa de Gaza, abandonou o Acordo de Oslo que selava a paz entre os dois povos desde 1994.",
-      "os assentamentos judaicos na Cisjordânia, por parte de Israel, dificultam as conexões de transporte e infraestrutura das cidades palestinas."
+      "os assentamentos judaicos na Cisjordânia, por parte de Israel, dificultam as conexões de transporte e infraestru- tura das cidades palestinas."
     ],
     "correct": 4,
     "resolution": [
@@ -6499,13 +6554,18 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g2/q18-1.svg",
+        "alt": "Figura de apoio da questão 18."
+      }
+    ],
     "alternatives": [
       "ao plantio direto, que reduz a ação da erosão superficial e assegura o aumento da produtividade.",
-      "à aragem, que assevera o processo de compactação superficial e aumenta os custos de produção.",
+      "à aragem, que assevera o processo de compactação su- perficial e aumenta os custos de produção.",
       "ao afolhamento, que ocasiona menor dependência de insumos químicos e potencializa o processo de lixiviação.",
-      "às curvas de nível, que promovem o agrupamento mineral e aumentam o volume de matéria orgânica.",
-      "à calagem, que otimiza as operações no campo e contribui para a especialização produtiva da monocultura."
+      "às curvas de nível, que promovem o agrupamento mi- neral e aumentam o volume de matéria orgânica.",
+      "à calagem, que otimiza as operações no campo e contri- bui para a especialização produtiva da monocultura."
     ],
     "correct": 0,
     "resolution": [
@@ -6548,11 +6608,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "da evolução e ampliação da hierarquia urbana exacerbadas pelas atividades do terceiro setor.",
-      "do crescimento e progressão dos espaços urbanos polinucleados ocasionados por empreendimentos mineradores.",
+      "da evolução e ampliação da hierarquia urbana exacer- badas pelas atividades do terceiro setor.",
+      "do crescimento e progressão dos espaços urbanos polinu- cleados ocasionados por empreendimentos mineradores.",
       "da consolidação e expansão da rede urbana suscitadas pelas frentes pioneiras.",
       "do crescimento e metropolização dos centros locais fomentados pela desconcentração industrial.",
-      "da cristalização e articulação macro metropolitana incrementadas pelos sistemas de transporte."
+      "da cristalização e articulação macro metropolitana incre- mentadas pelos sistemas de transporte."
     ],
     "correct": 2,
     "resolution": [
@@ -6599,7 +6659,7 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "ao interesse do governo chinês em controlar os gasodutos russos na Ucrânia.",
+      "ao interesse do governo chinês em controlar os gasodu- tos russos na Ucrânia.",
       "à zona de interesse do governo chinês no fornecimento de combustível pela Rússia.",
       "ao apoio dado pelo governo chinês após a anexação territorial da Ucrânia pela Rússia.",
       "ao hard power do governo chinês para limitar o uso de combustível fóssil pela Rússia.",
@@ -6651,7 +6711,7 @@ export const uea2023Vestibular = [
     ],
     "alternatives": [
       "da queima de combustíveis fósseis, em consequência da liberação do dióxido de carbono, e provocou a chuva ácida.",
-      "dos incêndios agrícolas, como resultado das altas temperaturas, e potencializou a inversão térmica.",
+      "dos incêndios agrícolas, como resultado das altas tempe- raturas, e potencializou a inversão térmica.",
       "da erupção vulcânica, em decorrência da presença de poeira piroclástica, e contribuiu para contaminar as massas de ar.",
       "dos incêndios florestais, ocasionando a liberação de monóxido de carbono, e intensificou a poluição do ar.",
       "da incineração descontrolada de resíduos sólidos, intensificando a eliminação do metano, e comprometeu a camada de ozônio."
@@ -6688,7 +6748,7 @@ export const uea2023Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o tuíte publicado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em 30.06.2023.\n\n(https://twitter.com)\n\n1 \u0007Taxa de subutilização: obtida pela taxa de desocupação somada à subocupação por insuficiência de horas trabalhadas.\n\nA partir da leitura do tuíte e de conhecimentos sobre a importância do IBGE para a elaboração de dados socioeconômicos para o país, conclui-se que",
+    "statement": "Leia o tuíte publicado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em 30.06.2023.\n\n(https://twitter.com)\n\n1 Taxa de subutilização: obtida pela taxa de desocupação somada à subocupação por insuficiência de horas trabalhadas.\n\nA partir da leitura do tuíte e de conhecimentos sobre a importância do IBGE para a elaboração de dados socioeconômicos para o país, conclui-se que",
     "blockTypes": [
       "prose",
       "source",
@@ -6702,9 +6762,9 @@ export const uea2023Vestibular = [
       }
     ],
     "alternatives": [
-      "a taxa de desocupação e a taxa de subutilização são contabilizadas para quantificar a população economicamente inativa.",
-      "a taxa de subutilização é maior que a taxa de desocupação, pois corresponde ao percentual total da população aposentada.",
-      "a taxa de desocupação é menor que a taxa de subutilização, pois corresponde ao percentual da população desempregada.",
+      "a taxa de desocupação e a taxa de subutilização são con- tabilizadas para quantificar a população economicamen- te inativa.",
+      "a taxa de subutilização é maior que a taxa de desocupa- ção, pois corresponde ao percentual total da população aposentada.",
+      "a taxa de desocupação é menor que a taxa de subuti- lização, pois corresponde ao percentual da população desempregada.",
       "a taxa de subutilização integra o cálculo para indicar o quantitativo de pessoas em situação de desalento.",
       "a taxa de desemprego é calculada a partir da subtração entre as taxas da população desocupada e subutilizada."
     ],
@@ -6803,7 +6863,7 @@ export const uea2023Vestibular = [
       "a falta crédito para quitar dívidas em dólar e as sanções financeiras impostas pelos Estados Unidos aos países produtores de petróleo.",
       "a impossibilidade da impressão de novos papeis moedas de dólar e o protecionismo alfandegário aplicado à China.",
       "a alta dos juros negociados em dólar e a política do pleno emprego vinculada aos altos salários no mercado internacional.",
-      "o endividamento do governo dos Estados Unidos e a supervalorização da moeda inglesa, a libra, nas transações com os países da União Europeia. Leia o texto de Jared Diamond para responder às questões de 25 a 28. Todos nós sabemos que a história avançou de modo muito diferente para os povos de cada parte do globo. Nos 13 000 anos que se passaram desde o fim da última Era Glacial, algumas partes do mundo desenvolveram sociedades industriais e letradas, que usavam utensílios de metal, enquanto outras produziram apenas sociedades agrícolas analfabetas e ainda outras se mantiveram caçadoras-coletoras de alimentos, usando artefatos feitos com pedras. Essas desigualdades projetaram grandes sombras sobre o mundo moderno, uma vez que as sociedades letradas que possuíam utensílios de metal conquistaram ou exterminaram as outras sociedades. Embora essas diferenças representem os fatos mais elementares da história mundial, suas causas continuam incertas e controvertidas. (Armas, germes e aço, 2013.)"
+      "o endividamento do governo dos Estados Unidos e a supervalorização da moeda inglesa, a libra, nas transa- ções com os países da União Europeia."
     ],
     "correct": 0,
     "resolution": [
@@ -7080,7 +7140,7 @@ export const uea2023Vestibular = [
       "defende uma poesia que expresse os sentimentos de maneira indireta.",
       "reconhece que qualquer coisa, mesmo a mais simples, pode ter inúmeros significados.",
       "afirma que a razão é uma boa maneira de descobrir os mistérios do mundo.",
-      "critica a poesia que atribui às palavras um sentido metafórico."
+      "critica a poesia que atribui às palavras um sentido meta- fórico."
     ],
     "correct": 4,
     "resolution": [
@@ -7125,8 +7185,8 @@ export const uea2023Vestibular = [
     "alternatives": [
       "o ser humano tem as mesmas habilidades e as mesmas dificuldades dos demais animais.",
       "o ser humano é um ser vaidoso que se preocupa mais consigo mesmo do que com os outros.",
-      "os seres humanos vestem roupas diferentes para diferenciar as classes sociais em uma sociedade desigual.",
-      "o ser humano é um ser cultural, prejudicado pela racionalização excessiva.",
+      "os seres humanos vestem roupas diferentes para dife- renciar as classes sociais em uma sociedade desigual.",
+      "o ser humano é um ser cultural, prejudicado pela raciona- lização excessiva.",
       "os seres humanos vestem roupas como maneira de afirmar sua superioridade frente aos demais animais."
     ],
     "correct": 3,
@@ -7170,11 +7230,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Saber ver sem estar a pensar,” (2a estrofe)",
-      "“Por que é que ver e ouvir seria iludirmo-nos” (1a estrofe)",
-      "“O que nós vemos das cousas são as cousas.” (1a estrofe)",
-      "“Se ver e ouvir são ver e ouvir?” (1a estrofe)",
-      "“Mas onde afinal as estrelas não são senão estrelas” (3a estrofe)"
+      "“Saber ver sem estar a pensar,” (2ª estrofe)",
+      "“Por que é que ver e ouvir seria iludirmo-nos” (1ª estrofe)",
+      "“O que nós vemos das cousas são as cousas.” (1ª estrofe)",
+      "“Se ver e ouvir são ver e ouvir?” (1ª estrofe)",
+      "“Mas onde afinal as estrelas não são senão estrelas” (3ª estrofe)"
     ],
     "correct": 1,
     "resolution": [
@@ -7208,7 +7268,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7223,7 +7283,7 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o narrador apresenta os fatos como parte de um experimento científico.",
+      "o narrador apresenta os fatos como parte de um experi- mento científico.",
       "os personagens são pertencentes às altas classes sociais.",
       "o narrador se dirige diretamente a seus leitores para fazer comentários sobre a narrativa.",
       "os personagens são os próprios narradores de suas histórias.",
@@ -7261,7 +7321,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
     "blockTypes": [
       "prose",
       "prose",
@@ -7314,7 +7374,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",
@@ -7375,8 +7435,8 @@ export const uea2023Vestibular = [
     "alternatives": [
       "às dificuldades técnicas que o clima e a geografia local impuseram ao crescimento urbano manauara.",
       "às contradições entre um centro urbano europeizado e uma periferia pobre e marginalizada.",
-      "à convivência harmoniosa entre a elite urbana e as classes sociais mais pobres.",
-      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cidades europeias.",
+      "à convivência harmoniosa entre a elite urbana e as clas- ses sociais mais pobres.",
+      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cida- des europeias.",
       "à preocupação das elites em incluir os trabalhadores e lhes garantir acesso à região mais moderna da cidade."
     ],
     "correct": 1,
@@ -7637,13 +7697,18 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g3/q06-1.svg",
+        "alt": "Figura de apoio da questão 06."
+      }
+    ],
     "alternatives": [
-      "8,5 cm2.",
-      "9,5 cm2.",
-      "9,0 cm2.",
-      "8,0 cm2.",
-      "10,0 cm2."
+      "8,5 cm².",
+      "9,5 cm².",
+      "9,0 cm².",
+      "8,0 cm².",
+      "10,0 cm²."
     ],
     "correct": 3,
     "resolution": [
@@ -7726,13 +7791,18 @@ export const uea2023Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2023-g3/q09-1.svg",
+        "alt": "Figura de apoio da questão 09."
+      }
+    ],
     "alternatives": [
-      "216 cm3.",
-      "144 cm3.",
-      "120 cm3.",
-      "168 cm3.",
-      "192 cm3."
+      "216 cm³.",
+      "144 cm³.",
+      "120 cm³.",
+      "168 cm³.",
+      "192 cm³."
     ],
     "correct": 4,
     "resolution": [
@@ -8000,11 +8070,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "2,5 m/s2.",
-      "0,2 m/s2.",
-      "4,0 m/s2.",
-      "1,0 m/s2.",
-      "8,0 m/s2."
+      "2,5 m/$s^{2}$.",
+      "0,2 m/$s^{2}$.",
+      "4,0 m/$s^{2}$.",
+      "1,0 m/$s^{2}$.",
+      "8,0 m/$s^{2}$."
     ],
     "correct": 2,
     "resolution": [
@@ -8238,11 +8308,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "1,2 × 107 J.",
-      "1,2 × 1014 J.",
-      "6,0 × 108 J.",
-      "3,0 × 1010 J.",
-      "6,0 × 1012 J."
+      "1,2 × $10^{7}$ J.",
+      "1,2 × $10^{14}$ J.",
+      "6,0 × $10^{8}$ J.",
+      "3,0 × $10^{10}$ J.",
+      "6,0 × $10^{12}$ J."
     ],
     "correct": 4,
     "resolution": [
@@ -8377,7 +8447,7 @@ export const uea2023Vestibular = [
       "850 µF.",
       "90 µF.",
       "3 µF.",
-      "3 750 µF. Leia o texto de Jared Diamond para responder às questões de 25 a 28. Todos nós sabemos que a história avançou de modo muito diferente para os povos de cada parte do globo. Nos 13 000 anos que se passaram desde o fim da última Era Glacial, algumas partes do mundo desenvolveram sociedades industriais e letradas, que usavam utensílios de metal, enquanto outras produziram apenas sociedades agrícolas analfabetas e ainda outras se mantiveram caçadoras-coletoras de alimentos, usando artefatos feitos com pedras. Essas desigualdades projetaram grandes sombras sobre o mundo moderno, uma vez que as sociedades letradas que possuíam utensílios de metal conquistaram ou exterminaram as outras sociedades. Embora essas diferenças representem os fatos mais elementares da história mundial, suas causas continuam incertas e controvertidas. (Armas, germes e aço, 2013.)"
+      "3 750 µF."
     ],
     "correct": 2,
     "resolution": [
@@ -8651,7 +8721,7 @@ export const uea2023Vestibular = [
     "images": [],
     "alternatives": [
       "reconhece que qualquer coisa, mesmo a mais simples, pode ter inúmeros significados.",
-      "critica a poesia que atribui às palavras um sentido metafórico.",
+      "critica a poesia que atribui às palavras um sentido meta- fórico.",
       "defende uma poesia que expresse os sentimentos de maneira indireta.",
       "afirma que a razão é uma boa maneira de descobrir os mistérios do mundo.",
       "elogia os poetas que fazem uso criativo das palavras."
@@ -8700,8 +8770,8 @@ export const uea2023Vestibular = [
       "o ser humano é um ser vaidoso que se preocupa mais consigo mesmo do que com os outros.",
       "os seres humanos vestem roupas como maneira de afirmar sua superioridade frente aos demais animais.",
       "o ser humano tem as mesmas habilidades e as mesmas dificuldades dos demais animais.",
-      "os seres humanos vestem roupas diferentes para diferenciar as classes sociais em uma sociedade desigual.",
-      "o ser humano é um ser cultural, prejudicado pela racionalização excessiva."
+      "os seres humanos vestem roupas diferentes para dife- renciar as classes sociais em uma sociedade desigual.",
+      "o ser humano é um ser cultural, prejudicado pela raciona- lização excessiva."
     ],
     "correct": 4,
     "resolution": [
@@ -8744,11 +8814,11 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Por que é que ver e ouvir seria iludirmo-nos” (1a estrofe)",
-      "“O que nós vemos das cousas são as cousas.” (1a estrofe)",
-      "“Saber ver sem estar a pensar,” (2a estrofe)",
-      "“Mas onde afinal as estrelas não são senão estrelas” (3a estrofe)",
-      "“Se ver e ouvir são ver e ouvir?” (1a estrofe)"
+      "“Por que é que ver e ouvir seria iludirmo-nos” (1ª estrofe)",
+      "“O que nós vemos das cousas são as cousas.” (1ª estrofe)",
+      "“Saber ver sem estar a pensar,” (2ª estrofe)",
+      "“Mas onde afinal as estrelas não são senão estrelas” (3ª estrofe)",
+      "“Se ver e ouvir são ver e ouvir?” (1ª estrofe)"
     ],
     "correct": 0,
     "resolution": [
@@ -8782,7 +8852,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nUm procedimento típico em Machado de Assis utilizado no conto é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -8799,7 +8869,7 @@ export const uea2023Vestibular = [
     "alternatives": [
       "os personagens são os próprios narradores de suas histórias.",
       "o narrador se dirige diretamente a seus leitores para fazer comentários sobre a narrativa.",
-      "o narrador apresenta os fatos como parte de um experimento científico.",
+      "o narrador apresenta os fatos como parte de um experi- mento científico.",
       "os personagens são pertencentes às altas classes sociais.",
       "o fluxo dos fatos é construído de maneira direta, sem divagações nem desvios."
     ],
@@ -8835,7 +8905,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\nNo primeiro parágrafo, o narrador comenta possibilidades sobre a composição da narrativa que ele próprio está escrevendo. Em outras palavras, a narrativa debruça-se sobre aspectos da própria narrativa. A tal procedimento dá-se o nome de",
     "blockTypes": [
       "prose",
       "prose",
@@ -8888,7 +8958,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eólia¹; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",
@@ -8947,8 +9017,8 @@ export const uea2023Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cidades europeias.",
-      "à convivência harmoniosa entre a elite urbana e as classes sociais mais pobres.",
+      "à oposição feita pelas elites locais à construção de uma cidade amazônica semelhante às mais modernas cida- des europeias.",
+      "à convivência harmoniosa entre a elite urbana e as clas- ses sociais mais pobres.",
       "à preocupação das elites em incluir os trabalhadores e lhes garantir acesso à região mais moderna da cidade.",
       "às contradições entre um centro urbano europeizado e uma periferia pobre e marginalizada.",
       "às dificuldades técnicas que o clima e a geografia local impuseram ao crescimento urbano manauara."

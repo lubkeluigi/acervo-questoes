@@ -3,7 +3,7 @@
 Usage: python3 scripts/uea_commit_text.py
 Reads /tmp/uea_all.json + /tmp/uea_reextracted.json, rewrites src/data/uea*.js.
 """
-import json, os, collections
+import json, os, re, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ALL = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_all.json')))
@@ -30,6 +30,13 @@ def merge_hyphen_blocks(statement, blockTypes):
         else:
             out_p.append(p); out_t.append(t)
     return '\n\n'.join(out_p), out_t
+
+def clean_controls(text):
+    """Strip PDF control glyphs (bell \x07, form feed, etc.) that leak into
+    lists/footnotes; keep newlines and table tabs intact."""
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', ' ', str(text))
+    text = re.sub(r' {2,}', ' ', text)
+    return text.strip()
 
 MODULES = {
     (2022, 'sis'): ('uea2022-sis.js', 'uea2022Sis'),
@@ -69,8 +76,17 @@ def main():
             stmt = OVERRIDES[q['id']]['statement']
             bt = OVERRIDES[q['id']]['blockTypes']
         stmt, bt = merge_hyphen_blocks(stmt, bt)
-        q['statement'] = stmt
+        q['statement'] = clean_controls(stmt)
         q['blockTypes'] = bt
+        # Re-extracted alternatives are clean; the original ingestion sometimes
+        # let option E swallow the next passage. Prefer the parsed alternatives
+        # when they are complete, then strip control glyphs.
+        rex_alts = rex.get('parsed_alts') if rex else None
+        cur_alts = q.get('alternatives', [])
+        if rex_alts and len(rex_alts) == len(cur_alts) and all(str(a).strip() for a in rex_alts):
+            q['alternatives'] = [clean_controls(a) for a in rex_alts]
+        else:
+            q['alternatives'] = [clean_controls(a) for a in cur_alts]
         changed += 1
         # replace figures with re-extracted crops / SVGs; drop caderno captions
         if q['id'] in IMGREFS:

@@ -30,8 +30,8 @@ export const uea2022Vestibular = [
       "o emprego do verbo “arrumar” no imperativo afirmativo, no primeiro quadrinho.",
       "o sentido atribuído pela criança ao verbo “arrumar”, no segundo quadrinho.",
       "a ironia contida no pedido de desculpas da criança, no terceiro quadrinho.",
-      "a dupla negação na frase da mulher, no segundo quadrinho.",
-      "o uso irônico da palavra “sim” para indicar forte discordância, no segundo quadrinho."
+      "a dupla negação na frase da mulher, no segundo qua- drinho.",
+      "o uso irônico da palavra “sim” para indicar forte discor- dância, no segundo quadrinho."
     ],
     "correct": 1,
     "resolution": [
@@ -86,13 +86,18 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 02."
+      }
+    ],
     "alternatives": [
       "recorre a Estiliano em busca de auxílio para solucionar os problemas financeiros em que a empresa da família se encontrava.",
       "mostra-se arrependido por ter incumbido Estiliano da administração do navio Eldorado.",
       "confessa a si mesmo que o relacionamento amoroso com Dinaura o impedira de zelar pelo patrimônio familiar.",
       "isenta o gerente dos negócios da família pela derrocada financeira dos Cordovil.",
-      "sente-se inconformado porque o Eldorado, navio a que dedicara todo o seu trabalho, naufragara sem a renovação da apólice de seguro."
+      "sente-se inconformado porque o Eldorado, navio a que dedicara todo o seu trabalho, naufragara sem a renova- ção da apólice de seguro."
     ],
     "correct": 0,
     "resolution": [
@@ -147,7 +152,12 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 03."
+      }
+    ],
     "alternatives": [
       "indiferença.",
       "orgulho.",
@@ -208,13 +218,18 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 04."
+      }
+    ],
     "alternatives": [
-      "“Ele ia renovar, mas morreu” (3o parágrafo).",
-      "“A dívida, uma fortuna” (7o parágrafo).",
-      "“Eu não conseguia encarar Amando, nem na parede” (4o parágrafo).",
-      "“Só de pensar, fico agoniado” (7o parágrafo).",
-      "“Permaneceu mudo, na mesma posição” (6o parágrafo)."
+      "“Ele ia renovar, mas morreu” (3º parágrafo).",
+      "“A dívida, uma fortuna” (7º parágrafo).",
+      "“Eu não conseguia encarar Amando, nem na parede” (4º parágrafo).",
+      "“Só de pensar, fico agoniado” (7º parágrafo).",
+      "“Permaneceu mudo, na mesma posição” (6º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -271,11 +286,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Se não venderes tudo, podes ser preso” (13o parágrafo).",
-      "“Vais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores” (11o parágrafo).",
-      "“Já sabia de tudo: eu tinha sido ingênuo ou irresponsável” (8o parágrafo).",
-      "“Estiliano não se alterou: o gerente era uma sombra do meu pai” (10o parágrafo).",
-      "“As pequenas companhias de navegação da Amazônia estão falidas” (13o parágrafo)."
+      "“Se não venderes tudo, podes ser preso” (13º parágrafo).",
+      "“Vais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores” (11º parágrafo).",
+      "“Já sabia de tudo: eu tinha sido ingênuo ou irresponsável” (8º parágrafo).",
+      "“Estiliano não se alterou: o gerente era uma sombra do meu pai” (10º parágrafo).",
+      "“As pequenas companhias de navegação da Amazônia estão falidas” (13º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -465,7 +480,7 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o aumento no preço dos combustíveis influencia diretamente o preço da carne.",
+      "o aumento no preço dos combustíveis influencia direta- mente o preço da carne.",
       "o consumo de carne vermelha é prejudicial à saúde e ao meio ambiente.",
       "a agropecuária é a atividade que mais consome água no mundo.",
       "situações corriqueiras impactam o planeta de forma significativa.",
@@ -503,7 +518,7 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • \u0007Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • \u0007Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nConsiderando seu conteúdo geral, um título apropriado para o texto seria:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nConsiderando seu conteúdo geral, um título apropriado para o texto seria:",
     "blockTypes": [
       "prose",
       "prose",
@@ -564,7 +579,7 @@ export const uea2022Vestibular = [
       "possibilita.",
       "proíbe.",
       "confunde.",
-      "atrapalha. Leia o texto para responder às questões 11 e 12. Michigan State University’s Quick Check 1. \u0007Check the website name and domain: Fake sites often have a “.co” in the domain. 2. \u0007Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. \u0007Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. \u0007Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. \u0007Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. \u0007Corrections: Again, reputable sites have a Corrections section or policy. 7. \u0007Named Sources, Studies etc.: Does the article name a source or study for its information? 8. \u0007Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. \u0007Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. \u0007Verify Information Using Multiple Sources: This is a good habit for all research. Make sure you can find more than one reputable source reporting the same information. (www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)"
+      "atrapalha."
     ],
     "correct": 1,
     "resolution": [
@@ -598,7 +613,7 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • \u0007Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • \u0007Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nPor lo dicho en el texto, al comparar la casa Keret y la casa de Malibú, se entiende que",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nPor lo dicho en el texto, al comparar la casa Keret y la casa de Malibú, se entiende que",
     "blockTypes": [
       "prose",
       "prose",
@@ -646,7 +661,7 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. \u0007Check the website name and domain: Fake sites often have a “.co” in the domain. 2. \u0007Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. \u0007Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. \u0007Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. \u0007Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. \u0007Corrections: Again, reputable sites have a Corrections section or policy. 7. \u0007Named Sources, Studies etc.: Does the article name a source or study for its information? 8. \u0007Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. \u0007Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. \u0007Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nThe purpose of the text is to",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain. 2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. Corrections: Again, reputable sites have a Corrections section or policy. 7. Named Sources, Studies etc.: Does the article name a source or study for its information? 8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nThe purpose of the text is to",
     "blockTypes": [
       "prose",
       "prose",
@@ -695,7 +710,7 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • \u0007Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • \u0007Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nAl pasar el fragmento “a quien le encantaba ese tema” al plural, sustituyendo el verbo subrayado por un sinónimo equivalente, el segmento quedaría como:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nAl pasar el fragmento “a quien le encantaba ese tema” al plural, sustituyendo el verbo subrayado por un sinónimo equivalente, el segmento quedaría como:",
     "blockTypes": [
       "prose",
       "prose",
@@ -743,7 +758,7 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. \u0007Check the website name and domain: Fake sites often have a “.co” in the domain. 2. \u0007Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. \u0007Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. \u0007Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. \u0007Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. \u0007Corrections: Again, reputable sites have a Corrections section or policy. 7. \u0007Named Sources, Studies etc.: Does the article name a source or study for its information? 8. \u0007Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. \u0007Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. \u0007Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nIn the excerpt from the third item “Anonymous articles generally should be avoided”, the underlined term is used to",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain. 2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. Corrections: Again, reputable sites have a Corrections section or policy. 7. Named Sources, Studies etc.: Does the article name a source or study for its information? 8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nIn the excerpt from the third item “Anonymous articles generally should be avoided”, the underlined term is used to",
     "blockTypes": [
       "prose",
       "prose",
@@ -792,7 +807,7 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • \u0007Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • \u0007Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nUma afirmação gramaticalmente correta que atende à descrição da casa de Tokio é:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nUma afirmação gramaticalmente correta que atende à descrição da casa de Tokio é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -893,9 +908,9 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "a edificação de pirâmides e o uso de canais de irrigação para ampliar as áreas de plantio.",
-      "a escrita hieroglífica e o comércio como atividade principal da economia.",
-      "a construção de terraços agrícolas e os sacrifícios humanos em rituais religiosos.",
-      "o uso de sementes de cacau como moedas e a centralização política em um império.",
+      "a escrita hieroglífica e o comércio como atividade princi- pal da economia.",
+      "a construção de terraços agrícolas e os sacrifícios huma- nos em rituais religiosos.",
+      "o uso de sementes de cacau como moedas e a centrali- zação política em um império.",
       "a religião politeísta e a economia agrícola com o cultivo de milho e batata."
     ],
     "correct": 4,
@@ -940,7 +955,7 @@ export const uea2022Vestibular = [
       "permitindo a instalação de manufaturas de tecidos de algodão para diminuir a importação de tecidos oriundos das fábricas inglesas.",
       "estimulando a livre concorrência entre os produtores locais para dinamizar a economia colonial e a exportação das drogas do sertão.",
       "coibindo o contrabando de metais preciosos para garantir a eficácia da política metalista do império português.",
-      "oferecendo preços atraentes para as mercadorias produzidas para serem transportadas com exclusividade nos navios da companhia até a Europa.",
+      "oferecendo preços atraentes para as mercadorias produ- zidas para serem transportadas com exclusividade nos navios da companhia até a Europa.",
       "incentivando a substituição do trabalho escravo pela mão de obra assalariada tendo em vista a alta dos preços dos escravos africanos no mercado internacional."
     ],
     "correct": 3,
@@ -983,9 +998,9 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "os republicanos moderados defendiam a inviolabilidade da propriedade privada, que era contestada pelas ideias socialistas do pântano.",
-      "a defesa da secularização dos bens da Igreja Católica, sustentada pelo “clero constitucional” provocou a oposição do chamado “clero refratário”.",
-      "as reivindicações sociais e políticas dos jacobinos contrariavam os interesses de parte da alta burguesia, que era representada pelos girondinos.",
-      "a proposta de votação por Estado, apoiada pela nobreza cortesã, desagradava o Terceiro Estado, que compreendia grupos sociais bem distintos entre si.",
+      "a defesa da secularização dos bens da Igreja Católica, sustentada pelo “clero constitucional” provocou a oposi- ção do chamado “clero refratário”.",
+      "as reivindicações sociais e políticas dos jacobinos contra- riavam os interesses de parte da alta burguesia, que era representada pelos girondinos.",
+      "a proposta de votação por Estado, apoiada pela nobreza cortesã, desagradava o Terceiro Estado, que compreen- dia grupos sociais bem distintos entre si.",
       "os sans-culottes reivindicavam o retorno da monarquia constitucional contra as pretensões republicanas da alta burguesia financeira."
     ],
     "correct": 2,
@@ -1028,7 +1043,7 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a conservação das capitanias hereditárias e do governo-geral.",
+      "a conservação das capitanias hereditárias e do governo- -geral.",
       "a subsistência de normas legais e do parlamentarismo português.",
       "a continuidade da política industrializante e de reformas urbanas joanina.",
       "o prosseguimento do sistema de parceria e da imigração subvencionada.",
@@ -1126,7 +1141,7 @@ export const uea2022Vestibular = [
       "ao auge da exploração da borracha e à execução de obras urbanas grandiosas durante a Belle Époque brasileira.",
       "à expansão das fazendas de cacau na região e à difusão do ideário pré-modernista na Amazônia.",
       "ao projeto da Primeira República de integrar o país e ao resgate da arquitetura colonial.",
-      "ao crescimento da economia algodoeira e à heterogeneidade do estilo arquitetônico neobarroco.",
+      "ao crescimento da economia algodoeira e à heterogenei- dade do estilo arquitetônico neobarroco.",
       "ao desenvolvimento urbano e à retomada de elementos da arquitetura greco-romana sem adaptações locais."
     ],
     "correct": 0,
@@ -1169,7 +1184,7 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "da polarização entre a França e a Grã-Bretanha, que disputavam territórios no Norte da África.",
-      "do equilíbrio de forças entre as grandes potências beligerantes, que investiram na produção de armas no período conhecido como paz armada.",
+      "do equilíbrio de forças entre as grandes potências belige- rantes, que investiram na produção de armas no período conhecido como paz armada.",
       "da entrada dos Estados Unidos no conflito em apoio aos Aliados, o que freou o avanço alemão sobre a Bélgica e a França.",
       "da política de alianças, que levou boa parte da Europa ao conflito devido aos acordos de defesa mútua entre os países.",
       "do projeto alemão de conquista de um espaço vital, que garantisse o desenvolvimento da nação."
@@ -1218,11 +1233,11 @@ export const uea2022Vestibular = [
       }
     ],
     "alternatives": [
-      "à crítica marxista à ideologia capitalista difundida pela indústria de cultura de massa.",
-      "à desconstrução do discurso estadunidense de proteção à liberdade por críticos ao envolvimento do país na Guerra da Coreia.",
+      "à crítica marxista à ideologia capitalista difundida pela in- dústria de cultura de massa.",
+      "à desconstrução do discurso estadunidense de proteção à liberdade por críticos ao envolvimento do país na Guer- ra da Coreia.",
       "à guerra comercial entre grandes editoras de revistas em quadrinho e de audiovisuais durante a Guerra do Vietnã.",
       "ao poder igualável das duas superpotências do período histórico chamado de Guerra Fria.",
-      "ao combate ideológico entre o liberalismo e a social-democracia durante a Segunda Guerra Mundial."
+      "ao combate ideológico entre o liberalismo e a social-de- mocracia durante a Segunda Guerra Mundial."
     ],
     "correct": 3,
     "resolution": [
@@ -1264,11 +1279,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "pretendia assegurar infraestrutura adequada nas regiões mais distantes do país para estender o processo de industrialização nacional.",
-      "priorizava investimentos nos setores de saúde, alimentação, educação e transporte rodoviário.",
+      "pretendia assegurar infraestrutura adequada nas regi- ões mais distantes do país para estender o processo de industrialização nacional.",
+      "priorizava investimentos nos setores de saúde, alimenta- ção, educação e transporte rodoviário.",
       "associava o intervencionismo estatal com o estímulo ao povoamento da região por trabalhadores nordestinos.",
       "visava estabelecer a indústria de base com a instalação de siderurgias em todas as regiões do país.",
-      "aliava o crescimento econômico regional com a preservação do meio ambiente e do modo de vida das populações tradicionais."
+      "aliava o crescimento econômico regional com a preserva- ção do meio ambiente e do modo de vida das populações tradicionais."
     ],
     "correct": 2,
     "resolution": [
@@ -1355,11 +1370,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "concorrem em pé de igualdade com emissoras consagradas no que diz respeito à captação de recursos comerciais gerados pelos conteúdos divulgados.",
-      "são incapazes de romper com as formas convencionais de comunicação devido à resistência do público a conteúdos sensacionalistas.",
+      "concorrem em pé de igualdade com emissoras consagra- das no que diz respeito à captação de recursos comer- ciais gerados pelos conteúdos divulgados.",
+      "são incapazes de romper com as formas convencio- nais de comunicação devido à resistência do público a conteúdos sensacionalistas.",
       "complementam as informações das mídias tradicionais com base em acordos pré-estabelecidos.",
-      "modificam as formas de produção e difusão das informações no mundo contemporâneo.",
-      "encontram-se condicionadas às pautas e regulamentações da imprensa e redes de televisão nacionais."
+      "modificam as formas de produção e difusão das informa- ções no mundo contemporâneo.",
+      "encontram-se condicionadas às pautas e regulamenta- ções da imprensa e redes de televisão nacionais."
     ],
     "correct": 3,
     "resolution": [
@@ -1547,13 +1562,18 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q28-1.svg",
+        "alt": "Figura de apoio da questão 28."
+      }
+    ],
     "alternatives": [
       "a população feminina mais empregrada no mercado de trabalho do Brasil é de origem europeia.",
-      "em comparação direta com os demais continentes, América Central e Caribe apresenta a menor empregabilidade masculina no mercado de trabalho do Brasil.",
+      "em comparação direta com os demais continentes, Amé- rica Central e Caribe apresenta a menor empregabilidade masculina no mercado de trabalho do Brasil.",
       "a população masculina de origem africana é a que tem a menor empregabilidade no mercado de trabalho do Brasil.",
-      "as mulheres de origem asiática são as que menos conseguem ocupar espaços no mercado de trabalho do Brasil.",
-      "em comparação direta com os demais continentes, a América do Norte é o que exibe maior equilíbrio de gêneros contratados no mercado de trabalho do Brasil."
+      "as mulheres de origem asiática são as que menos conse- guem ocupar espaços no mercado de trabalho do Brasil.",
+      "em comparação direta com os demais continentes, a América do Norte é o que exibe maior equilíbrio de gêne- ros contratados no mercado de trabalho do Brasil."
     ],
     "correct": 4,
     "resolution": [
@@ -1642,10 +1662,10 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a adoção da política econômica planificada, com destaque à região Sudeste.",
+      "a adoção da política econômica planificada, com desta- que à região Sudeste.",
       "a implantação da terciarização econômica, que resultou na maior expressividade de participação dos estados da região Sul.",
-      "a ocorrência de guerra fiscal, que ocasionou o processo de desconcentração produtiva para dentro e fora da região Sudeste.",
-      "a privatização dos investimentos em ciência e tecnologia, especialmente nos polos econômicos instalados nos estados da região Nordeste.",
+      "a ocorrência de guerra fiscal, que ocasionou o proces- so de desconcentração produtiva para dentro e fora da região Sudeste.",
+      "a privatização dos investimentos em ciência e tecnologia, especialmente nos polos econômicos instalados nos esta- dos da região Nordeste.",
       "o estabelecimento da política de pleno emprego e aumento da renda, tendo como destaque os estados da região Sul."
     ],
     "correct": 2,
@@ -1736,8 +1756,8 @@ export const uea2022Vestibular = [
       "contrapor as manifestações de preconceito de gênero e de origem.",
       "mitigar as atividades diplomáticas que contestam o racismo.",
       "combater socialmente as hostilidades e as aversões xenofóbicas.",
-      "reduzir a exclusão dos países culturalmente subdesenvolvidos.",
-      "conservar o direito nacional de segregar grupos minoritários."
+      "reduzir a exclusão dos países culturalmente subdesen- volvidos.",
+      "conservar o direito nacional de segregar grupos mino- ritários."
     ],
     "correct": 2,
     "resolution": [
@@ -1784,10 +1804,10 @@ export const uea2022Vestibular = [
     ],
     "alternatives": [
       "mestiçagem, que viabilizou a formação de cafuzos e de mamelucos e consolidou hábitos e costumes de um modo de vida.",
-      "miscigenação, que deu origem a inúmeros povos com características físicas próprias e marcou o fim da ancestralidade cultural.",
-      "mestiçagem, que propiciou o respeito cultural de diversos grupos sociais e assegurou, até os dias de hoje, a harmonia e a democracia racial no país.",
-      "miscigenação, que promoveu a unidade cultural entre indígenas, negros e brancos e permitiu a implementação do ciclo colonial da borracha na região Amazônica.",
-      "mestiçagem, que estabeleceu a negação dos valores tribais dos povos originários pelos brancos e propiciou, até os dias de hoje, a convivência tolerante entre as pessoas."
+      "miscigenação, que deu origem a inúmeros povos com características físicas próprias e marcou o fim da ances- tralidade cultural.",
+      "mestiçagem, que propiciou o respeito cultural de diversos grupos sociais e assegurou, até os dias de hoje, a harmo- nia e a democracia racial no país.",
+      "miscigenação, que promoveu a unidade cultural entre indígenas, negros e brancos e permitiu a implementa- ção do ciclo colonial da borracha na região Amazônica.",
+      "mestiçagem, que estabeleceu a negação dos valores tri- bais dos povos originários pelos brancos e propiciou, até os dias de hoje, a convivência tolerante entre as pessoas."
     ],
     "correct": 0,
     "resolution": [
@@ -1882,8 +1902,8 @@ export const uea2022Vestibular = [
       "uma região metropolitana, reduzindo as oportunidades de negócios.",
       "uma capital mundial, criando entraves no espaço urbano.",
       "um aglomerado urbano, limitando a qualidade de vida da população.",
-      "uma cidade inteligente, utilizando tecnologias da informação e comunicação.",
-      "uma área urbana conurbada, promovendo a sustentabilidade."
+      "uma cidade inteligente, utilizando tecnologias da infor- mação e comunicação.",
+      "uma área urbana conurbada, promovendo a sustentabi- lidade."
     ],
     "correct": 3,
     "resolution": [
@@ -1980,10 +2000,10 @@ export const uea2022Vestibular = [
     ],
     "alternatives": [
       "liberação de energia contida na ligação entre fosfatos.",
-      "assimilação de energia contida nos íons Na+.",
-      "assimilação de energia contida nas proteínas da membrana.",
-      "liberação de energia contida nos íons K+.",
-      "liberação de energia contida nas moléculas de fosfolipídeos."
+      "assimilação de energia contida nos íons $Na^{+}$.",
+      "assimilação de energia contida nas proteínas da mem- brana.",
+      "liberação de energia contida nos íons $K^{+}$.",
+      "liberação de energia contida nas moléculas de fosfoli- pídeos."
     ],
     "correct": 0,
     "resolution": [
@@ -2344,7 +2364,7 @@ export const uea2022Vestibular = [
       }
     ],
     "alternatives": [
-      "da liberação, sobre a pele, de espículas calcárias presentes no interior do cnidócito.",
+      "da liberação, sobre a pele, de espículas calcárias presen- tes no interior do cnidócito.",
       "da liberação, sobre a pele, do ácido clorídrico produzido na cavidade gástrica do cnidócito.",
       "da inibição do funcionamento das glândulas sudoríparas e sebáceas da pele.",
       "do bloqueio da transmissão do impulso nervoso pelos nervos da pele.",
@@ -2397,7 +2417,7 @@ export const uea2022Vestibular = [
     "alternatives": [
       "3, os ovos da lombriga são ingeridos com a água e os alimentos.",
       "1, as larvas da lombriga estão presentes no estômago.",
-      "2, os ovos da lombriga, eliminados com as fezes, eclodem no solo.",
+      "2, os ovos da lombriga, eliminados com as fezes, eclo- dem no solo.",
       "5, as lombrigas adultas são conduzidas pela traqueia até o intestino.",
       "4, os ovos da lombriga penetram no sistema circulatório, onde eclodem."
     ],
@@ -2699,7 +2719,12 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
       "72 cm.",
       "68 cm.",
@@ -2743,7 +2768,12 @@ export const uea2022Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q54-1.svg",
+        "alt": "Figura de apoio da questão 54."
+      }
+    ],
     "alternatives": [
       "4 cm.",
       "1 cm.",
@@ -2787,7 +2817,12 @@ export const uea2022Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q55-1.svg",
+        "alt": "Figura de apoio da questão 55."
+      }
+    ],
     "alternatives": [
       "7,1; 7; 8.",
       "7; 6; 7.",
@@ -2919,11 +2954,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "13 cm3.",
-      "9 cm3.",
-      "10 cm3.",
-      "12 cm3.",
-      "11 cm3."
+      "13 cm³.",
+      "9 cm³.",
+      "10 cm³.",
+      "12 cm³.",
+      "11 cm³."
     ],
     "correct": 0,
     "resolution": [
@@ -3099,13 +3134,18 @@ export const uea2022Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q62-1.svg",
+        "alt": "Figura de apoio da questão 62."
+      }
+    ],
     "alternatives": [
       "para baixo e está aplicada na mão.",
       "para cima e está aplicada na mesa.",
       "para cima e está aplicada no livro.",
       "para baixo e está aplicada na mesa.",
-      "para cima e está aplicada na mão. Leia o texto para responder às questões 63 e 64. Na figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa. fora de escala"
+      "para cima e está aplicada na mão."
     ],
     "correct": 4,
     "resolution": [
@@ -3138,15 +3178,18 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nfora de escala\n\nConsiderando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de\n\n3 m/h.\n3 m/h.\n2 m/h.\n1 m/h.\n1 m/h.",
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nConsiderando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de",
     "blockTypes": [
       "prose",
       "prose",
-      "source",
-      "prose",
-      "poem"
+      "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q63-1.svg",
+        "alt": "Vela acesa e estátua sobre uma mesa, com a sombra da estátua projetada pela luz da vela (fora de escala)."
+      }
+    ],
     "alternatives": [
       "2,5 × 10 –3 m/h.",
       "2,0 × 10 –3 m/h.",
@@ -3185,14 +3228,18 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nfora de escala\n\nPara que a sombra da estátua dobre de tamanho em relação ao momento em que a vela foi acesa, será necessário que se passe",
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nPara que a sombra da estátua dobre de tamanho em relação ao momento em que a vela foi acesa, será necessário que se passe",
     "blockTypes": [
       "prose",
       "prose",
-      "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q63-1.svg",
+        "alt": "Vela acesa e estátua sobre uma mesa, com a sombra da estátua projetada pela luz da vela (fora de escala)."
+      }
+    ],
     "alternatives": [
       "0,75 dia.",
       "0,25 dia.",
@@ -3339,7 +3386,7 @@ export const uea2022Vestibular = [
       "a madeira dos componentes da viola, ao ser aquecida, diminui de tamanho.",
       "o coeficiente de dilatação térmica superficial do aço é maior do que o da madeira.",
       "o coeficiente de dilatação térmica linear da madeira é maior do que o do aço.",
-      "as cordas da viola, ao serem aquecidas, tendem a diminuir de tamanho."
+      "as cordas da viola, ao serem aquecidas, tendem a dimi- nuir de tamanho."
     ],
     "correct": 3,
     "resolution": [
@@ -3378,8 +3425,8 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "incorreta, pois tanto o pote quanto a tampa estão à mesma temperatura.",
-      "correta, pois os metais atingem temperaturas mais baixas do que os plásticos.",
+      "incorreta, pois tanto o pote quanto a tampa estão à mes- ma temperatura.",
+      "correta, pois os metais atingem temperaturas mais bai- xas do que os plásticos.",
       "incorreta, pois a tampa e o pote aquecem com a mesma velocidade.",
       "incorreta, pois os plásticos atingem temperaturas mais baixas que os metais.",
       "correta, pois, ao tocá-los, o pote aquece mais rápido do que a tampa."
@@ -3737,7 +3784,12 @@ export const uea2022Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q76-1.svg",
+        "alt": "Figura de apoio da questão 76."
+      }
+    ],
     "alternatives": [
       "15 820 g.",
       "27 840 g.",
@@ -3830,11 +3882,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "Na2CO3 e cloreto férrico.",
-      "Na2CO3 e cloreto ferroso.",
-      "NaCO2 e tricloreto férrico.",
-      "Na3CO2 e cloreto de ferro(III).",
-      "Na2CO3 e tricloreto de ferro(III). Leia o texto para responder às questões 79 e 80. Em um aterro sanitário, o gás metano (CH4) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração."
+      "$Na_{2}$ $CO_{3}$ e cloreto férrico.",
+      "$Na_{2}$ $CO_{3}$ e cloreto ferroso.",
+      "$NaCO_{2}$ e tricloreto férrico.",
+      "$Na_{3}$ $CO_{2}$ e cloreto de ferro(III).",
+      "$Na_{2}$ $CO_{3}$e tricloreto de ferro(III)."
     ],
     "correct": 0,
     "resolution": [
@@ -3867,14 +3919,18 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CHdecomposição de resíduos orgânicos pode ser captado $e_{4}$) gerado pela\n\ndirecionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nCom base nas informações fornecidas, afirma-se que, na reação ocorrida no “flare”,",
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nCom base nas informações fornecidas, afirma-se que, na reação ocorrida no “flare”,",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q79-1.svg",
+        "alt": "Ilustração de um flare (queimador de biogás) captando e queimando o gás metano de um aterro sanitário."
+      }
+    ],
     "alternatives": [
       "o gás metano é o agente redutor.",
       "o gás dióxido de carbono é um dos reagentes.",
@@ -3913,14 +3969,18 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CHdecomposição de resíduos orgânicos pode ser captado $e_{4}$) gerado pela\n\ndirecionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nA geometria molecular do gás metano e a do gás dióxido de carbono são, respectivamente,",
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nA geometria molecular do gás metano e a do gás dióxido de carbono são, respectivamente,",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q79-1.svg",
+        "alt": "Ilustração de um flare (queimador de biogás) captando e queimando o gás metano de um aterro sanitário."
+      }
+    ],
     "alternatives": [
       "angular e angular.",
       "piramidal e angular.",
@@ -4529,7 +4589,7 @@ export const uea2022Vestibular = [
       "Plasmodium é um protozoário unicelular heterótrofo.",
       "Mycobacterium leprae não apresenta organização celular.",
       "Mycobacterium leprae é um fungo unicelular.",
-      "Plasmodium é um microrganismo pluricelular e procarionte.",
+      "Plasmodium é um microrganismo pluricelular e proca- rionte.",
       "Mycobacterium leprae é um organismo eucariótico e autotrófico."
     ],
     "correct": 0,
@@ -5364,7 +5424,7 @@ export const uea2022Vestibular = [
       "vocativo.",
       "aposto.",
       "adjunto adnominal.",
-      "objeto direto. Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34. Mergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes. Naquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos. Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava. Na manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana1 mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas. (Infância, 2020.) 1 cruviana: vento intenso e gelado."
+      "objeto direto."
     ],
     "correct": 1,
     "resolution": [
@@ -5564,11 +5624,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Acordei, reuni pedaços de pessoas e de coisas” (2o parágrafo).",
-      "“a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos” (2o parágrafo).",
-      "“As paredes úmidas enegreciam” (4o parágrafo).",
-      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1o parágrafo).",
-      "“Olhando-me por dentro, percebo com desgosto a segunda paisagem” (1o parágrafo)."
+      "“Acordei, reuni pedaços de pessoas e de coisas” (2º parágrafo).",
+      "“a humanidade, feita de indivíduos que me atormenta- vam e indivíduos que não me atormentavam, perdia os característicos” (2º parágrafo).",
+      "“As paredes úmidas enegreciam” (4º parágrafo).",
+      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1º parágrafo).",
+      "“Olhando-me por dentro, percebo com desgosto a segun- da paisagem” (1º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -5717,11 +5777,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Os objetos se tornavam irreconhecíveis” (2o parágrafo).",
-      "“Mergulhei numa comprida manhã de inverno” (1o parágrafo).",
-      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1o parágrafo).",
-      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1o parágrafo).",
-      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4o parágrafo)."
+      "“Os objetos se tornavam irreconhecíveis” (2º parágrafo).",
+      "“Mergulhei numa comprida manhã de inverno” (1º pará- grafo).",
+      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1º parágrafo).",
+      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1º parágrafo).",
+      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -5767,9 +5827,9 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a pop Art usar a linguagem artística erudita para reproduzir temas relacionados à cultura de massa, como as revistas de celebridades.",
-      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a fotografia e a pintura.",
-      "Andy Warhol trazer para suas obras pinturas de produtos industrializados, apesar de ter desistido da carreira publicitária.",
+      "a pop Art usar a linguagem artística erudita para repro- duzir temas relacionados à cultura de massa, como as revistas de celebridades.",
+      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a foto- grafia e a pintura.",
+      "Andy Warhol trazer para suas obras pinturas de produ- tos industrializados, apesar de ter desistido da carreira publicitária.",
       "a pop Art usar métodos de reprodução mecânica para diluir a distinção entre a arte erudita e a arte popular.",
       "Andy Warhol trazer para suas obras ícones do poder americano e, ao mesmo tempo, demonstrar que não acredita no sonho americano."
     ],
@@ -5817,11 +5877,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2o parágrafo).",
-      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda)” (1o parágrafo).",
-      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1o parágrafo).",
-      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2o parágrafo).",
-      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representantes do glamour e do poder americano” (3o parágrafo)."
+      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2º parágrafo).",
+      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebri- dades, quadrinhos, propaganda)” (1º parágrafo).",
+      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1º parágrafo).",
+      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2º parágrafo).",
+      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representan- tes do glamour e do poder americano” (3º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -5863,9 +5923,9 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "as sucessivas lutas das camadas plebeias, que resultaram na ampliação de direitos civis desse grupo social.",
+      "as sucessivas lutas das camadas plebeias, que resulta- ram na ampliação de direitos civis desse grupo social.",
       "a instituição da tirania, que distribuiu cargos públicos aos pequenos proprietários rurais.",
-      "as reformas dos legisladores, que estabeleceram o mesmo peso para o voto dos cidadãos, fossem eles ricos ou pobres.",
+      "as reformas dos legisladores, que estabeleceram o mes- mo peso para o voto dos cidadãos, fossem eles ricos ou pobres.",
       "a instalação da ditadura, que concentrou poderes nas mãos dos grandes generais romanos.",
       "o estabelecimento do triunvirato, que criou o consulado com três governantes, cada um representando um grupo social."
     ],
@@ -5912,7 +5972,7 @@ export const uea2022Vestibular = [
       "a instabilidade política advinda das revoltas nativistas e a elevação dos impostos metropolitanos.",
       "o estabelecimento da União Ibérica e a posterior invasão holandesa do nordeste brasileiro.",
       "o grande número de incêndios nos canaviais e o boicote dos negros ao trabalho compulsório.",
-      "a concorrência antilhana no mercado do açúcar e a consequente baixa dos preços internacionais do produto.",
+      "a concorrência antilhana no mercado do açúcar e a con- sequente baixa dos preços internacionais do produto.",
       "a escassez da mão de obra escrava e o ulterior aumento dos custos de produção."
     ],
     "correct": 3,
@@ -5953,7 +6013,7 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a posse da Capitania de São José do Rio Negro, subordinada ao Estado do Grão-Pará pela Coroa portuguesa.",
+      "a posse da Capitania de São José do Rio Negro, subor- dinada ao Estado do Grão-Pará pela Coroa portuguesa.",
       "a criação da Província do Amazonas por meio de um decreto assinado pelos soberanos português e espanhol.",
       "a livre ocupação do território brasileiro por diferentes colonizadores, como ingleses, holandeses, portugueses e espanhóis.",
       "o controle português de terras na região Norte por meio de um acordo adicional com a França arbitrado pelo governo suíço.",
@@ -6003,7 +6063,7 @@ export const uea2022Vestibular = [
       "o rápido desenvolvimento do mercado de massa e o aumento do preço dos produtos industrializados.",
       "a fixação de alianças para a condenação da guerra e de defesa da paz permanente entre os Estados nacionais.",
       "uma expansão da Revolução Industrial para a Rússia czarista e para grande parte do Império chinês.",
-      "uma maior interligação dos mercados mundiais e a partilha da Ásia e da África pelos europeus."
+      "uma maior interligação dos mercados mundiais e a parti- lha da Ásia e da África pelos europeus."
     ],
     "correct": 4,
     "resolution": [
@@ -6048,7 +6108,7 @@ export const uea2022Vestibular = [
     "alternatives": [
       "da divisão do eleitorado em duas categorias distintas: votantes e eleitores.",
       "da adoção do voto distrital para reforçar as relações clientelistas no campo.",
-      "da regulamentação do direito ao voto a homens alfabetizados com no mínimo 21 anos.",
+      "da regulamentação do direito ao voto a homens alfabeti- zados com no mínimo 21 anos.",
       "da instituição de eleições indiretas para os cargos do Executivo.",
       "da exigência de uma renda mínima para participar do processo eleitoral."
     ],
@@ -6095,10 +6155,10 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "na oposição às guerrilhas rurais, que se desenvolviam na região em defesa de uma revolução socialista.",
-      "na crítica ao controle político das repúblicas latino-americanas por líderes, que exerciam o poder de forma personalista e autoritária.",
+      "na crítica ao controle político das repúblicas latino- -americanas por líderes, que exerciam o poder de for- ma personalista e autoritária.",
       "na condenação dos excessos democráticos fomentados por governantes carismáticos e populistas.",
       "na defesa de uma monarquia constitucional para sanar as deficiências dos regimes republicanos.",
-      "na desaprovação ao processo de independência conduzido pelos descendentes de espanhóis, vistos como inferiores pelos europeus."
+      "na desaprovação ao processo de independência condu- zido pelos descendentes de espanhóis, vistos como infe- riores pelos europeus."
     ],
     "correct": 1,
     "resolution": [
@@ -6132,7 +6192,7 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a cronologia sobre a Segunda Guerra Mundial. • \u00073 de setembro de 1939: a França e a Grã-Bretanha declaram guerra à Alemanha. • \u000710 de maio de 1940: o exército alemão ataca Bélgica, Holanda e Luxemburgo. • \u000714 de maio de 1940: as linhas francesas são rompidas em Sedan. Para o exército francês começa a derrota; para a população, o êxodo. • \u000717 de junho de 1940: o marechal francês Phillippe Pétain pede o armistício.\n\n(Marc Ferro. História da Segunda Guerra Mundial, 1995. Adaptado.)\n\nNo contexto da Segunda Guerra Mundial, o armistício assinado pela França",
+    "statement": "Analise a cronologia sobre a Segunda Guerra Mundial. • 3 de setembro de 1939: a França e a Grã-Bretanha declaram guerra à Alemanha. • 10 de maio de 1940: o exército alemão ataca Bélgica, Holanda e Luxemburgo. • 14 de maio de 1940: as linhas francesas são rompidas em Sedan. Para o exército francês começa a derrota; para a população, o êxodo. • 17 de junho de 1940: o marechal francês Phillippe Pétain pede o armistício.\n\n(Marc Ferro. História da Segunda Guerra Mundial, 1995. Adaptado.)\n\nNo contexto da Segunda Guerra Mundial, o armistício assinado pela França",
     "blockTypes": [
       "prose",
       "source",
@@ -6188,7 +6248,7 @@ export const uea2022Vestibular = [
     "alternatives": [
       "o crescimento acelerado da indústria automobilística no país, sobretudo em função de investimentos estatais.",
       "a complementariedade da produção de automóveis entre indústrias nacionais e multinacionais para atender a demanda do mercado consumidor interno.",
-      "a criação da chamada “civilização do automóvel” em detrimento da ampliação de meios de transporte coletivo para a grande massa.",
+      "a criação da chamada “civilização do automóvel” em detrimento da ampliação de meios de transporte coleti- vo para a grande massa.",
       "a importação de autopeças em prejuízo da produção local, ocasionando o aumento no custo de produção dos automóveis.",
       "a inédita concentração de operários em polos industriais nas cinco regiões brasileiras, mudando completamente a fisionomia do país."
     ],
@@ -6280,7 +6340,7 @@ export const uea2022Vestibular = [
       "a estabilização monetária e os investimentos estatais em infraestrutura.",
       "a distribuição de renda e a reparação às desigualdades raciais.",
       "a reforma trabalhista e a terceirização do setor de serviços.",
-      "as reformas tributária e agrária para aumentar a produtividade nacional.",
+      "as reformas tributária e agrária para aumentar a produti- vidade nacional.",
       "a liberalização da economia e a privatização de empresas estatais."
     ],
     "correct": 4,
@@ -6328,7 +6388,7 @@ export const uea2022Vestibular = [
       "permite a integração de mercados e de tecnologias, mas impõe obstáculos aos fluxos migratórios.",
       "favorece o compartilhamento de tecnologias entre os países, o que diminui as desigualdades entre nações ricas e pobres.",
       "proporciona uma maior mobilidade dos trabalhadores, porém esta é restrita aos mais qualificados.",
-      "abole gradualmente as políticas protecionistas tanto nos países desenvolvidos como nos países em desenvolvimento."
+      "abole gradualmente as políticas protecionistas tanto nos países desenvolvidos como nos países em desen- volvimento."
     ],
     "correct": 1,
     "resolution": [
@@ -6370,7 +6430,7 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "dissocia a fé e a razão como campos opostos e irreconciliáveis.",
+      "dissocia a fé e a razão como campos opostos e irrecon- ciliáveis.",
       "constata que o agente do movimento é interno aos seres.",
       "desenvolve noções idealistas sem pressupostos na realidade.",
       "apresenta argumentos em bases racionais e empíricas.",
@@ -6414,7 +6474,12 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q13-1.svg",
+        "alt": "Figura de apoio da questão 13."
+      }
+    ],
     "alternatives": [
       "Nordeste possui o menor índice de abastecimento de água, porém ocupa uma posição acima à da região Sul em relação ao percentual no serviço de coleta de esgoto.",
       "Norte tem o maior percentual nas perdas de água, todavia ocupa posição de destaque nos demais índices quando comparada à região Centro-Oeste.",
@@ -6470,10 +6535,10 @@ export const uea2022Vestibular = [
     ],
     "alternatives": [
       "a elaboração desse mapa necessitou de um conjunto de softwares e hardwares capazes de produzir, armazenar, processar, analisar e representar inúmeras informações sobre o espaço geográfico.",
-      "a captura da área inicial para gerar esse mapa temático ocorreu por meio de sensores remotos que estão instalados nos satélites de observação que orbitam ao redor da Terra e são capazes de produzir as fotografias aéreas.",
-      "o tratamento das informações obtidas por meio de sensores remotos para produzir esse mapa topográfico é organizado em dois formatos primários de dados para armazenamento ou apresentação cartográfica: o raster e o matricial.",
-      "a construção desse mapa temático ocorreu a partir da definição de uma única camada (layer) de dados georreferenciados, obtida por meio de sensores remotos, que possibilita analisar as evoluções espaciais e temporais do fenômeno geográfico.",
-      "a finalização e a divulgação dos dados quantificáveis representados nesse mapa interativo constituem a maneira de transformar os dados geoespaciais contendo latitude e longitude em padrões ou formas coloridos."
+      "a captura da área inicial para gerar esse mapa temático ocorreu por meio de sensores remotos que estão insta- lados nos satélites de observação que orbitam ao redor da Terra e são capazes de produzir as fotografias aéreas.",
+      "o tratamento das informações obtidas por meio de sen- sores remotos para produzir esse mapa topográfico é organizado em dois formatos primários de dados para armazenamento ou apresentação cartográfica: o raster e o matricial.",
+      "a construção desse mapa temático ocorreu a partir da definição de uma única camada (layer) de dados georre- ferenciados, obtida por meio de sensores remotos, que possibilita analisar as evoluções espaciais e temporais do fenômeno geográfico.",
+      "a finalização e a divulgação dos dados quantificáveis representados nesse mapa interativo constituem a maneira de transformar os dados geoespaciais conten- do latitude e longitude em padrões ou formas coloridos."
     ],
     "correct": 0,
     "resolution": [
@@ -6517,10 +6582,10 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "desvalorizações cambiais, que são mais significativas nos países com moedas dolarizadas, como o Brasil e a Índia, e dependentes do Banco Central dos Estados Unidos.",
-      "atividades especulativas, que são decorrentes das flutuações do mercado de capital e do colapso financeiro dos países da Zona do Euro.",
-      "pressões inflacionárias, que variam segundo o nível de desenvolvimento dos países e das condições socioeconômicas de cada população.",
-      "elevações nas taxas de juros, que são impostas para evitar a perda do capital investido e garantir a política do pleno emprego em escala global.",
-      "políticas de subsídios, que são aplicadas com mais intensidade sobre os países subdesenvolvidos e que possuem grande disponibilidade de recursos naturais energéticos."
+      "atividades especulativas, que são decorrentes das flutua- ções do mercado de capital e do colapso financeiro dos países da Zona do Euro.",
+      "pressões inflacionárias, que variam segundo o nível de desenvolvimento dos países e das condições socioeco- nômicas de cada população.",
+      "elevações nas taxas de juros, que são impostas para evi- tar a perda do capital investido e garantir a política do pleno emprego em escala global.",
+      "políticas de subsídios, que são aplicadas com mais inten- sidade sobre os países subdesenvolvidos e que possuem grande disponibilidade de recursos naturais energéticos."
     ],
     "correct": 2,
     "resolution": [
@@ -6609,7 +6674,7 @@ export const uea2022Vestibular = [
     "images": [],
     "alternatives": [
       "o equilibrio do número de adultos é reflexo do fim das barreiras para conter imigrantes ilegais.",
-      "a retração da pirâmide é resultado das políticas de planejamento familiar reguladas por organizações internacionais.",
+      "a retração da pirâmide é resultado das políticas de planeja- mento familiar reguladas por organizações internacionais.",
       "o envelhecimento populacional resulta da abrangência de doações de medicamentos em âmbito mundial.",
       "a redução do número de jovens resulta de políticas de controle de natalidade mantidas por instituições como a Unesco.",
       "o estreitamento da pirâmide etária é consequência do crescimento desacelerado da população mundial."
@@ -6699,7 +6764,12 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q19-1.svg",
+        "alt": "Figura de apoio da questão 19."
+      }
+    ],
     "alternatives": [
       "o total do PIB do G7, após o ano de 2020, é superado pelo total do PIB do BRICS, que, atualmente, representa cerca de um terço da economia global.",
       "a formação dos blocos econômicos do G7 e do BRICS favoreceu os países desenvolvidos em detrimento dos países com economias emergentes.",
@@ -6801,11 +6871,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "uma dificuldade no cumprimento das metas estabelecidas pelo Acordo de Paris, pois o urânio usado na fissão nuclear é de origem fóssil.",
+      "uma dificuldade no cumprimento das metas estabeleci- das pelo Acordo de Paris, pois o urânio usado na fissão nuclear é de origem fóssil.",
       "uma oportunidade político-militar, uma vez que o país terá mais tecnologia para renovar seu arsenal bélico-atômico.",
-      "um isolamento diplomático, uma vez que a geração de energia nuclear está limitada pelo Tratado de Não Proliferação da Energia Nuclear, do qual o país é signatário.",
-      "uma vantagem competitiva, devido à elevação da capacidade de geração de energia elétrica, sem elevar os níveis de poluição atmosférica, como ocorre com as termoelétricas.",
-      "uma redução nos preços da tarifa de energia elétrica, pois o custo da produção da energia nuclear é mais barata quando comparada com a energia gerada pelas hidroelétricas e termoelétricas."
+      "um isolamento diplomático, uma vez que a geração de energia nuclear está limitada pelo Tratado de Não Proli- feração da Energia Nuclear, do qual o país é signatário.",
+      "uma vantagem competitiva, devido à elevação da capacida- de de geração de energia elétrica, sem elevar os níveis de poluição atmosférica, como ocorre com as termoelétricas.",
+      "uma redução nos preços da tarifa de energia elétrica, pois o custo da produção da energia nuclear é mais bara- ta quando comparada com a energia gerada pelas hidro- elétricas e termoelétricas."
     ],
     "correct": 3,
     "resolution": [
@@ -6848,7 +6918,7 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "zonas urbanas e a redução das situações de alagamentos e inundações.",
+      "zonas urbanas e a redução das situações de alagamen- tos e inundações.",
       "municípios com mais de 20 mil habitantes e a diminuição do risco de endemias.",
       "macrometrópoles e a melhoria da qualidade de vida urbana.",
       "todas as cidades e o aumento da vida útil dos aterros sanitários.",
@@ -6940,7 +7010,12 @@ export const uea2022Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q24-1.svg",
+        "alt": "Figura de apoio da questão 24."
+      }
+    ],
     "alternatives": [
       "1.",
       "3.",
@@ -7091,7 +7166,7 @@ export const uea2022Vestibular = [
       "sujeito.",
       "vocativo.",
       "adjunto adnominal.",
-      "objeto direto. Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34. Mergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes. Naquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos. Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava. Na manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana1 mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas. (Infância, 2020.) 1 cruviana: vento intenso e gelado."
+      "objeto direto."
     ],
     "correct": 2,
     "resolution": [
@@ -7291,11 +7366,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Acordei, reuni pedaços de pessoas e de coisas” (2o parágrafo).",
-      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1o parágrafo).",
-      "“As paredes úmidas enegreciam” (4o parágrafo).",
-      "“Olhando-me por dentro, percebo com desgosto a segunda paisagem” (1o parágrafo).",
-      "“a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos” (2o parágrafo)."
+      "“Acordei, reuni pedaços de pessoas e de coisas” (2º parágrafo).",
+      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1º parágrafo).",
+      "“As paredes úmidas enegreciam” (4º parágrafo).",
+      "“Olhando-me por dentro, percebo com desgosto a segun- da paisagem” (1º parágrafo).",
+      "“a humanidade, feita de indivíduos que me atormenta- vam e indivíduos que não me atormentavam, perdia os característicos” (2º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -7444,11 +7519,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1o parágrafo).",
-      "“Os objetos se tornavam irreconhecíveis” (2o parágrafo).",
-      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1o parágrafo).",
-      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4o parágrafo).",
-      "“Mergulhei numa comprida manhã de inverno” (1o parágrafo)."
+      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1º parágrafo).",
+      "“Os objetos se tornavam irreconhecíveis” (2º parágrafo).",
+      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1º parágrafo).",
+      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4º parágrafo).",
+      "“Mergulhei numa comprida manhã de inverno” (1º pará- grafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -7494,10 +7569,10 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a fotografia e a pintura.",
-      "a pop Art usar a linguagem artística erudita para reproduzir temas relacionados à cultura de massa, como as revistas de celebridades.",
+      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a foto- grafia e a pintura.",
+      "a pop Art usar a linguagem artística erudita para repro- duzir temas relacionados à cultura de massa, como as revistas de celebridades.",
       "a pop Art usar métodos de reprodução mecânica para diluir a distinção entre a arte erudita e a arte popular.",
-      "Andy Warhol trazer para suas obras pinturas de produtos industrializados, apesar de ter desistido da carreira publicitária.",
+      "Andy Warhol trazer para suas obras pinturas de produ- tos industrializados, apesar de ter desistido da carreira publicitária.",
       "Andy Warhol trazer para suas obras ícones do poder americano e, ao mesmo tempo, demonstrar que não acredita no sonho americano."
     ],
     "correct": 4,
@@ -7544,11 +7619,11 @@ export const uea2022Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2o parágrafo).",
-      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1o parágrafo).",
-      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representantes do glamour e do poder americano” (3o parágrafo).",
-      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2o parágrafo).",
-      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda)” (1o parágrafo)."
+      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2º parágrafo).",
+      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1º parágrafo).",
+      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representan- tes do glamour e do poder americano” (3º parágrafo).",
+      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2º parágrafo).",
+      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebri- dades, quadrinhos, propaganda)” (1º parágrafo)."
     ],
     "correct": 3,
     "resolution": [

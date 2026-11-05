@@ -14,7 +14,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 \u0007grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 \u0007rular: produzir arrulos (sons emitidos pelas pombas). 3 \u0007c’os: com os. 4 \u0007mole pouso: macio pouso (ou seja, ninho). 5 \u0007altivo: dominado pela arrogância, pela soberba.\n\nDepreende-se da lira que",
+    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 rular: produzir arrulos (sons emitidos pelas pombas). 3 c’os: com os. 4 mole pouso: macio pouso (ou seja, ninho). 5 altivo: dominado pela arrogância, pela soberba.\n\nDepreende-se da lira que",
     "blockTypes": [
       "prose",
       "poem",
@@ -33,8 +33,8 @@ export const uea2025Sis = [
     "alternatives": [
       "Marília se apaixonou por Dirceu, mas não foi correspondida.",
       "o eu lírico pretende sabotar o relacionamento amoroso de Marília com Dirceu.",
-      "o eu lírico considera Marília arrogante por esta se acreditar imune ao amor.",
-      "Dirceu pretende sabotar o relacionamento amoroso de Marília com o eu lírico.",
+      "o eu lírico considera Marília arrogante por esta se acredi- tar imune ao amor.",
+      "Dirceu pretende sabotar o relacionamento amoroso de Ma- rília com o eu lírico.",
       "Dirceu considera Marília arrogante por esta desprezar o eu lírico."
     ],
     "correct": 2,
@@ -70,7 +70,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 \u0007grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 \u0007rular: produzir arrulos (sons emitidos pelas pombas). 3 \u0007c’os: com os. 4 \u0007mole pouso: macio pouso (ou seja, ninho). 5 \u0007altivo: dominado pela arrogância, pela soberba.\n\nA “Lei da Natureza” a que o eu lírico se refere em seu refrão é",
+    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 rular: produzir arrulos (sons emitidos pelas pombas). 3 c’os: com os. 4 mole pouso: macio pouso (ou seja, ninho). 5 altivo: dominado pela arrogância, pela soberba.\n\nA “Lei da Natureza” a que o eu lírico se refere em seu refrão é",
     "blockTypes": [
       "prose",
       "poem",
@@ -126,7 +126,7 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 \u0007grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 \u0007rular: produzir arrulos (sons emitidos pelas pombas). 3 \u0007c’os: com os. 4 \u0007mole pouso: macio pouso (ou seja, ninho). 5 \u0007altivo: dominado pela arrogância, pela soberba.\n\n“Desiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?”\n\nO termo sublinhado refere-se a",
+    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 rular: produzir arrulos (sons emitidos pelas pombas). 3 c’os: com os. 4 mole pouso: macio pouso (ou seja, ninho). 5 altivo: dominado pela arrogância, pela soberba.\n\n“Desiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?”\n\nO termo sublinhado refere-se a",
     "blockTypes": [
       "prose",
       "poem",
@@ -184,7 +184,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 \u0007grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 \u0007rular: produzir arrulos (sons emitidos pelas pombas). 3 \u0007c’os: com os. 4 \u0007mole pouso: macio pouso (ou seja, ninho). 5 \u0007altivo: dominado pela arrogância, pela soberba.\n\nO modo verbal imperativo é empregado com o intuito de exortar, ou seja, induzir um interlocutor a cumprir a ação indicada pelo verbo. É, pois, o modo verbal que indica exortação, conselho, pedido, ordem etc. O eu lírico utiliza modo imperativo no verso:",
+    "statement": "Para responder às questões de 01 a 04, leia a “Lira VIII” da obra poética Marília de Dirceu, de Tomás Antônio Gonzaga.\n\nMarília, de que te queixas?\nDe que te roube Dirceu\nO sincero coração?\nNão te deu também o seu?\nE tu, Marília, primeiro\nNão lhe lançaste o grilhão¹?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nEm torno das castas pombas,\nNão rulam² ternos pombinhos?\nE rulam, Marília, em vão?\nNão se afagam c’os³ biquinhos?\nE a provas de mais ternura\nNão os arrasta a paixão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\nJá viste, minha Marília,\nAvezinhas que não façam\nOs seus ninhos no verão?\nAquelas, com que se enlaçam,\nNão vão cantar-lhes defronte\nDo mole pouso⁴, em que estão?\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção? [...]\n\nDesiste, Marília bela,\nDe uma queixa sustentada\nSó na altiva⁵ opinião.\nEsta chama é inspirada\nPelo céu, pois nela assenta\nA nossa conservação.\n\nTodos amam: só Marília\nDesta Lei da Natureza\nQueria ter isenção?\n\n(Domício Proença Filho (org.). A poesia dos inconfidentes, 1996.)\n\n1 grilhão: corrente de ferro usada para prender as pernas de criminosos. 2 rular: produzir arrulos (sons emitidos pelas pombas). 3 c’os: com os. 4 mole pouso: macio pouso (ou seja, ninho). 5 altivo: dominado pela arrogância, pela soberba.\n\nO modo verbal imperativo é empregado com o intuito de exortar, ou seja, induzir um interlocutor a cumprir a ação indicada pelo verbo. É, pois, o modo verbal que indica exortação, conselho, pedido, ordem etc. O eu lírico utiliza modo imperativo no verso:",
     "blockTypes": [
       "prose",
       "poem",
@@ -201,11 +201,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Marília, de que te queixas?” (1a estrofe)",
-      "“Não te deu também o seu?” (1a estrofe)",
-      "“Já viste, minha Marília,” (3a estrofe)",
-      "“Avezinhas que não façam” (3a estrofe)",
-      "“Desiste, Marília bela,” (4a estrofe)"
+      "“Marília, de que te queixas?” (1$\\frac{a}{a}$ estrofe)",
+      "“Não te deu também o seu?” (1 estrofe)",
+      "“Já viste, minha Marília,” (3$\\frac{a}{a}$ estrofe)",
+      "“Avezinhas que não façam” (3 estrofe)",
+      "“Desiste, Marília bela,” (4ª estrofe)"
     ],
     "correct": 4,
     "resolution": [
@@ -240,7 +240,7 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 \u0007aformosear: embelezar. 2 \u0007afear: enfeiar, tornar feio. 3 \u0007marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 \u0007singradura: percurso marítimo realizado ao longo de um dia.\n\n“não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer.” No trecho sublinhado, o escrivão Caminha vale-se claramente de um recurso retórico cujo objetivo é simular",
+    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 aformosear: embelezar. 2 afear: enfeiar, tornar feio. 3 marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 singradura: percurso marítimo realizado ao longo de um dia.\n\n“não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer.” No trecho sublinhado, o escrivão Caminha vale-se claramente de um recurso retórico cujo objetivo é simular",
     "blockTypes": [
       "prose",
       "prose",
@@ -289,7 +289,7 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 \u0007aformosear: embelezar. 2 \u0007afear: enfeiar, tornar feio. 3 \u0007marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 \u0007singradura: percurso marítimo realizado ao longo de um dia.\n\nNo trecho “sem aformosear ou afear, não contarei aqui mais do que aquilo que vi e me pareceu”, Caminha diz que será",
+    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 aformosear: embelezar. 2 afear: enfeiar, tornar feio. 3 marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 singradura: percurso marítimo realizado ao longo de um dia.\n\nNo trecho “sem aformosear ou afear, não contarei aqui mais do que aquilo que vi e me pareceu”, Caminha diz que será",
     "blockTypes": [
       "prose",
       "prose",
@@ -338,7 +338,7 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 \u0007aformosear: embelezar. 2 \u0007afear: enfeiar, tornar feio. 3 \u0007marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 \u0007singradura: percurso marítimo realizado ao longo de um dia.\n\nEm “Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, [...] não deixarei também de dar notícias disso a Vossa Alteza”, a locução conjuntiva “Posto que” introduz uma oração adverbial que expressa ideia de",
+    "statement": "Para responder às questões de 05 a 07, leia o início da famosa Carta de achamento do Brasil, escrita por Pero Vaz de Caminha.\n\nSenhor, Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, que agora nesta navegação se achou, não deixarei também de dar notícias disso a Vossa Alteza, e o farei o melhor possível, ainda que, para bem contar e falar, eu saiba pior que todos fazer. Entretanto, tome Vossa Alteza a minha ignorância por boa vontade e por certo creia que, sem aformosear¹ ou afear², não contarei aqui mais do que aquilo que vi e me pareceu. Da marinhagem³ e das singraduras⁴ do caminho não darei aqui conta a Vossa Alteza porque o não saberei fazer e também porque são os pilotos que devem ter esse cuidado. E, portanto, Senhor, do que hei de falar começo e digo.\n\n(Carta de achamento do Brasil, 2021.)\n\n1 aformosear: embelezar. 2 afear: enfeiar, tornar feio. 3 marinhagem: manobras náuticas, ou seja, aspectos técnicos da navegação a vela. 4 singradura: percurso marítimo realizado ao longo de um dia.\n\nEm “Posto que o capitão-mor desta vossa frota e assim os outros capitães escrevam a Vossa Alteza sobre a nova do achamento desta vossa terra nova, [...] não deixarei também de dar notícias disso a Vossa Alteza”, a locução conjuntiva “Posto que” introduz uma oração adverbial que expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -399,10 +399,10 @@ export const uea2025Sis = [
     ],
     "alternatives": [
       "árcade, na medida em que retrata elementos que aludem à transitoriedade e à finitude da vida.",
-      "barroca, na medida em que retrata elementos que aludem à tensão entre céu e terra, entre espírito e matéria.",
+      "barroca, na medida em que retrata elementos que alu- dem à tensão entre céu e terra, entre espírito e matéria.",
       "quinhentista, na medida em que retrata elementos que aludem ao início do processo de colonização do Brasil.",
-      "barroca, na medida em que retrata elementos que aludem ao tópico do carpe diem (“aproveita o momento”).",
-      "árcade, na medida em que retrata elementos que aludem ao tópico do locus amoenus (“lugar aprazível”). Leia o texto para responder às questões de 09 a 11. Fake news typically refers to news stories or headlines that are deliberately fabricated to mislead1 or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive2. Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect. (www.unicef.org, 10.02.2025. Adaptado.) 1 \u0007mislead: ludibriar. 2 deceive: enganar."
+      "barroca, na medida em que retrata elementos que alu- dem ao tópico do carpe diem (“aproveita o momento”).",
+      "árcade, na medida em que retrata elementos que aludem ao tópico do locus amoenus (“lugar aprazível”)."
     ],
     "correct": 4,
     "resolution": [
@@ -438,7 +438,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 \u0007mislead: ludibriar. 2 deceive: enganar.\n\nThe main purpose of the text is to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 mislead: ludibriar. 2 deceive: enganar.\n\nThe main purpose of the text is to",
     "blockTypes": [
       "prose",
       "prose",
@@ -488,7 +488,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 \u0007mislead: ludibriar. 2 deceive: enganar.\n\nA frase do texto “These stories often look like real news articles” sugere que uma das características das notícias falsas é:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 mislead: ludibriar. 2 deceive: enganar.\n\nA frase do texto “These stories often look like real news articles” sugere que uma das características das notícias falsas é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -537,7 +537,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 \u0007mislead: ludibriar. 2 deceive: enganar.\n\nNo trecho do texto “Misinformation, on the other hand, is any kind of false or inaccurate information”, a expressão sublinhada expressa",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nFake news typically refers to news stories or headlines that are deliberately fabricated to mislead¹ or manipulate readers. These stories often look like real news articles but are entirely made-up or twisted versions of true events, created with the intention to deceive². Fake news is a type of disinformation: false information that is created with the intention to mislead. Disinformation includes not only fake news, but also other types of claims, such as those put out as government propaganda, or by social media accounts or brands in order to sell a product or service. Misinformation, on the other hand, is any kind of false or inaccurate information — whether it’s shared intentionally or not. People often spread misinformation because they genuinely believe it’s true and don’t realize they’re sharing something incorrect.\n\n(www.unicef.org, 10.02.2025. Adaptado.)\n\n1 mislead: ludibriar. 2 deceive: enganar.\n\nNo trecho do texto “Misinformation, on the other hand, is any kind of false or inaccurate information”, a expressão sublinhada expressa",
     "blockTypes": [
       "prose",
       "prose",
@@ -742,9 +742,9 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "exerce função educativa restrita aos mitos e histórias religiosas, sendo limitada aos conhecimentos técnicos.",
+      "exerce função educativa restrita aos mitos e histórias reli- giosas, sendo limitada aos conhecimentos técnicos.",
       "separa claramente o sagrado do profano, organizando os saberes em categorias como ciência e religião.",
-      "compreende um modo de transmissão que prioriza a forma escrita como base para o aprendizado de ofícios.",
+      "compreende um modo de transmissão que prioriza a for- ma escrita como base para o aprendizado de ofícios.",
       "representa uma forma complexa de conhecimento, em que o saber se constrói na integração entre o espiritual e o material.",
       "tem valor condicionado às comunidades mais velhas, pois se baseia na memória de anciãos e na repetição de fatos históricos."
     ],
@@ -837,11 +837,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o aumento do ingresso de indígenas no Ensino Superior é reflexo das políticas afirmativas, porém, sua permanência nas universidades ainda é um desafio.",
-      "a homogeneidade linguística dos estudantes representa um ponto facilitador para a adaptação ao ambiente universitário.",
+      "o aumento do ingresso de indígenas no Ensino Superior é reflexo das políticas afirmativas, porém, sua permanên- cia nas universidades ainda é um desafio.",
+      "a homogeneidade linguística dos estudantes represen- ta um ponto facilitador para a adaptação ao ambiente universitário.",
       "o crescimento do número de indígenas em universidades é motivado pelo significativo aumento de instituições de Ensino Superior nos dez anos da pesquisa.",
-      "o Estado deve promover o acesso dos indígenas às universidades, mas questões como alimentação e hospedagem são de responsabilidade exclusiva dos estudantes.",
-      "a permanência dos estudantes nos cursos e a integração ao meio acadêmico depende da criação de centros universitários exclusivos para indígenas."
+      "o Estado deve promover o acesso dos indígenas às uni- versidades, mas questões como alimentação e hospeda- gem são de responsabilidade exclusiva dos estudantes.",
+      "a permanência dos estudantes nos cursos e a integração ao meio acadêmico depende da criação de centros uni- versitários exclusivos para indígenas."
     ],
     "correct": 0,
     "resolution": [
@@ -889,11 +889,11 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "a resistência de setores políticos a investimentos na Região Norte no contexto da ditadura civil-militar.",
+      "a resistência de setores políticos a investimentos na Re- gião Norte no contexto da ditadura civil-militar.",
       "o apelo ao desenvolvimento econômico em detrimento da valorização das tradições amazônicas.",
       "a mobilização popular para que a Amazônia seja incluída nos projetos governamentais.",
       "a busca pelo equilíbrio entre a integração ao mercado e o respeito ao legado cultural da Região Norte.",
-      "a importância da conscientização da população local sobre o desmatamento da Floresta Amazônica."
+      "a importância da conscientização da população local so- bre o desmatamento da Floresta Amazônica."
     ],
     "correct": 1,
     "resolution": [
@@ -936,8 +936,8 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a aceitação da transgeneridade é uma unanimidade entre os povos indígenas do Brasil.",
-      "a possibilidade de um indivíduo ocupar um cargo de liderança indígena está vinculada ao seu sexo biológico.",
+      "a aceitação da transgeneridade é uma unanimidade en- tre os povos indígenas do Brasil.",
+      "a possibilidade de um indivíduo ocupar um cargo de li- derança indígena está vinculada ao seu sexo biológico.",
       "a experiência retratada reflete a diminuição da transfobia na sociedade brasileira.",
       "o respeito aos indivíduos transgêneros é uma realidade em alguns contextos indígenas.",
       "a orientação sexual da líder indígena foi considerada um ataque aos valores tradicionais da sua comunidade."
@@ -984,8 +984,8 @@ export const uea2025Sis = [
     "images": [],
     "alternatives": [
       "ampliação da representatividade indígena em cargos do Executivo, com menor presença no Legislativo.",
-      "exclusão de grupos étnicos específicos, como os indígenas, do debate público.",
-      "crescente representatividade dos indígenas nos processos formais de exercício da cidadania.",
+      "exclusão de grupos étnicos específicos, como os indíge- nas, do debate público.",
+      "crescente representatividade dos indígenas nos proces- sos formais de exercício da cidadania.",
       "desigualdade de participação política dos indígenas nas cinco regiões do Brasil.",
       "privação de direitos políticos dos indígenas previstos na legislação atual."
     ],
@@ -1081,13 +1081,18 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q22-1.svg",
+        "alt": "Figura de apoio da questão 22."
+      }
+    ],
     "alternatives": [
       "o malthusianismo e a redução da pressão ambiental por recursos naturais.",
-      "a crise migratória e a perda de população por baixos índices de qualidade de vida.",
+      "a crise migratória e a perda de população por baixos índi- ces de qualidade de vida.",
       "o crescimento horizontal e a ampliação de investimentos no mercado de trabalho.",
       "a transição demográfica e a maior participação relativa de idosos entre a população absoluta.",
-      "o crescimento natural e o aumento da chamada população economicamente ativa."
+      "o crescimento natural e o aumento da chamada popula- ção economicamente ativa."
     ],
     "correct": 3,
     "resolution": [
@@ -1131,7 +1136,7 @@ export const uea2025Sis = [
     "images": [],
     "alternatives": [
       "o arrendamento de terras públicas e a redefinição de fronteiras nacionais.",
-      "o trabalho infantil e a obrigatoriedade de cultivos em aldeias camponesas coletivizadas.",
+      "o trabalho infantil e a obrigatoriedade de cultivos em al- deias camponesas coletivizadas.",
       "a proibição de práticas extrativistas e o controle territorial de organizações não governamentais.",
       "o tráfico de animais silvestres e a permissão de venda de terras indígenas ao mercado imobiliário.",
       "a disputa pela posse de terras e a exploração de recursos naturais locais."
@@ -1227,11 +1232,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "da vasta riqueza mineral, que desperta o interesse de países e empresas multinacionais.",
-      "das escassas planícies agrícolas, que atendem ao interesse da elite agroexportadora de commodities.",
-      "dos antigos cinturões industriais, que caracterizam a herança da colonização portuguesa na região.",
+      "da vasta riqueza mineral, que desperta o interesse de pa- íses e empresas multinacionais.",
+      "das escassas planícies agrícolas, que atendem ao inte- resse da elite agroexportadora de commodities.",
+      "dos antigos cinturões industriais, que caracterizam a he- rança da colonização portuguesa na região.",
       "das cabeceiras de grandes rios, que ganham contornos geopolíticos em um espaço de clima árido.",
-      "da ampla rede urbana, que demonstra potencial para explorar o mercado consumidor de serviços."
+      "da ampla rede urbana, que demonstra potencial para ex- plorar o mercado consumidor de serviços."
     ],
     "correct": 0,
     "resolution": [
@@ -1278,11 +1283,11 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "programa público de exploração de recursos naturais, favorecendo o acesso de países desenvolvidos às matérias-primas e à mão de obra baratas.",
+      "programa público de exploração de recursos naturais, favorecendo o acesso de países desenvolvidos às maté- rias-primas e à mão de obra baratas.",
       "bloco econômico latino-americano, excluindo países que no passado estiveram associados a regimes socialistas.",
-      "organismo político neocolonial, reestruturando relações comerciais de maneira dependente e restrita entre o hemisfério Norte e o hemisfério Sul.",
+      "organismo político neocolonial, reestruturando relações comerciais de maneira dependente e restrita entre o he- misfério Norte e o hemisfério Sul.",
       "bloco econômico americano, desigual na tomada de decisões e no compartilhamento de benefícios entre seus membros.",
-      "programa público de exploração de recursos naturais, indiferente aos interesses locais pela preservação de sua biodiversidade e de sua riqueza mineral."
+      "programa público de exploração de recursos naturais, in- diferente aos interesses locais pela preservação de sua biodiversidade e de sua riqueza mineral."
     ],
     "correct": 3,
     "resolution": [
@@ -1323,7 +1328,12 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
       "primário, associado à agroindústria e à manufatura.",
       "terciário, vinculado ao comércio e aos serviços.",
@@ -1670,10 +1680,10 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "é uma doença causada por drogas ilícitas como a maconha, o cigarro tradicional e a cocaína.",
+      "é uma doença causada por drogas ilícitas como a maco- nha, o cigarro tradicional e a cocaína.",
       "é uma doença desencadeada independentemente dos fatores sociais ou genéticos.",
       "é uma doença que afeta, além do cérebro, outros órgãos, como fígado e coração.",
-      "é uma doença que se torna um hábito, que pode ser interrompido de forma intencional.",
+      "é uma doença que se torna um hábito, que pode ser inter- rompido de forma intencional.",
       "é uma doença que se desenvolve após um tempo curto de contato com a droga e é tratada de forma ambulatorial."
     ],
     "correct": 2,
@@ -1899,7 +1909,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q39-1.svg",
+        "alt": "Figura de apoio da questão 39."
+      }
+    ],
     "alternatives": [
       "4,5 cm.",
       "5 cm.",
@@ -1947,11 +1962,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "164 m2.",
-      "172 m2.",
-      "178 m2.",
-      "176 m2.",
-      "148 m2."
+      "164 $m^{2}$.",
+      "172 $m^{2}$.",
+      "178 $m^{2}$.",
+      "176 $m^{2}$.",
+      "148 $m^{2}$."
     ],
     "correct": 0,
     "resolution": [
@@ -1991,7 +2006,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
       "12.",
       "16.",
@@ -2037,7 +2057,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "0.",
       "2.",
@@ -2280,11 +2305,11 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "0,48 × 1012 Wh.",
-      "0,49 × 1010 Wh.",
-      "4,8 × 105 Wh.",
-      "4,9 × 1011 Wh.",
-      "49 × 1010 Wh."
+      "0,48 × $10^{12}$ Wh.",
+      "0,49 × $10^{10}$ Wh.",
+      "4,8 × $10^{5}$ Wh.",
+      "4,9 × $10^{11}$ Wh.",
+      "49 × $10^{10}$ Wh."
     ],
     "correct": 3,
     "resolution": [
@@ -2379,11 +2404,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "eletromagnéticas – mecânicas – transversais – longitudinais – pode ocorrer – não pode ocorrer.",
-      "eletromagnéticas – mecânicas – longitudinais – transversais – não pode ocorrer – pode ocorrer.",
-      "eletromagnéticas – mecânicas – transversais – longitudinais – não pode ocorrer – pode ocorrer.",
-      "mecânicas – eletromagnéticas – longitudinais – transversais – não pode ocorrer – pode ocorrer.",
-      "mecânicas – eletromagnéticas – transversais – longitudinais – pode ocorrer – não pode ocorrer."
+      "eletromagnéticas – mecânicas – transversais – longitudi- nais – pode ocorrer – não pode ocorrer.",
+      "eletromagnéticas – mecânicas – longitudinais – transver- sais – não pode ocorrer – pode ocorrer.",
+      "eletromagnéticas – mecânicas – transversais – longitudi- nais – não pode ocorrer – pode ocorrer.",
+      "mecânicas – eletromagnéticas – longitudinais – transver- sais – não pode ocorrer – pode ocorrer.",
+      "mecânicas – eletromagnéticas – transversais – longitudi- nais – pode ocorrer – não pode ocorrer."
     ],
     "correct": 0,
     "resolution": [
@@ -2424,12 +2449,17 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a1/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
       "é mais densa que a água, por isso sedimenta e é retida pela barreira.",
       "é menos densa que a água, por isso flutua e é retida pela barreira.",
-      "é mais volátil que a água, por isso evapora durante a passagem pela caixa.",
-      "dissolve facilmente na água, formando uma mistura homogênea que é separada por filtração.",
+      "é mais volátil que a água, por isso evapora durante a pas- sagem pela caixa.",
+      "dissolve facilmente na água, formando uma mistura ho- mogênea que é separada por filtração.",
       "reage com a água, formando um resíduo sólido que é separado por decantação."
     ],
     "correct": 1,
@@ -2471,9 +2501,9 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a dissolução dessas substâncias na água, formando espuma poluente.",
-      "a reação dessas substâncias com componentes da atmosfera, poluindo o ar.",
-      "a rápida dissolução dessas substâncias no solo, formando ferrugem.",
+      "a dissolução dessas substâncias na água, formando es- puma poluente.",
+      "a reação dessas substâncias com componentes da at- mosfera, poluindo o ar.",
+      "a rápida dissolução dessas substâncias no solo, forman- do ferrugem.",
       "a liberação de metais tóxicos dessas substâncias, que se acumulam nos seres vivos.",
       "a reação dessas substâncias com os fertilizantes do solo."
     ],
@@ -2516,11 +2546,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "Thomson, ao sugerir que o átomo era uma esfera negativa com elétrons arranjados em seu interior.",
-      "Bohr, ao propor que o átomo era maciço e possuía elétrons concentrados no núcleo.",
+      "Thomson, ao sugerir que o átomo era uma esfera negati- va com elétrons arranjados em seu interior.",
+      "Bohr, ao propor que o átomo era maciço e possuía elé- trons concentrados no núcleo.",
       "Rutherford, ao afirmar que os átomos eram indivisíveis, maciços e explicavam as leis ponderais.",
       "Demócrito, ao propor experimentalmente que a matéria era composta de partículas invisíveis chamadas átomos.",
-      "Dalton, ao descrever o átomo como uma partícula indivisível e que não pode ser criada ou destruída."
+      "Dalton, ao descrever o átomo como uma partícula indivi- sível e que não pode ser criada ou destruída."
     ],
     "correct": 4,
     "resolution": [
@@ -2754,9 +2784,9 @@ export const uea2025Sis = [
     "images": [],
     "alternatives": [
       "clarear a água, desinfetá-la e fornecer a ela suplemento de sódio.",
-      "coagular as partículas em suspensão na água, desinfetá-la e proteger a população contra a cárie dentária.",
+      "coagular as partículas em suspensão na água, desinfetá- -la e proteger a população contra a cárie dentária.",
       "coagular as partículas em suspensão na água, clareá-la e desinfetá-la.",
-      "eliminar a turbidez da água, desinfetá-la e proteger a população contra a cárie dentária.",
+      "eliminar a turbidez da água, desinfetá-la e proteger a po- pulação contra a cárie dentária.",
       "coagular as partículas em suspensão na água, fornecer suplemento de sódio a ela e proteger a população contra a cárie dentária."
     ],
     "correct": 1,
@@ -3012,11 +3042,11 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desagradável, grosseira.",
-      "antítese: a oposição, em uma mesma expressão ou frase, de duas palavras de sentido contrário.",
+      "eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desagradá- vel, grosseira.",
+      "antítese: a oposição, em uma mesma expressão ou fra- se, de duas palavras de sentido contrário.",
       "hipérbole: a ênfase resultante do exagero na expressão ou comunicação de uma ideia.",
       "pleonasmo: a repetição desnecessária de palavras ou expressões na enunciação de uma ideia.",
-      "ambiguidade: a presença, num texto, de palavra ou expressão que pode significar coisas diferentes, admitir mais de uma leitura. Para responder às questões de 06 a 08, leia o início do capítulo VI do romance Iracema, do escritor José de Alencar. Martim vai a passo e passo por entre os altos juazeiros que cercam a cabana do Pajé. Era o tempo em que o doce aracati1 chega do mar e derrama a deliciosa frescura pelo árido sertão. A planta respira; um suave arrepio erriça2 a verde coma3 da floresta. O cristão contempla o ocaso do sol. A sombra, que desce dos montes e cobre o vale, penetra sua alma. Lembra-se do lugar onde nasceu, dos entes queridos que ali deixou. Sabe ele se tornará a vê-los algum dia? Em torno carpe4 a natureza o dia que expira. Soluça a onda trépida5 e lacrimosa; geme a brisa na folhagem [...]. Iracema parou em face do jovem guerreiro: — É a presença de Iracema que perturba a serenidade no rosto do estrangeiro? Martim pousou brandos olhos na face da virgem: — Não, filha de Araquém; tua presença alegra como a luz da manhã. Foi a lembrança da pátria que trouxe a saudade ao coração presago6. — Uma noiva te espera? O forasteiro desviou os olhos. Iracema dobrou a cabeça sobre a espádua como a tenra7 palma da carnaúba, quando a chuva peneira8 na várzea. — Ela não é mais doce do que Iracema, a virgem dos lábios de mel, nem mais formosa! murmurou o estrangeiro. — A flor da mata é formosa quando tem rama que a abrigue e tronco onde se enlace. Iracema não vive n’alma de um guerreiro: nunca sentiu a frescura do seu sorriso. Emudeceram ambos, com os olhos no chão, escutando a palpitação dos seios que batiam opressos. (Iracema, 2006.) 1 aracati: brisa do vento. 2 erriçar: arrepiar. 3 coma: copa de árvores frondosas. 4 carpir: lamentar. 5 trépido: trêmulo. 6 presago: que adivinha. 7 tenro: delicado. 8 peneirar: chuviscar."
+      "ambiguidade: a presença, num texto, de palavra ou ex- pressão que pode significar coisas diferentes, admitir mais de uma leitura."
     ],
     "correct": 4,
     "resolution": [
@@ -3128,11 +3158,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“O cristão contempla o ocaso do sol.” (3o parágrafo)",
-      "“A sombra, que desce dos montes e cobre o vale, penetra sua alma.” (3o parágrafo)",
-      "“Sabe ele se tornará a vê-los algum dia?” (3o parágrafo)",
-      "“— Não, filha de Araquém; tua presença alegra como a luz da manhã.” (8o parágrafo)",
-      "“O forasteiro desviou os olhos.” (10o parágrafo)"
+      "“O cristão contempla o ocaso do sol.” (3º parágrafo)",
+      "“A sombra, que desce dos montes e cobre o vale, penetra sua alma.” (3º parágrafo)",
+      "“Sabe ele se tornará a vê-los algum dia?” (3º parágrafo)",
+      "“— Não, filha de Araquém; tua presença alegra como a luz da manhã.” (8º parágrafo)",
+      "“O forasteiro desviou os olhos.” (10º parágrafo)"
     ],
     "correct": 2,
     "resolution": [
@@ -3186,11 +3216,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“os altos juazeiros que cercam a cabana do Pajé” (1o parágrafo).",
-      "“O cristão contempla o ocaso do sol” (3o parágrafo).",
-      "“Soluça a onda trépida e lacrimosa” (4o parágrafo).",
-      "“tua presença alegra como a luz da manhã” (8o parágrafo).",
-      "“A flor da mata é formosa” (12o parágrafo). Leia o texto para responder às questões de 09 a 11. Travelling through Brazil and not taking in the variety of local dishes and tastes of the country’s different regions definitely makes for an incomplete experience. In the northern region, for example, strongly influenced by the larger indigenous presence mixed with European immigration, local food has evolved to be quite differentiated from that of other regions. In Brazil, the mixing of several different peoples over 500 years of history has produced a great mix of traditions, ingredients and dishes introduced by native and immigrant populations alike. Brazil’s northern region consists of the states of Amazonas, Roraima, Amapá, Pará, Tocantins, Rondônia and Acre. It is also influenced by Portuguese and African immigrants who arrived in the country since the beginning of colonisation. However, according to Joseny Juvito, a chef specialized in northern cuisine, the region is predominantly indigenous and, therefore, has specific peculiarities influenced by the fact. (https://gestaoconteudo.presidencia.gov.br)"
+      "“os altos juazeiros que cercam a cabana do Pajé” (1º parágrafo).",
+      "“O cristão contempla o ocaso do sol” (3$\\frac{o}{o}$ parágrafo).",
+      "“Soluça a onda trépida e lacrimosa” (4 parágrafo).",
+      "“tua presença alegra como a luz da manhã” (8º parágrafo).",
+      "“A flor da mata é formosa” (12º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -3572,7 +3602,7 @@ export const uea2025Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em 1938, durante a ditadura do Estado Novo, a polícia torturou um coiteiro¹ até ele entregar o paradeiro de Lampião. O bando foi surpreendido em 28 de julho por soldados. Em uma batalha de 15 minutos, 11 cangaceiros, incluindo Lampião e Maria Bonita, acabaram mortos na Grota de Angico, Sergipe.\n\n(Pâmela Carbonari. www.bbc.com, 27.01.2024. Adaptado.)\n\n1 \u0007coiteiro: no Nordeste do Brasil, é um indivíduo que dá asilo ou proteção a acusados de crimes.\n\nA atuação do grupo morto pelos soldados, conforme descrito no excerto, é conhecida",
+    "statement": "Em 1938, durante a ditadura do Estado Novo, a polícia torturou um coiteiro¹ até ele entregar o paradeiro de Lampião. O bando foi surpreendido em 28 de julho por soldados. Em uma batalha de 15 minutos, 11 cangaceiros, incluindo Lampião e Maria Bonita, acabaram mortos na Grota de Angico, Sergipe.\n\n(Pâmela Carbonari. www.bbc.com, 27.01.2024. Adaptado.)\n\n1 coiteiro: no Nordeste do Brasil, é um indivíduo que dá asilo ou proteção a acusados de crimes.\n\nA atuação do grupo morto pelos soldados, conforme descrito no excerto, é conhecida",
     "blockTypes": [
       "prose",
       "source",
@@ -3630,9 +3660,9 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "substituir o modelo industrial por práticas extrativistas tradicionais voltadas ao comércio amazônico.",
+      "substituir o modelo industrial por práticas extrativistas tra- dicionais voltadas ao comércio amazônico.",
       "retomar os projetos econômicos focados na produção da borracha para a competitividade internacional do produto.",
-      "promover o crescimento socioeconômico de forma sustentável mediante a atração de investimentos para a região.",
+      "promover o crescimento socioeconômico de forma susten- tável mediante a atração de investimentos para a região.",
       "desenvolver o Amazonas como ponte para o transporte de produtos brasileiros até a América do Norte.",
       "limitar a entrada de empresas estrangeiras para proteger o mercado de trabalho local."
     ],
@@ -3678,10 +3708,10 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "desigualdade racial existente nas regiões agroexportadoras do país.",
+      "desigualdade racial existente nas regiões agroexportado- ras do país.",
       "valorização do empreendedorismo dos ingressantes no campo profissional.",
-      "mobilização popular pelo fim da violência praticada contra os menores de idade.",
-      "exaltação do trabalho dos jovens como símbolo do desenvolvimento socioeconômico do país.",
+      "mobilização popular pelo fim da violência praticada con- tra os menores de idade.",
+      "exaltação do trabalho dos jovens como símbolo do de- senvolvimento socioeconômico do país.",
       "exploração do trabalho infantil antes da aprovação do Estatuto da Criança e do Adolescente (ECA)."
     ],
     "correct": 4,
@@ -3733,8 +3763,8 @@ export const uea2025Sis = [
       "aos debates bioéticos, que envolvem testes clínicos em seres humanos e a eutanásia.",
       "aos estudos ecológicos, que investigam diferentes níveis evolutivos dos seres vivos.",
       "à necessidade de criação de uma legislação brasileira que contemple a temática ambiental.",
-      "à criação de uma consciência ambiental que contribua para um maior equilíbrio entre o ser humano e os ecossistemas.",
-      "ao acesso igualitário ao patrimônio natural, que deve estar disponível às classes sociais mais baixas e às futuras gerações."
+      "à criação de uma consciência ambiental que contri- bua para um maior equilíbrio entre o ser humano e os ecossistemas.",
+      "ao acesso igualitário ao patrimônio natural, que deve estar disponível às classes sociais mais baixas e às futu- ras gerações."
     ],
     "correct": 3,
     "resolution": [
@@ -3781,8 +3811,8 @@ export const uea2025Sis = [
       "a mobilização social em favor da diminuição do consumo de produtos à base de cacau.",
       "a exploração ilegal de trabalhadores em prol do lucro de empresários da economia cacaueira.",
       "o conflito entre nativos e empresas estrangeiras do ramo do cacau devido a interesses econômicos distintos.",
-      "a consolidação das relações informais de trabalho no mercado do cacau com base na recente reforma trabalhista.",
-      "a fiscalização precária das condições laborais nas indústrias de beneficiamento do cacau."
+      "a consolidação das relações informais de trabalho no mer- cado do cacau com base na recente reforma trabalhista.",
+      "a fiscalização precária das condições laborais nas indús- trias de beneficiamento do cacau."
     ],
     "correct": 1,
     "resolution": [
@@ -3825,9 +3855,9 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o baixo custo para o transporte de mercadorias primárias, já que correspondem a insumos com elevado valor agregado.",
-      "a demanda regional por gêneros agrícolas atrelados às heranças culturais, como no caso da região Sul, que prioriza o consumo de soja.",
-      "o papel indutor do Estado na transformação do espaço geográfico, como no caso da construção de grandes infraestruturas de transporte.",
+      "o baixo custo para o transporte de mercadorias pri- márias, já que correspondem a insumos com elevado valor agregado.",
+      "a demanda regional por gêneros agrícolas atrelados às heranças culturais, como no caso da região Sul, que prio- riza o consumo de soja.",
+      "o papel indutor do Estado na transformação do espaço geográfico, como no caso da construção de grandes in- fraestruturas de transporte.",
       "a hiperconectividade dos modais de transporte no país, já que, historicamente, empresas transnacionais auxiliam em projetos infraestruturais.",
       "o ineditismo de projetos de integração regional, como no caso da ferrovia que liga a região Norte à região Sul do país."
     ],
@@ -3873,9 +3903,9 @@ export const uea2025Sis = [
     "images": [],
     "alternatives": [
       "implementação de política financeira de adoção do dólar como moeda universal, padronizando trocas comerciais realizadas por seus países-membros.",
-      "coordenação de múltiplos interesses no comércio internacional, buscando a abertura dos mercados e a livre concorrência.",
-      "instituição de um modelo que determine a paridade do poder de compra, equilibrando forças numa arena de disputa econômica.",
-      "disponibilização de capitais para a realização de investimentos em países emergentes, estimulando o desenvolvimento e o crescimento econômicos.",
+      "coordenação de múltiplos interesses no comércio inter- nacional, buscando a abertura dos mercados e a livre concorrência.",
+      "instituição de um modelo que determine a paridade do poder de compra, equilibrando forças numa arena de dis- puta econômica.",
+      "disponibilização de capitais para a realização de investi- mentos em países emergentes, estimulando o desenvol- vimento e o crescimento econômicos.",
       "intervenção privada de estímulo à economia, gerando mercado consumidor como resposta à produtividade e à lei da oferta e da procura."
     ],
     "correct": 1,
@@ -3928,8 +3958,8 @@ export const uea2025Sis = [
       "a aplicação de tecnologias digitais na análise do avanço do arco do desmatamento.",
       "o uso de informações interativas para coordenar projetos de reflorestamento.",
       "a realização de trabalhos de campo para legalizar novas áreas de cultivo.",
-      "o reordenamento territorial a partir de informações geológicas coletadas.",
-      "a distribuição de projetos industriais para atender às demandas de povos nativos."
+      "o reordenamento territorial a partir de informações geoló- gicas coletadas.",
+      "a distribuição de projetos industriais para atender às de- mandas de povos nativos."
     ],
     "correct": 0,
     "resolution": [
@@ -4033,7 +4063,7 @@ export const uea2025Sis = [
     "alternatives": [
       "à política natalista portuguesa, cuja estratégia priorizou o povoamento territorial.",
       "às comunidades tradicionais brasileiras, especificamente os indígenas nativos.",
-      "à densidade demográfica brasileira, marcada pela contribuição cultural negra.",
+      "à densidade demográfica brasileira, marcada pela contri- buição cultural negra.",
       "às leis trabalhistas no Brasil, desafiadoras à mão de obra assalariada no campo.",
       "à matriz étnica brasileira, cuja contribuição é dada por negros africanos."
     ],
@@ -4172,9 +4202,9 @@ export const uea2025Sis = [
     "alternatives": [
       "incentiva o desenvolvimento de indústrias familiares para a produção têxtil, o que promove a reutilização de fibras naturais e apoia a reciclagem sustentável.",
       "bloqueia o comércio irregular de produtos da natureza para a exportação, o que inibe tanto as ações de biopirataria como a saída de organismos geneticamente modificados.",
-      "organiza coletivamente as comunidades tradicionais para a comercialização de produtos, o que fortalece o comércio local e incentiva as práticas agrícolas sustentáveis.",
+      "organiza coletivamente as comunidades tradicionais para a comercialização de produtos, o que fortalece o comér- cio local e incentiva as práticas agrícolas sustentáveis.",
       "pratica os princípios da revolução verde para o aumento da produtividade agrícola, o que reduz a dependência de importações e promove maior eficiência no campo.",
-      "cria cinturões agrícolas para a produção de culturas ornamentais, o que reduz os custos de produção e aumenta o comércio dos excedentes."
+      "cria cinturões agrícolas para a produção de culturas orna- mentais, o que reduz os custos de produção e aumenta o comércio dos excedentes."
     ],
     "correct": 2,
     "resolution": [
@@ -4368,7 +4398,7 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a fabricação das peças que geram essas energias é limpa e não produz resíduos.",
+      "a fabricação das peças que geram essas energias é lim- pa e não produz resíduos.",
       "as fazendas solares e os parques eólicos não interferem em áreas de produção agrícola.",
       "são incapazes de gerar ruídos e não prejudicam nenhum ser vivo.",
       "utilizam recursos não renováveis e inesgotáveis de energia.",
@@ -4418,7 +4448,7 @@ export const uea2025Sis = [
       "facilita a disseminação de agentes etiológicos entre a população.",
       "reduz a produção de gás metano, um biocombustível.",
       "aumenta a produção de gás carbônico pelos seres autótrofos.",
-      "prejudica de forma mais significativa os ambientes costeiros do que os rios e lagos.",
+      "prejudica de forma mais significativa os ambientes cos- teiros do que os rios e lagos.",
       "não contamina a água existente em lençóis freáticos."
     ],
     "correct": 0,
@@ -4554,7 +4584,12 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a2/q36-1.svg",
+        "alt": "Figura de apoio da questão 36."
+      }
+    ],
     "alternatives": [
       "1.",
       "2.",
@@ -4602,10 +4637,15 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a2/q37-1.svg",
+        "alt": "Figura de apoio da questão 37."
+      }
+    ],
     "alternatives": [
       "108 famílias responderam à pesquisa.",
-      "o número de crianças entrevistadas foi maior que o número de adultos entrevistados.",
+      "o número de crianças entrevistadas foi maior que o nú- mero de adultos entrevistados.",
       "um terço das crianças foi ao centro de compras para ir à praça de alimentação.",
       "metade dos adultos foi ao centro de compras para ir ao cinema.",
       "4 crianças, desacompanhadas dos responsáveis, foram ao centro de compras para ir a lojas de vestuário."
@@ -4694,11 +4734,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "126 cm2.",
-      "132 cm2.",
-      "144 cm2.",
-      "162 cm2.",
-      "168 cm2."
+      "126 cm².",
+      "132 cm².",
+      "144 cm².",
+      "162 cm².",
+      "168 cm²."
     ],
     "correct": 1,
     "resolution": [
@@ -4738,7 +4778,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a2/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "3.",
       "6.",
@@ -5110,7 +5155,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a2/q48-1.svg",
+        "alt": "Figura de apoio da questão 48."
+      }
+    ],
     "alternatives": [
       "0,01 Ω.",
       "0,02 Ω.",
@@ -5343,13 +5393,18 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a2/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
-      "237 e 195, e a substância A é mais volátil que a substância B.",
-      "237 e 195, e a substância B é mais volátil que a substância A.",
-      "309 e 351, e a substância A é mais volátil que a substância B.",
-      "309 e 351, e a substância B é mais volátil que a substância A.",
-      "237 e 351, e a substância A é mais volátil que a substância B."
+      "237 e 195, e a substância A é mais volátil que a subs- tância B.",
+      "237 e 195, e a substância B é mais volátil que a subs- tância A.",
+      "309 e 351, e a substância A é mais volátil que a subs- tância B.",
+      "309 e 351, e a substância B é mais volátil que a subs- tância A.",
+      "237 e 351, e a substância A é mais volátil que a subs- tância B."
     ],
     "correct": 2,
     "resolution": [
@@ -5384,17 +5439,17 @@ export const uea2025Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O combate às emissões de gases de efeito estufa é um dos principais desafios da atualidade. Nesse contexto, o processo de descarbonização tem sido incorporado a diversas atividades produtivas, incluindo a agropecuária. Entre as práticas adotadas, destacam-se: 1. \u0007a integração lavoura-pecuária-floresta (ILPF), que promove o uso sustentável do solo e contribui para a redução das emissões de dióxido de carbono; 2. \u0007a suplementação alimentar do gado bovino, que diminui a fermentação entérica e, consequentemente, a liberação de metano. As práticas 1 e 2 auxiliam na descarbonização por reduzir as emissões, respectivamente, dos gases:",
+    "statement": "O combate às emissões de gases de efeito estufa é um dos principais desafios da atualidade. Nesse contexto, o processo de descarbonização tem sido incorporado a diversas atividades produtivas, incluindo a agropecuária. Entre as práticas adotadas, destacam-se: 1. a integração lavoura-pecuária-floresta (ILPF), que promove o uso sustentável do solo e contribui para a redução das emissões de dióxido de carbono; 2. a suplementação alimentar do gado bovino, que diminui a fermentação entérica e, consequentemente, a liberação de metano. As práticas 1 e 2 auxiliam na descarbonização por reduzir as emissões, respectivamente, dos gases:",
     "blockTypes": [
       "command"
     ],
     "images": [],
     "alternatives": [
-      "CO e CO2",
-      "CO2 e CH4",
-      "CH4 e CO2",
-      "CO2 e CO",
-      "CO e CH4"
+      "CO e $CO_{2}$",
+      "$CO_{2}$ e $CH_{4}$",
+      "$CH_{4}$ e $CO_{2}$",
+      "$CO_{2}$ e CO",
+      "CO e $CH_{4}$"
     ],
     "correct": 1,
     "resolution": [
@@ -5671,11 +5726,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "Na2S2O3 e Na2SO4",
-      "H2SO4 e SO2",
-      "H2SO4 e S",
-      "Na2SO4 e S",
-      "Na2SO4 e SO2"
+      "$Na_{2}$$S_{2}$ $O_{3}$ e $Na_{2}$ $SO_{4}$",
+      "$H_{2}$ $SO_{4}$ e $SO_{2}$",
+      "$H_{2}$ $SO_{4}$ e S",
+      "$Na_{2}$ $SO_{4}$ e S",
+      "$Na_{2}$ $SO_{4}$ e $SO_{2}$"
     ],
     "correct": 2,
     "resolution": [
@@ -5773,10 +5828,10 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "antecedido por um projeto cultural e sucedido por um projeto político.",
+      "antecedido por um projeto cultural e sucedido por um pro- jeto político.",
       "antecedido por um projeto filosófico e sucedido por um projeto político.",
-      "antecedido por um projeto político e sucedido por um projeto industrial.",
-      "antecedido por um projeto cultural e sucedido por um projeto filosófico.",
+      "antecedido por um projeto político e sucedido por um pro- jeto industrial.",
+      "antecedido por um projeto cultural e sucedido por um pro- jeto filosófico.",
       "antecedido por um projeto filosófico e sucedido por um projeto industrial."
     ],
     "correct": 0,
@@ -5977,11 +6032,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“epidêmico” (2o parágrafo).",
-      "“conhecimento” (3o parágrafo).",
-      "“grandeza” (3o parágrafo).",
-      "“ubérrimo” (3o parágrafo).",
-      "“fortemente” (3o parágrafo)."
+      "“epidêmico” (2$\\frac{o}{o}$ parágrafo).",
+      "“conhecimento” (3 parágrafo).",
+      "“grandeza” (3$\\frac{o}{o}$ parágrafo).",
+      "“ubérrimo” (3 parágrafo).",
+      "“fortemente” (3º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -6082,7 +6137,7 @@ export const uea2025Sis = [
       "Expressionismo.",
       "Futurismo.",
       "Cubismo.",
-      "Surrealismo. Leia o texto para responder às questões de 09 a 11. Disinformation1 in public health is a distinct type of information risk which, unlike misinformation2, is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances. (https://who.int, 06.02.2024. Adaptado.) 1 \u0007disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 \u0007misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar."
+      "Surrealismo."
     ],
     "correct": 4,
     "resolution": [
@@ -6118,7 +6173,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 \u0007disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 \u0007misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nThe main purpose of the text is to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nThe main purpose of the text is to",
     "blockTypes": [
       "prose",
       "prose",
@@ -6168,7 +6223,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 \u0007disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 \u0007misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nNo trecho do texto “First, it rapidly caused global fear, increasing uncertainty and doubt”, o termo “it” refere-se a",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nNo trecho do texto “First, it rapidly caused global fear, increasing uncertainty and doubt”, o termo “it” refere-se a",
     "blockTypes": [
       "prose",
       "prose",
@@ -6217,7 +6272,7 @@ export const uea2025Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 \u0007disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 \u0007misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nNo excerto do texto “As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more”, o trecho sublinhado, em relação às informações que o antecedem, expressa",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nDisinformation¹ in public health is a distinct type of information risk which, unlike misinformation², is created with malicious intent to spread discord, disharmony and mistrust in targets such as government agencies, scientific experts, public health agencies, private sector and law enforcement, among others. The potential impacts of disinformation can be understood through examples during the Covid-19 pandemic. The Covid-19 pandemic had two key elements that created the perfect storm for disinformation to proliferate and spread. First, it rapidly caused global fear, increasing uncertainty and doubt. Second, it occurred at a point in history where people can easily access, create and share information (as well as misinformation and disinformation) widely over the internet, mobile telecommunications, media and social media platforms. As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more. This caused social protest, delayed vaccine uptake and led to higher death rates in some instances.\n\n(https://who.int, 06.02.2024. Adaptado.)\n\n1 disinformation: informação falsa criada ou compartilhada com o objetivo de enganar. 2 misinformation: informação falsa ou enganosa, mas que é compartilhada sem intenção de enganar.\n\nNo excerto do texto “As the pandemic took hold, many posts appeared on social media and spread through instant messaging communications, increasing uncertainty about the treatment, the safety and effectiveness of vaccines, the usefulness of social distancing, and more”, o trecho sublinhado, em relação às informações que o antecedem, expressa",
     "blockTypes": [
       "prose",
       "prose",
@@ -6331,8 +6386,8 @@ export const uea2025Sis = [
     "alternatives": [
       "aprofundar a atuação dos jesuítas na evangelização das mulheres indígenas.",
       "incentivar a emancipação feminina nos engenhos canavieiros.",
-      "justificar o patriarcado com base em características inatas às mulheres.",
-      "criticar as relações de gênero vigentes a partir de argumentos bíblicos.",
+      "justificar o patriarcado com base em características ina- tas às mulheres.",
+      "criticar as relações de gênero vigentes a partir de argu- mentos bíblicos.",
       "atribuir qualidades distintas às mulheres livres e às escravizadas."
     ],
     "correct": 2,
@@ -6427,7 +6482,7 @@ export const uea2025Sis = [
     "alternatives": [
       "ao fortalecimento da especulação financeira no mercado imobiliário.",
       "ao aprofundamento do liberalismo nas relações econômicas.",
-      "à modernização do sistema financeiro, ampliando a atuação de investidores.",
+      "à modernização do sistema financeiro, ampliando a atua- ção de investidores.",
       "à prevenção de crises financeiras, como a Grande Depressão.",
       "ao declínio das políticas do estado de bem-estar social."
     ],
@@ -6472,11 +6527,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o aumento da renda média entre trabalhadores sem vínculo formal nas grandes cidades.",
+      "o aumento da renda média entre trabalhadores sem vín- culo formal nas grandes cidades.",
       "os efeitos positivos do incentivo ao empreendedorismo nas camadas sociais mais baixas.",
       "a mobilização popular para impedir a retirada de direitos historicamente conquistados.",
       "a valorização do trabalho informal como oportunidade de emprego para os jovens brasileiros.",
-      "a precarização do trabalho como consequência da flexibilização das leis trabalhistas."
+      "a precarização do trabalho como consequência da flexibi- lização das leis trabalhistas."
     ],
     "correct": 4,
     "resolution": [
@@ -6519,7 +6574,7 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "transformação da floresta em fonte de lucro para o avanço econômico.",
+      "transformação da floresta em fonte de lucro para o avan- ço econômico.",
       "separação entre cultura e natureza como caminho para o progresso.",
       "importância das cidades sustentáveis para o futuro das novas gerações.",
       "concepção de humanidade como parte intrínseca da natureza.",
@@ -6566,10 +6621,10 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "pela expansão da malha rodoviária, que facilitou o transporte de mercadorias e de pessoas entre as diferentes regiões do país.",
+      "pela expansão da malha rodoviária, que facilitou o trans- porte de mercadorias e de pessoas entre as diferentes regiões do país.",
       "pela mudança da capital federal para o Centro-Oeste, que impulsionou a migração de habitantes do Norte do país para Brasília.",
       "pela retomada da exploração dos seringais na região Norte, que propiciou a venda de grandes quantidades de borracha no exterior.",
-      "pelo aproveitamento dos bens naturais com respeito ao meio ambiente e à cultura local, que proporcionou o desenvolvimento sustentável da região Norte.",
+      "pelo aproveitamento dos bens naturais com respeito ao meio ambiente e à cultura local, que proporcionou o de- senvolvimento sustentável da região Norte.",
       "pela concentração da indústria automobilística brasileira na região da Zona Franca de Manaus, que favoreceu a criação de novas oportunidades de trabalho."
     ],
     "correct": 0,
@@ -6613,11 +6668,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "os novos sistemas de inteligência artificial têm demonstrado pensamento lógico estruturado equivalente ao humano.",
-      "a inteligência artificial apresenta um tipo de raciocínio baseado no reconhecimento de padrões linguísticos.",
+      "os novos sistemas de inteligência artificial têm demonstra- do pensamento lógico estruturado equivalente ao humano.",
+      "a inteligência artificial apresenta um tipo de raciocínio ba- seado no reconhecimento de padrões linguísticos.",
       "os sistemas computacionais explicam com precisão os processos utilizados para atingirem um objetivo.",
-      "a inteligência artificial possui capacidade de interpretação de conceitos igual à dos seres humanos.",
-      "os modelos tecnológicos de linguagem dispensam regulamentação por embutirem posicionamentos éticos coerentes."
+      "a inteligência artificial possui capacidade de interpreta- ção de conceitos igual à dos seres humanos.",
+      "os modelos tecnológicos de linguagem dispensam regula- mentação por embutirem posicionamentos éticos coerentes."
     ],
     "correct": 1,
     "resolution": [
@@ -6664,7 +6719,7 @@ export const uea2025Sis = [
       "restrita às funções manuais e sindicalizada, em sua maioria.",
       "diversificada e fragmentada politicamente.",
       "próspera e formada majoritariamente por funcionários públicos.",
-      "favorecida com o pleno emprego e composta por colaboradores especializados."
+      "favorecida com o pleno emprego e composta por colabo- radores especializados."
     ],
     "correct": 2,
     "resolution": [
@@ -6712,8 +6767,8 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "a Mata Atlântica e a superação da visão utilitarista da natureza pelas comunidades urbanas.",
-      "a Mata de Araucárias e a resistência do solo aos processos erosivos provocados pela chuva.",
+      "a Mata Atlântica e a superação da visão utilitarista da na- tureza pelas comunidades urbanas.",
+      "a Mata de Araucárias e a resistência do solo aos proces- sos erosivos provocados pela chuva.",
       "a Mata Atlântica e a declividade imposta pela Serra do Mar ao avanço das atividades antrópicas.",
       "a Mata de Araucárias e a característica autofágica para a rápida recomposição de maciços vegetais.",
       "a Mata Atlântica e a comercialização de propriedades destinadas ao uso comercial da terra."
@@ -6804,9 +6859,9 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "pela organização da produção em cinturões agrícolas, que aliam características naturais à aplicação de tecnologia para uma elevada produtividade.",
-      "pelas maquiladoras na fronteira com o México, que oferecem baixo custo de produção ao explorar a expertise da ex-colônia espanhola.",
-      "pela aplicação de técnicas tradicionais de cultivo no campo, que oferecem alta produtividade para alimentos livres de agrotóxicos.",
+      "pela organização da produção em cinturões agrícolas, que aliam características naturais à aplicação de tecnolo- gia para uma elevada produtividade.",
+      "pelas maquiladoras na fronteira com o México, que ofere- cem baixo custo de produção ao explorar a expertise da ex-colônia espanhola.",
+      "pela aplicação de técnicas tradicionais de cultivo no cam- po, que oferecem alta produtividade para alimentos livres de agrotóxicos.",
       "pela importação de gêneros agrícolas de países vizinhos, que compõe sua balança comercial superavitária para produtos primários.",
       "pelo predomínio do clima tropical em seu território, que favorece cultivos durante a longa estação quente e chuvosa."
     ],
@@ -6852,10 +6907,10 @@ export const uea2025Sis = [
     "images": [],
     "alternatives": [
       "da consolidação de leis trabalhistas universais as quais, equalizadas nos países, permitiram empregar pessoas mais bem qualificadas.",
-      "da precarização do trabalho manual nas fábricas, estimulando novas possibilidades de gerar renda com o trabalho estritamente especulativo.",
-      "do avanço de sistemas de transporte que promovem estreitas conexões entre os lugares, independentemente de suas redes técnicas de infraestrutura.",
-      "do desenvolvimento de amplos sistemas de comunicação que conectam, em tempo real, espaços distantes.",
-      "do aumento da instabilidade nos empregos que leva, frequentemente, os trabalhadores a buscar oportunidades em novos países."
+      "da precarização do trabalho manual nas fábricas, estimu- lando novas possibilidades de gerar renda com o traba- lho estritamente especulativo.",
+      "do avanço de sistemas de transporte que promovem es- treitas conexões entre os lugares, independentemente de suas redes técnicas de infraestrutura.",
+      "do desenvolvimento de amplos sistemas de comunica- ção que conectam, em tempo real, espaços distantes.",
+      "do aumento da instabilidade nos empregos que leva, fre- quentemente, os trabalhadores a buscar oportunidades em novos países."
     ],
     "correct": 3,
     "resolution": [
@@ -6898,11 +6953,11 @@ export const uea2025Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a ampliação da concentração de renda, limitando o acesso a bens e serviços àqueles com maiores PIB per capita.",
-      "o cumprimento da reprodução do capital, independentemente das consequências a serem administradas pelos indivíduos.",
+      "a ampliação da concentração de renda, limitando o aces- so a bens e serviços àqueles com maiores PIB per capita.",
+      "o cumprimento da reprodução do capital, independen- temente das consequências a serem administradas pelos indivíduos.",
       "a divisão internacional do trabalho, comprometendo a economia de países desenvolvidos ao precarizar a mão de obra.",
-      "o avanço do terceiro setor, ampliando ganhos econômicos ao estimular o consumo de serviços digitais.",
-      "a operacionalização do livre mercado, apesar dos impactos econômicos que reduzem o PIB."
+      "o avanço do terceiro setor, ampliando ganhos econômi- cos ao estimular o consumo de serviços digitais.",
+      "a operacionalização do livre mercado, apesar dos impac- tos econômicos que reduzem o PIB."
     ],
     "correct": 1,
     "resolution": [
@@ -6951,10 +7006,10 @@ export const uea2025Sis = [
     ],
     "alternatives": [
       "à Primeira Revolução Industrial, em que o uso do carvão mineral como fonte de energia proporcionou mudanças estruturais na produção e nos transportes.",
-      "à Segunda Revolução Industrial, em que o uso da energia elétrica elevou a produtividade ao permitir o uso de máquinas cada vez mais velozes nas indústrias.",
-      "à Terceira Revolução Industrial, em que a localização industrial era determinada pela proximidade com o mercado consumidor para facilitar processos de logística.",
+      "à Segunda Revolução Industrial, em que o uso da ener- gia elétrica elevou a produtividade ao permitir o uso de máquinas cada vez mais velozes nas indústrias.",
+      "à Terceira Revolução Industrial, em que a localização in- dustrial era determinada pela proximidade com o merca- do consumidor para facilitar processos de logística.",
       "à Segunda Revolução Industrial, em que a mão de obra humana foi substituída por máquinas automatizadas para acelerar a produção e a distribuição de mercadorias.",
-      "à Primeira Revolução Industrial, em que a produção de mercadorias valorizou o artesanato para ampliar o número de postos de trabalho nos espaços urbanos."
+      "à Primeira Revolução Industrial, em que a produção de mercadorias valorizou o artesanato para ampliar o núme- ro de postos de trabalho nos espaços urbanos."
     ],
     "correct": 0,
     "resolution": [
@@ -6996,7 +7051,12 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
       "3 representa os países socialistas subdesenvolvidos.",
       "2 representa os países de economia planificada.",
@@ -7343,8 +7403,8 @@ export const uea2025Sis = [
     ],
     "alternatives": [
       "a placenta esteja aderida à parede uterina.",
-      "o líquido amniótico não esteja presente durante o desenvolvimento fetal.",
-      "a musculatura uterina permaneça contraída durante o desenvolvimento fetal.",
+      "o líquido amniótico não esteja presente durante o desen- volvimento fetal.",
+      "a musculatura uterina permaneça contraída durante o de- senvolvimento fetal.",
       "os vasos sanguíneos do cordão umbilical se atrofiem.",
       "as excretas e o gás carbônico sejam acumulados no alantoide."
     ],
@@ -7431,7 +7491,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q36-1.svg",
+        "alt": "Figura de apoio da questão 36."
+      }
+    ],
     "alternatives": [
       "2, sendo que um deles terá a combinação genética abd.",
       "2, sendo que um deles terá a combinação genética add.",
@@ -7522,7 +7587,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q38-1.svg",
+        "alt": "Figura de apoio da questão 38."
+      }
+    ],
     "alternatives": [
       "50 cm.",
       "65 cm.",
@@ -7660,7 +7730,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q43-1.svg",
+        "alt": "Figura de apoio da questão 43."
+      }
+    ],
     "alternatives": [
       "30,6º.",
       "36º.",
@@ -7706,7 +7781,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "176 cm.",
       "160 cm.",
@@ -7852,7 +7932,12 @@ export const uea2025Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q47-1.svg",
+        "alt": "Figura de apoio da questão 47."
+      }
+    ],
     "alternatives": [
       "P e Q.",
       "P e T.",
@@ -8089,10 +8174,10 @@ export const uea2025Sis = [
       }
     ],
     "alternatives": [
-      "da reação entre o CO e a umidade do ar no período chuvoso, formando ácido carbônico.",
+      "da reação entre o CO e a umidade do ar no período chu- voso, formando ácido carbônico.",
       "do aumento da atividade de garimpo quando as chuvas diminuem.",
       "da combustão incompleta de matéria orgânica nas queimadas.",
-      "do aumento do tráfego na cidade, gerando mais poluentes atmosféricos pela queima de combustível fóssil.",
+      "do aumento do tráfego na cidade, gerando mais poluen- tes atmosféricos pela queima de combustível fóssil.",
       "da ocorrência de reações fotoquímicas entre gases da atmosfera no período não chuvoso, gerando aumento dos poluentes."
     ],
     "correct": 2,
@@ -8230,7 +8315,7 @@ export const uea2025Sis = [
       "a substituição do DDT por pesticidas de maior eficiência.",
       "o desenvolvimento de políticas voltadas à proteção ambiental.",
       "a propagação indiscriminada de fake news a respeito do uso de produtos químicos.",
-      "a substituição de insumos agrícolas sintéticos por produtos orgânicos sustentáveis."
+      "a substituição de insumos agrícolas sintéticos por produ- tos orgânicos sustentáveis."
     ],
     "correct": 2,
     "resolution": [
@@ -8323,7 +8408,12 @@ export const uea2025Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2025-a3/q60-1.svg",
+        "alt": "Figura de apoio da questão 60."
+      }
+    ],
     "alternatives": [
       "Pb Po Bi",
       "Pb Bi Po",

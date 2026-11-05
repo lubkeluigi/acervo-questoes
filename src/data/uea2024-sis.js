@@ -27,7 +27,7 @@ export const uea2024Sis = [
       }
     ],
     "alternatives": [
-      "ao eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desagradável, grosseira.",
+      "ao eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desa- gradável, grosseira.",
       "à intertextualidade: a referência que um texto faz a outro texto já existente, tomando-o como modelo ou ponto de partida.",
       "à hipérbole: a ênfase resultante do exagero na expressão ou comunicação de uma ideia.",
       "ao pleonasmo: a repetição desnecessária de palavras ou expressões na enunciação de uma ideia.",
@@ -124,7 +124,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "“Estes são os poderes do tempo sobre o amor”.",
-      "“O amor perfeito [...] vive imortal sobre a esfera da mudança”.",
+      "“O amor perfeito [...] vive imortal sobre a esfera da mu- dança”.",
       "“o amor [...] verdadeiro tem obrigação de ser eterno”.",
       "“Deixou de ser, pois nunca foi”.",
       "“Deixastes de amar, pois nunca amastes”."
@@ -367,7 +367,7 @@ export const uea2024Sis = [
       "condição.",
       "causa.",
       "finalidade.",
-      "comparação. Leia o texto para responder às questões de 09 a 11. Claude Monet was a French artist known for painting in the style called Impressionism. Monet was famous during his lifetime, and his paintings remain popular today. They are on display in art museums around the world. Claude Monet was born on November 14, 1840, in Paris, France. He drew and painted as a young man. In the 1860s he became friends with other artists, including PierreAuguste Renoir. The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise. Most of Monet’s subjects were from nature. Like other Impressionists, he was fascinated by the way light and shadows change during the day. He often painted the same scene again and again to show all the variations of light and shadow. In the 1880s Monet settled in Giverny, outside of Paris. There he painted one of his most famous series of paintings, called Water Lilies. Monet died on December 5, 1926, in Giverny. (https://kids.britannica.com)"
+      "comparação."
     ],
     "correct": 3,
     "resolution": [
@@ -518,11 +518,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Claude Monet was a French artist known for painting in the style called Impressionism” (1o parágrafo).",
-      "“Monet was famous during his lifetime” (1o parágrafo).",
-      "“He drew and painted as a young man” (2o parágrafo).",
-      "“The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise” (2o parágrafo).",
-      "“He often painted the same scene again and again to show all the variations of light and shadow” (3o parágrafo)."
+      "“Claude Monet was a French artist known for painting in the style called Impressionism” (1º parágrafo).",
+      "“Monet was famous during his lifetime” (1$\\frac{o}{o}$ parágrafo).",
+      "“He drew and painted as a young man” (2 parágrafo).",
+      "“The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise” (2º parágrafo).",
+      "“He often painted the same scene again and again to show all the variations of light and shadow” (3º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
@@ -716,10 +716,10 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "explorar a borracha para expandir as exportações brasileiras.",
-      "ocupar a Amazônia com projetos de integração capitalista.",
-      "fomentar a economia local com a valorização da produção indígena.",
-      "alertar sobre a importância do desenvolvimento sustentável.",
+      "explorar a borracha para expandir as exportações brasi- leiras.",
+      "ocupar a Amazônia com projetos de integração capita- lista.",
+      "fomentar a economia local com a valorização da produ- ção indígena.",
+      "alertar sobre a importância do desenvolvimento susten- tável.",
       "projetar a pecuária da região Norte para o mercado internacional."
     ],
     "correct": 1,
@@ -810,11 +810,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a inflação podia ser controlada por meio de ações populares incentivadas pelo governo federal.",
-      "o processo de redemocratização do Brasil ocorria concomitantemente a uma profunda crise econômica.",
+      "a inflação podia ser controlada por meio de ações popu- lares incentivadas pelo governo federal.",
+      "o processo de redemocratização do Brasil ocorria conco- mitantemente a uma profunda crise econômica.",
       "a população sentia-se parte da elaboração das políticas públicas sob o lema da reconstrução do Brasil.",
       "a proposta de impeachment do presidente ganhava as ruas devido às acusações de corrupção.",
-      "a nação enfrentava desafios em um governo eleito democraticamente após a ditadura civil-militar."
+      "a nação enfrentava desafios em um governo eleito demo- craticamente após a ditadura civil-militar."
     ],
     "correct": 1,
     "resolution": [
@@ -954,9 +954,9 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "na redução do trabalho infantil com projetos educacionais.",
+      "na redução do trabalho infantil com projetos educacio- nais.",
       "na formação de uma assembleia constituinte brasileira.",
-      "na pressão popular feminina pela execução da legislação.",
+      "na pressão popular feminina pela execução da legisla- ção.",
       "na conquista de direitos pelo fim da violência doméstica.",
       "no apoio ao empreendedorismo das mulheres paraenses."
     ],
@@ -1049,7 +1049,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "exteriorizarem falta de conhecimento acerca dos limites de suas terras.",
-      "demonstrarem carência de critérios para a sua autoidentificação.",
+      "demonstrarem carência de critérios para a sua autoiden- tificação.",
       "exibirem a fragilidade da legislação sobre seus direitos à terra.",
       "evidenciarem a falta de órgão federal responsável pelo reconhecimento de suas terras.",
       "explicitarem a lentidão no processo de titulação de seus territórios."
@@ -1208,7 +1208,7 @@ export const uea2024Sis = [
       "pela formação de megalópoles próximas às hidrovias, o que expande a integração econômica entre as cidades.",
       "pelo espaçamento entre as cidades de pequeno porte, o que reflete na expansão do processo de metropolização.",
       "pelas grandes distâncias entre as cidades de grande e de pequeno porte, o que limita os fluxos de bens, pessoas e serviços.",
-      "pelo processo de conurbação entre as cidades de pequeno porte, o que dinamiza o acesso a serviços públicos.",
+      "pelo processo de conurbação entre as cidades de peque- no porte, o que dinamiza o acesso a serviços públicos.",
       "pela rapidez do processo de desmetropolização regional, o que revela a opção da população em migrar para outras regiões."
     ],
     "correct": 2,
@@ -1253,7 +1253,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "ação decolonial, parte estratégica de novas corridas imperialistas.",
-      "corrida armamentista, integrante da disputa pela hegemonia global.",
+      "corrida armamentista, integrante da disputa pela hege- monia global.",
       "revolução técnica, avanço científico durante a Segunda Guerra Mundial.",
       "corrida aeroespacial, produto da bipolaridade na Guerra Fria.",
       "política desenvolvimentista, recorte geopolítico da Nova Ordem Mundial."
@@ -1485,10 +1485,10 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "potássio, mas que, se consumido em excesso, causa diabetes.",
-      "sódio, mas que, se consumido em excesso, eleva a pressão arterial.",
+      "sódio, mas que, se consumido em excesso, eleva a pres- são arterial.",
       "cloro, mas que, se consumido em excesso, provoca catarata.",
-      "cálcio, mas que, se consumido em excesso, desencadeia anemia.",
-      "ferro, mas que, se consumido em excesso, origina cálculos renais."
+      "cálcio, mas que, se consumido em excesso, desenca- deia anemia.",
+      "ferro, mas que, se consumido em excesso, origina cál- culos renais."
     ],
     "correct": 1,
     "resolution": [
@@ -1581,11 +1581,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "formação de compostos orgânicos → organismos aeróbios heterotróficos → organismos fotossintetizantes → organismos anaeróbios heterotróficos.",
-      "organismos aeróbios heterotróficos → formação de compostos orgânicos → organismos anaeróbios heterotróficos → organismos fotossintetizantes.",
+      "formação de compostos orgânicos → organismos aeró- bios heterotróficos → organismos fotossintetizantes → organismos anaeróbios heterotróficos.",
+      "organismos aeróbios heterotróficos → formação de com- postos orgânicos → organismos anaeróbios heterotrófi- cos → organismos fotossintetizantes.",
       "organismos anaeróbios heterotróficos → organismos aeróbios heterotróficos → formação de compostos orgânicos → organismos fotossintetizantes.",
-      "formação de compostos orgânicos → organismos anaeróbios heterotróficos → organismos fotossintetizantes → organismos aeróbios heterotróficos.",
-      "organismos anaeróbios heterotróficos → organismos aeróbios heterotróficos → organismos fotossintetizantes → formação de compostos orgânicos."
+      "formação de compostos orgânicos → organismos anae- róbios heterotróficos → organismos fotossintetizantes → organismos aeróbios heterotróficos.",
+      "organismos anaeróbios heterotróficos → organismos ae- róbios heterotróficos → organismos fotossintetizantes → formação de compostos orgânicos."
     ],
     "correct": 3,
     "resolution": [
@@ -1672,7 +1672,7 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "As mudanças climáticas têm um caráter global e seus efeitos já são uma realidade. “É grande o desafio que marcará nossa época”, garante o secretário-geral das Nações Unidas, António Guterres. As evidências científicas nesse sentido são nítidas. A seguir, estão elencadas duas delas: • \u0007o ser humano, com sua atividade agropecuária e suas emissões, está afetando a composição da atmosfera; • \u0007a crescente concentração de gases de feito estufa (GEE) na atmosfera está contribuindo para um aumento do efeito estufa e, consequentemente, da temperatura global.\n\n(www.iberdrola.com. Adaptado.)\n\nUm dos fatores que contribuem, consideravelmente, para o aquecimento global é",
+    "statement": "As mudanças climáticas têm um caráter global e seus efeitos já são uma realidade. “É grande o desafio que marcará nossa época”, garante o secretário-geral das Nações Unidas, António Guterres. As evidências científicas nesse sentido são nítidas. A seguir, estão elencadas duas delas: • o ser humano, com sua atividade agropecuária e suas emissões, está afetando a composição da atmosfera; • a crescente concentração de gases de feito estufa (GEE) na atmosfera está contribuindo para um aumento do efeito estufa e, consequentemente, da temperatura global.\n\n(www.iberdrola.com. Adaptado.)\n\nUm dos fatores que contribuem, consideravelmente, para o aquecimento global é",
     "blockTypes": [
       "prose",
       "source",
@@ -1733,7 +1733,7 @@ export const uea2024Sis = [
     ],
     "alternatives": [
       "correta, porque a espécie humana surgiu diretamente dos macacos, transformando e melhorando o corpo físico.",
-      "correta, porque a espécie humana evoluiu de forma contínua visando à maior eficiência dos órgãos.",
+      "correta, porque a espécie humana evoluiu de forma con- tínua visando à maior eficiência dos órgãos.",
       "incorreta, porque a espécie humana não descende do macaco e sim de um ancestral em comum.",
       "incorreta, porque a espécie humana não tem nenhuma semelhança com o macaco.",
       "incorreta, porque a espécie humana não sofreu nenhuma modificação desde a sua origem."
@@ -1911,7 +1911,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "6 cm.",
       "7 cm.",
@@ -1957,13 +1962,18 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
-      "432 cm2.",
-      "480 cm2.",
-      "576 cm2.",
-      "648 cm2.",
-      "696 cm2."
+      "432 cm².",
+      "480 cm².",
+      "576 cm².",
+      "648 cm².",
+      "696 cm²."
     ],
     "correct": 3,
     "resolution": [
@@ -2096,7 +2106,12 @@ export const uea2024Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "(3, 0).",
       "(2, 0).",
@@ -2381,11 +2396,11 @@ export const uea2024Sis = [
       }
     ],
     "alternatives": [
-      "L1 e L3, apenas.",
-      "L2 e L4, apenas.",
-      "L3 e L4, apenas.",
-      "L1, L2 e L3, apenas.",
-      "L1, L2, L3 e L4."
+      "$L_{1}$ e $L_{3}$, apenas.",
+      "$L_{2}$ e $L_{4}$, apenas.",
+      "$L_{3}$ e $L_{4}$, apenas.",
+      "$L_{1}$, $L_{2}$ e $L_{3}$, apenas.",
+      "$L_{1}$, $L_{2}$, $L_{3}$ e $L_{4}$."
     ],
     "correct": 3,
     "resolution": [
@@ -2425,7 +2440,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
       "2 e 6.",
       "3 e 7.",
@@ -2472,7 +2492,12 @@ export const uea2024Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q54-1.svg",
+        "alt": "Figura de apoio da questão 54."
+      }
+    ],
     "alternatives": [
       "fusão nuclear e elétron.",
       "fusão nuclear e nêutron.",
@@ -2609,11 +2634,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "empresas de equipamentos eletrônicos recuperam metais nobres usados nas placas de circuitos.",
+      "empresas de equipamentos eletrônicos recuperam me- tais nobres usados nas placas de circuitos.",
       "donas de casa reutilizam sacolas plásticas para descarte de lixo doméstico.",
       "pneus velhos são vendidos para fábricas de asfalto.",
       "esgotos são tratados para a produção de água de reuso.",
-      "usinas de álcool e açúcar queimam o bagaço da cana-de-açúcar para produzir energia elétrica."
+      "usinas de álcool e açúcar queimam o bagaço da cana- -de-açúcar para produzir energia elétrica."
     ],
     "correct": 0,
     "resolution": [
@@ -2664,7 +2689,7 @@ export const uea2024Sis = [
       "promove o aumento da superfície de contato entre a celulose do papel e o oxigênio do ar.",
       "aumenta a energia de ativação do sistema.",
       "faz com que os raios solares concentrem o oxigênio do ar em torno do papel.",
-      "aumenta a agitação molecular das substâncias reagentes, tornando as colisões mais eficazes.",
+      "aumenta a agitação molecular das substâncias reagen- tes, tornando as colisões mais eficazes.",
       "atua como catalisador, tornando a reação mais rápida."
     ],
     "correct": 3,
@@ -2760,9 +2785,9 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "a alta solubilidade em água, podendo ser absorvido pelos seres vivos e lhes causar sérias intoxicações.",
-      "a alta densidade, podendo afundar rapidamente no oceano e contaminar o solo marinho.",
+      "a alta densidade, podendo afundar rapidamente no ocea- no e contaminar o solo marinho.",
       "o alto caráter hidrofóbico, provocando uma barreira superficial que impede a passagem da radiação solar.",
-      "a alta volatilidade, produzindo vapores tóxicos que são carregados pelo vento e pelas correntes marinhas afetando extensas áreas.",
+      "a alta volatilidade, produzindo vapores tóxicos que são carregados pelo vento e pelas correntes marinhas afe- tando extensas áreas.",
       "a alta reatividade com a água, formando produtos de reação que são prejudiciais para o meio ambiente."
     ],
     "correct": 2,
@@ -2814,7 +2839,7 @@ export const uea2024Sis = [
       "tranquilizar Cordovil, dizer que o homem ainda vivia e que possivelmente ainda viveria muito.",
       "oferecer a Cordovil o prazer de saber que seu inimigo sofria e não demoraria a morrer.",
       "levar conforto emocional a Cordovil, que sofria por saber que o inimigo não viveria muito tempo.",
-      "convencer Cordovil de que, ao contrário do que ele imaginava, o homem morreria em breve.",
+      "convencer Cordovil de que, ao contrário do que ele ima- ginava, o homem morreria em breve.",
       "acusar Cordovil de ser responsável pelo padecimento e pela morte iminente do inimigo."
     ],
     "correct": 1,
@@ -2863,11 +2888,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Digo-te que concluis mal; não foi alegria, foi desabafo.” (2o parágrafo)",
-      "“Cordovil sabia dos padecimentos do adversário.” (2o parágrafo)",
-      "“Cordovil, salvo em política, não gostava do mal alheio.” (3o parágrafo)",
-      "“Cordovil não ia nas águas desse amigo; perdoava deveras.” (4o parágrafo)",
-      "“— Coitado! descansou, disse Cordovil.” (5o parágrafo)"
+      "“Digo-te que concluis mal; não foi alegria, foi desabafo.” (2º parágrafo)",
+      "“Cordovil sabia dos padecimentos do adversário.” (2º pa- rágrafo)",
+      "“Cordovil, salvo em política, não gostava do mal alheio.” (3º parágrafo)",
+      "“Cordovil não ia nas águas desse amigo; perdoava deve- ras.” (4º parágrafo)",
+      "“— Coitado! descansou, disse Cordovil.” (5º parágrafo)"
     ],
     "correct": 4,
     "resolution": [
@@ -2915,11 +2940,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“ele ficou alegre com a morte do homem” (2o parágrafo).",
-      "“Cordovil sabia dos padecimentos do adversário” (2o parágrafo).",
-      "“Cordovil não ia nas águas desse amigo” (4o parágrafo).",
-      "“o deputado só gostava do mal alheio em política” (4o parágrafo).",
-      "“o inimigo morto era inimigo pessoal” (4o parágrafo)."
+      "“ele ficou alegre com a morte do homem” (2º parágrafo).",
+      "“Cordovil sabia dos padecimentos do adversário” (2º pa- rágrafo).",
+      "“Cordovil não ia nas águas desse amigo” (4º parágrafo).",
+      "“o deputado só gostava do mal alheio em política” (4º pa- rágrafo).",
+      "“o inimigo morto era inimigo pessoal” (4º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -2967,11 +2992,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“um inimigo seu, que padecia do coração, faleceu antes das dez horas” (1o parágrafo).",
-      "“Digo-te que concluis mal” (2o parágrafo).",
-      "“iam contar-lhe o que viam ou sabiam do enfermo” (2o parágrafo).",
-      "“Quando rezava, ao levantar da cama” (3o parágrafo).",
-      "“perdoa as nossas dívidas, como nós perdoamos aos nossos devedores” (3o parágrafo)."
+      "“um inimigo seu, que padecia do coração, faleceu antes das dez horas” (1º parágrafo).",
+      "“Digo-te que concluis mal” (2º parágrafo).",
+      "“iam contar-lhe o que viam ou sabiam do enfermo” (2º parágrafo).",
+      "“Quando rezava, ao levantar da cama” (3º parágrafo).",
+      "“perdoa as nossas dívidas, como nós perdoamos aos nossos devedores” (3º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -3021,7 +3046,7 @@ export const uea2024Sis = [
       "ultrarromântico.",
       "realista.",
       "parnasiano.",
-      "simbolista. Para responder às questões de 06 a 08, leia o trecho do romance A falência, de Júlia Lopes de Almeida. Na limpeza da casa, Nina encontrara em um caixote, no porão, entre um sem-número de objetos mutilados e antiquíssimos, o chicotinho com que Mário a zurzia nos dias de cólera, quando, pequena e magra, ela fazia reboar pelos corredores a sua tosse de cão, que ele abafava gritando-lhe: — Cala a boca! Cala a boca! (A falência, 2018.)"
+      "simbolista."
     ],
     "correct": 2,
     "resolution": [
@@ -3466,11 +3491,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "os esportes foram a base para os movimentos que pregavam a emancipação política de forma pacífica.",
+      "os esportes foram a base para os movimentos que prega- vam a emancipação política de forma pacífica.",
       "o darwinismo social era utilizado como justificativa para as vitórias esportivas de povos africanos e asiáticos.",
       "as lutas pelas independências afro-asiáticas envolveram técnicas utilizadas em esportes tradicionais.",
       "a proibição de algumas práticas esportivas nas colônias estava ligada à manutenção do imperialismo europeu.",
-      "as nações africanas e asiáticas usavam os jogos olímpicos para denunciar a colonização a que estavam submetidas."
+      "as nações africanas e asiáticas usavam os jogos olím- picos para denunciar a colonização a que estavam submetidas."
     ],
     "correct": 3,
     "resolution": [
@@ -3562,7 +3587,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "o cumprimento formal do que previa a Lei Eusébio de Queirós.",
-      "a proposta de aquisição de terras por imigrantes europeus.",
+      "a proposta de aquisição de terras por imigrantes euro- peus.",
       "o afrouxamento das proposições estabelecidas pela Lei de Terras.",
       "a presença de projetos que coibiam a prática da grilagem.",
       "o resgate estatal de terras públicas em programas progressistas."
@@ -3664,7 +3689,7 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a consolidação de padrões impostos pela heteronormatividade.",
+      "a consolidação de padrões impostos pela heteronorma- tividade.",
       "a importância do reconhecimento social das relações homoafetivas.",
       "a persistência da proibição da união civil entre pessoas do mesmo sexo.",
       "a violência física à qual homossexuais são submetidos cotidianamente.",
@@ -3759,10 +3784,10 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "o aumento da fiscalização de áreas litorâneas pela Marinha.",
-      "a maior participação da gestão pública nas áreas brasileiras à beira-mar.",
+      "a maior participação da gestão pública nas áreas brasi- leiras à beira-mar.",
       "o fim das ocupações legalizadas pré-existentes no litoral brasileiro.",
       "a possibilidade de privatização de áreas à beira-mar do litoral brasileiro.",
-      "o aumento do controle dos impactos ambientais litorâneos pela União."
+      "o aumento do controle dos impactos ambientais litorâ- neos pela União."
     ],
     "correct": 3,
     "resolution": [
@@ -3858,9 +3883,9 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "a interrupção da exploração de petróleo na camada pré-sal para a exportação.",
-      "a ampliação dos gastos em usinas solares para a produção de energia elétrica.",
+      "a ampliação dos gastos em usinas solares para a produ- ção de energia elétrica.",
       "a redução do transporte de cargas com insumos para o comércio.",
-      "a diminuição da produção sucroalcooleira para o mercado interno.",
+      "a diminuição da produção sucroalcooleira para o merca- do interno.",
       "a queda na importação de matéria-prima para a indústria têxtil."
     ],
     "correct": 2,
@@ -3959,10 +3984,10 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "o estabelecimento de parcerias, em que o proprietário empresta a terra para terceiros explorarem em troca de parte da produção.",
-      "a criação das reservas extrativistas, áreas florestais protegidas de onde as comunidades tradicionais podem extrair sua subsistência.",
-      "o aumento da quantidade de minifúndios, pequenas propriedades rurais exploradas pela agricultura familiar.",
+      "a criação das reservas extrativistas, áreas florestais pro- tegidas de onde as comunidades tradicionais podem ex- trair sua subsistência.",
+      "o aumento da quantidade de minifúndios, pequenas pro- priedades rurais exploradas pela agricultura familiar.",
       "a retração da fronteira agrícola, espaço ocupado pela agropecuária que deixou de compor a região Norte para compor a Nordeste.",
-      "o crescimento do trabalho terceirizado, emprego por tempo determinado estabelecido nos momentos de colheita da produção."
+      "o crescimento do trabalho terceirizado, emprego por tem- po determinado estabelecido nos momentos de colheita da produção."
     ],
     "correct": 1,
     "resolution": [
@@ -4010,8 +4035,8 @@ export const uea2024Sis = [
       "Revolução Comunista Chinesa, com os nacionalistas ocupando Taiwan em 1949.",
       "Revolução Constitucionalista, que atendeu o resultado de um plebiscito em Taiwan em 1917.",
       "Revolução Gloriosa, que reforçou o isolamento cultural da China em 1917.",
-      "Revolução Comunista Chinesa, que levou os nacionalistas para a China em 1949.",
-      "Revolução Constitucionalista, que segregou territorialmente Taiwan em 1949."
+      "Revolução Comunista Chinesa, que levou os nacionalis- tas para a China em 1949.",
+      "Revolução Constitucionalista, que segregou territorial- mente Taiwan em 1949."
     ],
     "correct": 0,
     "resolution": [
@@ -4115,7 +4140,7 @@ export const uea2024Sis = [
       "analisar dados em tempo real relativos aos domínios morfoclimáticos.",
       "observar dados do tempo atmosférico em mapas digitais interativos.",
       "acompanhar in loco focos de incêndio em áreas de preservação ambiental.",
-      "elevar o preço de imóveis com a proximidade de benfeitorias públicas inexistentes.",
+      "elevar o preço de imóveis com a proximidade de benfei- torias públicas inexistentes.",
       "monitorar ao vivo o avanço de grupos militares em áreas de conflito."
     ],
     "correct": 3,
@@ -4161,9 +4186,9 @@ export const uea2024Sis = [
     "alternatives": [
       "a exclusão dos boias-frias, trabalhadores assalariados, que são recrutados para empreitadas temporárias em período de colheita.",
       "a extinção das políticas protecionistas, cobrança de impostos federais sobre a produção, que prejudicam o ganho de capital dos cooperativados.",
-      "a erradicação da biopirataria, apropriação ilegal de material genético por empresas estrangeiras, que desenvolvem patentes com fins comerciais.",
-      "o encerramento do escambo, modalidade de troca de mercadorias, que desobriga a intermediação de um sistema monetário.",
-      "a eliminação dos atravessadores, intermediários atuantes na compra e revenda da matéria-prima, que reduzem os ganhos dos trabalhadores no processo produtivo."
+      "a erradicação da biopirataria, apropriação ilegal de ma- terial genético por empresas estrangeiras, que desenvol- vem patentes com fins comerciais.",
+      "o encerramento do escambo, modalidade de troca de mercadorias, que desobriga a intermediação de um sis- tema monetário.",
+      "a eliminação dos atravessadores, intermediários atuan- tes na compra e revenda da matéria-prima, que reduzem os ganhos dos trabalhadores no processo produtivo."
     ],
     "correct": 4,
     "resolution": [
@@ -4294,10 +4319,10 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "foram necessários 1 200 genes para produzir essa proteína.",
-      "essa proteína é produzida por um ribossomo no citoplasma.",
+      "foram necessários 1 200 genes para produzir essa pro- teína.",
+      "essa proteína é produzida por um ribossomo no citoplas- ma.",
       "essa proteína foi produzida no núcleo e migrou para o citoplasma.",
-      "o gene ativo para essa proteína possui 400 pares de bases nitrogenadas.",
+      "o gene ativo para essa proteína possui 400 pares de ba- ses nitrogenadas.",
       "são necessárias centenas de RNA mensageiros para produzir essa proteína."
     ],
     "correct": 1,
@@ -4436,7 +4461,7 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "liberar o gás oxigênio na atmosfera por meio da respiração celular.",
+      "liberar o gás oxigênio na atmosfera por meio da respira- ção celular.",
       "absorver o gás carbônico da atmosfera para realizar a respiração celular.",
       "absorver o gás carbônico da atmosfera para realizar a fotossíntese.",
       "absorver o gás metano da atmosfera para realizar a fotossíntese.",
@@ -4485,9 +4510,9 @@ export const uea2024Sis = [
     "alternatives": [
       "a água dos oceanos está reduzindo no planeta por causa de sua excessiva evaporação.",
       "a transpiração das florestas tem grande importância na formação das chuvas.",
-      "as geleiras e os lençóis subterrâneos contêm água indisponível para os seres vivos.",
+      "as geleiras e os lençóis subterrâneos contêm água indis- ponível para os seres vivos.",
       "as lavouras utilizam pouco recurso hídrico, pois integram o ciclo curto da água.",
-      "a água vem se acumulando nos aquíferos após a percolação em áreas desmatadas."
+      "a água vem se acumulando nos aquíferos após a perco- lação em áreas desmatadas."
     ],
     "correct": 1,
     "resolution": [
@@ -4710,11 +4735,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "298 cm2.",
-      "336 cm2.",
-      "352 cm2.",
-      "412 cm2.",
-      "448 cm2."
+      "298 cm².",
+      "336 cm².",
+      "352 cm².",
+      "412 cm².",
+      "448 cm²."
     ],
     "correct": 0,
     "resolution": [
@@ -4754,7 +4779,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "8º",
       "9º",
@@ -4847,12 +4877,17 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "no dia 3 de fevereiro foi reparado o maior número de celulares.",
       "nos dois primeiros dias de fevereiro foram reparados 38 celulares.",
       "37% dos celulares levaram mais de 3 dias para o reparo.",
-      "14 celulares foram reparados no dia de menor movimento da loja.",
+      "14 celulares foram reparados no dia de menor movi- mento da loja.",
       "em média foram reparados 20 celulares por dia."
     ],
     "correct": 2,
@@ -4985,7 +5020,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q47-1.svg",
+        "alt": "Figura de apoio da questão 47."
+      }
+    ],
     "alternatives": [
       "2 400 J.",
       "2 100 J.",
@@ -5076,7 +5116,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q49-1.svg",
+        "alt": "Figura de apoio da questão 49."
+      }
+    ],
     "alternatives": [
       "1 A.",
       "2 A.",
@@ -5358,7 +5403,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q56-1.svg",
+        "alt": "Figura de apoio da questão 56."
+      }
+    ],
     "alternatives": [
       "2 mol e ânodo.",
       "2 mol e cátodo.",
@@ -5457,11 +5507,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "C4H10 e –2 442.",
-      "C4H10 e +4 884.",
-      "C4H10O e –2 442.",
-      "C4H10O e – 4 884.",
-      "C4H10O2 e +2 442."
+      "$C_{4}$$H_{10}$ e –2 442.",
+      "$C_{4}$$H_{10}$ e +4 884.",
+      "$C_{4}$$H_{10}$O e –2 442.",
+      "$C_{4}$$H_{10}$O e – 4 884.",
+      "$C_{4}$$H_{10}$ $O_{2}$ e +2 442."
     ],
     "correct": 2,
     "resolution": [
@@ -5547,13 +5597,18 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q60-1.svg",
+        "alt": "Figura de apoio da questão 60."
+      }
+    ],
     "alternatives": [
       "solução de cloreto de sódio (NaCl).",
-      "solução de bicarbonato de sódio (NaHCO3).",
-      "solução de cloreto de amônio (NH4Cl).",
-      "mistura de etanol (C2H5OH) e água (H2O).",
-      "mistura de etanol (C2H5OH) e cloreto de sódio (NaCl)."
+      "solução de bicarbonato de sódio ($NaHCO_{3}$).",
+      "solução de cloreto de amônio ($NH_{4}$Cl).",
+      "mistura de etanol ($C_{2}$$H_{5}$OH) e água ($H_{2}$O).",
+      "mistura de etanol ($C_{2}$$H_{5}$OH) e cloreto de sódio (NaCl)."
     ],
     "correct": 1,
     "resolution": [
@@ -5742,7 +5797,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "“Antes de tudo estava a lei do grupo, a lei dos Capitães da Areia”.",
-      "“Os que a traíam eram expulsos e nada de bom os esperava no mundo”.",
+      "“Os que a traíam eram expulsos e nada de bom os espe- rava no mundo”.",
       "“Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro”.",
       "“Ela também na sua casa tinha uma lei como os Capitães da Areia”.",
       "“Mas abrira uma exceção para a gente daquela casa”."
@@ -5895,11 +5950,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“O roupão azul, frouxamente entreaberto no busto, deixava entrever o colo magro, da brancura seca do gesso.” (1o parágrafo)",
-      "“Virgínia aproximou-se. ‘Outra vez, meu Deus, outra vez?!’” (3o parágrafo)",
-      "“— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la.” (6o parágrafo)",
-      "“‘Fuja depressa, fuja!’, desejara sem coragem de intervir.” (7o parágrafo)",
-      "“Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca.” (7o parágrafo)"
+      "“O roupão azul, frouxamente entreaberto no busto, dei- xava entrever o colo magro, da brancura seca do gesso.” (1º parágrafo)",
+      "“Virgínia aproximou-se. ‘Outra vez, meu Deus, outra vez?!’” (3º parágrafo)",
+      "“— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la.” (6º parágrafo)",
+      "“‘Fuja depressa, fuja!’, desejara sem coragem de intervir.” (7º parágrafo)",
+      "“Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca.” (7º parágrafo)"
     ],
     "correct": 1,
     "resolution": [
@@ -6027,7 +6082,7 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "engage readers through rhythm, metaphor, and vivid language.",
-      "explain complex concepts or procedures in a readerfriendly manner.",
+      "explain complex concepts or procedures in a reader- friendly manner.",
       "provide the reader step-by-step instructions, lists and techniques.",
       "teach the reader ethical principles through intriguing narratives.",
       "inform the reader and offer an opinion."
@@ -6131,7 +6186,7 @@ export const uea2024Sis = [
     "alternatives": [
       "uma opinião sobre a atuação desastrosa de Simu Liu.",
       "uma informação sobre o personagem de Simu Liu.",
-      "uma nova evidência sobre o futuro da Inteligência Artificial.",
+      "uma nova evidência sobre o futuro da Inteligência Arti- ficial.",
       "um argumento favorável ao uso de robôs.",
       "uma conclusão sobre a luta entre humanos e robôs."
     ],
@@ -6275,8 +6330,8 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a um marco histórico em relação ao respeito e à visibilidade dos povos indígenas da América.",
-      "a um evento mundial cuja participação do Brasil foi vetada pela ditadura civil-militar vigente no país.",
+      "a um marco histórico em relação ao respeito e à visibili- dade dos povos indígenas da América.",
+      "a um evento mundial cuja participação do Brasil foi veta- da pela ditadura civil-militar vigente no país.",
       "à continuidade dos debates pela redução da poluição atmosférica que tiveram início com os japoneses em Kyoto.",
       "à formulação de leis criadas no âmbito internacional para a preservação das diversas formas de vida.",
       "ao primeiro evento organizado pela ONU para discutir questões ambientais de maneira global."
@@ -6372,7 +6427,7 @@ export const uea2024Sis = [
       "propor uma lógica de produção com base na reforma agrária nacional.",
       "organizar paralelamente um exército para atacar as fazendas do sertão.",
       "dispensar a subordinação aos poderes estabelecidos pelas oligarquias.",
-      "incentivar a adesão ao protestantismo em área de domínio católico.",
+      "incentivar a adesão ao protestantismo em área de domí- nio católico.",
       "criticar a subordinação da Igreja católica ao Estado republicano."
     ],
     "correct": 2,
@@ -6418,9 +6473,9 @@ export const uea2024Sis = [
     "alternatives": [
       "o desenvolvimento de uma relação de trabalho chamada de comitatus.",
       "a condição de alienação dos operários em uma economia planificada.",
-      "a passagem da produção nas manufaturas para a industrialização.",
+      "a passagem da produção nas manufaturas para a indus- trialização.",
       "o retorno da utilização da moeda pelos europeus após o feudalismo.",
-      "o aumento da identificação do trabalhador com suas funções laborais."
+      "o aumento da identificação do trabalhador com suas fun- ções laborais."
     ],
     "correct": 2,
     "resolution": [
@@ -6463,11 +6518,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a defasagem das garantias tributárias conferidas no contexto da implantação do neoliberalismo no Brasil.",
-      "uma crise de investimentos públicos que atinge diretamente o agronegócio na Amazônia.",
+      "a defasagem das garantias tributárias conferidas no con- texto da implantação do neoliberalismo no Brasil.",
+      "uma crise de investimentos públicos que atinge direta- mente o agronegócio na Amazônia.",
       "a falência do sistema federalista devido à centralização política predominante no Brasil.",
       "uma disputa fiscal brasileira apoiada nas especificidades da industrialização amazonense.",
-      "a aspiração histórica dos paulistas em superar os números da produção industrial amazonense."
+      "a aspiração histórica dos paulistas em superar os núme- ros da produção industrial amazonense."
     ],
     "correct": 3,
     "resolution": [
@@ -6514,7 +6569,7 @@ export const uea2024Sis = [
       "tem início a partir de uma lógica econômica que divide o mundo em três grandes grupos de países.",
       "é mais percebido em territórios que absorvem números expressivos de trabalhadores imigrantes.",
       "é uma expressão do potencial dos territórios para o desenvolvimento de um maior contingente militar.",
-      "está presente em todas as organizações socioeconômicas estrategicamente para manter a desigualdade."
+      "está presente em todas as organizações socioeconômi- cas estrategicamente para manter a desigualdade."
     ],
     "correct": 0,
     "resolution": [
@@ -6563,7 +6618,7 @@ export const uea2024Sis = [
     ],
     "alternatives": [
       "valorizam a oportunidade de unir profissionalismo e vínculos familiares.",
-      "ironizam a associação entre trabalho informal e empreendedorismo.",
+      "ironizam a associação entre trabalho informal e em- preendedorismo.",
       "criticam a redução das jornadas de trabalho para grupos sociais específicos.",
       "revelam os benefícios conquistados pelos “trabalhadores uberizados”.",
       "abordam o crescimento das negociações entre patrões e funcionários."
@@ -6663,7 +6718,7 @@ export const uea2024Sis = [
       "exposição dos rios a partir da retirada da mata ciliar.",
       "superexploração dos aquíferos a partir da crise hídrica.",
       "contaminação dos rios a partir da instalação de fossas sépticas.",
-      "ocupação das várzeas a partir do crescimento das cidades.",
+      "ocupação das várzeas a partir do crescimento das cida- des.",
       "ampliação da calha dos rios a partir do assoreamento."
     ],
     "correct": 0,
@@ -6710,9 +6765,9 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "concentrada, haja vista o reduzido número de pessoas com cobertura móvel.",
-      "universal, haja vista o amplo fluxo de informações transmitidas diariamente.",
-      "veloz, haja vista a quantidade de vídeos assistidos diariamente.",
-      "fragmentada, haja vista a elevada diversidade de empresas que atuam na internet.",
+      "universal, haja vista o amplo fluxo de informações trans- mitidas diariamente.",
+      "veloz, haja vista a quantidade de vídeos assistidos dia- riamente.",
+      "fragmentada, haja vista a elevada diversidade de empre- sas que atuam na internet.",
       "desigual, haja vista o restrito acesso de pessoas à internet."
     ],
     "correct": 4,
@@ -6806,7 +6861,7 @@ export const uea2024Sis = [
       "incentivar a exploração de aço na América Latina.",
       "diminuir a dependência tecnológica da China diante dos Estados Unidos.",
       "acelerar a exportação de carros elétricos para a Europa.",
-      "reduzir o impacto da China na emissão de CO2 na Ásia.",
+      "reduzir o impacto da China na emissão de $CO_{2}$ na Ásia.",
       "ampliar o comércio de manufaturados de baixo custo com a África."
     ],
     "correct": 1,
@@ -6905,7 +6960,7 @@ export const uea2024Sis = [
       "o estabelecimento de novas relações fundiárias àqueles que consomem os produtos brasileiros.",
       "a mudança no perfil das exportações brasileiras para países europeus economicamente parceiros.",
       "o rearranjo de centralidades entre as regiões brasileiras para o fornecimento de commodities.",
-      "a melhora na qualidade de vida das comunidades que exploram um produto com responsabilidade socioambiental."
+      "a melhora na qualidade de vida das comunidades que exploram um produto com responsabilidade socioam- biental."
     ],
     "correct": 4,
     "resolution": [
@@ -7136,7 +7191,7 @@ export const uea2024Sis = [
       "induz o corpo humano a produzir antígenos específicos.",
       "contém anticorpos atenuados responsáveis pela defesa do corpo.",
       "contém substâncias que estimulam o corpo a produzir anticorpos específicos.",
-      "provoca elevação da temperatura corporal para aumentar a defesa."
+      "provoca elevação da temperatura corporal para aumen- tar a defesa."
     ],
     "correct": 3,
     "resolution": [
@@ -7176,9 +7231,14 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q33-1.svg",
+        "alt": "Figura de apoio da questão 33."
+      }
+    ],
     "alternatives": [
-      "X, houve alta resistência ambiental, o que resultou na extinção da população.",
+      "X, houve alta resistência ambiental, o que resultou na ex- tinção da população.",
       "X, houve baixa resistência ambiental, o que resultou em uma superpopulação.",
       "Y, houve alta resistência ambiental, o que resultou em uma superpopulação.",
       "X, houve baixa resistência ambiental em comparação com o momento após o tempo Y.",
@@ -7501,7 +7561,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "3 cm.",
       "3,5 cm.",
@@ -7637,12 +7702,17 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q46-1.svg",
+        "alt": "Figura de apoio da questão 46."
+      }
+    ],
     "alternatives": [
-      "2, que é o meio mais refringente, sendo que o raio refletido permanece no meio 2.",
+      "2, que é o meio mais refringente, sendo que o raio refleti- do permanece no meio 2.",
       "2, que é o meio menos refringente, sendo que o raio refletido permanece no meio 1.",
-      "1, que é o meio mais refringente, sendo que o raio refletido permanece no meio 1.",
-      "1, que é o meio mais refringente, sendo que o raio refletido permanece no meio 2.",
+      "1, que é o meio mais refringente, sendo que o raio refle- tido permanece no meio 1.",
+      "1, que é o meio mais refringente, sendo que o raio refleti- do permanece no meio 2.",
       "1, que é o meio menos refringente, sendo que o raio refletido permanece no meio 1."
     ],
     "correct": 0,
@@ -7916,7 +7986,12 @@ export const uea2024Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q52-1.svg",
+        "alt": "Figura de apoio da questão 52."
+      }
+    ],
     "alternatives": [
       "alfa, alfa e beta.",
       "alfa, beta e alfa.",
@@ -7963,11 +8038,11 @@ export const uea2024Sis = [
     ],
     "images": [],
     "alternatives": [
-      "CO e N2",
+      "CO e $N_{2}$",
       "CO e HCℓ",
-      "N2 e CO2",
-      "HCℓ e N2",
-      "H2 e CO2"
+      "$N_{2}$ e $CO_{2}$",
+      "HCℓ e $N_{2}$",
+      "$H_{2}$ e $CO_{2}$"
     ],
     "correct": 1,
     "resolution": [
@@ -8012,9 +8087,9 @@ export const uea2024Sis = [
     "images": [],
     "alternatives": [
       "os diferentes tipos de interação intermolecular existentes entre as moléculas.",
-      "a diminuição progressiva da massa molar das substâncias.",
+      "a diminuição progressiva da massa molar das substân- cias.",
       "a redução de pontos de aplicação de interações entre as moléculas ocasionada pela ramificação das cadeias.",
-      "o aumento da solubilidade das moléculas em água ocasionada pela ramificação das cadeias.",
+      "o aumento da solubilidade das moléculas em água oca- sionada pela ramificação das cadeias.",
       "o aumento da polaridade das moléculas ocasionada pela ramificação das cadeias."
     ],
     "correct": 2,

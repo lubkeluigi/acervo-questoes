@@ -269,6 +269,7 @@ def main():
                         # prose sentences (terminal punctuation) are never figure
                         # labels — don't let them bleed into the crop
                         if txt[-1] in '.;?!': continue
+                        if U.QMARK.match(txt) or U.ALT.match(txt): continue
                         lr = fitz.Rect(l['bbox'])
                         if abs(lr.y0 - rr.y0) < 18 or abs(lr.y1 - rr.y1) < 18:
                             if lr.x0 > rr.x0 - 12 and lr.x1 < rr.x1 + 12:

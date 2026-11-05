@@ -63,7 +63,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” (7º parágrafo) refere-se ao fato de que Macunaíma",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” (7º parágrafo) refere-se ao fato de que Macunaíma",
     "blockTypes": [
       "prose",
       "prose",
@@ -115,7 +115,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\n“o herói murmurou: — Aqui serve.” (1º e 2º parágrafos). Ao ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 enquizilado: aborrecido.\n\n“o herói murmurou: — Aqui serve.” (1º e 2º parágrafos). Ao ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -167,7 +167,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após o verbo. Ocorre sujeito posposto na seguinte oração:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após o verbo. Ocorre sujeito posposto na seguinte oração:",
     "blockTypes": [
       "prose",
       "prose",
@@ -182,11 +182,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Dispôs os manos nas esperas” (3o parágrafo).",
-      "“saíram só dois ratos chamuscados” (3o parágrafo).",
-      "“pra ele caçar” (3o parágrafo).",
-      "“comeu-os” (3o parágrafo).",
-      "“e desconfiaram do herói” (6o parágrafo)."
+      "“Dispôs os manos nas esperas” (3$\\frac{o}{o}$ parágrafo).",
+      "“saíram só dois ratos chamuscados” (3 parágrafo).",
+      "“pra ele caçar” (3$\\frac{o}{o}$ parágrafo).",
+      "“comeu-os” (3 parágrafo).",
+      "“e desconfiaram do herói” (6º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
@@ -219,7 +219,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, sobretudo,",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram muito enquizilados¹ porque não sabiam mentir e exclamaram irritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, sobretudo,",
     "blockTypes": [
       "prose",
       "prose",
@@ -411,7 +411,7 @@ export const uea2026Vestibular = [
       "indiferente: ele não se interessa por esse tipo de arte.",
       "sarcástico: ele considera que esse tipo de arte é infantil.",
       "negativo: ele acha improvável que esse tipo de arte sensibilize as pessoas.",
-      "crítico: ele acredita que esse tipo de arte é acessível apenas a especialistas. Leia o texto para responder às questões de 09 a 11. Interesting facts about rainforests 1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture1 and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage. (Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water."
+      "crítico: ele acredita que esse tipo de arte é acessível ape- nas a especialistas."
     ],
     "correct": 0,
     "resolution": [
@@ -444,7 +444,7 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nO item do texto que apresenta os perigos do desmatamento de florestas é o de número:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 moisture: very small drops of water.\n\nO item do texto que apresenta os perigos do desmatamento de florestas é o de número:",
     "blockTypes": [
       "prose",
       "prose",
@@ -491,7 +491,7 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nIn item 3 “By generating moisture and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away”, the underlined word refers to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 moisture: very small drops of water.\n\nIn item 3 “By generating moisture and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away”, the underlined word refers to",
     "blockTypes": [
       "prose",
       "prose",
@@ -539,7 +539,7 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nNo contexto do item 5 “Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage”, o termo sublinhado tem como função",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 moisture: very small drops of water.\n\nNo contexto do item 5 “Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage”, o termo sublinhado tem como função",
     "blockTypes": [
       "prose",
       "prose",
@@ -549,7 +549,7 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "estabelecer comparações entre os serviços ecossistêmicos.",
+      "estabelecer comparações entre os serviços ecossistêmi- cos.",
       "apresentar condições para a restauração das florestas.",
       "indicar as causas dos desmatamentos.",
       "destacar as consequências dos desmatamentos.",
@@ -873,8 +873,8 @@ export const uea2026Vestibular = [
       }
     ],
     "alternatives": [
-      "marcou o início da monarquia parlamentar com a aprovação da Constituição.",
-      "inaugurou a fase mais violenta da revolução sob o domínio dos jacobinos.",
+      "marcou o início da monarquia parlamentar com a aprova- ção da Constituição.",
+      "inaugurou a fase mais violenta da revolução sob o domí- nio dos jacobinos.",
       "promoveu a proclamação da primeira república do país.",
       "constituiu um movimento popular contra a opressão do monarca.",
       "consolidou a vitória dos franceses contra os austríacos e prussianos."
@@ -970,7 +970,7 @@ export const uea2026Vestibular = [
       "prorrogar o prazo de permissão para a importação de escravizados ao país.",
       "efetivar uma norma anterior de proibição do tráfico de escravizados africanos.",
       "revogar tratados internacionais de livre comércio de matérias primas.",
-      "delegar à Marinha nacional o monitoramento e a segurança da costa brasileira."
+      "delegar à Marinha nacional o monitoramento e a segu- rança da costa brasileira."
     ],
     "correct": 2,
     "resolution": [
@@ -1060,7 +1060,7 @@ export const uea2026Vestibular = [
     "alternatives": [
       "advogava a elaboração de uma nova Constituição para o país que tivesse como modelo a legislação italiana da época, mas com ajustes à realidade brasileira.",
       "criticava o Estado Novo, que combatia o fascismo no exterior, mas mantinha a ditadura no Brasil.",
-      "defendia a formação de um órgão internacional que pudesse promover a democracia em âmbito global, mas sem interferir na soberania nacional.",
+      "defendia a formação de um órgão internacional que pu- desse promover a democracia em âmbito global, mas sem interferir na soberania nacional.",
       "censurava as instituições políticas brasileiras, que eram ineficientes no combate às fraudes eleitorais.",
       "reprovava o engajamento do Brasil na Segunda Guerra Mundial, que contribuiu para o aumento do déficit público do país."
     ],
@@ -1105,11 +1105,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o racismo se manifesta estritamente na desigualdade de renda e de representatividade social e política entre brancos e negros no Brasil.",
-      "o racismo foi incorporado aos esquemas mentais, de percepção e ação dos agentes sociais, sendo reproduzido em instituições e práticas cotidianas.",
-      "a discriminação racial na sociedade brasileira fundamenta-se na legislação, em ideias e atitudes transmitidas entre gerações.",
-      "a sociedade brasileira foi moldada historicamente por relações interraciais, sendo o racismo uma prática consciente dos indivíduos de modo geral.",
-      "o combate ao racismo está restrito a mudanças normativas e institucionais a serem aplicadas nas escolas públicas e privadas do país."
+      "o racismo se manifesta estritamente na desigualdade de renda e de representatividade social e política entre bran- cos e negros no Brasil.",
+      "o racismo foi incorporado aos esquemas mentais, de per- cepção e ação dos agentes sociais, sendo reproduzido em instituições e práticas cotidianas.",
+      "a discriminação racial na sociedade brasileira funda- menta-se na legislação, em ideias e atitudes transmiti- das entre gerações.",
+      "a sociedade brasileira foi moldada historicamente por re- lações interraciais, sendo o racismo uma prática cons- ciente dos indivíduos de modo geral.",
+      "o combate ao racismo está restrito a mudanças normati- vas e institucionais a serem aplicadas nas escolas públi- cas e privadas do país."
     ],
     "correct": 1,
     "resolution": [
@@ -1150,11 +1150,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o conhecimento resulta da razão pura, independentemente das experiências do mundo externo.",
+      "o conhecimento resulta da razão pura, independente- mente das experiências do mundo externo.",
       "a objetividade do saber se origina das experiências dos sujeitos, como se fosse uma cópia da realidade.",
       "a mente humana se adapta aos objetos do conhecimento da forma como eles se apresentam na realidade.",
-      "o ser humano consiste em um receptor passivo da experiência sensível do mundo.",
-      "a mente humana organiza a experiência por meio de estruturas universais aplicadas aos objetos do conhecimento."
+      "o ser humano consiste em um receptor passivo da expe- riência sensível do mundo.",
+      "a mente humana organiza a experiência por meio de estruturas universais aplicadas aos objetos do conhe- cimento."
     ],
     "correct": 4,
     "resolution": [
@@ -1248,7 +1248,7 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o período de verão ocorre entre os meses de novembro e março.",
+      "o período de verão ocorre entre os meses de novem- bro e março.",
       "a distribuição da luz solar é contínua no período de verão nas médias latitudes.",
       "o território dos Estados Unidos localiza-se em um único fuso horário.",
       "o horário de verão torna os dias mais longos.",
@@ -1344,11 +1344,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "Norte, uma estação seca mais prolongada, o que favorece maior vulnerabilidade do bioma amazônico à ocorrência e propagação de incêndios florestais.",
-      "Sul, uma estação chuvosa mais prolongada, o que oportuniza o aumento da produção agrícola com vistas à redução do preço dos alimentos para o consumidor.",
+      "Norte, uma estação seca mais prolongada, o que favore- ce maior vulnerabilidade do bioma amazônico à ocorrên- cia e propagação de incêndios florestais.",
+      "Sul, uma estação chuvosa mais prolongada, o que opor- tuniza o aumento da produção agrícola com vistas à re- dução do preço dos alimentos para o consumidor.",
       "Sudeste, uma estação chuvosa regular, o que assegura as condições satisfatórias para a produção de gêneros agrícolas tropicais de citrus e cana-de-açúcar.",
       "Centro-Oeste, uma estação seca pontual, o que reduz o abastecimento hídrico urbano sem a necessidade de adotar políticas de racionamento de água.",
-      "Nordeste, uma estação seca mais prolongada, o que paralisa o funcionamento das hidrelétricas e compromete a geração e a distribuição de energia elétrica."
+      "Nordeste, uma estação seca mais prolongada, o que pa- ralisa o funcionamento das hidrelétricas e compromete a geração e a distribuição de energia elétrica."
     ],
     "correct": 0,
     "resolution": [
@@ -1389,11 +1389,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "adotar medidas protecionistas sobre os países alheios ao desenvolvimento de pesquisas científicas sobre as práticas de bem-estar animal – Acordo de Genebra.",
+      "adotar medidas protecionistas sobre os países alheios ao desenvolvimento de pesquisas científicas sobre as práti- cas de bem-estar animal – Acordo de Genebra.",
       "incentivar a cooperação entre empresas e governos para produzir informações a respeito do impacto no consumo de alimentos com agrotóxicos – Acordo de Schengen.",
-      "avaliar os riscos ao meio ambiente a partir da utilização das sementes modificadas geneticamente quanto à produção, à comercialização e ao cultivo agrícola – Protocolo de Kyoto.",
+      "avaliar os riscos ao meio ambiente a partir da utilização das sementes modificadas geneticamente quanto à pro- dução, à comercialização e ao cultivo agrícola – Protoco- lo de Kyoto.",
       "regular a transferência supranacional de tecnologia e de práticas de manejo agropecuário voltada à clonagem de organismo vivos – Tratado de Montreal.",
-      "assegurar um nível de proteção adequado em relação à transferência, à manipulação e ao uso dos organismos vivos modificados geneticamente – Protocolo de Cartagena."
+      "assegurar um nível de proteção adequado em relação à transferência, à manipulação e ao uso dos organismos vivos modificados geneticamente – Protocolo de Carta- gena."
     ],
     "correct": 4,
     "resolution": [
@@ -1434,11 +1434,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "a concentração de indústrias automobilísticas na Zona Franca, vinculada aos incentivos fiscais, beneficia a aquisição de veículos pela população local.",
+      "a concentração de indústrias automobilísticas na Zona Franca, vinculada aos incentivos fiscais, beneficia a aqui- sição de veículos pela população local.",
       "o espraiamento da mancha urbana, combinado com a precarização do sistema de transporte coletivo, estimula o excesso de veículos particulares.",
-      "a especulação imobiliária, pactuada com a facilidade no financiamento de veículos, resulta no aumento nos serviços de transporte por aplicativos.",
+      "a especulação imobiliária, pactuada com a facilidade no financiamento de veículos, resulta no aumento nos servi- ços de transporte por aplicativos.",
       "o aumento da renda da população, associada ao status de ascensão social nas metrópoles, isenta o investimento público no sistema viário.",
-      "o planejamento urbano, direcionado para a construção de complexo viários, favorece a aquisição de veículos individuais."
+      "o planejamento urbano, direcionado para a construção de complexo viários, favorece a aquisição de veículos in- dividuais."
     ],
     "correct": 1,
     "resolution": [
@@ -1486,7 +1486,7 @@ export const uea2026Vestibular = [
     "alternatives": [
       "pelo rodoviarismo, ação que interrompeu a construção de rotas de interligação da malha ferroviária na Amazônia Legal.",
       "pelo desenvolvimento regional, ação que permitiu a exploração predatória das reservas extrativistas na Amazônia.",
-      "pela economia de aglomeração, medida de expansão da fronteira agrícola para implantar o agronegócio no território amazônico.",
+      "pela economia de aglomeração, medida de expansão da fronteira agrícola para implantar o agronegócio no territó- rio amazônico.",
       "pela integração nacional, medida que reduziu o vazio demográfico com a ocupação do território amazônico.",
       "pelo plano de metas, medida que internacionalizou os investimentos industriais estrangeiros na Amazônia."
     ],
@@ -1578,12 +1578,17 @@ export const uea2026Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q33-1.svg",
+        "alt": "Figura de apoio da questão 33."
+      }
+    ],
     "alternatives": [
-      "no período de 2017 a 2022, houve redução no percentual de imigrantes oriundos dos países desenvolvidos em razão da emigração de retorno.",
-      "no período de 2005 a 2010, o elevado percentual de imigrantes europeus decorreu da escassez de mão de obra qualificada no Brasil.",
-      "no período de 2005 a 2010, o elevado percentual de imigrantes asiáticos e norte-americanos ocorreu pela fuga de cérebros nos países de origem.",
-      "em todo o período analisado, a pequena variação no percentual de imigrantes da África e da Oceania se deve à distância geográfica e cultural entre os países.",
+      "no período de 2017 a 2022, houve redução no percen- tual de imigrantes oriundos dos países desenvolvidos em razão da emigração de retorno.",
+      "no período de 2005 a 2010, o elevado percentual de imi- grantes europeus decorreu da escassez de mão de obra qualificada no Brasil.",
+      "no período de 2005 a 2010, o elevado percentual de imi- grantes asiáticos e norte-americanos ocorreu pela fuga de cérebros nos países de origem.",
+      "em todo o período analisado, a pequena variação no per- centual de imigrantes da África e da Oceania se deve à distância geográfica e cultural entre os países.",
       "no período de 2017 a 2022, houve aumento no percentual de imigrantes provenientes de países do Sul Global em razão da situação de refúgio humanitário."
     ],
     "correct": 4,
@@ -1628,7 +1633,7 @@ export const uea2026Vestibular = [
       "pelas ações ao êxodo urbano acelerado.",
       "pela forte atuação e controle político do Estado.",
       "pelo modelo neoliberal de produzir o espaço urbano.",
-      "pelos conjuntos urbanísticos em processo de gentrificação.",
+      "pelos conjuntos urbanísticos em processo de gentrifica- ção.",
       "pelos investimentos privados em infraestrutura."
     ],
     "correct": 1,
@@ -1680,7 +1685,7 @@ export const uea2026Vestibular = [
       "da ação do dumping praticado pelos países emergentes.",
       "da dinâmica produtiva do capitalismo comercial.",
       "das barreiras alfandegárias estabelecidas pelos países do Sul Global.",
-      "das medidas protecionistas dos mercados desenvolvidos."
+      "das medidas protecionistas dos mercados desenvolvi- dos."
     ],
     "correct": 4,
     "resolution": [
@@ -1898,13 +1903,18 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
-      "hipotônica – hipertônica – após o instante T2",
-      "hipertônica – hipotônica – entre os instantes T1 e T2",
-      "hipotônica – hipertônica – entre os instantes T1 e T2",
-      "hipotônica – hipertônica – entre os instantes 0 e T1",
-      "hipertônica – hipotônica – após o instante T2"
+      "hipotônica – hipertônica – após o instante $T_{2}$",
+      "hipertônica – hipotônica – entre os instantes $T_{1}$ e $T_{2}$",
+      "hipotônica – hipertônica – entre os instantes $T_{1}$ e $T_{2}$",
+      "hipotônica – hipertônica – entre os instantes 0 e $T_{1}$",
+      "hipertônica – hipotônica – após o instante $T_{2}$"
     ],
     "correct": 1,
     "resolution": [
@@ -1985,7 +1995,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "seis cromossomos simples.",
       "quatro cromossomos duplicados.",
@@ -2574,7 +2589,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q55-1.svg",
+        "alt": "Figura de apoio da questão 55."
+      }
+    ],
     "alternatives": [
       "135.",
       "132.",
@@ -2619,7 +2639,12 @@ export const uea2026Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q56-1.svg",
+        "alt": "Figura de apoio da questão 56."
+      }
+    ],
     "alternatives": [
       "12.",
       "14.",
@@ -2713,11 +2738,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "333 m2.",
-      "324 m2.",
-      "342 m2.",
-      "351 m2.",
-      "360 m2."
+      "333 $m^{2}$.",
+      "324 $m^{2}$.",
+      "342 $m^{2}$.",
+      "351 $m^{2}$.",
+      "360 $m^{2}$."
     ],
     "correct": 1,
     "resolution": [
@@ -2807,7 +2832,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q60-1.svg",
+        "alt": "Figura de apoio da questão 60."
+      }
+    ],
     "alternatives": [
       "12.",
       "11.",
@@ -3361,7 +3391,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q72-1.svg",
+        "alt": "Figura de apoio da questão 72."
+      }
+    ],
     "alternatives": [
       "difração.",
       "dispersão.",
@@ -3815,7 +3850,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-cg/q82-1.svg",
+        "alt": "Figura de apoio da questão 82."
+      }
+    ],
     "alternatives": [
       "fósforo – apolar – baixa solubilidade.",
       "oxigênio – polar – alta solubilidade.",
@@ -3951,7 +3991,7 @@ export const uea2026Vestibular = [
     "alternatives": [
       "construir corredores ecológicos, que conectam áreas isoladas e favorecem o fluxo gênico entre populações.",
       "ampliar estradas não pavimentadas, que facilitam o deslocamento de espécies entre os fragmentos.",
-      "montar cercas ao redor de cada fragmento, que protegem as populações contra interferências externas.",
+      "montar cercas ao redor de cada fragmento, que prote- gem as populações contra interferências externas.",
       "construir trincheiras no solo contra o fogo, que evitam a propagação de incêndios entre os fragmentos.",
       "expandir as monoculturas entre os fragmentos, que ampliam a área de cobertura vegetal."
     ],
@@ -4001,9 +4041,9 @@ export const uea2026Vestibular = [
     ],
     "alternatives": [
       "à higienização diária da região genital com antissépticos específicos receitados por um médico.",
-      "à ingestão de antivirais logo após o contato com secreções de uma pessoa infectada.",
-      "ao uso do diafragma como método contraceptivo de barreira que protege o colo do útero.",
-      "à imunização contra o papilomavírus humano e à realização periódica do exame Papanicolau.",
+      "à ingestão de antivirais logo após o contato com secre- ções de uma pessoa infectada.",
+      "ao uso do diafragma como método contraceptivo de bar- reira que protege o colo do útero.",
+      "à imunização contra o papilomavírus humano e à realiza- ção periódica do exame Papanicolau.",
       "ao uso de antibióticos de amplo espectro após relações sexuais desprotegidas."
     ],
     "correct": 3,
@@ -4146,10 +4186,10 @@ export const uea2026Vestibular = [
       }
     ],
     "alternatives": [
-      "falha na separação de cromossomos homólogos ou cromátides-irmãs.",
+      "falha na separação de cromossomos homólogos ou cro- mátides-irmãs.",
       "perda de segmentos cromossômicos durante a prófase I.",
       "duplicação cromossômica decorrente de crossing-over desigual.",
-      "distribuição desigual dos cromossomos durante a metáfase I.",
+      "distribuição desigual dos cromossomos durante a metá- fase I.",
       "deleção do cromossomo sexual Y durante a telófase II."
     ],
     "correct": 0,
@@ -4245,7 +4285,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g1/q07-1.svg",
+        "alt": "Figura de apoio da questão 07."
+      }
+    ],
     "alternatives": [
       "diminuir – pepsina – bile",
       "aumentar – tripsina – lipase",
@@ -4434,8 +4479,8 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "danifica a estrutura dos canais de Na+ e K+ na membrana dos miócitos.",
-      "degrada os receptores de acetilcolina acoplados na fenda sináptica.",
+      "danifica a estrutura dos canais de $Na^{+}$ e $K^{+}$ na membrana dos miócitos.",
+      "degrada os receptores de acetilcolina acoplados na fen- da sináptica.",
       "impede a geração do potencial de ação no sarcolema da fibra muscular.",
       "bloqueia a polarização elétrica na membrana da célula pós-sináptica.",
       "inibe a síntese de ATP no ciclo de Krebs dos neurônios motores."
@@ -4570,7 +4615,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g1/q14-1.svg",
+        "alt": "Figura de apoio da questão 14."
+      }
+    ],
     "alternatives": [
       "expansão e 4 atm.",
       "compressão e 6 atm.",
@@ -4748,7 +4798,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g1/q18-1.svg",
+        "alt": "Figura de apoio da questão 18."
+      }
+    ],
     "alternatives": [
       "aminoácidos, precursores de proteínas.",
       "nucleotídeos, precursores de DNA e RNA.",
@@ -4796,7 +4851,7 @@ export const uea2026Vestibular = [
     "alternatives": [
       "CaO",
       "KCl",
-      "HNO3",
+      "$HNO_{3}$",
       "NaCl",
       "HCl"
     ],
@@ -4987,13 +5042,18 @@ export const uea2026Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g1/q23-1.svg",
+        "alt": "Figura de apoio da questão 23."
+      }
+    ],
     "alternatives": [
-      "KNO3",
+      "$KNO_{3}$",
       "NaOH",
-      "HNO3",
+      "$HNO_{3}$",
       "NaCl",
-      "CH3COOH"
+      "$CH_{3}$COOH"
     ],
     "correct": 1,
     "resolution": [
@@ -5174,7 +5234,7 @@ export const uea2026Vestibular = [
       "“e cansado se sentasse numa cadeira”.",
       "“e cegam de alegria”.",
       "“o sexo intrincado das camélias”.",
-      "“e a morte e a loucura dos lírios”. Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32. 1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente: — O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha? Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada: — É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas. — Em toda a parte — não acha, meu padrinho? — há terras férteis. — Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham. (Triste fim de Policarpo Quaresma, 2021.)"
+      "“e a morte e a loucura dos lírios”."
     ],
     "correct": 3,
     "resolution": [
@@ -5274,11 +5334,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Era um velho desejo seu” (3o parágrafo).",
-      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1o parágrafo).",
-      "“aquele doce acabar para a sua vida” (1o parágrafo).",
-      "“estado de abatimento, triste e taciturno” (1o parágrafo).",
-      "“Há por aí tantas terras férteis sem emprego” (4o parágrafo)."
+      "“Era um velho desejo seu” (3º parágrafo).",
+      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1º parágrafo).",
+      "“aquele doce acabar para a sua vida” (1$\\frac{o}{o}$ parágrafo).",
+      "“estado de abatimento, triste e taciturno” (1 parágrafo).",
+      "“Há por aí tantas terras férteis sem emprego” (4º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -5434,7 +5494,7 @@ export const uea2026Vestibular = [
       "a Olga, a Policarpo e a Policarpo, respectivamente.",
       "a Olga, a Olga e a Policarpo, respectivamente.",
       "a Policarpo, a Olga e a Olga, respectivamente.",
-      "todos a Olga. Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35. 1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um. Tendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não. Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois. Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura. Além disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal. (Felicidade ordinária, 2024.)"
+      "todos a Olga."
     ],
     "correct": 0,
     "resolution": [
@@ -5481,10 +5541,10 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o ônus da reprodução humana pode ser dividido simetricamente entre o casal.",
+      "o ônus da reprodução humana pode ser dividido simetri- camente entre o casal.",
       "a maternidade inevitavelmente afasta as mulheres de suas atividades profissionais.",
       "as mulheres possuem uma habilidade natural para cuidar dos filhos.",
-      "os homens têm dificuldade em reconhecer suas responsabilidades na criação dos filhos.",
+      "os homens têm dificuldade em reconhecer suas respon- sabilidades na criação dos filhos.",
       "a chegada dos filhos transforma profundamente a vida afetiva do casal."
     ],
     "correct": 0,
@@ -5583,11 +5643,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5o parágrafo).",
-      "“Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4o parágrafo).",
-      "“Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando” (3o parágrafo).",
-      "“Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta” (3o parágrafo).",
-      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal” (6o parágrafo)."
+      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5º parágrafo).",
+      "“Na reprodução humana, o corpo de quem gesta está to- talmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4º parágrafo).",
+      "“Os enjoos e o sono do primeiro trimestre — tente escre- ver uma tese com as pálpebras fechando” (3º parágrafo).",
+      "“Haja a revolução social que houver, o ciclo gravidez, par- to e pós-parto cobra um preço inexorável de quem gesta” (3º parágrafo).",
+      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psí- quico da gestante cobra seu preço na carreira e na vida pessoal” (6º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -5679,7 +5739,7 @@ export const uea2026Vestibular = [
       "a consolidação de códigos de leis, como o Código de Hamurábi.",
       "a aprendizagem das normas sociais em escolas para as camadas subalternas.",
       "a manutenção do Império Babilônico ao longo da história da região.",
-      "a documentação do passado em substituição à tradição oral.",
+      "a documentação do passado em substituição à tradi- ção oral.",
       "a ampla difusão das habilidades de leitura e escrita na sociedade."
     ],
     "correct": 0,
@@ -5772,7 +5832,7 @@ export const uea2026Vestibular = [
       "restrita aos padrões de dominação da família patriarcal.",
       "invariável na estrutura familiar das camadas mais ricas da população.",
       "autodeterminada pela livre escolha e desempenho profissional.",
-      "determinada pela oposição entre a vida rural e a expansão dos centros urbanos.",
+      "determinada pela oposição entre a vida rural e a expan- são dos centros urbanos.",
       "distinta entre os grupos de elite e as camadas populares."
     ],
     "correct": 4,
@@ -5818,9 +5878,9 @@ export const uea2026Vestibular = [
     "alternatives": [
       "a divisão do território polonês por meio do pacto de não agressão russo-germânico.",
       "a divisão bipolar do mundo entre estadunidenses e soviéticos.",
-      "a corrida armamentista com a produção de armas nucleares nos países europeus.",
+      "a corrida armamentista com a produção de armas nuclea- res nos países europeus.",
       "a formação de blocos antagônicos de países a partir de alianças político-militares.",
-      "a política de apaziguamento francesa favorável ao expansionismo alemão."
+      "a política de apaziguamento francesa favorável ao ex- pansionismo alemão."
     ],
     "correct": 3,
     "resolution": [
@@ -5863,10 +5923,10 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "enaltecem o grito do Ipiranga como marco da independência nacional.",
-      "configuram exemplos de guerras provinciais pela emancipação brasileira.",
+      "enaltecem o grito do Ipiranga como marco da indepen- dência nacional.",
+      "configuram exemplos de guerras provinciais pela eman- cipação brasileira.",
       "contestam a participação estrangeira nas lutas pela emancipação brasileira.",
-      "confirmam o protagonismo do príncipe regente e das elites locais na emancipação política.",
+      "confirmam o protagonismo do príncipe regente e das eli- tes locais na emancipação política.",
       "demonstram o caráter pacífico e ordeiro do processo de independência."
     ],
     "correct": 1,
@@ -6004,7 +6064,7 @@ export const uea2026Vestibular = [
     "alternatives": [
       "a ideia de retorno a atividades econômicas pré-industriais para a proteção do meio ambiente.",
       "a defesa de uma política pública ecológica sancionada por tratados internacionais.",
-      "a busca por uma nova ordem ecológica no planeta construída com apoio da ciência.",
+      "a busca por uma nova ordem ecológica no planeta cons- truída com apoio da ciência.",
       "a proposta de produção de armas menos agressivas ao meio ambiente.",
       "a inviabilidade da prática de consumo responsável como mecanismo de luta ecológica."
     ],
@@ -6098,8 +6158,8 @@ export const uea2026Vestibular = [
     "alternatives": [
       "pela transmissão do conhecimento por um mestre aos seus discípulos.",
       "pelo ensino da retórica aos jovens para atuarem nas assembleias da cidade.",
-      "pela busca do conhecimento verdadeiro por meio do diálogo e da reflexão.",
-      "pela explicação racional da origem do mundo e das transformações da natureza.",
+      "pela busca do conhecimento verdadeiro por meio do diá- logo e da reflexão.",
+      "pela explicação racional da origem do mundo e das trans- formações da natureza.",
       "pela percepção da realidade por meio da experiência dos sujeitos do conhecimento."
     ],
     "correct": 2,
@@ -6193,7 +6253,7 @@ export const uea2026Vestibular = [
       "a escolha das publicações é mais democrática do que nos meios de comunicação tradicionais.",
       "a seleção de conteúdos subordina-se a interesses hegemônicos.",
       "a recepção das informações é restrita a um público pré-selecionado.",
-      "a reprodução das informações é feita por pessoas comuns via redes sociais.",
+      "a reprodução das informações é feita por pessoas co- muns via redes sociais.",
       "a difusão das mensagens se tornou mais rápida com o advento da internet."
     ],
     "correct": 1,
@@ -6287,7 +6347,7 @@ export const uea2026Vestibular = [
       }
     ],
     "alternatives": [
-      "exploração dos recursos naturais para atender às demandas da estrutura social.",
+      "exploração dos recursos naturais para atender às de- mandas da estrutura social.",
       "valorização do meio natural como um local de repouso e contemplação.",
       "limitação de recursos para a produção de inovações tecnológicas.",
       "recomposição natural das paisagens diante da expansão urbana.",
@@ -6339,7 +6399,7 @@ export const uea2026Vestibular = [
     ],
     "alternatives": [
       "à clivagem, que altera a resistência das rochas cristalinas e metamórficas.",
-      "à descontinuidade na crosta, que consolida as rochas sedimentares e cristalinas.",
+      "à descontinuidade na crosta, que consolida as rochas se- dimentares e cristalinas.",
       "à erosão fluvial, que modela o relevo e provoca alteração do talvegue dos rios.",
       "à eustasia oceânica, que altera gradiente altimétrico e gera novos afluentes.",
       "ao graben geológico, que provoca subsidência do relevo e reduz a vazão dos rios."
@@ -6389,10 +6449,10 @@ export const uea2026Vestibular = [
       }
     ],
     "alternatives": [
-      "o efeito da Coriolis, que assegura o movimento anti-horário para a circulação das massas de ar que atuam no Brasil.",
+      "o efeito da Coriolis, que assegura o movimento anti- -horário para a circulação das massas de ar que atuam no Brasil.",
       "o fenômeno dos rios voadores, que direciona a umidade da Amazônia para as regiões Centro-Oeste, Sudeste e Sul do Brasil.",
       "os ventos alísios, que são massas de ar estáveis e úmidas que se deslocam constantemente dos trópicos ao Equador.",
-      "os ventos contra-alísios, que são centros de baixa pressão atmosférica formados pelas massas de ar quentes e úmidas em baixas latitudes.",
+      "os ventos contra-alísios, que são centros de baixa pres- são atmosférica formados pelas massas de ar quentes e úmidas em baixas latitudes.",
       "a Zona de Convergência do Atlântico Sul (ZCAS), que direciona a umidade do oceano Atlântico para as regiões Nordeste e Norte do Brasil."
     ],
     "correct": 1,
@@ -6482,9 +6542,9 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "à migração de jovens das cidades pequenas para os centros metropolitanos, por meio da qual o consumo por moradias temporárias de aplicativos estimula a segregação socioespacial urbana.",
+      "à migração de jovens das cidades pequenas para os cen- tros metropolitanos, por meio da qual o consumo por mo- radias temporárias de aplicativos estimula a segregação socioespacial urbana.",
       "à transformação da cidade em um espaço de negócio, por meio da qual a construção de novos imóveis atende o interesse de financeirização da moradia.",
-      "ao processo de envelhecimento populacional nas cidades, por meio do qual famílias menos numerosas passam a demandar maior número de imóveis adequados ao padrão familiar atual.",
+      "ao processo de envelhecimento populacional nas cida- des, por meio do qual famílias menos numerosas passam a demandar maior número de imóveis adequados ao pa- drão familiar atual.",
       "à lógica da especulação imobiliária que sonega o direito à cidade, por meio da qual o excesso de vazios urbanos limita a aplicação constitucional de impostos.",
       "à demanda de investimento em moradias compactas e bem localizadas, por meio da qual os empreendedores imobiliários valorizam esses imóveis ao cumprirem com a função social da cidade."
     ],
@@ -6579,11 +6639,11 @@ export const uea2026Vestibular = [
       }
     ],
     "alternatives": [
-      "denota o elevado investimento na manutenção do sistema de transmissão da rede elétrica nacional, estimulando a construção de hidrelétricas em rios temporários.",
+      "denota o elevado investimento na manutenção do siste- ma de transmissão da rede elétrica nacional, estimulando a construção de hidrelétricas em rios temporários.",
       "revela a desarticulação entre os locais de produção e consumo de energia elétrica, fomentando a guerra fiscal entre as Unidades da Federação.",
-      "evidencia que o processo de integração nacional mante ve a seletividade dos espaços produtivos, concentrando densas áreas urbanas com atividades vinculadas aos circuitos da economia urbana.",
+      "evidencia que o processo de integração nacional mante ve a seletividade dos espaços produtivos, concentrando densas áreas urbanas com atividades vinculadas aos cir- cuitos da economia urbana.",
       "reforça a centralidade da infraestrutura energética nos espaços luminosos do país, limitando os espaços opacos com o fornecimento intermitente de energia elétrica.",
-      "indica que o planejamento energético reproduziu o modelo de economia em arquipélagos, fragmentando o território nacional em diferentes centrais energéticas."
+      "indica que o planejamento energético reproduziu o mode- lo de economia em arquipélagos, fragmentando o territó- rio nacional em diferentes centrais energéticas."
     ],
     "correct": 2,
     "resolution": [
@@ -6669,12 +6729,17 @@ export const uea2026Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g2/q22-1.svg",
+        "alt": "Figura de apoio da questão 22."
+      }
+    ],
     "alternatives": [
       "constância, já que as décadas de 1960 a 1980 foram marcadas pela política do pleno emprego instituída pelo governo cívico-militar.",
       "instabilidade, já que o período entre o fim da década de 1990 e o início dos anos 2000 foi marcado pela recessão financeira na União Europeia e nos Tigres Asiáticos.",
       "variação, já que o período entre 2005 e 2015 foi marcado pelo recebimento de remessas internacionais dos fundos de investimento estrangeiro.",
-      "oscilação, já que a década de 1980 foi marcada pela estagnação econômica e pelo descontrole inflacionário.",
+      "oscilação, já que a década de 1980 foi marcada pela es- tagnação econômica e pelo descontrole inflacionário.",
       "instabilidade, já que a década de 1960 foi marcada pelos baixos salários pagos aos trabalhadores do agronegócio."
     ],
     "correct": 3,
@@ -6767,8 +6832,8 @@ export const uea2026Vestibular = [
       "a união aduaneira e a fragilidade do sistema multilateral.",
       "o mercado comum e a superação à dualidade Sul e Norte-Globais.",
       "a união monetária e a adoção de barreiras comerciais e sanitárias.",
-      "o fórum interministerial e o conflito de interesse em órgãos supranacionais.",
-      "a zona de livre comércio e a ampliação de medidas protecionistas."
+      "o fórum interministerial e o conflito de interesse em ór- gãos supranacionais.",
+      "a zona de livre comércio e a ampliação de medidas pro- tecionistas."
     ],
     "correct": 4,
     "resolution": [
@@ -6904,7 +6969,7 @@ export const uea2026Vestibular = [
       "“e cansado se sentasse numa cadeira”.",
       "“e a morte e a loucura dos lírios”.",
       "“e cegam de alegria”.",
-      "“o sexo intrincado das camélias”. Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32. 1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente: — O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha? Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada: — É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas. — Em toda a parte — não acha, meu padrinho? — há terras férteis. — Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham. (Triste fim de Policarpo Quaresma, 2021.)"
+      "“o sexo intrincado das camélias”."
     ],
     "correct": 4,
     "resolution": [
@@ -7004,11 +7069,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“aquele doce acabar para a sua vida” (1o parágrafo).",
-      "“estado de abatimento, triste e taciturno” (1o parágrafo).",
-      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1o parágrafo).",
-      "“Era um velho desejo seu” (3o parágrafo).",
-      "“Há por aí tantas terras férteis sem emprego” (4o parágrafo)."
+      "“aquele doce acabar para a sua vida” (1$\\frac{o}{o}$ parágrafo).",
+      "“estado de abatimento, triste e taciturno” (1 parágrafo).",
+      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1º parágrafo).",
+      "“Era um velho desejo seu” (3º parágrafo).",
+      "“Há por aí tantas terras férteis sem emprego” (4º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -7164,7 +7229,7 @@ export const uea2026Vestibular = [
       "a Policarpo, a Olga e a Olga, respectivamente.",
       "todos a Policarpo.",
       "a Olga, a Olga e a Policarpo, respectivamente.",
-      "a Olga, a Policarpo e a Policarpo, respectivamente. Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35. 1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um. Tendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não. Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois. Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura. Além disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal. (Felicidade ordinária, 2024.)"
+      "a Olga, a Policarpo e a Policarpo, respectivamente."
     ],
     "correct": 2,
     "resolution": [
@@ -7212,10 +7277,10 @@ export const uea2026Vestibular = [
     "images": [],
     "alternatives": [
       "a maternidade inevitavelmente afasta as mulheres de suas atividades profissionais.",
-      "o ônus da reprodução humana pode ser dividido simetricamente entre o casal.",
+      "o ônus da reprodução humana pode ser dividido simetri- camente entre o casal.",
       "a chegada dos filhos transforma profundamente a vida afetiva do casal.",
       "as mulheres possuem uma habilidade natural para cuidar dos filhos.",
-      "os homens têm dificuldade em reconhecer suas responsabilidades na criação dos filhos."
+      "os homens têm dificuldade em reconhecer suas respon- sabilidades na criação dos filhos."
     ],
     "correct": 1,
     "resolution": [
@@ -7313,11 +7378,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando” (3o parágrafo).",
-      "“Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta” (3o parágrafo).",
-      "“Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4o parágrafo).",
-      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5o parágrafo).",
-      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal” (6o parágrafo)."
+      "“Os enjoos e o sono do primeiro trimestre — tente escre- ver uma tese com as pálpebras fechando” (3º parágrafo).",
+      "“Haja a revolução social que houver, o ciclo gravidez, par- to e pós-parto cobra um preço inexorável de quem gesta” (3º parágrafo).",
+      "“Na reprodução humana, o corpo de quem gesta está to- talmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4º parágrafo).",
+      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5º parágrafo).",
+      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psí- quico da gestante cobra seu preço na carreira e na vida pessoal” (6º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
@@ -7722,7 +7787,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g3/q08-1.svg",
+        "alt": "Figura de apoio da questão 08."
+      }
+    ],
     "alternatives": [
       "6.",
       "8.",
@@ -7815,11 +7885,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "1 3",
-      "1 6",
-      "1 4",
-      "1 8",
-      "1 5"
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{5}$"
     ],
     "correct": 1,
     "resolution": [
@@ -7862,11 +7932,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "24π cm3.",
-      "28π cm3.",
-      "22π cm3.",
-      "26π cm3.",
-      "30π cm3."
+      "24π cm³.",
+      "28π cm³.",
+      "22π cm³.",
+      "26π cm³.",
+      "30π cm³."
     ],
     "correct": 3,
     "resolution": [
@@ -8048,7 +8118,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g3/q15-1.svg",
+        "alt": "Figura de apoio da questão 15."
+      }
+    ],
     "alternatives": [
       "quantidade de movimento do sistema formado pelos dois automóveis.",
       "energia cinética do sistema formado pelos dois automóveis.",
@@ -8181,7 +8256,12 @@ export const uea2026Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g3/q18-1.svg",
+        "alt": "Figura de apoio da questão 18."
+      }
+    ],
     "alternatives": [
       "30 J.",
       "90 J.",
@@ -8227,7 +8307,12 @@ export const uea2026Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2026-g3/q19-1.svg",
+        "alt": "Figura de apoio da questão 19."
+      }
+    ],
     "alternatives": [
       "frequência e período.",
       "período e comprimento de onda.",
@@ -8482,7 +8567,7 @@ export const uea2026Vestibular = [
       "produção de calor nas usinas nucleares.",
       "datação de fósseis.",
       "produção de energia pelas estrelas.",
-      "datação de rochas. Leia o poema de Ana Martins Marques para responder às questões de 25 a 27. Jardim Se o jardineiro abandonasse no meio a tarefa e cansado se sentasse numa cadeira e gastasse toda a tarde sob rosas gordas que são apenas rosas e cegam de alegria enquanto o jardim nele mesmo se contorce tirando de dentro de si o sexo intrincado das camélias e a morte e a loucura dos lírios e o tédio suburbano das goiabas sob comoções antigas talvez se sentisse um poeta olhando o poema que não sabe terminar. (A vida submarina, 2021.)"
+      "datação de rochas."
     ],
     "correct": 3,
     "resolution": [
@@ -8718,11 +8803,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“estado de abatimento, triste e taciturno” (1o parágrafo).",
-      "“Era um velho desejo seu” (3o parágrafo).",
-      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1o parágrafo).",
-      "“Há por aí tantas terras férteis sem emprego” (4o parágrafo).",
-      "“aquele doce acabar para a sua vida” (1o parágrafo)."
+      "“estado de abatimento, triste e taciturno” (1º parágrafo).",
+      "“Era um velho desejo seu” (3º parágrafo).",
+      "“Olga dirigiu-se um dia ao padrinho meiga e filialmente” (1º parágrafo).",
+      "“Há por aí tantas terras férteis sem emprego” (4$\\frac{o}{o}$ parágrafo).",
+      "“aquele doce acabar para a sua vida” (1 parágrafo)."
     ],
     "correct": 4,
     "resolution": [
@@ -8878,7 +8963,7 @@ export const uea2026Vestibular = [
       "a Olga, a Olga e a Policarpo, respectivamente.",
       "a Policarpo, a Olga e a Olga, respectivamente.",
       "todos a Policarpo.",
-      "todos a Olga. Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35. 1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um. Tendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não. Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois. Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura. Além disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal. (Felicidade ordinária, 2024.)"
+      "todos a Olga."
     ],
     "correct": 3,
     "resolution": [
@@ -8925,11 +9010,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "o ônus da reprodução humana pode ser dividido simetricamente entre o casal.",
+      "o ônus da reprodução humana pode ser dividido simetri- camente entre o casal.",
       "a chegada dos filhos transforma profundamente a vida afetiva do casal.",
       "as mulheres possuem uma habilidade natural para cuidar dos filhos.",
       "a maternidade inevitavelmente afasta as mulheres de suas atividades profissionais.",
-      "os homens têm dificuldade em reconhecer suas responsabilidades na criação dos filhos."
+      "os homens têm dificuldade em reconhecer suas respon- sabilidades na criação dos filhos."
     ],
     "correct": 0,
     "resolution": [
@@ -9027,11 +9112,11 @@ export const uea2026Vestibular = [
     ],
     "images": [],
     "alternatives": [
-      "“Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4o parágrafo).",
-      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5o parágrafo).",
-      "“Haja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta” (3o parágrafo).",
-      "“Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando” (3o parágrafo).",
-      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal” (6o parágrafo)."
+      "“Na reprodução humana, o corpo de quem gesta está to- talmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4º parágrafo).",
+      "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5º parágrafo).",
+      "“Haja a revolução social que houver, o ciclo gravidez, par- to e pós-parto cobra um preço inexorável de quem gesta” (3º parágrafo).",
+      "“Os enjoos e o sono do primeiro trimestre — tente escre- ver uma tese com as pálpebras fechando” (3º parágrafo).",
+      "“Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psí- quico da gestante cobra seu preço na carreira e na vida pessoal” (6º parágrafo)."
     ],
     "correct": 3,
     "resolution": [

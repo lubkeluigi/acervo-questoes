@@ -82,11 +82,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Há muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar.” (2o parágrafo)",
-      "“É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.” (2o parágrafo)",
-      "“Para reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original.” (3o parágrafo)",
-      "“Os pesquisadores produziram uma grande combinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.” (5o parágrafo)",
-      "“Após o desmatamento, que foi feito simultaneamente em todas as áreas, os pesquisadores mediram, ao longo dos anos, o retorno das espécies em cada clareira.” (6o parágrafo)"
+      "“Há muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar.” (2º parágrafo)",
+      "“É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.” (2º parágrafo)",
+      "“Para reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um cor- redor entre as duas metades do ecossistema original.” (3º parágrafo)",
+      "“Os pesquisadores produziram uma grande combinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.” (5º parágrafo)",
+      "“Após o desmatamento, que foi feito simultaneamente em todas as áreas, os pesquisadores mediram, ao longo dos anos, o retorno das espécies em cada clareira.” (6º parágrafo)"
     ],
     "correct": 1,
     "resolution": [
@@ -251,7 +251,7 @@ export const uea2026Sis = [
       "“você”.",
       "“O resultado”.",
       "“a estrada”.",
-      "“a área”. Para responder às questões de 06 a 08, leia o trecho de abertura do romance O Karaíba, do escritor indígena Daniel Munduruku. 1 O sol nem tinha dado cores à floresta quando Perna Solta pulou de sua rede. Não conseguia dormir havia muitos dias por causa dos burburinhos que se ouvia na aldeia. Havia medo e revolta espalhados pelo ar, e ele não compreendia direito o que se passava. [...] Lembrou do velho Karaíba, que havia passado por sua aldeia há pouco tempo e tinha dito coisas assustadoras que aconteceriam dentro em breve. Entre elas, disse que aquele mundo conhecido por todos acabaria e tudo seria destruído pela passagem de um grande monstro vindo de outros cantos. Ele disse: “Minhas visões trazem sinais terríveis. Não sobrarão nem vestígios de nossa passagem sobre esta terra onde nossos pais viveram. O monstro virá e destruirá nossa memória e nossos caminhos. Tudo será revirado: as águas, a terra, os animais, as plantas, os lugares sagrados. Tudo.” Foram palavras fortes, que abalaram a comunidade, e muitos acreditavam que a tempestade dos últimos dias tinha sido o sinal desses acontecimentos. [...] 5 O fato era que Perna Solta não conseguia compreender qual o sinal que o velho Karaíba havia dito que apareceria no céu quando tudo começasse a acontecer. Seria a tempestade que caíra sobre sua aldeia? O que tinha de esperar, além disso? Perdido nos pensamentos, não notou que a linda Maraí tinha chegado e se postado atrás dele. Ficou ali parada querendo ler o pensamento de seu amado. Não conseguiu ficar quieta por muito tempo, pois ele se virou de repente e a surpreendeu. Os dois riram por um momento. Depois, a preocupação voltou à cabeça do jovem, e Maraí puxou conversa para tentar distraí-lo. (O Karaíba, 2018.)"
+      "“a área”."
     ],
     "correct": 3,
     "resolution": [
@@ -351,11 +351,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Foram palavras fortes, que abalaram a comunidade, e muitos acreditavam que a tempestade dos últimos dias tinha sido o sinal desses acontecimentos.” (4o parágrafo)",
-      "“O fato era que Perna Solta não conseguia compreender qual o sinal que o velho Karaíba havia dito que apareceria no céu quando tudo começasse a acontecer.” (5o parágrafo)",
-      "“Ficou ali parada querendo ler o pensamento de seu amado.” (6o parágrafo)",
-      "“Não conseguiu ficar quieta por muito tempo, pois ele se virou de repente e a surpreendeu.” (6o parágrafo)",
-      "“Depois, a preocupação voltou à cabeça do jovem, e Maraí puxou conversa para tentar distraí-lo.” (6o parágrafo)"
+      "“Foram palavras fortes, que abalaram a comunidade, e muitos acreditavam que a tempestade dos últimos dias tinha sido o sinal desses acontecimentos.” (4º parágrafo)",
+      "“O fato era que Perna Solta não conseguia compreen- der qual o sinal que o velho Karaíba havia dito que apa- receria no céu quando tudo começasse a acontecer.” (5º parágrafo)",
+      "“Ficou ali parada querendo ler o pensamento de seu amado.” (6º parágrafo)",
+      "“Não conseguiu ficar quieta por muito tempo, pois ele se virou de repente e a surpreendeu.” (6º parágrafo)",
+      "“Depois, a preocupação voltou à cabeça do jovem, e Maraí puxou conversa para tentar distraí-lo.” (6º parágrafo)"
     ],
     "correct": 3,
     "resolution": [
@@ -407,7 +407,7 @@ export const uea2026Sis = [
       "teocêntrica.",
       "idealista.",
       "nacionalista.",
-      "eurocêntrica. Leia o texto para responder às questões de 09 a 11. Michael Jackson (born August 29, 1958, Gary, Indiana, United States — died June 25, 2009, Los Angeles, California) was an American singer, songwriter, and dancer who was one of the most popular and influential entertainers in the world in the late 20th and early 21st centuries. Jackson transformed popular music in the 1980s, earning himself the title “King of Pop.” influence went beyond songwriting and singing to encompass revolutions in dance, concert touring, video presentation, and music production. Raised in Gary, Indiana, in one of the most acclaimed musical families of the rock era, Michael Jackson was the youngest and most talented of five brothers (including Jackie, Tito, Jermaine, and Marlon) whom their father, Joseph, shaped into a phenomenal group of child stars known as the Jackson 5. (Rickey Vincent. www.britannica.com, 05.06.2026. Adaptado.)"
+      "eurocêntrica."
     ],
     "correct": 4,
     "resolution": [
@@ -649,10 +649,10 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "preservar interpretações consensuais sobre acontecimentos do passado.",
+      "preservar interpretações consensuais sobre aconteci- mentos do passado.",
       "garantir a neutralidade dos relatos oficiais produzidos por instituições públicas.",
       "impedir que conflitos políticos influenciem a memória coletiva das sociedades.",
-      "legitimar projetos políticos por meio da seleção de determinadas versões do passado.",
+      "legitimar projetos políticos por meio da seleção de deter- minadas versões do passado.",
       "assegurar que os registros históricos expressem as experiências de todos os grupos sociais."
     ],
     "correct": 3,
@@ -701,10 +701,10 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "à preservação das narrativas míticas como principal referência para a interpretação dos fenômenos naturais.",
-      "ao fortalecimento da participação dos cidadãos nos debates públicos das cidades-Estado.",
-      "à valorização das tradições ancestrais como critério predominante para a produção do conhecimento.",
-      "à difusão de crenças segundo as quais os acontecimentos da natureza dependiam da vontade dos deuses.",
+      "à preservação das narrativas míticas como principal refe- rência para a interpretação dos fenômenos naturais.",
+      "ao fortalecimento da participação dos cidadãos nos deba- tes públicos das cidades-Estado.",
+      "à valorização das tradições ancestrais como critério predo- minante para a produção do conhecimento.",
+      "à difusão de crenças segundo as quais os acontecimen- tos da natureza dependiam da vontade dos deuses.",
       "à elaboração de explicações racionais para compreender os fenômenos da natureza e a realidade humana."
     ],
     "correct": 4,
@@ -797,9 +797,9 @@ export const uea2026Sis = [
     "images": [],
     "alternatives": [
       "existência de sociedades amazônicas organizadas segundo modelos políticos herdados da Antiguidade europeia.",
-      "dificuldade dos europeus em compreender as sociedades americanas sem recorrer a referências culturais conhecidas.",
+      "dificuldade dos europeus em compreender as socie- dades americanas sem recorrer a referências culturais conhecidas.",
       "incorporação de práticas indígenas pelos exploradores europeus para facilitar a ocupação da região amazônica.",
-      "influência de elementos da cultura indígena na construção da representação europeia sobre a América.",
+      "influência de elementos da cultura indígena na cons- trução da representação europeia sobre a América.",
       "semelhança cultural entre as sociedades indígenas amazônicas e os povos do Mediterrâneo antigo."
     ],
     "correct": 1,
@@ -849,7 +849,7 @@ export const uea2026Sis = [
     ],
     "alternatives": [
       "os artistas rejeitavam qualquer manifestação cultural de sociedades que os antecederam.",
-      "a produção artística voltou-se principalmente para a representação do amor cortês dos trovadores medievais.",
+      "a produção artística voltou-se principalmente para a repre- sentação do amor cortês dos trovadores medievais.",
       "a valorização de figuras estilizadas de expressões rígidas dispensava as noções de anatomia do corpo humano.",
       "o interesse pela cultura greco-romana contribuiu para a retomada de temas da mitologia clássica.",
       "os pintores abandonaram as representações da figura humana em favor de símbolos religiosos."
@@ -1039,11 +1039,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "1 : 50.",
-      "1 : 500.",
-      "1 : 5 000.",
-      "1 : 50 000.",
-      "1 : 5 000 000."
+      "1: 50.",
+      "1: 500.",
+      "1: 5 000.",
+      "1: 50 000.",
+      "1: 5 000 000."
     ],
     "correct": 4,
     "resolution": [
@@ -1139,9 +1139,9 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "hierarquizada, pois a separação entre os fatores naturais e antrópicos torna as políticas ambientais eficientes.",
+      "hierarquizada, pois a separação entre os fatores natu- rais e antrópicos torna as políticas ambientais eficientes.",
       "fragmentada, pois a retilinização dos canais fluviais reduz os impactos ambientais nas matas ciliares.",
-      "integrada, pois a vulnerabilidade socioambiental compromete a disponibilidade e a qualidade da água.",
+      "integrada, pois a vulnerabilidade socioambiental com- promete a disponibilidade e a qualidade da água.",
       "abrangente, pois a legislação sobre recursos hídricos favorece investimentos em infraestrutura urbana.",
       "segmentada, pois a dinâmica ambiental exige medidas restritivas em relação ao uso dos recursos hídricos."
     ],
@@ -1331,11 +1331,16 @@ export const uea2026Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a1/q27-1.svg",
+        "alt": "Figura de apoio da questão 27."
+      }
+    ],
     "alternatives": [
       "mundial é baseada em fontes não renováveis de energia, como os combustíveis fósseis e a geotérmica.",
       "mundial é baseada em fontes renováveis de energia, como a hidráulica e a solar.",
-      "brasileira é baseada em fontes não renováveis de energia, como os combustíveis fósseis.",
+      "brasileira é baseada em fontes não renováveis de ener- gia, como os combustíveis fósseis.",
       "brasileira é baseada em fontes renováveis de energia, como a hidráulica e a eólica.",
       "brasileira é baseada em fontes renováveis de energia, como a hidráulica e a nuclear."
     ],
@@ -2629,13 +2634,18 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a1/q55-1.svg",
+        "alt": "Figura de apoio da questão 55."
+      }
+    ],
     "alternatives": [
-      "T2 > T1 e pressão.",
-      "T2 > T1 e temperatura.",
-      "T2 > T1 e volume.",
-      "T1 > T2 e temperatura.",
-      "T1 > T2 e pressão."
+      "$T_{2}$ > $T_{1}$ e pressão.",
+      "$T_{2}$ > $T_{1}$ e temperatura.",
+      "$T_{2}$ > $T_{1}$ e volume.",
+      "$T_{1}$ > $T_{2}$ e temperatura.",
+      "$T_{1}$ > $T_{2}$ e pressão."
     ],
     "correct": 1,
     "resolution": [
@@ -3031,11 +3041,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Do povo às grossas vagas tumultuosas;” (1a estrofe)",
-      "“Mas nesta febre múltipla de cores,” (2a estrofe)",
-      "“Surge em pleno espetáculo o acrobata,” (3a estrofe)",
-      "“Pula, e na corda bamba se ajoelha;” (3a estrofe)",
-      "“Ele cai, parte o crânio, e o solo tinge” (4a estrofe)"
+      "“Do povo às grossas vagas tumultuosas;” (1ª estrofe)",
+      "“Mas nesta febre múltipla de cores,” (2$\\frac{a}{a}$ estrofe)",
+      "“Surge em pleno espetáculo o acrobata,” (3 estrofe)",
+      "“Pula, e na corda bamba se ajoelha;” (3$\\frac{a}{a}$ estrofe)",
+      "“Ele cai, parte o crânio, e o solo tinge” (4 estrofe)"
     ],
     "correct": 1,
     "resolution": [
@@ -3084,11 +3094,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Abria o circo a arena iluminada” (1a estrofe) → A arena iluminada abria o circo.",
-      "“Abria o circo a arena iluminada” (1a estrofe) → O circo a arena iluminada abria.",
-      "“Em aplausos a turba se desata,” (3a estrofe) → Desata-se a turba em aplausos.",
-      "“Surge em pleno espetáculo o acrobata,” (3a estrofe) → Em pleno espetáculo surge o acrobata.",
-      "“Surge em pleno espetáculo o acrobata,” (3a estrofe) → O acrobata surge em pleno espetáculo."
+      "“Abria o circo a arena iluminada” (1ª estrofe) → A arena iluminada abria o circo.",
+      "“Abria o circo a arena iluminada” (1ª estrofe) → O circo a arena iluminada abria.",
+      "“Em aplausos a turba se desata,” (3ª estrofe) → Desata- -se a turba em aplausos.",
+      "“Surge em pleno espetáculo o acrobata,” (3ª estrofe) → Em pleno espetáculo surge o acrobata.",
+      "“Surge em pleno espetáculo o acrobata,” (3ª estrofe) → O acrobata surge em pleno espetáculo."
     ],
     "correct": 4,
     "resolution": [
@@ -3137,11 +3147,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“iluminada” e “variada” (1a estrofe).",
-      "“tumultuosas” e “preciosas” (1a estrofe).",
-      "“lavores” e “cores” (2a estrofe).",
-      "“desata” e “acrobata” (3a estrofe).",
-      "“ringe” e “tinge” (4a estrofe)."
+      "“iluminada” e “variada” (1$\\frac{a}{a}$ estrofe).",
+      "“tumultuosas” e “preciosas” (1 estrofe).",
+      "“lavores” e “cores” (2$\\frac{a}{a}$ estrofe).",
+      "“desata” e “acrobata” (3 estrofe).",
+      "“ringe” e “tinge” (4ª estrofe)."
     ],
     "correct": 3,
     "resolution": [
@@ -3176,7 +3186,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1\u0007sestro: hábito. 2\u0007sine qua non: indispensável, essencial.\n\nProcedimento característico da prosa madura de Machado de Assis, o narrador recorre à metalinguagem em:",
+    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1 sestro: hábito. 2 sine qua non: indispensável, essencial.\n\nProcedimento característico da prosa madura de Machado de Assis, o narrador recorre à metalinguagem em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -3190,11 +3200,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro.” (3o parágrafo)",
-      "“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non.” (2o parágrafo)",
-      "“Não era perfeito, decerto; tinha, por exemplo, o sestro de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso.” (2o parágrafo)",
-      "“Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado.” (2o parágrafo)",
-      "“Não obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim.” (1o parágrafo)"
+      "“Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro.” (3º parágrafo)",
+      "“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non.” (2º parágrafo)",
+      "“Não era perfeito, decerto; tinha, por exemplo, o sestro de mandar para os jornais a notícia de um ou outro benefí- cio que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso.” (2º parágrafo)",
+      "“Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter feroz- mente honrado.” (2º parágrafo)",
+      "“Não obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casa- mento sem primeiro falar ao Cotrim.” (1º parágrafo)"
     ],
     "correct": 0,
     "resolution": [
@@ -3229,7 +3239,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1\u0007sestro: hábito. 2\u0007sine qua non: indispensável, essencial.\n\nRetoma um termo mencionado anteriormente no texto (ou seja, constitui um pronome relativo e não uma conjunção integrante) a palavra sublinhada no seguinte trecho:",
+    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1 sestro: hábito. 2 sine qua non: indispensável, essencial.\n\nRetoma um termo mencionado anteriormente no texto (ou seja, constitui um pronome relativo e não uma conjunção integrante) a palavra sublinhada no seguinte trecho:",
     "blockTypes": [
       "prose",
       "prose",
@@ -3243,11 +3253,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus.” (1o parágrafo)",
-      "“Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado.” (2o parágrafo)",
-      "“Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai.” (2o parágrafo)",
-      "“Reconheço que era um modelo.” (2o parágrafo)",
-      "“Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca.” (3o parágrafo)"
+      "“Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus.” (1º parágrafo)",
+      "“Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente hon- rado.” (2º parágrafo)",
+      "“Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai.” (2$\\frac{o}{o}$ parágrafo)",
+      "“Reconheço que era um modelo.” (2 parágrafo)",
+      "“Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca.” (3º parágrafo)"
     ],
     "correct": 2,
     "resolution": [
@@ -3282,7 +3292,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1\u0007sestro: hábito. 2\u0007sine qua non: indispensável, essencial.\n\n“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros” (2º parágrafo) Ao se transpor a oração sublinhada para a voz passiva, a forma verbal resultante será:",
+    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non². Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1 sestro: hábito. 2 sine qua non: indispensável, essencial.\n\n“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros” (2º parágrafo) Ao se transpor a oração sublinhada para a voz passiva, a forma verbal resultante será:",
     "blockTypes": [
       "prose",
       "prose",
@@ -3335,7 +3345,7 @@ export const uea2026Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Thanksgiving is an annual national holiday in the United States and Canada celebrating the harvest¹ and other blessings of the past year. In the United States, Thanksgiving Day occurs on the fourth Thursday in November. In Canada, Thanksgiving Day is celebrated on the second Monday in October (since 1957). In both Canada and the United States, family and friends gather for a feast on the holiday. Traditional fare in the United States typically includes turkey, cranberries, and pumpkin pie². The holiday moved away from its religious roots over time, allowing immigrants of every background to participate in a common tradition.\n\n(www.britannica.com, 13.05.2026. Adaptado.)\n\n1 \u0007harvest: gathering mature agricultural produce, such as fruits, vegetables, or grains. 2 pumpkin pie:\u0007 a dessert pie.\n\nAccording to the text,",
+    "statement": "Thanksgiving is an annual national holiday in the United States and Canada celebrating the harvest¹ and other blessings of the past year. In the United States, Thanksgiving Day occurs on the fourth Thursday in November. In Canada, Thanksgiving Day is celebrated on the second Monday in October (since 1957). In both Canada and the United States, family and friends gather for a feast on the holiday. Traditional fare in the United States typically includes turkey, cranberries, and pumpkin pie². The holiday moved away from its religious roots over time, allowing immigrants of every background to participate in a common tradition.\n\n(www.britannica.com, 13.05.2026. Adaptado.)\n\n1 harvest: gathering mature agricultural produce, such as fruits, vegetables, or grains. 2 pumpkin pie: a dessert pie.\n\nAccording to the text,",
     "blockTypes": [
       "prose",
       "source",
@@ -3397,7 +3407,7 @@ export const uea2026Sis = [
       "continue despite difficulties.",
       "be postponed until a later time.",
       "be interrupted for a short period.",
-      "become more successful. Leia a tirinha do cartunista Daniel Shelton para responder às questões 11 e 12. (Daniel Shelton. Ben on the run, 2022. Adaptado.)"
+      "become more successful."
     ],
     "correct": 1,
     "resolution": [
@@ -3439,7 +3449,12 @@ export const uea2026Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q11-1.svg",
+        "alt": "Figura de apoio da questão 11."
+      }
+    ],
     "alternatives": [
       "Eu realmente não quero descansar agora.",
       "Eu infelizmente ainda estou bem sonolento.",
@@ -3540,9 +3555,9 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "vinculação da expansão ultramarina à política de acumulação mercantil.",
+      "vinculação da expansão ultramarina à política de acumu- lação mercantil.",
       "organização das relações coloniais segundo princípios de livre comércio.",
-      "ampliação das economias coloniais por meio das manufaturas.",
+      "ampliação das economias coloniais por meio das manu- faturas.",
       "transferência da administração comercial para as elites coloniais.",
       "redução da dependência econômica entre colônias e metrópoles."
     ],
@@ -3588,11 +3603,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "manutenção das identidades de origem em uma sociedade colonial homogênea.",
-      "formação de laços de solidariedade entre os escravizados pertencentes à mesma etnia.",
-      "supressão do trabalho livre assalariado como consequência da expansão da escravidão colonial.",
+      "manutenção das identidades de origem em uma socieda- de colonial homogênea.",
+      "formação de laços de solidariedade entre os escraviza- dos pertencentes à mesma etnia.",
+      "supressão do trabalho livre assalariado como consequên- cia da expansão da escravidão colonial.",
       "combinação entre exploração do trabalho e diferentes estratégias de enfrentamento da escravidão.",
-      "concentração da população africana em atividades ligadas sobretudo à economia urbana."
+      "concentração da população africana em atividades liga- das sobretudo à economia urbana."
     ],
     "correct": 3,
     "resolution": [
@@ -3635,11 +3650,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "substituição das atividades extrativistas por uma economia baseada na produção industrial.",
-      "valorização das tradições indígenas como principal referência para as transformações urbanas.",
-      "adoção, pelas elites locais, de padrões urbanos e culturais inspirados em modelos europeus.",
-      "redução das desigualdades sociais por meio da ampliação do acesso aos bens culturais.",
-      "rejeição das influências estrangeiras em favor de expressões artísticas regionais."
+      "substituição das atividades extrativistas por uma econo- mia baseada na produção industrial.",
+      "valorização das tradições indígenas como principal refe- rência para as transformações urbanas.",
+      "adoção, pelas elites locais, de padrões urbanos e cultu- rais inspirados em modelos europeus.",
+      "redução das desigualdades sociais por meio da amplia- ção do acesso aos bens culturais.",
+      "rejeição das influências estrangeiras em favor de expres- sões artísticas regionais."
     ],
     "correct": 2,
     "resolution": [
@@ -3684,9 +3699,9 @@ export const uea2026Sis = [
     "alternatives": [
       "consolidação de um movimento favorável ao retorno da monarquia constitucional.",
       "valorização oficial da participação popular na queda da monarquia brasileira.",
-      "aceitação consensual do regime republicano por lideranças imperiais.",
+      "aceitação consensual do regime republicano por lideran- ças imperiais.",
       "permanência de referências simbólicas do império após a mudança de regime político.",
-      "predominância de disputas que impediram a estabilização do governo republicano."
+      "predominância de disputas que impediram a estabiliza- ção do governo republicano."
     ],
     "correct": 3,
     "resolution": [
@@ -3778,8 +3793,8 @@ export const uea2026Sis = [
     "alternatives": [
       "fortalecimento da cooperação política entre os países americanos.",
       "defesa do princípio de autodeterminação dos povos sem interferência externa.",
-      "expansão da influência imperialista sobre regiões consideradas estratégicas.",
-      "promoção da autonomia econômica dos povos latino-americanos.",
+      "expansão da influência imperialista sobre regiões consi- deradas estratégicas.",
+      "promoção da autonomia econômica dos povos latino- -americanos.",
       "substituição das disputas geopolíticas por acordos multilaterais."
     ],
     "correct": 2,
@@ -3923,9 +3938,9 @@ export const uea2026Sis = [
     ],
     "alternatives": [
       "conhecer as características fisiográficas do território brasileiro.",
-      "instalar polos de desenvolvimento industrial nas metrópoles nacionais.",
+      "instalar polos de desenvolvimento industrial nas metró- poles nacionais.",
       "direcionar investimentos para comunidades locais em reservas extrativistas.",
-      "implementar políticas públicas direcionadas a uma perspectiva regional.",
+      "implementar políticas públicas direcionadas a uma pers- pectiva regional.",
       "contribuir para a inserção econômica de áreas rurais na economia nacional."
     ],
     "correct": 3,
@@ -3970,7 +3985,7 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "à ampliação da fronteira terrestre para manter a soberania nacional em águas internacionais.",
+      "à ampliação da fronteira terrestre para manter a sobera- nia nacional em águas internacionais.",
       "à criação de barreiras para fiscalização de embarcações estrangeiras.",
       "à regulamentação da legislação ambiental para preservar os recursos naturais.",
       "à incorporação de investimentos privados para fiscalizar a zona econômica exclusiva.",
@@ -4015,7 +4030,12 @@ export const uea2026Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q23-1.svg",
+        "alt": "Figura de apoio da questão 23."
+      }
+    ],
     "alternatives": [
       "redução do número de jovens, resultado de políticas de controle de natalidade.",
       "redução do número de jovens, resultado das baixas taxas de mortalidade infantil.",
@@ -4164,9 +4184,9 @@ export const uea2026Sis = [
     "images": [],
     "alternatives": [
       "aos solos naturalmente férteis, que demandam menores investimentos em fertilizantes.",
-      "ao maior potencial produtivo, que resulta de leis ambientais mais flexíveis.",
+      "ao maior potencial produtivo, que resulta de leis ambien- tais mais flexíveis.",
       "à grilagem de terras públicas, que atrai produtores em busca de novas áreas produtivas.",
-      "à presença de uma rede hidroviária moderna, que garante o escoamento da produção pelo Oceano Pacífico.",
+      "à presença de uma rede hidroviária moderna, que garan- te o escoamento da produção pelo Oceano Pacífico.",
       "à reforma agrária, que promove novos assentamentos em terras devolutas."
     ],
     "correct": 2,
@@ -4212,9 +4232,9 @@ export const uea2026Sis = [
     "images": [],
     "alternatives": [
       "de Rondônia apresentou o menor índice de IDHM em comparação com outros estados da região Norte em 2024.",
-      "do Tocantins apresentou o maior índice de IDHM em comparação com outros estados da região Norte em 2024.",
+      "do Tocantins apresentou o maior índice de IDHM em com- paração com outros estados da região Norte em 2024.",
       "de Roraima apresentou crescimento constante do seu IDHM em comparação com outros estados da região Norte.",
-      "do Amazonas apresentou IDHM superior à média registrada para a região Norte em 2021.",
+      "do Amazonas apresentou IDHM superior à média regis- trada para a região Norte em 2021.",
       "do Acre apresentou queda constante em seu IDHM em comparação com a região Norte."
     ],
     "correct": 1,
@@ -4259,10 +4279,10 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "a criação de unidades de conservação em áreas urbanas.",
-      "o encarecimento dos aluguéis a partir de projetos de revitalização.",
-      "a redução de pessoas em bairros centrais para condomínios fechados.",
-      "a expansão e áreas periféricas com a construção de conjuntos habitacionais.",
+      "a criação de unidades de conservação em áreas urba- nas.",
+      "o encarecimento dos aluguéis a partir de projetos de re- vitalização.",
+      "a redução de pessoas em bairros centrais para condomí- nios fechados.",
+      "a expansão e áreas periféricas com a construção de con- juntos habitacionais.",
       "o surgimento de aglomerados subnormais em áreas de ferrovias desativadas."
     ],
     "correct": 1,
@@ -4313,7 +4333,7 @@ export const uea2026Sis = [
     "alternatives": [
       "conjunto de organismos que vivem em um ecossistema.",
       "lugar onde vive apenas uma espécie dominante.",
-      "modo de vida dos organismos que vivem em determinada região.",
+      "modo de vida dos organismos que vivem em determina- da região.",
       "conjunto de biomas e ecossistemas de um continente.",
       "local onde certa espécie vive dentro de um ecossistema."
     ],
@@ -4359,10 +4379,10 @@ export const uea2026Sis = [
     "images": [],
     "alternatives": [
       "ao descarte correto do lixo tecnológico e à reutilização de peças e aparelhos eletrônicos.",
-      "à redução do consumo de aparelhos eletrônicos e ao reaproveitamento de materiais eletrônicos.",
+      "à redução do consumo de aparelhos eletrônicos e ao re- aproveitamento de materiais eletrônicos.",
       "ao descarte do lixo tecnológico em aterros sanitários e ao comércio de aparelhos eletrônicos usados.",
-      "à troca de aparelhos antigos por aparelhos mais modernos e à exportação do lixo eletrônico.",
-      "à redução do consumo de aparelhos eletrônicos e ao menor uso de matérias-primas."
+      "à troca de aparelhos antigos por aparelhos mais moder- nos e à exportação do lixo eletrônico.",
+      "à redução do consumo de aparelhos eletrônicos e ao me- nor uso de matérias-primas."
     ],
     "correct": 0,
     "resolution": [
@@ -4548,7 +4568,12 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q34-1.svg",
+        "alt": "Figura de apoio da questão 34."
+      }
+    ],
     "alternatives": [
       "mutualismo.",
       "parasitismo.",
@@ -4688,13 +4713,18 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q37-1.svg",
+        "alt": "Figura de apoio da questão 37."
+      }
+    ],
     "alternatives": [
-      "8 3",
-      "10 3",
-      "16 3",
-      "16 5",
-      "24 5"
+      "$\\frac{8}{3}$",
+      "$\\frac{10}{3}$",
+      "$\\frac{16}{3}$",
+      "$\\frac{16}{5}$",
+      "$\\frac{24}{5}$"
     ],
     "correct": 1,
     "resolution": [
@@ -4739,11 +4769,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "8o",
-      "10o",
-      "12o",
-      "14o",
-      "16o"
+      "8$\\frac{o}{o}$",
+      "10",
+      "12$\\frac{o}{o}$",
+      "14",
+      "16º"
     ],
     "correct": 0,
     "resolution": [
@@ -4933,11 +4963,11 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "57 m2.",
-      "60 m2.",
-      "63 m2.",
-      "72 m2.",
-      "75 m2."
+      "57 $m^{2}$.",
+      "60 $m^{2}$.",
+      "63 $m^{2}$.",
+      "72 $m^{2}$.",
+      "75 $m^{2}$."
     ],
     "correct": 2,
     "resolution": [
@@ -4984,11 +5014,11 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "94 cm3.",
-      "96 cm3.",
-      "104 cm3.",
-      "108 cm3.",
-      "112 cm3."
+      "94 cm³.",
+      "96 cm³.",
+      "104 cm³.",
+      "108 cm³.",
+      "112 cm³."
     ],
     "correct": 4,
     "resolution": [
@@ -5038,11 +5068,11 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "0,4 ; 0,8 e 1,2.",
-      "0,6 ; 1,2 e 1,8.",
-      "0,9 ; 1,8 e 2,7.",
-      "1,2 ; 2,4 e 3,2.",
-      "1,5 ; 3,0 e 4,5."
+      "0,4; 0,8 e 1,2.",
+      "0,6; 1,2 e 1,8.",
+      "0,9; 1,8 e 2,7.",
+      "1,2; 2,4 e 3,2.",
+      "1,5; 3,0 e 4,5."
     ],
     "correct": 2,
     "resolution": [
@@ -5367,7 +5397,12 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q52-1.svg",
+        "alt": "Figura de apoio da questão 52."
+      }
+    ],
     "alternatives": [
       "duas transformações adiabáticas, uma isobárica e uma isotérmica.",
       "duas transformações isobáricas, uma isotérmica e uma isovolumétrica.",
@@ -5408,7 +5443,7 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O fluoreto de sulfurila (SO₂F₂) é um gás usado como fumigante industrial no controle de pragas, que pode ser obtido a partir da reação controlada entre o dióxido de enxofre (SO₂) e o difluoreto de oxigênio (OF₂). Nessa reação, além do SO₂F₂, é formado oxigênio gasoso (O₂), conforme representado na equação a seguir.\n\n2 OF₂ (g) + 2 SO₂ (g) → 2 SO₂F₂ (g) + O₂ (g)\n\nEm estudos termoquímicos, essa reação pode ser analisada a partir das seguintes etapas intermediárias:\n\nF₂ (g) + ½ O₂ (g) → OF₂ (g)     ΔH⁰ = +25 kJ/mol\nS (s) + O₂ (g) → SO₂ (g)     ΔH⁰ = –297 kJ/mol\nS (s) + O₂ (g) + F₂ (g) → SO₂F₂ (g)     ΔH⁰ = –756 kJ/mol\n\nCom base nesses dados e na Lei de Hess, a variação de entalpia para a produção de 1 mol de SO₂F₂ a partir da reação entre OF₂ e SO₂ é igual a",
+    "statement": "O fluoreto de sulfurila (SO₂F₂) é um gás usado como fumigante industrial no controle de pragas, que pode ser obtido a partir da reação controlada entre o dióxido de enxofre (SO₂) e o difluoreto de oxigênio (OF₂). Nessa reação, além do SO₂F₂, é formado oxigênio gasoso (O₂), conforme representado na equação a seguir.\n\n2 OF₂ (g) + 2 SO₂ (g) → 2 SO₂F₂ (g) + O₂ (g)\n\nEm estudos termoquímicos, essa reação pode ser analisada a partir das seguintes etapas intermediárias:\n\nF₂ (g) + ½ O₂ (g) → OF₂ (g) ΔH⁰ = +25 kJ/mol\nS (s) + O₂ (g) → SO₂ (g) ΔH⁰ = –297 kJ/mol\nS (s) + O₂ (g) + F₂ (g) → SO₂F₂ (g) ΔH⁰ = –756 kJ/mol\n\nCom base nesses dados e na Lei de Hess, a variação de entalpia para a produção de 1 mol de SO₂F₂ a partir da reação entre OF₂ e SO₂ é igual a",
     "blockTypes": [
       "prose",
       "prose",
@@ -5525,7 +5560,7 @@ export const uea2026Sis = [
       "reforma a vapor do metano, com utilização de metano proveniente da destilação do carvão.",
       "reforma a vapor do metano, com utilização de metano obtido em depósitos subterrâneos.",
       "eletrólise da água, com utilização de energia proveniente de placas solares de silício.",
-      "eletrólise da água, com utilização de energia proveniente de usinas nucleares que não geram CO2.",
+      "eletrólise da água, com utilização de energia proveniente de usinas nucleares que não geram $CO_{2}$.",
       "eletrólise da água, com utilização de energia proveniente de usinas termoelétricas movidas a gás natural."
     ],
     "correct": 2,
@@ -5715,7 +5750,7 @@ export const uea2026Sis = [
       "livre de rejeitos de alta radioatividade, o que elimina o problema do descarte de resíduos perigosos.",
       "ininterrupta, baseada em reações de fusão controlada, que produz energia em larga escala.",
       "autossuficiente para as regiões consumidoras de IA, que não precisarão usar outras fontes de energia.",
-      "ambientalmente limpa, a partir de combustíveis nucleares renováveis e abundantes na natureza.",
+      "ambientalmente limpa, a partir de combustíveis nuclea- res renováveis e abundantes na natureza.",
       "contínua em comparação com fontes de energia elétrica sazonais e intermitentes, como a eólica e a solar."
     ],
     "correct": 4,
@@ -5751,7 +5786,7 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em um experimento sobre termoquímica, um professor preparou o seguinte roteiro: – \u0007Colocar uma ponta de espátula de permanganato de\n\n– \u0007Pingar 5 gotas de glicerina (Cde potássio;potássio ($KMnO_{4}$ 3$H_{8}$ $O_{3}$) sobre o permanganato\n\n– \u0007Afastar-se. A figura ilustra o experimento.\n\nConsiderando que o experimento utiliza um sal oxidante que pode manchar a pele e que a reação produz uma chama roxa e vapores potencialmente irritantes, além do uso de avental de mangas compridas, os equipamentos de proteção individual (EPI) que os alunos devem utilizar são",
+    "statement": "Em um experimento sobre termoquímica, um professor preparou o seguinte roteiro: – Colocar uma ponta de espátula de permanganato de\n\n– Pingar 5 gotas de glicerina (Cde potássio;potássio ($KMnO_{4}$ 3$H_{8}$ $O_{3}$) sobre o permanganato\n\n– Afastar-se. A figura ilustra o experimento.\n\nConsiderando que o experimento utiliza um sal oxidante que pode manchar a pele e que a reação produz uma chama roxa e vapores potencialmente irritantes, além do uso de avental de mangas compridas, os equipamentos de proteção individual (EPI) que os alunos devem utilizar são",
     "blockTypes": [
       "prose",
       "prose",
@@ -5768,7 +5803,7 @@ export const uea2026Sis = [
       "luvas de látex e extintor de incêndio.",
       "luvas de látex e máscara de proteção respiratória.",
       "óculos de proteção e extintor de incêndio.",
-      "máscara de proteção respiratória e sistema de ventilação.",
+      "máscara de proteção respiratória e sistema de ventila- ção.",
       "óculos de proteção e sistema de ventilação."
     ],
     "correct": 1,
@@ -5865,11 +5900,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Em poucos segundos, uma aranha pode produzir mais de dez centímetros de fio. Imagine se nosso cabelo crescesse com essa velocidade.” (1o parágrafo)",
-      "“A diferença entre o processo de fabricação do fio de cabelo e do fio de seda das aranhas explica a diferença de velocidade do crescimento.” (2o parágrafo)",
-      "“Quando a aranha quer sintetizar um pedaço de fio, as proteínas são ejetadas do saco através de tubos muito finos, formando os fios.” (2o parágrafo)",
-      "“O mecanismo é semelhante a uma máquina de fazer macarrão — que, ao fazer a massa passar por um orifício, forma os fios.” (3o parágrafo)",
-      "“No caso das aranhas, no momento em que o fio é ejetado, ele já tem que estar pronto para suportar o peso do animal. Isso significa que o processo de solidificação precisa ser rápido.” (3o parágrafo)"
+      "“Em poucos segundos, uma aranha pode produzir mais de dez centímetros de fio. Imagine se nosso cabelo cres- cesse com essa velocidade.” (1º parágrafo)",
+      "“A diferença entre o processo de fabricação do fio de cabelo e do fio de seda das aranhas explica a diferença de velocidade do crescimento.” (2º parágrafo)",
+      "“Quando a aranha quer sintetizar um pedaço de fio, as proteínas são ejetadas do saco através de tubos muito finos, formando os fios.” (2º parágrafo)",
+      "“O mecanismo é semelhante a uma máquina de fazer macarrão — que, ao fazer a massa passar por um orifício, forma os fios.” (3º parágrafo)",
+      "“No caso das aranhas, no momento em que o fio é ejetado, ele já tem que estar pronto para suportar o peso do animal. Isso significa que o processo de solidificação precisa ser rápido.” (3º parágrafo)"
     ],
     "correct": 0,
     "resolution": [
@@ -6155,11 +6190,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada.” (4o parágrafo)",
-      "“Nem ela própria contava consigo, como o galo crê na sua crista.” (5o parágrafo)",
-      "“Em seguida carregada em triunfo por uma asa através das telhas e pousada no chão da cozinha com certa violência.” (6o parágrafo)",
-      "“Mas logo depois, nascida que fora para a maternidade, parecia uma velha mãe habituada.” (7o parágrafo)",
-      "“Esquentando seu filho, esta não era nem suave nem arisca, nem alegre, nem triste, não era nada, era uma galinha.” (9o parágrafo)"
+      "“Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada.” (4º parágrafo)",
+      "“Nem ela própria contava consigo, como o galo crê na sua crista.” (5º parágrafo)",
+      "“Em seguida carregada em triunfo por uma asa através das telhas e pousada no chão da cozinha com certa violência.” (6º parágrafo)",
+      "“Mas logo depois, nascida que fora para a maternidade, parecia uma velha mãe habituada.” (7º parágrafo)",
+      "“Esquentando seu filho, esta não era nem suave nem arisca, nem alegre, nem triste, não era nada, era uma galinha.” (9º parágrafo)"
     ],
     "correct": 3,
     "resolution": [
@@ -6222,7 +6257,7 @@ export const uea2026Sis = [
       "“fosse”.",
       "“fora”.",
       "“parecia”.",
-      "“Sentou”. Leia o texto para responder às questões de 09 a 11. Poverty entails more than the lack of income1 and productive resources to ensure sustainable livelihoods2. Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling3 to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030. The covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school. (www.un.org. Adaptado.) 1 \u0007income: renda. 2 \u0007livelihoods: meios de subsistência. 3 \u0007struggling: lutando."
+      "“Sentou”."
     ],
     "correct": 2,
     "resolution": [
@@ -6257,7 +6292,7 @@ export const uea2026Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 \u0007income: renda. 2 \u0007livelihoods: meios de subsistência. 3 \u0007struggling: lutando.\n\nAccording to the first paragraph, apart from the lack of income, poverty may be a result of",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 income: renda. 2 livelihoods: meios de subsistência. 3 struggling: lutando.\n\nAccording to the first paragraph, apart from the lack of income, poverty may be a result of",
     "blockTypes": [
       "prose",
       "prose",
@@ -6308,7 +6343,7 @@ export const uea2026Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 \u0007income: renda. 2 \u0007livelihoods: meios de subsistência. 3 \u0007struggling: lutando.\n\nThe excerpt from the first paragraph “There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group” indicates that, in this age group,",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 income: renda. 2 livelihoods: meios de subsistência. 3 struggling: lutando.\n\nThe excerpt from the first paragraph “There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group” indicates that, in this age group,",
     "blockTypes": [
       "prose",
       "prose",
@@ -6359,7 +6394,7 @@ export const uea2026Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 \u0007income: renda. 2 \u0007livelihoods: meios de subsistência. 3 \u0007struggling: lutando.\n\nNo contexto em que se insere, o trecho que expressa ideia de adição está sublinhado em:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPoverty entails more than the lack of income¹ and productive resources to ensure sustainable livelihoods². Its manifestations include hunger and malnutrition, limited access to education and other basic services, social discrimination and exclusion, as well as the lack of participation in decision-making. In 2015, more than 736 million people lived below the international poverty line. Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty and struggling³to fulfil the most basic needs like health, education, and access to water and sanitation, to name a few. There were 122 women aged 25 to 34 living in poverty for every 100 men of the same age group, and more than 160 million children were at risk of continuing to live in extreme poverty by 2030.\n\nThe covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation. Progress in important areas, such as childhood vaccination and income equality between countries has been reversed, which has not happened in the past three decades. If the current trend continues, it is projected that by 2030, a shocking 622 million people will still be living in extreme poverty, and 84 million children will not be able to attend school.\n\n(www.un.org. Adaptado.)\n\n1 income: renda. 2 livelihoods: meios de subsistência. 3 struggling: lutando.\n\nNo contexto em que se insere, o trecho que expressa ideia de adição está sublinhado em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6370,11 +6405,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "“Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty” (1o parágrafo).",
-      "“The covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation” (2o parágrafo).",
-      "“social discrimination and exclusion, as well as the lack of participation in decision-making” (1o parágrafo).",
-      "“Progress in important areas, such as childhood vaccination and income equality between countries has been reversed” (2o parágrafo).",
-      "“160 million children were at risk of continuing to live in extreme poverty by 2030” (1o parágrafo)."
+      "“Around 10 per cent of the world population (pre-pandemic) was living in extreme poverty” (1º parágrafo).",
+      "“The covid-19 pandemic has caused an increase in the number of people living in extreme poverty, for the first time in a generation” (2º parágrafo).",
+      "“social discrimination and exclusion, as well as the lack of participation in decision-making” (1º parágrafo).",
+      "“Progress in important areas, such as childhood vaccination and income equality between countries has been reversed” (2º parágrafo).",
+      "“160 million children were at risk of continuing to live in extreme poverty by 2030” (1º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
@@ -6427,7 +6462,7 @@ export const uea2026Sis = [
       "descrever os riscos enfrentados por crianças durante desastres climáticos.",
       "denunciar a falta de abrigos públicos para crianças durante desastres climáticos.",
       "propor condutas para acolher crianças em situações de desastres climáticos.",
-      "incentivar a participação de crianças em ações ambientais."
+      "incentivar a participação de crianças em ações ambien- tais."
     ],
     "correct": 3,
     "resolution": [
@@ -6471,9 +6506,9 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o fortalecimento das instituições multilaterais encarregadas de resolver disputas internacionais.",
+      "o fortalecimento das instituições multilaterais encarrega- das de resolver disputas internacionais.",
       "a consolidação de acordos diplomáticos que impediram alterações na ordem estabelecida após a guerra.",
-      "a adoção de modelos político-econômicos liberais inspirados nas democracias dos países ocidentais.",
+      "a adoção de modelos político-econômicos liberais inspi- rados nas democracias dos países ocidentais.",
       "o avanço de regimes totalitários que contestavam a ordem internacional construída após o conflito.",
       "a formação de alianças militares entre as potências europeias em torno de objetivos políticos comuns."
     ],
@@ -6575,7 +6610,7 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "a busca de acordos para reduzir as tensões entre projetos políticos distintos.",
+      "a busca de acordos para reduzir as tensões entre proje- tos políticos distintos.",
       "a rivalidade entre as duas superpotências que buscavam superar as iniciativas da adversária.",
       "a substituição dos conflitos políticos por disputas ligadas ao consumo de produtos.",
       "a competição por conquistas tecnológicas entre as duas superpotências para demonstrar superioridade.",
@@ -6673,7 +6708,7 @@ export const uea2026Sis = [
       "valorização de modos de vida que recusavam padrões sociais considerados convencionais.",
       "apreciação do puritanismo moralista como uma forma de conquistar o bem-estar pessoal.",
       "aceitação da ordem social como condição necessária para a liberdade individual.",
-      "crítica aos movimentos culturais que questionavam comportamentos tradicionais.",
+      "crítica aos movimentos culturais que questionavam com- portamentos tradicionais.",
       "rejeição das experiências artísticas ligadas à liberdade e à contestação social."
     ],
     "correct": 0,
@@ -6722,10 +6757,10 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "substituição das fronteiras nacionais por formas de integração baseadas em eventos esportivos internacionais.",
+      "substituição das fronteiras nacionais por formas de inte- gração baseadas em eventos esportivos internacionais.",
       "dificuldade de conciliar a realização de competições globais com a preservação das identidades nacionais.",
       "flexibilização de políticas migratórias para promover a circulação de trabalhadores entre os países durante as competições mundiais.",
-      "coexistência entre eventos esportivos mundiais e mecanismos de vigilância e controle das migrações.",
+      "coexistência entre eventos esportivos mundiais e meca- nismos de vigilância e controle das migrações.",
       "importância dos grandes eventos esportivos na redução das desigualdades entre diferentes regiões do planeta."
     ],
     "correct": 3,
@@ -6819,7 +6854,7 @@ export const uea2026Sis = [
     "alternatives": [
       "ampliação das atividades industriais e agrícolas na região Norte.",
       "promoção de acordos nacionais unilaterais entre os países do evento.",
-      "definição de compromissos internacionais sobre a preservação ambiental.",
+      "definição de compromissos internacionais sobre a pre- servação ambiental.",
       "consolidação da autonomia dos estados para conduzir negociações internacionais.",
       "desvinculação das políticas ambientais dos estados da região Norte em relação ao restante do país."
     ],
@@ -6911,10 +6946,15 @@ export const uea2026Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q22-1.svg",
+        "alt": "Figura de apoio da questão 22."
+      }
+    ],
     "alternatives": [
       "a centralização das etapas produtivas, que reduz a dependência dos meios de transporte e de comunicação.",
-      "a divisão internacional do trabalho, que elimina as disparidades entre os países do Norte e Sul Global.",
+      "a divisão internacional do trabalho, que elimina as dispa- ridades entre os países do Norte e Sul Global.",
       "o fortalecimento dos Estados, que controlam todas as etapas do processo produtivo.",
       "o deslocamento da produção, que garante tarifas alfandegárias reduzidas nos países centrais.",
       "a fragmentação do processo produtivo, que reduz custos operacionais."
@@ -6963,7 +7003,7 @@ export const uea2026Sis = [
       "mudança do foco econômico para o foco político-militar entre os países-membros.",
       "incompatibilidade de interesses e divisões internas entre os países-membros.",
       "formação de interesses conflitantes com o isolamento do Irã ente os países-membros.",
-      "incerteza interna do bloco econômico sobre o posicionamento diplomático dos países-membros.",
+      "incerteza interna do bloco econômico sobre o posiciona- mento diplomático dos países-membros.",
       "transferência do centro do poder dos países-membros do extremo Oriente para o Oriente Médio."
     ],
     "correct": 1,
@@ -7109,8 +7149,8 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "à união multilateral entre os países do G20, que possuem a função de debater o fortalecimento da econômica global.",
-      "ao Grupo dos Sete, que compartilham ações de segurança e proteção mútua entre os países-membros.",
+      "à união multilateral entre os países do G20, que pos- suem a função de debater o fortalecimento da econô- mica global.",
+      "ao Grupo dos Sete, que compartilham ações de segu- rança e proteção mútua entre os países-membros.",
       "aos entrepostos comerciais, que se constituem como importantes centros logísticos para dinamizar os fluxos de bens e mercadorias pelo globo.",
       "aos blocos econômicos, que estabelecem relações de cooperação para o comércio e para o desenvolvimento econômico entre os países-membros.",
       "às zonas de união monetária, que estabelecem as áreas geográficas onde os países-membros compartilham uma mesma moeda oficial."
@@ -7156,7 +7196,7 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "monopolizar o refino de petróleo para controlar a distribuição de seus derivados.",
+      "monopolizar o refino de petróleo para controlar a distri- buição de seus derivados.",
       "estabelecer uma aliança para proteger as áreas de produção de petróleo.",
       "subsidiar a comercialização de petróleo para países em desenvolvimento.",
       "promover a cooperação internacional para exploração de combustíveis fósseis.",
@@ -7254,7 +7294,7 @@ export const uea2026Sis = [
       "reaproveitam a matéria orgânica residual e geram adubo.",
       "evitam a produção e a liberação dos gases metano e carbônico.",
       "independem da energia elétrica para o processamento dos resíduos.",
-      "estimulam a população a consumir mais alimentos naturais e orgânicos.",
+      "estimulam a população a consumir mais alimentos natu- rais e orgânicos.",
       "dispensam o investimento em políticas públicas de coleta seletiva de resíduos."
     ],
     "correct": 0,
@@ -7298,9 +7338,9 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "o acompanhamento de gestações visando partos naturais em domicílios.",
+      "o acompanhamento de gestações visando partos natu- rais em domicílios.",
       "a modernização das técnicas médicas e uma reprodução mais assistida.",
-      "o risco de exploração econômica de mulheres em situação de vulnerabilidade social.",
+      "o risco de exploração econômica de mulheres em situa- ção de vulnerabilidade social.",
       "a extinção das técnicas de fertilização in vitro e seus impactos clínicos.",
       "a seleção genética obrigatória de gestantes sem doenças herdáveis."
     ],
@@ -7348,7 +7388,7 @@ export const uea2026Sis = [
       "prejuízo na atenção e redução de conflitos sociais.",
       "prejuízo na autoestima e aumento da ansiedade.",
       "melhora na comunicação verbal e na interação presencial.",
-      "aumento do hiperfoco em assuntos reais e desenvolvimento das habilidades socioemocionais.",
+      "aumento do hiperfoco em assuntos reais e desenvolvi- mento das habilidades socioemocionais.",
       "redução das interações virtuais e o aumento das relações interpessoais presenciais."
     ],
     "correct": 1,
@@ -7576,7 +7616,7 @@ export const uea2026Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise as etapas de determinado procedimento biotecnológico que utiliza mamíferos da mesma espécie para a obtenção do filhote Z:\n• \u0007Uma célula da pele é retirada do animal X;\n• \u0007Um óvulo é retirado de um animal Y e seu núcleo é removido;\n• \u0007O núcleo da célula da pele do animal X é transferido para o\nóvulo enucleado do animal Y, formando o zigoto;\n• \u0007O zigoto desenvolve-se em embrião;\n• \u0007O embrião é transferido para o útero do animal W;\n• \u0007Após a gestação no útero do animal W, nasce o filhote Z.\nO filhote Z é denominado",
+    "statement": "Analise as etapas de determinado procedimento biotecnológico que utiliza mamíferos da mesma espécie para a obtenção do filhote Z:\n• Uma célula da pele é retirada do animal X;\n• Um óvulo é retirado de um animal Y e seu núcleo é removido;\n• O núcleo da célula da pele do animal X é transferido para o\nóvulo enucleado do animal Y, formando o zigoto;\n• O zigoto desenvolve-se em embrião;\n• O embrião é transferido para o útero do animal W;\n• Após a gestação no útero do animal W, nasce o filhote Z.\nO filhote Z é denominado",
     "blockTypes": [
       "list"
     ],
@@ -7626,13 +7666,18 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q37-1.svg",
+        "alt": "Figura de apoio da questão 37."
+      }
+    ],
     "alternatives": [
-      "60 cm3.",
-      "66 cm3.",
-      "72 cm3.",
-      "88 cm3.",
-      "90 cm3."
+      "60 cm³.",
+      "66 cm³.",
+      "72 cm³.",
+      "88 cm³.",
+      "90 cm³."
     ],
     "correct": 4,
     "resolution": [
@@ -7773,11 +7818,11 @@ export const uea2026Sis = [
       }
     ],
     "alternatives": [
-      "7 m3.",
-      "8 m3.",
-      "9 m3.",
-      "10 m3.",
-      "12 m3."
+      "7 $m^{3}$.",
+      "8 $m^{3}$.",
+      "9 $m^{3}$.",
+      "10 $m^{3}$.",
+      "12 $m^{3}$."
     ],
     "correct": 2,
     "resolution": [
@@ -7952,13 +7997,18 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "a mediana dos salários dessa empresa é igual a 170.",
       "a média dos salários dessa empresa é igual a 4 salários mínimos.",
       "11 funcionários recebem 20 salários mínimos ou mais.",
       "25% dos funcionários da empresa recebem 3 salários mínimos.",
-      "mais de 50% dos funcionários recebem acima de 4 salários mínimos."
+      "mais de 50% dos funcionários recebem acima de 4 salá- rios mínimos."
     ],
     "correct": 3,
     "resolution": [
@@ -7998,7 +8048,12 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q45-1.svg",
+        "alt": "Figura de apoio da questão 45."
+      }
+    ],
     "alternatives": [
       "100 µF.",
       "150 µF.",
@@ -8044,7 +8099,12 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q46-1.svg",
+        "alt": "Figura de apoio da questão 46."
+      }
+    ],
     "alternatives": [
       "1,8 mA.",
       "2,4 mA.",
@@ -8231,7 +8291,12 @@ export const uea2026Sis = [
     "blockTypes": [
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q50-1.svg",
+        "alt": "Figura de apoio da questão 50."
+      }
+    ],
     "alternatives": [
       "além do ponto antiprincipal objeto da lente.",
       "sobre o ponto antiprincipal objeto da lente.",
@@ -8323,11 +8388,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "0,75 × 108 m/s.",
-      "1,00 × 108 m/s.",
-      "1,25 × 108 m/s.",
-      "1,50 × 108 m/s.",
-      "1,75 × 108 m/s."
+      "0,75 × $10^{8}$ m/s.",
+      "1,00 × $10^{8}$ m/s.",
+      "1,25 × $10^{8}$m/s.",
+      "1,50 × $10^{8}$ m/s.",
+      "1,75 × $10^{8}$ m/s."
     ],
     "correct": 2,
     "resolution": [
@@ -8370,7 +8435,7 @@ export const uea2026Sis = [
     "alternatives": [
       "a elevação dos níveis de oxigênio dissolvido nos corpos d’água e o aumento da biodiversidade aquática.",
       "a elevação dos níveis de oxigênio dissolvido nos corpos d’água e o aumento da eutrofização.",
-      "a manutenção de níveis adequados de oxigênio dissolvido nos corpos d’água e a diminuição do risco de eutrofização.",
+      "a manutenção de níveis adequados de oxigênio dissolvi- do nos corpos d’água e a diminuição do risco de eutrofi- zação.",
       "o aumento da demanda bioquímica de oxigênio (DBO) e a diminuição da dureza da água.",
       "a diminuição da dureza da água e a descontaminação dos metais pesados nos corpos d’água."
     ],
@@ -8505,11 +8570,11 @@ export const uea2026Sis = [
     ],
     "images": [],
     "alternatives": [
-      "na eliminação do uso dos agrotóxicos para garantir a segurança dos alimentos.",
-      "no aumento do uso dos agrotóxicos para elevar a produtividade e garantir a segurança alimentar.",
-      "na ampliação da área disponível para plantio como forma de aumentar a produtividade sem ampliar o uso dos agrotóxicos.",
-      "no equilíbrio entre a garantia da produção de alimentos em larga escala e a preservação da segurança dos alimentos consumidos.",
-      "na substituição da agricultura intensiva pelo cultivo orgânico com menor carga de agrotóxicos."
+      "na eliminação do uso dos agrotóxicos para garantir a se- gurança dos alimentos.",
+      "no aumento do uso dos agrotóxicos para elevar a produ- tividade e garantir a segurança alimentar.",
+      "na ampliação da área disponível para plantio como for- ma de aumentar a produtividade sem ampliar o uso dos agrotóxicos.",
+      "no equilíbrio entre a garantia da produção de alimen- tos em larga escala e a preservação da segurança dos alimentos consumidos.",
+      "na substituição da agricultura intensiva pelo cultivo orgâ- nico com menor carga de agrotóxicos."
     ],
     "correct": 3,
     "resolution": [
@@ -8601,7 +8666,12 @@ export const uea2026Sis = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a3/q58-1.svg",
+        "alt": "Figura de apoio da questão 58."
+      }
+    ],
     "alternatives": [
       "esterificação.",
       "peptização.",
