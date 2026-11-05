@@ -1,0 +1,271 @@
+{
+ "uea-sis-2026-a1-q37": {
+  "resolution": [
+   "Gasto com a camisa: $20\\% \\times 300 = 0{,}20 \\times 300 = 60$ reais.",
+   "Gasto total: $60 + 80 = 140$ reais.",
+   "Saldo restante: $300 - 140 = 160$ reais."
+  ],
+  "correct_reason": "O saldo é $300-140=160$ reais.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q38": {
+  "resolution": [
+   "De $f(k)=8$: $2k-3=8 \\Rightarrow 2k=11 \\Rightarrow k=5{,}5$.",
+   "Logo $8k = 8 \\times 5{,}5 = 44$."
+  ],
+  "correct_reason": "$8k=44$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q39": {
+  "resolution": [
+   "Se há 3 adultos por criança, o total é $c+3c=4c=924 \\Rightarrow c=231$.",
+   "Adultos: $3 \\times 231 = 693$.",
+   "Diferença: $693-231=462$."
+  ],
+  "correct_reason": "A diferença é $462$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q40": {
+  "resolution": [
+   "Pelo gráfico, $f$ e $g$ se cruzam em $(5,8)$, pois $f(5)=\\frac{4}{5}\\cdot5+4=8$.",
+   "$g$ é reta com $g(0)=28$ e $g(5)=8$: inclinação $\\frac{8-28}{5}=-4$.",
+   "$g(x)=28-4x \\Rightarrow g(10)=28-40=-12$."
+  ],
+  "correct_reason": "$g(10)=-12$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q41": {
+  "resolution": [
+   "Se o tempo conjunto é $T$, a cada 6 dias economiza-se 1 dia: o tempo sozinho é $T+\\frac{T}{6}=\\frac{7T}{6}$.",
+   "$\\frac{7T}{6}=84 \\Rightarrow T=72$ dias."
+  ],
+  "correct_reason": "O tempo conjunto é $72$ dias.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q42": {
+  "resolution": [
+   "Para $\\ell=10>7$: $V=0{,}5\\cdot10+13{,}5=18{,}5$.",
+   "Para $\\ell=6$ (entre 3 e 7): $V=2\\cdot6+3=15$.",
+   "Para $\\ell=2{,}5\\le3$: $V=3\\cdot2{,}5=7{,}5$.",
+   "Total: $18{,}5+15+7{,}5=41$ reais."
+  ],
+  "correct_reason": "O total é R$ 41,00.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q43": {
+  "resolution": [
+   "Vértice tangencia o eixo x em $x=-4$: $f'(-4)=0 \\Rightarrow -8(k-1)+1{,}6=0 \\Rightarrow k=1{,}2$.",
+   "$f(x)=0{,}2x^2+1{,}6x+3{,}2$; $n=f(0)=3{,}2$.",
+   "$m=f(1)=0{,}2+1{,}6+3{,}2=5$.",
+   "$m+n=5+3{,}2=8{,}2$."
+  ],
+  "correct_reason": "$m+n=8{,}2$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a1-q44": {
+  "resolution": [
+   "$P(t)=-0{,}3t^2+6t-9$ tem máximo em $t=\\frac{-6}{2(-0{,}3)}=10$.",
+   "$P(10)=-0{,}3\\cdot100+60-9=-30+60-9=21$."
+  ],
+  "correct_reason": "A pontuação máxima é $21$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a2-q37": {
+  "resolution": [
+   "Hipotenusa: $BC=\\sqrt{4^2+6^2}=\\sqrt{52}=2\\sqrt{13}$.",
+   "Altura relativa à hipotenusa: $h=\\frac{4\\cdot6}{2\\sqrt{13}}=\\frac{12}{\\sqrt{13}}$.",
+   "Com $\\sqrt{13}\\approx3{,}6$: $h\\approx\\frac{12}{3{,}6}=\\frac{10}{3}$ cm."
+  ],
+  "correct_reason": "$h=\\frac{10}{3}$ cm.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a2-q38": {
+  "resolution": [
+   "Razão: de 18 a 32 há 2 passos, $d=7$; logo $x=25,\\ y=39,\\ z=53$.",
+   "$(y+z)-x=39+53-25=67$.",
+   "$a_n=18+7(n-1)=67 \\Rightarrow n-1=7 \\Rightarrow n=8$."
+  ],
+  "correct_reason": "É o $8^o$ termo.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a2-q39": {
+  "resolution": [
+   "$X+Y=2350$, $X+Z=3750$, $2Y+Z=4700$.",
+   "Substituindo $Y=2350-X$ e $Z=3750-X$: $2(2350-X)+(3750-X)=4700$.",
+   "$8450-3X=4700 \\Rightarrow X=1250$ kg."
+  ],
+  "correct_reason": "A capacidade de X é $1250$ kg.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a2-q42": {
+  "resolution": [
+   "$a_{11}=3-1=2$, $a_{12}=3-4=-1$, $a_{21}=6-1=5$, $a_{22}=6-4=2$.",
+   "Maior $x=5$, menor $y=-1$; $x-y=5-(-1)=6$."
+  ],
+  "correct_reason": "$x-y=6$.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a3-q38": {
+  "resolution": [
+   "Total de alunos: $8+6+6+4+2=26$; moda $Mo=168$ (8 alunos).",
+   "Mediana: posições 13 e 14 caem em 168 (acumulado 4+6+8=18), $Md=168$.",
+   "$Mo-Md=0$."
+  ],
+  "correct_reason": "A diferença é $0$ cm.",
+  "wrong": {}
+ },
+ "uea-sis-2026-a3-q39": {
+  "resolution": [
+   "Início: 2 opções (E1/E2); fim: 2 opções (E5/E6).",
+   "As 4 etapas restantes permutam-se com E4 depois de E3: $\\frac{4!}{2}=12$.",
+   "Total: $2\\times2\\times12=48$."
+  ],
+  "correct_reason": "São $48$ maneiras.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q57": {
+  "resolution": [
+   "Vértice $(3,4)$ e $f(0)=-5$: $f(x)=-(x-3)^2+4$; $f(0)=-9+4=-5$ ✓.",
+   "Raízes: $-(x-3)^2+4=0 \\Rightarrow (x-3)^2=4 \\Rightarrow x=1$ ou $x=5$.",
+   "Pelo gráfico, B é a raiz maior: $x=5$."
+  ],
+  "correct_reason": "A abscissa de B é $5$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q59": {
+  "resolution": [
+   "Triângulo reto em A: $AB=\\sqrt{BC^2-AC^2}=\\sqrt{400-144}=\\sqrt{256}=16$.",
+   "Largura da prateleira: $16+14=30$ cm."
+  ],
+  "correct_reason": "A largura é $30$ cm.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q61": {
+  "resolution": [
+   "Distância $=$ velocidade $\\times$ tempo: $700 \\times 4 = 2800$ km."
+  ],
+  "correct_reason": "A distância é $2800$ km.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q01": {
+  "resolution": [
+   "Sejam $V$ vendas de Vera; Jairo $=V-8$; Rui $=V-4$. Soma $3V-12=108 \\Rightarrow V=40$.",
+   "Jairo vendeu $32$; fração $\\frac{32}{108}$.",
+   "Bônus de Jairo: $24300 \\times \\frac{32}{108}=7200$ reais."
+  ],
+  "correct_reason": "Jairo recebeu R$ 7.200,00.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q02": {
+  "resolution": [
+   "1º mês: $800\\times1{,}01=808$.",
+   "2º mês: $808\\times(1+i)=820{,}12 \\Rightarrow 1+i=\\frac{820{,}12}{808}=1{,}015$.",
+   "$i=1{,}5\\%$."
+  ],
+  "correct_reason": "A taxa foi $1{,}5\\%$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q03": {
+  "resolution": [
+   "Com especialização: $60\\times0{,}8=48$; superior $48\\times0{,}125=6$; demais $42$, técnico $21$.",
+   "Sem especialização: $12$; superior $12\\times0{,}25=3$; demais $9$, técnico $4$.",
+   "Técnico $=21+4=25$; superior $=6+3=9$; diferença $25-9=16$."
+  ],
+  "correct_reason": "A diferença é $16$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q04": {
+  "resolution": [
+   "Cada parede precisa de ao menos 1 janela aberta: $3$ estados por parede (1 ou 2 abertas).",
+   "Total: $3\\times3=9$."
+  ],
+  "correct_reason": "São $9$ maneiras.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q05": {
+  "resolution": [
+   "$f(x)=2\\,\\mathrm{sen}\\!\\left(\\frac{bx}{3}\\right)$ e $f\\!\\left(\\frac{3\\pi}{4}\\right)=2$.",
+   "$2\\,\\mathrm{sen}\\!\\left(\\frac{b}{3}\\cdot\\frac{3\\pi}{4}\\right)=2 \\Rightarrow \\mathrm{sen}\\!\\left(\\frac{b\\pi}{4}\\right)=1$.",
+   "$\\frac{b\\pi}{4}=\\frac{\\pi}{2} \\Rightarrow b=2$."
+  ],
+  "correct_reason": "$b=2$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q06": {
+  "resolution": [
+   "PG razão $1{,}2$: Luiz $=1{,}2\\,$José; Luiz $-$ José $=0{,}2\\,$José $=5 \\Rightarrow$ José $=25$.",
+   "Mário $=25\\times1{,}2^2=25\\times1{,}44=36$."
+  ],
+  "correct_reason": "Mário acertou $36$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q08": {
+  "resolution": [
+   "$f(x)=2^{x+2}$: $f(0)=2^2=4 \\Rightarrow P(0,4)$.",
+   "$g(x)=-x^2+6x-9=-(x-3)^2$ tem máximo $V(3,0)$.",
+   "Triângulo $POV$ com catetos $OP=4$ e $OV=3$: área $=\\frac{4\\times3}{2}=6$."
+  ],
+  "correct_reason": "A área é $6$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q09": {
+  "resolution": [
+   "$L(x)=-x^2+6x-2$; máximo em $x=\\frac{-6}{-2}=3$ (mil folhetos).",
+   "$L(3)=-9+18-2=7$ (mil reais) $=$ R$ 7.000,00."
+  ],
+  "correct_reason": "Lucro máximo R$ 7.000,00 com 3 000 folhetos.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q10": {
+  "resolution": [
+   "Vermelhas $=21-10-4=7$.",
+   "$P=\\frac{7}{21}\\times\\frac{10}{20}=\\frac{1}{3}\\times\\frac{1}{2}=\\frac{1}{6}$."
+  ],
+  "correct_reason": "Probabilidade $\\frac{1}{6}$.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q11": {
+  "resolution": [
+   "$R_1=5$, $H_1=2R_1=10$; $V_1=\\pi\\cdot25\\cdot10=250\\pi$.",
+   "$R_2=4$, $H_2=10+4=14$; $V_2=\\pi\\cdot16\\cdot14=224\\pi$.",
+   "Diferença $250\\pi-224\\pi=26\\pi$ cm³."
+  ],
+  "correct_reason": "A diferença é $26\\pi$ cm³.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-g3-q12": {
+  "resolution": [
+   "Fotos: $900\\times3=2700$ MB; capacidade $4000$ MB; livre $1300$ MB.",
+   "Arquivos: $\\lfloor1300/3{,}2\\rfloor=\\lfloor406{,}25\\rfloor=406$."
+  ],
+  "correct_reason": "Cabem $406$ arquivos.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q49": {
+  "resolution": [
+   "Sejam $M$ e $N$ os alunos da manhã e da noite: $\\frac{M}{N}=\\frac{2}{3} \\Rightarrow M=\\frac{2N}{3}$.",
+   "Após a transferência: $\\frac{M-2}{N+2}=\\frac{1}{2} \\Rightarrow 2(M-2)=N+2$.",
+   "Substituindo: $2(\\frac{2N}{3}-2)=N+2 \\Rightarrow \\frac{4N}{3}-4=N+2 \\Rightarrow \\frac{N}{3}=6 \\Rightarrow N=18$.",
+   "$M=\\frac{2\\cdot18}{3}=12$; após a transferência: $M-2=10$."
+  ],
+  "correct_reason": "A turma da manhã ficou com $10$ alunos.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q62": {
+  "resolution": [
+   "A energia elétrica total corresponde à soma das parcelas de energia apresentadas no diagrama.",
+   "$E = 700 + 55 + 35 + 25 = 815$ MJ."
+  ],
+  "correct_reason": "A energia total é $815$ MJ.",
+  "wrong": {}
+ },
+ "uea-vestibular-2026-cg-q73": {
+  "resolution": [
+   "A $120\\,^\\circ\\mathrm{C}$ o iodo está no estado sólido; ao ser resfriado, o vapor de iodo passa diretamente ao sólido.",
+   "Essa passagem gás $\\to$ sólido é a ressublimação (deposição), uma mudança de estado físico.",
+   "Como não há formação de nova substância, trata-se de um fenômeno físico."
+  ],
+  "correct_reason": "É ressublimação, um fenômeno físico.",
+  "wrong": {}
+ }
+}

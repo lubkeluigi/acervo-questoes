@@ -1,0 +1,84 @@
+{
+ "uea-sis-2024-a3-q08-ingles": {
+  "alternatives": [
+   "Edvard Munch. O grito, 1910.",
+   "Pablo Picasso. Duas meninas lendo, 1934.",
+   "René Magritte. Os amantes, 1928.",
+   "Otto Dix. Retrato de Sylvia von Harden, 1926.",
+   "Roy Lichtenstein. No carro, 1963."
+  ],
+  "alternativeImages": [
+   [
+    {
+     "src": "/images/uea/sis-2024-a3/q08-a.svg",
+     "alt": "Edvard Munch. O grito, 1910."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/sis-2024-a3/q08-b.svg",
+     "alt": "Pablo Picasso. Duas meninas lendo, 1934."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/sis-2024-a3/q08-c.svg",
+     "alt": "René Magritte. Os amantes, 1928."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/sis-2024-a3/q08-d.svg",
+     "alt": "Otto Dix. Retrato de Sylvia von Harden, 1926."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/sis-2024-a3/q08-e.svg",
+     "alt": "Roy Lichtenstein. No carro, 1963."
+    }
+   ]
+  ]
+ },
+ "uea-vestibular-2026-cg-q06": {
+  "alternatives": [
+   "Lyubov Popova. Modelo de um vestido, 1923-1924.",
+   "Claude Monet. Impressão, sol nascente, 1872-1873.",
+   "Mark Rothko. O ocre, 1954.",
+   "Vincent van Gogh. A noite estrelada, 1889.",
+   "Andy Warhol. Díptico de Marilyn, 1962."
+  ],
+  "alternativeImages": [
+   [
+    {
+     "src": "/images/uea/vestibular-2026-cg/q06-a.svg",
+     "alt": "Lyubov Popova. Modelo de um vestido, 1923-1924."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/vestibular-2026-cg/q06-b.svg",
+     "alt": "Claude Monet. Impressão, sol nascente, 1872-1873."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/vestibular-2026-cg/q06-c.svg",
+     "alt": "Mark Rothko. O ocre, 1954."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/vestibular-2026-cg/q06-d.svg",
+     "alt": "Vincent van Gogh. A noite estrelada, 1889."
+    }
+   ],
+   [
+    {
+     "src": "/images/uea/vestibular-2026-cg/q06-e.svg",
+     "alt": "Andy Warhol. Díptico de Marilyn, 1962."
+    }
+   ]
+  ]
+ }
+}

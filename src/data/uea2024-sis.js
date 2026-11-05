@@ -15,15 +15,19 @@ export const uea2024Sis = [
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "Examine o cartum de Rafael Corrêa.\n\n(Rafael Corrêa. Até aqui tudo bem, 2018.)\n\nNa construção de seu sentido, o cartum recorre, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/sis-2024-a1/q01-1.svg",
+        "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
-      "ao eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desagradável, grosseira.",
+      "ao eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desa- gradável, grosseira.",
       "à intertextualidade: a referência que um texto faz a outro texto já existente, tomando-o como modelo ou ponto de partida.",
       "à hipérbole: a ênfase resultante do exagero na expressão ou comunicação de uma ideia.",
       "ao pleonasmo: a repetição desnecessária de palavras ou expressões na enunciação de uma ideia.",
@@ -31,15 +35,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 01."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 3,
@@ -63,7 +66,13 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no \nHospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o \namor humano, que é inconstante; sobre o amor humano, que \nnão se governa por razão, senão por apetite; sobre o amor \nhumano, que, ainda quando parece mais fino, é grosseiro e \nimperfeito. O amor, a quem remediou e pôde curar o tempo, \nbem poderá ser que fosse doença; mas não é amor. O amor \nperfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do \ntempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar \nSalomão, diz Santo Agostinho, que o amor que é verdadeiro \ntem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras \ncoisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca \nfoi. Deixastes de amar, pois nunca amastes. O amor que não \né de todo o tempo, e de todos os tempos, não é amor, nem \nfoi; porque, se chegou a ter fim, nunca teve princípio. É como \na eternidade, que se por impossível tivera fim, não teria sido \neternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza \no amor humano como",
+    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza o amor humano como",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "enigmático.",
@@ -74,15 +83,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 02."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 3,
@@ -106,26 +114,31 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no \nHospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o \namor humano, que é inconstante; sobre o amor humano, que \nnão se governa por razão, senão por apetite; sobre o amor \nhumano, que, ainda quando parece mais fino, é grosseiro e \nimperfeito. O amor, a quem remediou e pôde curar o tempo, \nbem poderá ser que fosse doença; mas não é amor. O amor \nperfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do \ntempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar \nSalomão, diz Santo Agostinho, que o amor que é verdadeiro \ntem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras \ncoisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca \nfoi. Deixastes de amar, pois nunca amastes. O amor que não \né de todo o tempo, e de todos os tempos, não é amor, nem \nfoi; porque, se chegou a ter fim, nunca teve princípio. É como \na eternidade, que se por impossível tivera fim, não teria sido \neternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nAntônio Vieira dirige-se diretamente a seus ouvintes no \nseguinte trecho:",
+    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nAntônio Vieira dirige-se diretamente a seus ouvintes no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Estes são os poderes do tempo sobre o amor”.",
-      "“O amor perfeito [...] vive imortal sobre a esfera da mudança”.",
+      "“O amor perfeito [...] vive imortal sobre a esfera da mu- dança”.",
       "“o amor [...] verdadeiro tem obrigação de ser eterno”.",
       "“Deixou de ser, pois nunca foi”.",
       "“Deixastes de amar, pois nunca amastes”."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 03."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 3,
@@ -149,7 +162,13 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no \nHospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o \namor humano, que é inconstante; sobre o amor humano, que \nnão se governa por razão, senão por apetite; sobre o amor \nhumano, que, ainda quando parece mais fino, é grosseiro e \nimperfeito. O amor, a quem remediou e pôde curar o tempo, \nbem poderá ser que fosse doença; mas não é amor. O amor \nperfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do \ntempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar \nSalomão, diz Santo Agostinho, que o amor que é verdadeiro \ntem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras \ncoisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca \nfoi. Deixastes de amar, pois nunca amastes. O amor que não \né de todo o tempo, e de todos os tempos, não é amor, nem \nfoi; porque, se chegou a ter fim, nunca teve princípio. É como \na eternidade, que se por impossível tivera fim, não teria sido \neternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nAntônio Vieira recorre a um enunciado antitético (ou seja, \num enunciado em que duas palavras de sentido contrário se \nopõem) no seguinte trecho:",
+    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nAntônio Vieira recorre a um enunciado antitético (ou seja, um enunciado em que duas palavras de sentido contrário se opõem) no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Estes são os poderes do tempo sobre o amor”.",
@@ -160,15 +179,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 3,
@@ -192,7 +210,13 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no \nHospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o \namor humano, que é inconstante; sobre o amor humano, que \nnão se governa por razão, senão por apetite; sobre o amor \nhumano, que, ainda quando parece mais fino, é grosseiro e \nimperfeito. O amor, a quem remediou e pôde curar o tempo, \nbem poderá ser que fosse doença; mas não é amor. O amor \nperfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do \ntempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar \nSalomão, diz Santo Agostinho, que o amor que é verdadeiro \ntem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras \ncoisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca \nfoi. Deixastes de amar, pois nunca amastes. O amor que não \né de todo o tempo, e de todos os tempos, não é amor, nem \nfoi; porque, se chegou a ter fim, nunca teve princípio. É como \na eternidade, que se por impossível tivera fim, não teria sido \neternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n“Nem os anos o diminuem, nem os séculos o enfraquecem, \nnem as eternidades o cansam.”\n\nOs pronomes sublinhados referem-se a",
+    "statement": "Para responder às questões de 02 a 05, leia o trecho do “Sermão do Mandato”, de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n“Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam.” Os pronomes sublinhados referem-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“apetite”.",
@@ -203,15 +227,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 3,
@@ -235,7 +258,13 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 06 a 08, leia o trecho do \nromance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros \nde infortúnio e de cativeiro no estreito e infecto porão de \num navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos \nnessa sepultura até que abordamos às praias brasileiras. \nPara caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, \nacorrentados como os animais ferozes das nossas matas, \nque se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, \na comida má e ainda mais porca: vimos morrer ao nosso \nlado muitos companheiros à falta de ar, de alimento e de \nágua. É horrível lembrar que criaturas humanas tratem a \nseus semelhantes assim e que não lhes doa a consciência \nde levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nAo permitir que os personagens escravizados reflitam sobre \nsi mesmos e seu passado, o romance Úrsula instaura uma \nnova voz na literatura brasileira.\n\nO trecho transcrito é narrado por",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros de infortúnio e de cativeiro no estreito e infecto porão de um navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos nessa sepultura até que abordamos às praias brasileiras. Para caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, acorrentados como os animais ferozes das nossas matas, que se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, a comida má e ainda mais porca: vimos morrer ao nosso lado muitos companheiros à falta de ar, de alimento e de água. É horrível lembrar que criaturas humanas tratem a seus semelhantes assim e que não lhes doa a consciência de levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nAo permitir que os personagens escravizados reflitam sobre si mesmos e seu passado, o romance Úrsula instaura uma nova voz na literatura brasileira. O trecho transcrito é narrado por",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Susana.",
@@ -246,15 +275,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 06."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 4,
@@ -278,7 +306,13 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 06 a 08, leia o trecho do \nromance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros \nde infortúnio e de cativeiro no estreito e infecto porão de \num navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos \nnessa sepultura até que abordamos às praias brasileiras. \nPara caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, \nacorrentados como os animais ferozes das nossas matas, \nque se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, \na comida má e ainda mais porca: vimos morrer ao nosso \nlado muitos companheiros à falta de ar, de alimento e de \nágua. É horrível lembrar que criaturas humanas tratem a \nseus semelhantes assim e que não lhes doa a consciência \nde levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nEstá empregada em sentido figurado a seguinte palavra \nsublinhada no texto:",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros de infortúnio e de cativeiro no estreito e infecto porão de um navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos nessa sepultura até que abordamos às praias brasileiras. Para caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, acorrentados como os animais ferozes das nossas matas, que se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, a comida má e ainda mais porca: vimos morrer ao nosso lado muitos companheiros à falta de ar, de alimento e de água. É horrível lembrar que criaturas humanas tratem a seus semelhantes assim e que não lhes doa a consciência de levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nEstá empregada em sentido figurado a seguinte palavra sublinhada no texto:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“infortúnio”.",
@@ -289,15 +323,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 07."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 4,
@@ -321,26 +354,31 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 06 a 08, leia o trecho do \nromance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros \nde infortúnio e de cativeiro no estreito e infecto porão de \num navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos \nnessa sepultura até que abordamos às praias brasileiras. \nPara caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, \nacorrentados como os animais ferozes das nossas matas, \nque se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, \na comida má e ainda mais porca: vimos morrer ao nosso \nlado muitos companheiros à falta de ar, de alimento e de \nágua. É horrível lembrar que criaturas humanas tratem a \nseus semelhantes assim e que não lhes doa a consciência \nde levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nEm “Para caber a mercadoria humana no porão, fomos \namarrados em pé”, a oração adverbial sublinhada expressa \nideia de",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance Úrsula, cuja primeira edição data de 1859, da escritora maranhense Maria Firmina dos Reis.\n\nMeteram-me a mim e a mais trezentos companheiros de infortúnio e de cativeiro no estreito e infecto porão de um navio. Trinta dias de cruéis tormentos, e de falta absoluta de tudo quanto é mais necessário à vida passamos nessa sepultura até que abordamos às praias brasileiras. Para caber a mercadoria humana no porão, fomos amarrados em pé e para que não houvesse receio de revolta, acorrentados como os animais ferozes das nossas matas, que se levam para recreio dos potentados da Europa. Davam-nos a água imunda, podre e dada com mesquinhez, a comida má e ainda mais porca: vimos morrer ao nosso lado muitos companheiros à falta de ar, de alimento e de água. É horrível lembrar que criaturas humanas tratem a seus semelhantes assim e que não lhes doa a consciência de levá-los à sepultura asfixiados e famintos!\n\n(Úrsula, 2018.)\n\nEm “Para caber a mercadoria humana no porão, fomos amarrados em pé”, a oração adverbial sublinhada expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consequência.",
       "condição.",
       "causa.",
       "finalidade.",
-      "comparação. Leia o texto para responder às questões de 09 a 11. Claude Monet was a French artist known for painting in the style called Impressionism. Monet was famous during his lifetime, and his paintings remain popular today. They are on display in art museums around the world. Claude Monet was born on November 14, 1840, in Paris, France. He drew and painted as a young man. In the 1860s he became friends with other artists, including PierreAuguste Renoir. The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise. Most of Monet’s subjects were from nature. Like other Impressionists, he was fascinated by the way light and shadows change during the day. He often painted the same scene again and again to show all the variations of light and shadow. In the 1880s Monet settled in Giverny, outside of Paris. There he painted one of his most famous series of paintings, called Water Lilies. Monet died on December 5, 1926, in Giverny. (https://kids.britannica.com)"
+      "comparação."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 08."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 4,
@@ -365,7 +403,16 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "The main purpose of the text is to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nClaude Monet was a French artist known for painting in the style called Impressionism. Monet was famous during his lifetime, and his paintings remain popular today. They are on display in art museums around the world.\n\nClaude Monet was born on November 14, 1840, in Paris, France. He drew and painted as a young man. In the 1860s he became friends with other artists, including PierreAuguste Renoir. The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise.\n\nMost of Monet’s subjects were from nature. Like other Impressionists, he was fascinated by the way light and shadows change during the day. He often painted the same scene again and again to show all the variations of light and shadow.\n\nIn the 1880s Monet settled in Giverny, outside of Paris. There he painted one of his most famous series of paintings, called Water Lilies. Monet died on December 5, 1926, in Giverny.\n\n(https://kids.britannica.com)\n\nThe main purpose of the text is to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "highlight the friendship between Monet and Renoir.",
@@ -376,15 +423,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 09."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 4,
@@ -409,7 +455,16 @@ export const uea2024Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No trecho do primeiro parágrafo “Monet was famous during \nhis lifetime, and his paintings remain popular today”, o termo \nsublinhado refere-se",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nClaude Monet was a French artist known for painting in the style called Impressionism. Monet was famous during his lifetime, and his paintings remain popular today. They are on display in art museums around the world.\n\nClaude Monet was born on November 14, 1840, in Paris, France. He drew and painted as a young man. In the 1860s he became friends with other artists, including PierreAuguste Renoir. The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise.\n\nMost of Monet’s subjects were from nature. Like other Impressionists, he was fascinated by the way light and shadows change during the day. He often painted the same scene again and again to show all the variations of light and shadow.\n\nIn the 1880s Monet settled in Giverny, outside of Paris. There he painted one of his most famous series of paintings, called Water Lilies. Monet died on December 5, 1926, in Giverny.\n\n(https://kids.britannica.com)\n\nNo trecho do primeiro parágrafo “Monet was famous during his lifetime, and his paintings remain popular today”, o termo sublinhado refere-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao estilo de vida de Claude Monet.",
@@ -420,15 +475,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 10."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 4,
@@ -452,26 +506,34 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No contexto em que se insere, o trecho sublinhado que introduz ideia de causa é:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nClaude Monet was a French artist known for painting in the style called Impressionism. Monet was famous during his lifetime, and his paintings remain popular today. They are on display in art museums around the world.\n\nClaude Monet was born on November 14, 1840, in Paris, France. He drew and painted as a young man. In the 1860s he became friends with other artists, including PierreAuguste Renoir. The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise.\n\nMost of Monet’s subjects were from nature. Like other Impressionists, he was fascinated by the way light and shadows change during the day. He often painted the same scene again and again to show all the variations of light and shadow.\n\nIn the 1880s Monet settled in Giverny, outside of Paris. There he painted one of his most famous series of paintings, called Water Lilies. Monet died on December 5, 1926, in Giverny.\n\n(https://kids.britannica.com)\n\nNo contexto em que se insere, o trecho sublinhado que introduz ideia de causa é:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Claude Monet was a French artist known for painting in the style called Impressionism” (1o parágrafo).",
-      "“Monet was famous during his lifetime” (1o parágrafo).",
-      "“He drew and painted as a young man” (2o parágrafo).",
-      "“The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise” (2o parágrafo).",
-      "“He often painted the same scene again and again to show all the variations of light and shadow” (3o parágrafo)."
+      "“Claude Monet was a French artist known for painting in the style called Impressionism” (1º parágrafo).",
+      "“Monet was famous during his lifetime” (1$\\frac{o}{o}$ parágrafo).",
+      "“He drew and painted as a young man” (2 parágrafo).",
+      "“The group of artists became known as the Impressionists because of Monet’s painting called Impression: Sunrise” (2º parágrafo).",
+      "“He often painted the same scene again and again to show all the variations of light and shadow” (3º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 11."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 5,
@@ -496,12 +558,16 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia a tirinha do cartunista Jim Davis.\n\n(Jim Davis. Garfield at large, 2012.)\n\nNo contexto da tirinha, o trecho do primeiro quadrinho \n“I’d love to stay in bed all day” equivale, em português, a:",
+    "statement": "Leia a tirinha do cartunista Jim Davis.\n\n(Jim Davis. Garfield at large, 2012.)\n\nNo contexto da tirinha, o trecho do primeiro quadrinho “I’d love to stay in bed all day” equivale, em português, a:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/sis-2024-a1/q12-1.svg",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -513,15 +579,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 12."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 5,
@@ -545,7 +610,12 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Os Jogos Olímpicos da Grécia Antiga eram realizados \nem homenagem a Zeus, o principal deus da mitologia grega. \nEles foram disputados, de forma ininterrupta, por 293 edições \nem que cidadãos livres das cidades-estado participavam de \ncompetições em cinco grupos de modalidades esportivas e \napenas o campeão de cada prova era premiado. As disputas \nduraram de 776 a.C. até 393 d.C., quando o imperador romano Teodósio I proibiu as Olimpíadas.\n\n(www.olimpiadatododia.com.br, 23.05.2020. Adaptado.)\n\nA proibição dos Jogos Olímpicos por Teodósio I relaciona-se \ndiretamente",
+    "statement": "Os Jogos Olímpicos da Grécia Antiga eram realizados em homenagem a Zeus, o principal deus da mitologia grega. Eles foram disputados, de forma ininterrupta, por 293 edições em que cidadãos livres das cidades-estado participavam de competições em cinco grupos de modalidades esportivas e apenas o campeão de cada prova era premiado. As disputas duraram de 776 a.C. até 393 d.C., quando o imperador romano Teodósio I proibiu as Olimpíadas.\n\n(www.olimpiadatododia.com.br, 23.05.2020. Adaptado.)\n\nA proibição dos Jogos Olímpicos por Teodósio I relaciona-se diretamente",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao alistamento de soldados romanos no exército imperial.",
@@ -556,15 +626,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 13."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 5,
@@ -588,7 +657,15 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise as duas notícias.\n\nInstrumentistas em roda, melodia, ritmo e sorrisos. O \nChoro agora é Patrimônio Cultural do Brasil. Durante a \n103a reunião ordinária, os membros do Conselho Consultivo, órgão colegiado de decisão máxima do Instituto \ndo Patrimônio Histórico e Artístico Nacional (Iphan), aprovaram o registro da manifestação cultural no Livro das \nFormas de Expressão.\n\n(www.gov.br, 05.04.2024. Adaptado.)\n\nUm patrimônio ao qual milhões de brasileiros, há inúmeras gerações, devem literalmente a vida. Esse foi um dos \ntemas centrais da 104a Reunião do Conselho Consultivo do \nInstituto do Patrimônio Histórico e Artístico Nacional (Iphan), \nquando o grupo reconheceu o “Ofício, Saberes e Práticas das \nParteiras Tradicionais do Brasil” como Patrimônio Cultural do \nPaís.\n\n(www.gov.br, 20.05.2024. Adaptado.)\n\nOs excertos referem-se a patrimônios",
+    "statement": "Analise as duas notícias.\n\nInstrumentistas em roda, melodia, ritmo e sorrisos. O Choro agora é Patrimônio Cultural do Brasil. Durante a 103ª reunião ordinária, os membros do Conselho Consultivo, órgão colegiado de decisão máxima do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), aprovaram o registro da manifestação cultural no Livro das Formas de Expressão.\n\n(www.gov.br, 05.04.2024. Adaptado.)\n\nUm patrimônio ao qual milhões de brasileiros, há inúmeras gerações, devem literalmente a vida. Esse foi um dos temas centrais da 104ª Reunião do Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), quando o grupo reconheceu o “Ofício, Saberes e Práticas das Parteiras Tradicionais do Brasil” como Patrimônio Cultural do País.\n\n(www.gov.br, 20.05.2024. Adaptado.)\n\nOs excertos referem-se a patrimônios",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "artísticos.",
@@ -599,15 +676,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 5,
@@ -631,26 +707,31 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Nos primeiros anos da ditadura civil-militar brasileira, a \nOperação Amazônia foi uma reunião de medidas, projetos e \ndecretos implementados na região Norte, tendo como justificativa solucionar o desnível regional, ou seja, minimizar ou \neliminar o atraso econômico na Amazônia, levando a termo \no desenvolvimento, bem como sua inserção na economia \nnacional.\n\n(Rozana C. Santos e Odenei de S. Ribeiro. “A Amazônia entre os anos 1964\n\na 1970: apontamentos sobre as primeiras intervenções do autoritarismo”.\n\nSOMANLU – Revista de Estudos Amazônicos, 2022. Adaptado.)\n\nA Operação Amazônia tinha por objetivo",
+    "statement": "Nos primeiros anos da ditadura civil-militar brasileira, a Operação Amazônia foi uma reunião de medidas, projetos e decretos implementados na região Norte, tendo como justificativa solucionar o desnível regional, ou seja, minimizar ou eliminar o atraso econômico na Amazônia, levando a termo o desenvolvimento, bem como sua inserção na economia nacional.\n\n(Rozana C. Santos e Odenei de S. Ribeiro. “A Amazônia entre os anos 1964 a 1970: apontamentos sobre as primeiras intervenções do autoritarismo”.\n\nSOMANLU – Revista de Estudos Amazônicos, 2022. Adaptado.)\n\nA Operação Amazônia tinha por objetivo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "explorar a borracha para expandir as exportações brasileiras.",
-      "ocupar a Amazônia com projetos de integração capitalista.",
-      "fomentar a economia local com a valorização da produção indígena.",
-      "alertar sobre a importância do desenvolvimento sustentável.",
+      "explorar a borracha para expandir as exportações brasi- leiras.",
+      "ocupar a Amazônia com projetos de integração capita- lista.",
+      "fomentar a economia local com a valorização da produ- ção indígena.",
+      "alertar sobre a importância do desenvolvimento susten- tável.",
       "projetar a pecuária da região Norte para o mercado internacional."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 15."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 6,
@@ -674,7 +755,12 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma estátua de Mahatma Gandhi foi inaugurada em \n2015 em Londres. A estátua de bronze fica diante do Big Ben \ne do Parlamento, em meio a monumentos em homenagem \na personalidades como Nelson Mandela e Abraham Lincoln. \nO primeiro-ministro britânico David Cameron afirmou que a \nestátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi \nnesta praça ilustre, oferecemos a ele uma presença eterna \nem nosso país”, disse.\n\n(https://g1.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi \npor sua atuação",
+    "statement": "Uma estátua de Mahatma Gandhi foi inaugurada em 2015 em Londres. A estátua de bronze fica diante do Big Ben e do Parlamento, em meio a monumentos em homenagem a personalidades como Nelson Mandela e Abraham Lincoln. O primeiro-ministro britânico David Cameron afirmou que a estátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi nesta praça ilustre, oferecemos a ele uma presença eterna em nosso país”, disse.\n\n(https://g1.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi por sua atuação",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na consolidação da monarquia parlamentarista inglesa.",
@@ -685,15 +771,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 6,
@@ -717,26 +802,30 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em 28 de fevereiro de 1986, o governo surpreende os \nbrasileiros ao anunciar uma série de medidas de emergência. \nEntre as normas adotadas, estava a troca da moeda “contaminada pela inflação”, o cruzeiro, pelo cruzado. Os preços, os \nsalários e a taxa de câmbio são congelados por tempo indeterminado. Durante a introdução do novo modelo monetário, \no presidente Sarney incentivou os brasileiros a monitorarem \nos preços e a denunciarem os estabelecimentos que não \ncumprissem as novas regulamentações. Os consumidores \natenderam ao pedido e então surgiram os “fiscais do Sarney”.\n\n(https://oglobo.globo.com, 28.02.2024. Adaptado.)\n\nO excerto refere-se a um contexto em que",
+    "statement": "Em 28 de fevereiro de 1986, o governo surpreende os brasileiros ao anunciar uma série de medidas de emergência. Entre as normas adotadas, estava a troca da moeda “contaminada pela inflação”, o cruzeiro, pelo cruzado. Os preços, os salários e a taxa de câmbio são congelados por tempo indeterminado. Durante a introdução do novo modelo monetário, o presidente Sarney incentivou os brasileiros a monitorarem os preços e a denunciarem os estabelecimentos que não cumprissem as novas regulamentações. Os consumidores atenderam ao pedido e então surgiram os “fiscais do Sarney”.\n\n(https://oglobo.globo.com, 28.02.2024. Adaptado.)\n\nO excerto refere-se a um contexto em que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a inflação podia ser controlada por meio de ações populares incentivadas pelo governo federal.",
-      "o processo de redemocratização do Brasil ocorria concomitantemente a uma profunda crise econômica.",
+      "a inflação podia ser controlada por meio de ações popu- lares incentivadas pelo governo federal.",
+      "o processo de redemocratização do Brasil ocorria conco- mitantemente a uma profunda crise econômica.",
       "a população sentia-se parte da elaboração das políticas públicas sob o lema da reconstrução do Brasil.",
       "a proposta de impeachment do presidente ganhava as ruas devido às acusações de corrupção.",
-      "a nação enfrentava desafios em um governo eleito democraticamente após a ditadura civil-militar."
+      "a nação enfrentava desafios em um governo eleito demo- craticamente após a ditadura civil-militar."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 6,
@@ -760,7 +849,13 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em 1985, um reformador apaixonado, Mikhail Gorbachev, \nchegou ao poder como secretário-geral do Partido Comunista \nsoviético. Não foi por acaso. Era inteiramente evidente para \ntodos os demais governos comunistas, dentro e fora da órbita soviética, a iminência de grandes transformações, embora \nnão fosse nada claro, mesmo para o novo secretário-geral, o \nque elas trariam.\n\n(Eric Hobsbawm. Era dos extremos: \no breve século XX: 1914-1991, 1995. Adaptado.)\n\nAs transformações que ocorreriam a partir do evento histórico \napresentado levaram",
+    "statement": "Em 1985, um reformador apaixonado, Mikhail Gorbachev, chegou ao poder como secretário-geral do Partido Comunista soviético. Não foi por acaso. Era inteiramente evidente para todos os demais governos comunistas, dentro e fora da órbita soviética, a iminência de grandes transformações, embora não fosse nada claro, mesmo para o novo secretário-geral, o que elas trariam.\n\n(Eric Hobsbawm. Era dos extremos:\n\no breve século XX: 1914-1991, 1995. Adaptado.)\n\nAs transformações que ocorreriam a partir do evento histórico apresentado levaram",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à intensificação da oposição entre EUA e URSS.",
@@ -771,15 +866,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 6,
@@ -803,7 +897,12 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O número de mortes violentas contra a população indígena no Brasil cresceu 22% entre 2009 e 2019, segundo o \nAtlas da Violência 2021, publicação que registra essas mortes a partir de recortes de sexo, raça e gênero. O Atlas reforça que os casos de mortes violentas por 100 mil habitantes \nsão maiores dentro das terras indígenas, cujo índice chega \na 20,4, do que fora das aldeias, onde a taxa de homicídios \né de 7,7.\n\n(https://expresso.estadao.com.br, 30.09.2021. Adaptado.)\n\nEntre as razões que podem explicar os dados contidos no \nexcerto, é possível destacar",
+    "statement": "O número de mortes violentas contra a população indígena no Brasil cresceu 22% entre 2009 e 2019, segundo o Atlas da Violência 2021, publicação que registra essas mortes a partir de recortes de sexo, raça e gênero. O Atlas reforça que os casos de mortes violentas por 100 mil habitantes são maiores dentro das terras indígenas, cujo índice chega a 20,4, do que fora das aldeias, onde a taxa de homicídios é de 7,7.\n\n(https://expresso.estadao.com.br, 30.09.2021. Adaptado.)\n\nEntre as razões que podem explicar os dados contidos no excerto, é possível destacar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o desrespeito à autodeterminação dos povos indígenas.",
@@ -814,15 +913,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 7,
@@ -846,26 +944,32 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Ao longo dos anos, as conquistas alcançadas pelo Movimento de Mulheres ultrapassam a preocupação com a violência doméstica, inicialmente tema propulsor da mobilização. \nAs integrantes do movimento reivindicaram seus direitos e \ncobraram o cumprimento das leis em Altamira e nas adjacências. Um bom exemplo dos frutos da militância na região é a \nformação dos Conselhos Tutelares logo nos primeiros anos \nde vigência do Estatuto da Criança e do Adolescente. Também por meio das ações do Movimento de Mulheres os Conselhos de Saúde foram implantados na cidade de Altamira e \na merenda escolar foi regulamentada.\n\n(Paula Mendes Lacerda. “Movimentos sociais na Amazônia:\n\narticulações possíveis entre gênero, religião e Estado”.\n\nCiências Humanas, 2013. Adaptado.)\n\nDe acordo com o excerto, a importância do movimento social \ncitado encontra-se",
+    "statement": "Ao longo dos anos, as conquistas alcançadas pelo Movimento de Mulheres ultrapassam a preocupação com a violência doméstica, inicialmente tema propulsor da mobilização. As integrantes do movimento reivindicaram seus direitos e cobraram o cumprimento das leis em Altamira e nas adjacências. Um bom exemplo dos frutos da militância na região é a formação dos Conselhos Tutelares logo nos primeiros anos de vigência do Estatuto da Criança e do Adolescente. Também por meio das ações do Movimento de Mulheres os Conselhos de Saúde foram implantados na cidade de Altamira e a merenda escolar foi regulamentada.\n\n(Paula Mendes Lacerda. “Movimentos sociais na Amazônia:\n\narticulações possíveis entre gênero, religião e Estado”.\n\nCiências Humanas, 2013. Adaptado.)\n\nDe acordo com o excerto, a importância do movimento social citado encontra-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "na redução do trabalho infantil com projetos educacionais.",
+      "na redução do trabalho infantil com projetos educacio- nais.",
       "na formação de uma assembleia constituinte brasileira.",
-      "na pressão popular feminina pela execução da legislação.",
+      "na pressão popular feminina pela execução da legisla- ção.",
       "na conquista de direitos pelo fim da violência doméstica.",
       "no apoio ao empreendedorismo das mulheres paraenses."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 20."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 7,
@@ -889,7 +993,12 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A Agência Central de Inteligência dos Estados Unidos \n(CIA) usou pombos como espiões em missões secretas \ndurante a década de 1970 — os pássaros tinham câmeras \nacopladas a seus corpos, as quais realizavam disparos automáticos, registrando locais estratégicos. O uso dos pombos pela CIA para fotografar o território inimigo foi motivado, \nprincipalmente, pela capacidade da espécie de voltar para \ncasa. Mesmo soltos a grandes distâncias dos locais onde \nhaviam sido treinados, eles conseguiam retornar trazendo o \nfilme com as fotos.\n\n(www.megacurioso.com.br, 19.05.2024. Adaptado.)\n\nA estratégia adotada pela CIA coloca em prática a técnica de \nrepresentação do espaço geográfico por meio",
+    "statement": "A Agência Central de Inteligência dos Estados Unidos (CIA) usou pombos como espiões em missões secretas durante a década de 1970 — os pássaros tinham câmeras acopladas a seus corpos, as quais realizavam disparos automáticos, registrando locais estratégicos. O uso dos pombos pela CIA para fotografar o território inimigo foi motivado, principalmente, pela capacidade da espécie de voltar para casa. Mesmo soltos a grandes distâncias dos locais onde haviam sido treinados, eles conseguiam retornar trazendo o filme com as fotos.\n\n(www.megacurioso.com.br, 19.05.2024. Adaptado.)\n\nA estratégia adotada pela CIA coloca em prática a técnica de representação do espaço geográfico por meio",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da projeção cartográfica.",
@@ -900,15 +1009,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 21."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 7,
@@ -932,26 +1040,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um estudo do Instituto Socioambiental (ISA) em parceria \ncom a Coordenação Nacional de Articulação de Quilombos \n(Conaq) revela que 98,2% dos quilombos estão ameaçados \npor obras de infraestrutura, requerimentos minerários ou \nimóveis particulares que se sobrepõem aos limites da área \nde ocupação tradicional. O território mais pressionado por \nobras de infraestrutura, por exemplo, é o quilombo Kalunga \ndo Mimoso, em Tocantins, com 100% da área sobreposta \npor três empreendimentos: uma rodovia, uma ferrovia e uma \nhidrelétrica.\n\n(www.redebrasilatual.com.br, 16.05.2024. Adaptado.)\n\nAs ameaças apontadas no excerto estão relacionadas ao fato \nde os quilombolas",
+    "statement": "Um estudo do Instituto Socioambiental (ISA) em parceria com a Coordenação Nacional de Articulação de Quilombos (Conaq) revela que 98,2% dos quilombos estão ameaçados por obras de infraestrutura, requerimentos minerários ou imóveis particulares que se sobrepõem aos limites da área de ocupação tradicional. O território mais pressionado por obras de infraestrutura, por exemplo, é o quilombo Kalunga do Mimoso, em Tocantins, com 100% da área sobreposta por três empreendimentos: uma rodovia, uma ferrovia e uma hidrelétrica.\n\n(www.redebrasilatual.com.br, 16.05.2024. Adaptado.)\n\nAs ameaças apontadas no excerto estão relacionadas ao fato de os quilombolas",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "exteriorizarem falta de conhecimento acerca dos limites de suas terras.",
-      "demonstrarem carência de critérios para a sua autoidentificação.",
+      "demonstrarem carência de critérios para a sua autoiden- tificação.",
       "exibirem a fragilidade da legislação sobre seus direitos à terra.",
       "evidenciarem a falta de órgão federal responsável pelo reconhecimento de suas terras.",
       "explicitarem a lentidão no processo de titulação de seus territórios."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 22."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 7,
@@ -975,12 +1087,17 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o mapa publicado no perfil @jnascim, na rede \nsocial X, em 26.12.2018.\n\nTerritório desejado, 2016 a 2018\n\n(https://x.com. Adaptado.)\n\nConsiderando as disputas territoriais por terras indígenas, as \nilegalidades representadas no mapa são motivadas",
+    "statement": "Analise o mapa publicado no perfil @jnascim, na rede social X, em 26.12.2018.\n\nTerritório desejado, 2016 a 2018\n\n(https://x.com. Adaptado.)\n\nConsiderando as disputas territoriais por terras indígenas, as ilegalidades representadas no mapa são motivadas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a1/q23-1.svg",
+        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -992,15 +1109,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 23."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 8,
@@ -1025,11 +1141,15 @@ export const uea2024Sis = [
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "Analise a imagem que demonstra as ações dos grileiros.\n\n(https://arvoreagua.org. Adaptado.)\n\nAs ações dos grileiros objetivam a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q24-1.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a1/q24-1.svg",
+        "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -1041,15 +1161,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 24."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 8,
@@ -1073,32 +1192,35 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n(https://amazonia2030.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização \nbrasileira, a rede urbana amazônica caracteriza-se",
+    "statement": "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n(https://amazonia2030.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização brasileira, a rede urbana amazônica caracteriza-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2024-a1/q25-1.svg",
+        "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
       "pela formação de megalópoles próximas às hidrovias, o que expande a integração econômica entre as cidades.",
       "pelo espaçamento entre as cidades de pequeno porte, o que reflete na expansão do processo de metropolização.",
       "pelas grandes distâncias entre as cidades de grande e de pequeno porte, o que limita os fluxos de bens, pessoas e serviços.",
-      "pelo processo de conurbação entre as cidades de pequeno porte, o que dinamiza o acesso a serviços públicos.",
+      "pelo processo de conurbação entre as cidades de peque- no porte, o que dinamiza o acesso a serviços públicos.",
       "pela rapidez do processo de desmetropolização regional, o que revela a opção da população em migrar para outras regiões."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 25."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 9,
@@ -1122,26 +1244,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Laika era uma cadela com cerca de dois anos de idade, \nque vivia pelas ruas de Moscou, capital da Rússia. Ela se \ntornou a primeira criatura terrestre viva a orbitar a Terra na \nmissão da Sputnik 2, que aconteceu em 3 de novembro de \n1957. A agência espacial americana estima que o animal \nsobreviveu apenas algumas horas depois de chegar à órbita, pois a espaçonave sobreaqueceu durante a decolagem. \nAinda segundo a Administração Nacional de Aeronáutica e \nEspaço (Nasa), a falta de tempo, de investimento e de um \nprojeto mais bem pensado no sistema de controle por parte \ndos engenheiros foram decisivos para a morte de Laika.\n\n(www.nationalgeographicbrasil.com, 03.11.2022. Adaptado.)\n\nApesar das consequências negativas apresentadas no \nexcerto, o pioneirismo da referida missão insere-se no contexto da chamada",
+    "statement": "Laika era uma cadela com cerca de dois anos de idade, que vivia pelas ruas de Moscou, capital da Rússia. Ela se tornou a primeira criatura terrestre viva a orbitar a Terra na missão da Sputnik 2, que aconteceu em 3 de novembro de 1957. A agência espacial americana estima que o animal sobreviveu apenas algumas horas depois de chegar à órbita, pois a espaçonave sobreaqueceu durante a decolagem. Ainda segundo a Administração Nacional de Aeronáutica e Espaço (Nasa), a falta de tempo, de investimento e de um projeto mais bem pensado no sistema de controle por parte dos engenheiros foram decisivos para a morte de Laika.\n\n(www.nationalgeographicbrasil.com, 03.11.2022. Adaptado.)\n\nApesar das consequências negativas apresentadas no excerto, o pioneirismo da referida missão insere-se no contexto da chamada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ação decolonial, parte estratégica de novas corridas imperialistas.",
-      "corrida armamentista, integrante da disputa pela hegemonia global.",
+      "corrida armamentista, integrante da disputa pela hege- monia global.",
       "revolução técnica, avanço científico durante a Segunda Guerra Mundial.",
       "corrida aeroespacial, produto da bipolaridade na Guerra Fria.",
       "política desenvolvimentista, recorte geopolítico da Nova Ordem Mundial."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 9,
@@ -1165,7 +1291,13 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O estranho dia em que o FMI criticou o neoliberalismo\n\nTrês dos altos funcionários do Fundo Monetário Internacional (FMI) assinaram um documento que, entre outras coisas, dizia: “Há aspectos da agenda neoliberal que não têm \nfuncionado como se esperava”. As declarações surpreenderam por serem aparentemente uma admissão de um erro por \nparte de especialistas do FMI quanto às políticas impostas \npelo organismo ao redor do mundo, mesmo diante da resistência a elas — políticas que, segundo seus críticos, foram \nadotadas com um elevado custo social.\n\n(www.bbc.com, 30.06.2016. Adaptado.)\n\nCaracteriza um exemplo de medida neoliberal imposta pelo \nFMI para a concessão de empréstimos:",
+    "statement": "O estranho dia em que o FMI criticou o neoliberalismo\n\nTrês dos altos funcionários do Fundo Monetário Internacional (FMI) assinaram um documento que, entre outras coisas, dizia: “Há aspectos da agenda neoliberal que não têm funcionado como se esperava”. As declarações surpreenderam por serem aparentemente uma admissão de um erro por parte de especialistas do FMI quanto às políticas impostas pelo organismo ao redor do mundo, mesmo diante da resistência a elas — políticas que, segundo seus críticos, foram adotadas com um elevado custo social.\n\n(www.bbc.com, 30.06.2016. Adaptado.)\n\nCaracteriza um exemplo de medida neoliberal imposta pelo FMI para a concessão de empréstimos:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o fortalecimento do Estado de bem-estar social.",
@@ -1176,15 +1308,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 27."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 9,
@@ -1208,7 +1339,12 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O Índice de Desenvolvimento Humano (IDH) é uma medida resumida do progresso a longo prazo em três dimensões \nbásicas do desenvolvimento humano: Produto Interno Bruto \n(PIB) per capita, educação e saúde. O IDH pretende ser uma \nmedida geral e sintética que, apesar de ampliar a perspectiva \nsobre o desenvolvimento humano, não abrange todos os aspectos de desenvolvimento.\n\n(www.undp.org. Adaptado.)\n\nUm aspecto ignorado no cálculo do IDH, porém importante \npara ampliar a perspectiva sobre o desenvolvimento \nhumano, é",
+    "statement": "O Índice de Desenvolvimento Humano (IDH) é uma medida resumida do progresso a longo prazo em três dimensões básicas do desenvolvimento humano: Produto Interno Bruto (PIB) per capita, educação e saúde. O IDH pretende ser uma medida geral e sintética que, apesar de ampliar a perspectiva sobre o desenvolvimento humano, não abrange todos os aspectos de desenvolvimento.\n\n(www.undp.org. Adaptado.)\n\nUm aspecto ignorado no cálculo do IDH, porém importante para ampliar a perspectiva sobre o desenvolvimento humano, é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a pauta de importações.",
@@ -1219,15 +1355,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 28."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 10,
@@ -1251,7 +1386,12 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Na natureza, o lobo-guará (Chrysocyon brachyurus) vive \ncerca de 15 anos. A cada gestação, que dura pouco mais de \ndois meses, nascem em média dois filhotes. Apesar do porte \nimponente e da alcunha de “lobo”, é tímido, solitário e praticamente inofensivo, preferindo manter distância de populações \nhumanas. Usa suas presas para se alimentar de pequenos \nanimais, além de frutos variados, como o araticum e a lobeira, alimento muito consumido pelo guará. É avistado normalmente circulando nos fins de tardes e durante as noites.\n\n(www.wwf.org.br. Adaptado.)\n\nConsiderando-se somente essa descrição sobre o lobo-\n-guará, o conceito ecológico que está presente no excerto \né o de",
+    "statement": "Na natureza, o lobo-guará (Chrysocyon brachyurus) vive cerca de 15 anos. A cada gestação, que dura pouco mais de dois meses, nascem em média dois filhotes. Apesar do porte imponente e da alcunha de “lobo”, é tímido, solitário e praticamente inofensivo, preferindo manter distância de populações humanas. Usa suas presas para se alimentar de pequenos animais, além de frutos variados, como o araticum e a lobeira, alimento muito consumido pelo guará. É avistado normalmente circulando nos fins de tardes e durante as noites.\n\n(www.wwf.org.br. Adaptado.)\n\nConsiderando-se somente essa descrição sobre o lobo-guará, o conceito ecológico que está presente no excerto é o de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "hábitat.",
@@ -1262,15 +1402,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 10,
@@ -1294,7 +1433,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um glóbulo branco do sangue humano apresenta uma organização celular mais complexa do que uma célula bacteriana. \nEssa maior complexidade é indicada por meio da presença \ndo seguinte componente celular:",
+    "statement": "Um glóbulo branco do sangue humano apresenta uma organização celular mais complexa do que uma célula bacteriana. Essa maior complexidade é indicada por meio da presença do seguinte componente celular:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ribossomo.",
@@ -1305,15 +1447,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 30."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 10,
@@ -1337,26 +1478,28 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A ingestão de sal é essencial para a saúde porque ele contém substâncias que auxiliam na atividade celular e regulam \na quantidade de fluidos presentes no corpo humano. No entanto, a Organização Mundial de Saúde (OMS) recomenda \nque pessoas saudáveis consumam no máximo 5 gramas de \nsal por dia. O sal é um alimento importante porque contém",
+    "statement": "A ingestão de sal é essencial para a saúde porque ele contém substâncias que auxiliam na atividade celular e regulam a quantidade de fluidos presentes no corpo humano. No entanto, a Organização Mundial de Saúde (OMS) recomenda que pessoas saudáveis consumam no máximo 5 gramas de sal por dia. O sal é um alimento importante porque contém",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "potássio, mas que, se consumido em excesso, causa diabetes.",
-      "sódio, mas que, se consumido em excesso, eleva a pressão arterial.",
+      "sódio, mas que, se consumido em excesso, eleva a pres- são arterial.",
       "cloro, mas que, se consumido em excesso, provoca catarata.",
-      "cálcio, mas que, se consumido em excesso, desencadeia anemia.",
-      "ferro, mas que, se consumido em excesso, origina cálculos renais."
+      "cálcio, mas que, se consumido em excesso, desenca- deia anemia.",
+      "ferro, mas que, se consumido em excesso, origina cál- culos renais."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 10,
@@ -1380,12 +1523,16 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o cartum que retrata um problema enfrentado por \nmuitos adolescentes e adultos no mundo.\n\n(Ángel Bóligan. www.irancartoon.com)\n\nO problema retratado no cartum relaciona-se a:",
+    "statement": "Analise o cartum que retrata um problema enfrentado por muitos adolescentes e adultos no mundo.\n\n(Ángel Bóligan. www.irancartoon.com)\n\nO problema retratado no cartum relaciona-se a:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q32-1.jpg",
-        "alt": "Imagem de apoio da questão 32 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/sis-2024-a1/q32-1.svg",
+        "alt": "Imagem de apoio da questão 32 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -1397,15 +1544,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 10,
@@ -1429,26 +1575,28 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em uma atividade escolar sobre evolução do metabolismo \ntrófico, foi solicitado aos estudantes que, de acordo com a \nhipótese heterotrófica, organizassem a provável sequência \nde eventos bioquímicos e biológicos, ao longo do tempo. Os \nestudantes que responderam corretamente à solicitação do \nprofessor indicaram a seguinte sequência de eventos:",
+    "statement": "Em uma atividade escolar sobre evolução do metabolismo trófico, foi solicitado aos estudantes que, de acordo com a hipótese heterotrófica, organizassem a provável sequência de eventos bioquímicos e biológicos, ao longo do tempo. Os estudantes que responderam corretamente à solicitação do professor indicaram a seguinte sequência de eventos:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "formação de compostos orgânicos → organismos aeróbios heterotróficos → organismos fotossintetizantes → organismos anaeróbios heterotróficos.",
-      "organismos aeróbios heterotróficos → formação de compostos orgânicos → organismos anaeróbios heterotróficos → organismos fotossintetizantes.",
+      "formação de compostos orgânicos → organismos aeró- bios heterotróficos → organismos fotossintetizantes → organismos anaeróbios heterotróficos.",
+      "organismos aeróbios heterotróficos → formação de com- postos orgânicos → organismos anaeróbios heterotrófi- cos → organismos fotossintetizantes.",
       "organismos anaeróbios heterotróficos → organismos aeróbios heterotróficos → formação de compostos orgânicos → organismos fotossintetizantes.",
-      "formação de compostos orgânicos → organismos anaeróbios heterotróficos → organismos fotossintetizantes → organismos aeróbios heterotróficos.",
-      "organismos anaeróbios heterotróficos → organismos aeróbios heterotróficos → organismos fotossintetizantes → formação de compostos orgânicos."
+      "formação de compostos orgânicos → organismos anae- róbios heterotróficos → organismos fotossintetizantes → organismos aeróbios heterotróficos.",
+      "organismos anaeróbios heterotróficos → organismos ae- róbios heterotróficos → organismos fotossintetizantes → formação de compostos orgânicos."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 11,
@@ -1472,12 +1620,16 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o esquema que ilustra interações tróficas em um \necossistema marinho.\n\n(https://kidspressmagazine.com. Adaptado.)\n\nDe acordo com o esquema, os seres vivos que incorporam \nenergia química do ambiente e os seres vivos que devolvem \na matéria para o meio estão indicados, respectivamente, por",
+    "statement": "Analise o esquema que ilustra interações tróficas em um ecossistema marinho.\n\n(https://kidspressmagazine.com. Adaptado.)\n\nDe acordo com o esquema, os seres vivos que incorporam energia química do ambiente e os seres vivos que devolvem a matéria para o meio estão indicados, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q34-1.jpg",
-        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/sis-2024-a1/q34-1.svg",
+        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -1489,15 +1641,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 11,
@@ -1521,7 +1672,12 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "As mudanças climáticas têm um caráter global e seus \nefeitos já são uma realidade. “É grande o desafio que marcará nossa época”, garante o secretário-geral das Nações Unidas, António Guterres. As evidências científicas nesse sentido são nítidas. A seguir, estão elencadas duas delas:\n\n• \u0007o ser humano, com sua atividade agropecuária e suas \nemissões, está afetando a composição da atmosfera;\n\n• \u0007a crescente concentração de gases de feito estufa (GEE) \nna atmosfera está contribuindo para um aumento do efeito \nestufa e, consequentemente, da temperatura global.\n\n(www.iberdrola.com. Adaptado.)\n\nUm dos fatores que contribuem, consideravelmente, para o \naquecimento global é",
+    "statement": "As mudanças climáticas têm um caráter global e seus efeitos já são uma realidade. “É grande o desafio que marcará nossa época”, garante o secretário-geral das Nações Unidas, António Guterres. As evidências científicas nesse sentido são nítidas. A seguir, estão elencadas duas delas: • o ser humano, com sua atividade agropecuária e suas emissões, está afetando a composição da atmosfera; • a crescente concentração de gases de feito estufa (GEE) na atmosfera está contribuindo para um aumento do efeito estufa e, consequentemente, da temperatura global.\n\n(www.iberdrola.com. Adaptado.)\n\nUm dos fatores que contribuem, consideravelmente, para o aquecimento global é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a queima excessiva de combustíveis fósseis.",
@@ -1532,15 +1688,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 35."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 11,
@@ -1564,32 +1719,35 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Examine uma representação de evolução dos hominídeos \ncomumente tratada em livros, sites e veículos de comunicação.\n\n(www.smithsonianmag.com)\n\nA representação mostra uma sequência de hominídeos primatas, que se sucederam linearmente até chegar à atual \nespécie humana.\nCom base nos conhecimentos biológicos evolutivos, tem-se \nque o autor da ilustração fez uma representação",
+    "statement": "Examine uma representação de evolução dos hominídeos comumente tratada em livros, sites e veículos de comunicação.\n\n(www.smithsonianmag.com)\n\nA representação mostra uma sequência de hominídeos primatas, que se sucederam linearmente até chegar à atual espécie humana. Com base nos conhecimentos biológicos evolutivos, tem-se que o autor da ilustração fez uma representação",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q36-1.jpg",
-        "alt": "Imagem de apoio da questão 36 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/sis-2024-a1/q36-1.svg",
+        "alt": "Imagem de apoio da questão 36 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
       "correta, porque a espécie humana surgiu diretamente dos macacos, transformando e melhorando o corpo físico.",
-      "correta, porque a espécie humana evoluiu de forma contínua visando à maior eficiência dos órgãos.",
+      "correta, porque a espécie humana evoluiu de forma con- tínua visando à maior eficiência dos órgãos.",
       "incorreta, porque a espécie humana não descende do macaco e sim de um ancestral em comum.",
       "incorreta, porque a espécie humana não tem nenhuma semelhança com o macaco.",
       "incorreta, porque a espécie humana não sofreu nenhuma modificação desde a sua origem."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 36."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 11,
@@ -1613,7 +1771,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Dentre 15 000 pessoas que participaram de um estudo, 46% \neram crianças. Dentre essas crianças, apenas 14% consumiam a quantidade diária de açúcar de acordo com o recomendado pela Organização Mundial da Saúde (OMS). O \nnúmero de crianças participantes desse estudo que consumiam, diariamente, a quantidade de açúcar recomendada \npela OMS é",
+    "statement": "Dentre 15 000 pessoas que participaram de um estudo, 46% eram crianças. Dentre essas crianças, apenas 14% consumiam a quantidade diária de açúcar de acordo com o recomendado pela Organização Mundial da Saúde (OMS). O número de crianças participantes desse estudo que consumiam, diariamente, a quantidade de açúcar recomendada pela OMS é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "480.",
@@ -1624,15 +1785,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 37."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 12,
@@ -1656,7 +1816,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A média aritmética das idades de 60 funcionários de uma empresa é igual a 39,6 anos. Considerando apenas os homens, \na média das idades é igual a 43 anos e, considerando apenas \nas mulheres, a média das idades é igual a 37 anos. O número \nde funcionárias mulheres nessa empresa é",
+    "statement": "A média aritmética das idades de 60 funcionários de uma empresa é igual a 39,6 anos. Considerando apenas os homens, a média das idades é igual a 43 anos e, considerando apenas as mulheres, a média das idades é igual a 37 anos. O número de funcionárias mulheres nessa empresa é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "34.",
@@ -1667,15 +1830,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 38."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 12,
@@ -1699,7 +1861,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Considere a função polinomial do segundo grau \nf(x) = x2 + kx + 7, em que k é uma constante real positiva. \nSabendo que o menor valor assumido por essa função é 3, \na soma f(1) + f(–1) é igual a",
+    "statement": "Considere a função polinomial do segundo grau f(x) = $x^{2}$ + kx + 7, em que k é uma constante real positiva. Sabendo que o menor valor assumido por essa função é 3, a soma f(1) + f(–1) é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.",
@@ -1710,15 +1875,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 39."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 12,
@@ -1742,8 +1906,17 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um ponto E está sobre o lado CD de um retângulo ABCD e \num ponto F está sobre o segmento AE, tal que o segmento BF \né perpendicular ao segmento AE, conforme mostra a figura.\n\nSabendo que o lado AB mede o triplo do segmento AF e que \no segmento DE mede 1 cm a mais do que o segmento AF, a \nmedida do segmento EF é",
-    "images": [],
+    "statement": "Um ponto E está sobre o lado CD de um retângulo ABCD e um ponto F está sobre o segmento AE, tal que o segmento BF é perpendicular ao segmento AE, conforme mostra a figura.\n\nSabendo que o lado AB mede o triplo do segmento AF e que o segmento DE mede 1 cm a mais do que o segmento AF, a medida do segmento EF é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "6 cm.",
       "7 cm.",
@@ -1753,15 +1926,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 40."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 12,
@@ -1785,26 +1957,34 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um retângulo ABCD foi dividido em quatro retângulos de \nmesma área, conforme mostra a figura.\n\nA área do retângulo ABCD é",
-    "images": [],
+    "statement": "Um retângulo ABCD foi dividido em quatro retângulos de mesma área, conforme mostra a figura.\n\nA área do retângulo ABCD é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q41-1.svg",
+        "alt": "Figura de apoio da questão 41."
+      }
+    ],
     "alternatives": [
-      "432 cm2.",
-      "480 cm2.",
-      "576 cm2.",
-      "648 cm2.",
-      "696 cm2."
+      "432 cm².",
+      "480 cm².",
+      "576 cm².",
+      "648 cm².",
+      "696 cm²."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 41."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 12,
@@ -1828,7 +2008,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um encontro de professores e responsáveis ocorrerá em seis \nsalas de aula que ficam lado a lado. Seis professores foram \nconvocados para esse encontro, sendo que cada professor \nficará em uma única sala e não ficarão dois professores na \nmesma sala. Ana, que é a professora de matemática, não \nquer ficar na primeira sala, e Carlos, que é professor de física, quer ficar na última sala. O número de maneiras distintas \nde distribuir os seis professores pelas seis salas, satisfazendo os pedidos de Ana e Carlos, é",
+    "statement": "Um encontro de professores e responsáveis ocorrerá em seis salas de aula que ficam lado a lado. Seis professores foram convocados para esse encontro, sendo que cada professor ficará em uma única sala e não ficarão dois professores na mesma sala. Ana, que é a professora de matemática, não quer ficar na primeira sala, e Carlos, que é professor de física, quer ficar na última sala. O número de maneiras distintas de distribuir os seis professores pelas seis salas, satisfazendo os pedidos de Ana e Carlos, é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "48.",
@@ -1839,15 +2022,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 42."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 13,
@@ -1871,7 +2053,12 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A distribuição dos salários dos funcionários de uma empresa \né dada pela tabela a seguir.\n\nNúmero de funcionários\nSalário em R$\n15\n3.100,00\n22\n2.900,00\n35\n2.500,00\n28\n1.800,00\n\nA mediana dos salários desses funcionários é",
+    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários\t\tSalário em R$\n\t15\t3.100,00\n\t22\t2.900,00\n\t35\t2.500,00\n\t28\t1.800,00\n\nA mediana dos salários desses funcionários é",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 2.482,00.",
@@ -1882,15 +2069,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 43."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 13,
@@ -1914,8 +2100,18 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No plano cartesiano, o gráfico que representa uma função \npolinomial de 1o grau passa pelos pontos B, C e D.\n\nfora de escala\n\nAs coordenadas do ponto B são",
-    "images": [],
+    "statement": "No plano cartesiano, o gráfico que representa uma função polinomial de 1º grau passa pelos pontos B, C e D.\n\nfora de escala\n\nAs coordenadas do ponto B são",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "(3, 0).",
       "(2, 0).",
@@ -1925,15 +2121,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 44."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 13,
@@ -1957,7 +2152,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Durante uma viagem, um ônibus percorreu uma distância \nde 240 km, com velocidade escalar média de 120 km/h, \nda cidade P até um posto de serviços, onde ficou parado \npor 30 minutos. Após a parada, o ônibus se deslocou até a \ncidade Q com uma velocidade escalar média de 80 km/h. \nSabendo que a distância total da viagem, entre as cidades \nP e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada \nem Q foi de",
+    "statement": "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 km/h, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 km/h. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "76 km/h.",
@@ -1968,15 +2166,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 45."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 13,
@@ -2000,7 +2197,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A vida de determinada estrela começa com uma nebulosa, \numa nuvem de poeira cósmica densa, que colapsa sob a \nação da para formar uma protoestrela. Quando \na temperatura e a pressão no núcleo tornam-se suficientemente , inicia-se a nuclear, marcando \na fase de sequência principal, em que a estrela passa a maior \nparte da sua vida convertendo hidrogênio em hélio.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A vida de determinada estrela começa com uma nebulosa, uma nuvem de poeira cósmica densa, que colapsa sob a ação da para formar uma protoestrela. Quando a temperatura e a pressão no núcleo tornam-se suficientemente, inicia-se a nuclear, marcando a fase de sequência principal, em que a estrela passa a maior parte da sua vida convertendo hidrogênio em hélio. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "temperatura – baixas – fissão.",
@@ -2011,15 +2211,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 46."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 14,
@@ -2043,7 +2242,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A órbita de um planeta em torno do Sol é elíptica, sendo que \no Sol ocupa um dos focos dessa elipse. Considerando que \no periélio é o ponto da órbita que está mais próximo do Sol, \nque o afélio é o ponto da órbita que está mais distante do Sol \ne que a força que atrai o planeta em direção ao Sol é a gravitacional, uma consequência direta das leis de Kepler é que \na velocidade escalar de um planeta, ao longo de sua órbita, \ntem seu valor",
+    "statement": "A órbita de um planeta em torno do Sol é elíptica, sendo que o Sol ocupa um dos focos dessa elipse. Considerando que o periélio é o ponto da órbita que está mais próximo do Sol, que o afélio é o ponto da órbita que está mais distante do Sol e que a força que atrai o planeta em direção ao Sol é a gravitacional, uma consequência direta das leis de Kepler é que a velocidade escalar de um planeta, ao longo de sua órbita, tem seu valor",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "máximo no periélio.",
@@ -2054,15 +2256,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 48."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 14,
@@ -2086,7 +2287,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No ponto de conexão de um fio condutor ao terminal de uma bateria passam 8,0 × 1016 elétrons em 20 s. Sabendo que o valor \nabsoluto da carga de cada elétron é 1,6 × 10–19 C, a intensidade de corrente elétrica que passa por esse ponto, expressa \nem notação científica, é de",
+    "statement": "No ponto de conexão de um fio condutor ao terminal de uma bateria passam 8,0 × $10^{16}$ elétrons em 20 s. Sabendo que o valor absoluto da carga de cada elétron é 1,6 × 10–19 C, a intensidade de corrente elétrica que passa por esse ponto, expressa em notação científica, é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3,2 × 10– 2 A.",
@@ -2097,15 +2301,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 49."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 14,
@@ -2129,12 +2332,16 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Diariamente, um restaurante dispõe os alimentos em um balcão expositor aquecido, como o da figura.\n\n(https:// acimaq.com.br)\n\nQuando está ligado, esse expositor requisita a potência de \n2 700 W. Considerando que no decorrer de um mês completo \no número de horas que o balcão permanece ligado soma o \ntotal de 90 horas, a energia elétrica utilizada pelo balcão, nesse período de tempo, é de, aproximadamente,",
+    "statement": "Diariamente, um restaurante dispõe os alimentos em um balcão expositor aquecido, como o da figura.\n\n(https:// acimaq.com.br)\n\nQuando está ligado, esse expositor requisita a potência de 2 700 W. Considerando que no decorrer de um mês completo o número de horas que o balcão permanece ligado soma o total de 90 horas, a energia elétrica utilizada pelo balcão, nesse período de tempo, é de, aproximadamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q50-1.jpg",
-        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/sis-2024-a1/q50-1.svg",
+        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
@@ -2146,15 +2353,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 50."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 15,
@@ -2178,32 +2384,34 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o circuito formado por interruptores e lâmpadas idênticas e uma fonte de energia.\n\nFechando-se os interruptores Ch1, Ch2 e Ch3 e sabendo que \nnenhuma lâmpada se queima, ficarão acesas as lâmpadas",
+    "statement": "Analise o circuito formado por interruptores e lâmpadas idênticas e uma fonte de energia.\n\nnenhuma lâmpada se queima, ficarão acesas as lâmpadasFechando-se os interruptores $Ch_{1}$, $Ch_{2}$ e $Ch_{3}$ e sabendo que",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q52-1.jpg",
-        "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/sis-2024-a1/q52-1.svg",
+        "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
-      "L1 e L3, apenas.",
-      "L2 e L4, apenas.",
-      "L3 e L4, apenas.",
-      "L1, L2 e L3, apenas.",
-      "L1, L2, L3 e L4."
+      "$L_{1}$ e $L_{3}$, apenas.",
+      "$L_{2}$ e $L_{4}$, apenas.",
+      "$L_{3}$ e $L_{4}$, apenas.",
+      "$L_{1}$, $L_{2}$ e $L_{3}$, apenas.",
+      "$L_{1}$, $L_{2}$, $L_{3}$ e $L_{4}$."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 52."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 16,
@@ -2227,8 +2435,17 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o gráfico que mostra o comportamento de uma substância durante seu aquecimento e resfriamento.\n\nO estado gasoso durante o aquecimento e o equilíbrio entre \nas fases sólida e líquida durante o resfriamento são observadas, respectivamente, nos intervalos de números",
-    "images": [],
+    "statement": "Analise o gráfico que mostra o comportamento de uma substância durante seu aquecimento e resfriamento.\n\nO estado gasoso durante o aquecimento e o equilíbrio entre as fases sólida e líquida durante o resfriamento são observadas, respectivamente, nos intervalos de números",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
       "2 e 6.",
       "3 e 7.",
@@ -2238,15 +2455,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 53."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 16,
@@ -2270,8 +2486,18 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O esquema representa o processo de formação de elementos químicos nas estrelas.\n\n(www.bbc.com. Adaptado.)\n\nO nome do processo representado no esquema e o nome da \npartícula X são, respectivamente,",
-    "images": [],
+    "statement": "O esquema representa o processo de formação de elementos químicos nas estrelas.\n\n(www.bbc.com. Adaptado.)\n\nO nome do processo representado no esquema e o nome da partícula X são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a1/q54-1.svg",
+        "alt": "Figura de apoio da questão 54."
+      }
+    ],
     "alternatives": [
       "fusão nuclear e elétron.",
       "fusão nuclear e nêutron.",
@@ -2281,15 +2507,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 54."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 16,
@@ -2313,7 +2538,10 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No final do século XIX, Mendeleev propôs a classificação \ndos elementos químicos com base em suas propriedades \nquímicas e os organizou em uma tabela. No entanto, o critério adotado para a sequência linear dos elementos não era \nperiódico, pois se baseava no aumento da massa do elemento químico e, ainda, havia algumas pequenas inconsistências \nnessa tabela. No início do século XX, Henry Moseley atribuiu \nnúmeros inteiros sequenciais a cada elemento químico, que \nsão chamados de , e solucionou as inconsistências da classificação proposta inicialmente por Mendeleev.\n\nA lacuna do texto é preenchida por:",
+    "statement": "No final do século XIX, Mendeleev propôs a classificação dos elementos químicos com base em suas propriedades químicas e os organizou em uma tabela. No entanto, o critério adotado para a sequência linear dos elementos não era periódico, pois se baseava no aumento da massa do elemento químico e, ainda, havia algumas pequenas inconsistências nessa tabela. No início do século XX, Henry Moseley atribuiu números inteiros sequenciais a cada elemento químico, que são chamados de, e solucionou as inconsistências da classificação proposta inicialmente por Mendeleev. A lacuna do texto é preenchida por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "números de massa.",
@@ -2324,15 +2552,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 55."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 16,
@@ -2356,7 +2583,10 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O etanol (C2H5OH) dissolvido em água (H2O) com concentração 70%, na forma de solução aquosa ou de gel, é empregado como antisséptico de mãos e superfícies. A eficácia da \nação antisséptica do etanol é mais alta nessa concentração \ndo que no etanol puro, pois, se puro, ele se volatiliza muito \nrápido. O nome da principal força de interação entre as moléculas do etanol e da água é",
+    "statement": "O etanol (C₂H₅OH) dissolvido em água (H₂O) com concentração 70%, na forma de solução aquosa ou de gel, é empregado como antisséptico de mãos e superfícies. A eficácia da ação antisséptica do etanol é mais alta nessa concentração do que no etanol puro, pois, se puro, ele se volatiliza muito rápido. O nome da principal força de interação entre as moléculas do etanol e da água é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ligação de hidrogênio.",
@@ -2367,15 +2597,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 56."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 17,
@@ -2399,26 +2628,28 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O retorno, ao fabricante, de materiais já utilizados para o \nprocesso produtivo é uma prática conhecida como logística \nreversa. Apesar de não ser um processo de baixo custo, muitas empresas utilizam a logística reversa como parte de suas \noperações. A logística reversa é verificada quando",
+    "statement": "O retorno, ao fabricante, de materiais já utilizados para o processo produtivo é uma prática conhecida como logística reversa. Apesar de não ser um processo de baixo custo, muitas empresas utilizam a logística reversa como parte de suas operações. A logística reversa é verificada quando",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "empresas de equipamentos eletrônicos recuperam metais nobres usados nas placas de circuitos.",
+      "empresas de equipamentos eletrônicos recuperam me- tais nobres usados nas placas de circuitos.",
       "donas de casa reutilizam sacolas plásticas para descarte de lixo doméstico.",
       "pneus velhos são vendidos para fábricas de asfalto.",
       "esgotos são tratados para a produção de água de reuso.",
-      "usinas de álcool e açúcar queimam o bagaço da cana-de-açúcar para produzir energia elétrica."
+      "usinas de álcool e açúcar queimam o bagaço da cana- -de-açúcar para produzir energia elétrica."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 57."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 17,
@@ -2442,32 +2673,35 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O papel é um material formado por celulose, uma molécula com propriedades combustíveis. No entanto, o simples \ncontato do papel com o oxigênio do ar não é suficiente para \niniciar uma reação de combustão. Uma maneira de iniciar a \ncombustão do papel é utilizar uma lente de aumento para \nconvergir os raios solares para um ponto de uma folha de \npapel, como ilustrado na figura.\n\n(www.scienceabc.com. Adaptado.)\n\nSegundo a teoria das colisões efetivas, o uso da lente de \naumento inicia a combustão do papel porque",
+    "statement": "O papel é um material formado por celulose, uma molécula com propriedades combustíveis. No entanto, o simples contato do papel com o oxigênio do ar não é suficiente para iniciar uma reação de combustão. Uma maneira de iniciar a combustão do papel é utilizar uma lente de aumento para convergir os raios solares para um ponto de uma folha de papel, como ilustrado na figura.\n\n(www.scienceabc.com. Adaptado.)\n\nSegundo a teoria das colisões efetivas, o uso da lente de aumento inicia a combustão do papel porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q58-1.jpg",
-        "alt": "Imagem de apoio da questão 58 (UEA SIS — Acompanhamento I, 2024).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/sis-2024-a1/q58-1.svg",
+        "alt": "Imagem de apoio da questão 58 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
     "alternatives": [
       "promove o aumento da superfície de contato entre a celulose do papel e o oxigênio do ar.",
       "aumenta a energia de ativação do sistema.",
       "faz com que os raios solares concentrem o oxigênio do ar em torno do papel.",
-      "aumenta a agitação molecular das substâncias reagentes, tornando as colisões mais eficazes.",
+      "aumenta a agitação molecular das substâncias reagen- tes, tornando as colisões mais eficazes.",
       "atua como catalisador, tornando a reação mais rápida."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 58."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 17,
@@ -2491,7 +2725,16 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A eletroquímica é a área da química que estuda as reações \nque envolvem transferência de elétrons e participam de fenômenos como o da corrosão, do funcionamento das baterias e \nde processos industriais. As equações a seguir representam \ntrês semirreações de processos eletroquímicos.\n\nSemirreação 1: corrosão do casco de um navio\n\nFe (s) \n Fe2+ (aq) + 2e–\n\nSemirreação 2: produção industrial de gás cloro a partir de \nsalmoura\n\n2Cℓ – (aq) \n Cℓ2 (g) + 2e–\n\nSemirreação 3: cromação das rodas de automóveis\n\nCr3+ (aq) + 3e– \n Cr (s)\n\nA é um processo espontâneo e a semirreação representada é de .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A eletroquímica é a área da química que estuda as reações que envolvem transferência de elétrons e participam de fenômenos como o da corrosão, do funcionamento das baterias e de processos industriais. As equações a seguir representam três semirreações de processos eletroquímicos. Semirreação 1: corrosão do casco de um navio\n\nFe (s) Fe2+ (aq) + 2e–\n\nSemirreação 2: produção industrial de gás cloro a partir de salmoura\n\n2Cℓ – (aq) 2 (g) + 2e–\n\nSemirreação 3: cromação das rodas de automóveis\n\nCr3+ (aq) + 3e– Cr (s)\n\nA é um processo espontâneo e a semirreação representada é de. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "produção industrial de gás cloro a partir de salmoura – oxidação.",
@@ -2502,15 +2745,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 59."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 18,
@@ -2534,26 +2776,30 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Embora já tenha sido comprovado o potencial poluidor do \npetróleo, ele continua sendo um dos principais insumos de \nprodutos que utilizamos no dia a dia e uma parte importante \npara a economia de diversos países ao redor do mundo. Entretanto, não é só a queima desta substância e seus derivados que provoca malefícios ao ecossistema, o vazamento de \npetróleo no meio aquático causa impactos devastadores para \no meio ambiente.\n\n(https://ambscience.com)\n\nQuando o petróleo vaza de um navio transportador, aves, peixes e a vida vegetal podem ser afetados, pois o petróleo tem \ncomo característica",
+    "statement": "Embora já tenha sido comprovado o potencial poluidor do petróleo, ele continua sendo um dos principais insumos de produtos que utilizamos no dia a dia e uma parte importante para a economia de diversos países ao redor do mundo. Entretanto, não é só a queima desta substância e seus derivados que provoca malefícios ao ecossistema, o vazamento de petróleo no meio aquático causa impactos devastadores para o meio ambiente.\n\n(https://ambscience.com)\n\nQuando o petróleo vaza de um navio transportador, aves, peixes e a vida vegetal podem ser afetados, pois o petróleo tem como característica",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a alta solubilidade em água, podendo ser absorvido pelos seres vivos e lhes causar sérias intoxicações.",
-      "a alta densidade, podendo afundar rapidamente no oceano e contaminar o solo marinho.",
+      "a alta densidade, podendo afundar rapidamente no ocea- no e contaminar o solo marinho.",
       "o alto caráter hidrofóbico, provocando uma barreira superficial que impede a passagem da radiação solar.",
-      "a alta volatilidade, produzindo vapores tóxicos que são carregados pelo vento e pelas correntes marinhas afetando extensas áreas.",
+      "a alta volatilidade, produzindo vapores tóxicos que são carregados pelo vento e pelas correntes marinhas afe- tando extensas áreas.",
       "a alta reatividade com a água, formando produtos de reação que são prejudiciais para o meio ambiente."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf, questão 60."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-1_prova.pdf",
     "sourcePage": 18,
@@ -2577,26 +2823,35 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 01 a 04, leia o trecho do \nconto “Marcha fúnebre”, de Machado de Assis, que integra a \ncoletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite \nde agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o \nmínimo incômodo moral nem físico. Ao contrário, a noite foi \nexcelente; tão excelente que um inimigo seu, que padecia do \ncoração, faleceu antes das dez horas, e a notícia chegou ao \nCassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte \ndo homem, espécie de vingança que os corações adversos \ne fracos tomam em falta de outra. Digo-te que concluis mal; \nnão foi alegria, foi desabafo. A morte vinha de meses, era \ndaquelas que não acabam mais, e moem, mordem, comem, \ntrituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de \nantigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites \nhorrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com \nalguma palavra de compaixão, que o alvissareiro adotava, e \nrepetia, e era mais sincera naquele que neste. Enfim acabara \nde padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, \nsantificado seja o teu nome, venha a nós o teu reino, seja \nfeita a tua vontade, assim na terra como no céu; o pão nosso \nde cada dia nos dá hoje; perdoa as nossas dívidas, como \nnós perdoamos aos nossos devedores...” não imitava um de \nseus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a \ncobrar além do que eles lhe deviam, isto é, se ouvia maldizer \nde alguém, decorava tudo e mais alguma coisa e ia repeti-lo \na outra parte. No dia seguinte, porém, a bela oração de Jesus \ntornava a sair dos lábios da véspera com a mesma caridade \nde ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é \npossível, sem aliás ser evidente. Preguiça amamenta muita \nvirtude. Sempre é alguma coisa minguar força à ação do mal. \nNão esqueça que o deputado só gostava do mal alheio em \npolítica, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou \ncom a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nNo segundo parágrafo, o narrador informa que Cordovil \nrecebia visitas de amigos que lhe traziam informações \nsobre o estado de saúde do homem que, por fim, veio a \nfalecer. A motivação desses amigos era",
+    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nNo segundo parágrafo, o narrador informa que Cordovil recebia visitas de amigos que lhe traziam informações sobre o estado de saúde do homem que, por fim, veio a falecer. A motivação desses amigos era",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tranquilizar Cordovil, dizer que o homem ainda vivia e que possivelmente ainda viveria muito.",
       "oferecer a Cordovil o prazer de saber que seu inimigo sofria e não demoraria a morrer.",
       "levar conforto emocional a Cordovil, que sofria por saber que o inimigo não viveria muito tempo.",
-      "convencer Cordovil de que, ao contrário do que ele imaginava, o homem morreria em breve.",
+      "convencer Cordovil de que, ao contrário do que ele ima- ginava, o homem morreria em breve.",
       "acusar Cordovil de ser responsável pelo padecimento e pela morte iminente do inimigo."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 01."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 3,
@@ -2620,26 +2875,35 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considerando o contexto, constitui exemplo de eufemismo o \nverbo sublinhado em:",
+    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nConsiderando o contexto, constitui exemplo de eufemismo o verbo sublinhado em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Digo-te que concluis mal; não foi alegria, foi desabafo.” (2o parágrafo)",
-      "“Cordovil sabia dos padecimentos do adversário.” (2o parágrafo)",
-      "“Cordovil, salvo em política, não gostava do mal alheio.” (3o parágrafo)",
-      "“Cordovil não ia nas águas desse amigo; perdoava deveras.” (4o parágrafo)",
-      "“— Coitado! descansou, disse Cordovil.” (5o parágrafo)"
+      "“Digo-te que concluis mal; não foi alegria, foi desabafo.” (2º parágrafo)",
+      "“Cordovil sabia dos padecimentos do adversário.” (2º pa- rágrafo)",
+      "“Cordovil, salvo em política, não gostava do mal alheio.” (3º parágrafo)",
+      "“Cordovil não ia nas águas desse amigo; perdoava deve- ras.” (4º parágrafo)",
+      "“— Coitado! descansou, disse Cordovil.” (5º parágrafo)"
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 02."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 3,
@@ -2663,26 +2927,35 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O narrador recorre a uma expressão coloquial no seguinte \ntrecho:",
+    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nO narrador recorre a uma expressão coloquial no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“ele ficou alegre com a morte do homem” (2o parágrafo).",
-      "“Cordovil sabia dos padecimentos do adversário” (2o parágrafo).",
-      "“Cordovil não ia nas águas desse amigo” (4o parágrafo).",
-      "“o deputado só gostava do mal alheio em política” (4o parágrafo).",
-      "“o inimigo morto era inimigo pessoal” (4o parágrafo)."
+      "“ele ficou alegre com a morte do homem” (2º parágrafo).",
+      "“Cordovil sabia dos padecimentos do adversário” (2º pa- rágrafo).",
+      "“Cordovil não ia nas águas desse amigo” (4º parágrafo).",
+      "“o deputado só gostava do mal alheio em política” (4º pa- rágrafo).",
+      "“o inimigo morto era inimigo pessoal” (4º parágrafo)."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 03."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 3,
@@ -2706,26 +2979,35 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Adjetivo é a palavra que atribui uma característica a um substantivo. Por exemplo, na frase “Ao contrário, a noite foi excelente” (1o parágrafo), “excelente” é um adjetivo que qualifica \n“noite”.\n\nA oração sublinhada funciona como um adjetivo em:",
+    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nAdjetivo é a palavra que atribui uma característica a um substantivo. Por exemplo, na frase “Ao contrário, a noite foi excelente” (1º parágrafo), “excelente” é um adjetivo que qualifica “noite”. A oração sublinhada funciona como um adjetivo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“um inimigo seu, que padecia do coração, faleceu antes das dez horas” (1o parágrafo).",
-      "“Digo-te que concluis mal” (2o parágrafo).",
-      "“iam contar-lhe o que viam ou sabiam do enfermo” (2o parágrafo).",
-      "“Quando rezava, ao levantar da cama” (3o parágrafo).",
-      "“perdoa as nossas dívidas, como nós perdoamos aos nossos devedores” (3o parágrafo)."
+      "“um inimigo seu, que padecia do coração, faleceu antes das dez horas” (1º parágrafo).",
+      "“Digo-te que concluis mal” (2º parágrafo).",
+      "“iam contar-lhe o que viam ou sabiam do enfermo” (2º parágrafo).",
+      "“Quando rezava, ao levantar da cama” (3º parágrafo).",
+      "“perdoa as nossas dívidas, como nós perdoamos aos nossos devedores” (3º parágrafo)."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 04."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 4,
@@ -2749,12 +3031,14 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Na medida em que retrata a dureza da vida rural, a pintura \nA morte e o lenhador, do artista francês Jean-François Millet \n(1814-1875), assume uma dimensão de crítica social. Nesse sentido, a pintura de Millet acaba por dialogar, sobretudo, \ncom o movimento",
+    "statement": "Na medida em que retrata a dureza da vida rural, a pintura A morte e o lenhador, do artista francês Jean-François Millet (1814-1875), assume uma dimensão de crítica social. Nesse sentido, a pintura de Millet acaba por dialogar, sobretudo, com o movimento",
+    "blockTypes": [
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q05-1.jpg",
-        "alt": "Imagem de apoio da questão 05 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/sis-2024-a2/q05-1.svg",
+        "alt": "Imagem de apoio da questão 05 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -2762,19 +3046,18 @@ export const uea2024Sis = [
       "ultrarromântico.",
       "realista.",
       "parnasiano.",
-      "simbolista. Para responder às questões de 06 a 08, leia o trecho do romance A falência, de Júlia Lopes de Almeida. Na limpeza da casa, Nina encontrara em um caixote, no porão, entre um sem-número de objetos mutilados e antiquíssimos, o chicotinho com que Mário a zurzia nos dias de cólera, quando, pequena e magra, ela fazia reboar pelos corredores a sua tosse de cão, que ele abafava gritando-lhe: — Cala a boca! Cala a boca! (A falência, 2018.)"
+      "simbolista."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 05."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 4,
@@ -2798,7 +3081,14 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O trecho transcrito evidencia",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance A falência, de Júlia Lopes de Almeida.\n\nNa limpeza da casa, Nina encontrara em um caixote, no porão, entre um sem-número de objetos mutilados e antiquíssimos, o chicotinho com que Mário a zurzia nos dias de cólera, quando, pequena e magra, ela fazia reboar pelos corredores a sua tosse de cão, que ele abafava gritando-lhe:\n\n— Cala a boca! Cala a boca!\n\n(A falência, 2018.)\n\nO trecho transcrito evidencia",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a postura ingrata de Nina para com os Teodoros.",
@@ -2809,15 +3099,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 06."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 4,
@@ -2841,7 +3130,14 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os termos sublinhados no texto referem-se, respectivamente, a",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance A falência, de Júlia Lopes de Almeida.\n\nNa limpeza da casa, Nina encontrara em um caixote, no porão, entre um sem-número de objetos mutilados e antiquíssimos, o chicotinho com que Mário a zurzia nos dias de cólera, quando, pequena e magra, ela fazia reboar pelos corredores a sua tosse de cão, que ele abafava gritando-lhe:\n\n— Cala a boca! Cala a boca!\n\n(A falência, 2018.)\n\nOs termos sublinhados no texto referem-se, respectivamente, a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“chicotinho” e “casa”.",
@@ -2852,15 +3148,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 4,
@@ -2884,7 +3179,14 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um tópico bastante explorado por romances realistas do século XIX (como O primo Basílio, de Eça de Queirós, e Dom \nCasmurro, de Machado de Assis) e que também se faz presente em A falência é a temática",
+    "statement": "Para responder às questões de 06 a 08, leia o trecho do romance A falência, de Júlia Lopes de Almeida.\n\nNa limpeza da casa, Nina encontrara em um caixote, no porão, entre um sem-número de objetos mutilados e antiquíssimos, o chicotinho com que Mário a zurzia nos dias de cólera, quando, pequena e magra, ela fazia reboar pelos corredores a sua tosse de cão, que ele abafava gritando-lhe:\n\n— Cala a boca! Cala a boca!\n\n(A falência, 2018.)\n\nUm tópico bastante explorado por romances realistas do século XIX (como O primo Basílio, de Eça de Queirós, e Dom Casmurro, de Machado de Assis) e que também se faz presente em A falência é a temática",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do adultério.",
@@ -2895,15 +3197,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 08."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 4,
@@ -2927,7 +3228,15 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island \nof Parintins to the rest of the world. This remote city in the \nAmazon is 369 kilometres away from Manaus, the capital of \nBrazil’s Amazonas state. Parintins is home to thousands of \nIndigenous Brazilians and can only be reached by plane or \nboat. Its position along the Amazon River makes it dependent \non resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of \nParintins has developed a novel strategy that celebrates its \nfolk and Indigenous traditions: the Festival do Boi-Bumbá. \nThis annual event is the second most important festival in \nBrazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the \nlocal economy by attracting investment as well as thousands \nof visitors and artists. Over the years, the festival has become \nthe city’s bridge from the deep Amazon to the outside world, \nreducing political and physical isolation while reinforcing its \nsocial capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nThe main purpose of the text is to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island of Parintins to the rest of the world. This remote city in the Amazon is 369 kilometres away from Manaus, the capital of Brazil’s Amazonas state. Parintins is home to thousands of Indigenous Brazilians and can only be reached by plane or boat. Its position along the Amazon River makes it dependent on resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of Parintins has developed a novel strategy that celebrates its folk and Indigenous traditions: the Festival do Boi-Bumbá. This annual event is the second most important festival in Brazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the local economy by attracting investment as well as thousands of visitors and artists. Over the years, the festival has become the city’s bridge from the deep Amazon to the outside world, reducing political and physical isolation while reinforcing its social capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nThe main purpose of the text is to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "explain why Parintins festival is better than Rio de Janeiro’s carnival.",
@@ -2938,15 +3247,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 5,
@@ -2971,7 +3279,15 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island \nof Parintins to the rest of the world. This remote city in the \nAmazon is 369 kilometres away from Manaus, the capital of \nBrazil’s Amazonas state. Parintins is home to thousands of \nIndigenous Brazilians and can only be reached by plane or \nboat. Its position along the Amazon River makes it dependent \non resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of \nParintins has developed a novel strategy that celebrates its \nfolk and Indigenous traditions: the Festival do Boi-Bumbá. \nThis annual event is the second most important festival in \nBrazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the \nlocal economy by attracting investment as well as thousands \nof visitors and artists. Over the years, the festival has become \nthe city’s bridge from the deep Amazon to the outside world, \nreducing political and physical isolation while reinforcing its \nsocial capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nNo trecho do primeiro parágrafo “Its position along the \nAmazon River makes it dependent on resources”, o termo \nsublinhado refere-se a",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island of Parintins to the rest of the world. This remote city in the Amazon is 369 kilometres away from Manaus, the capital of Brazil’s Amazonas state. Parintins is home to thousands of Indigenous Brazilians and can only be reached by plane or boat. Its position along the Amazon River makes it dependent on resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of Parintins has developed a novel strategy that celebrates its folk and Indigenous traditions: the Festival do Boi-Bumbá. This annual event is the second most important festival in Brazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the local economy by attracting investment as well as thousands of visitors and artists. Over the years, the festival has become the city’s bridge from the deep Amazon to the outside world, reducing political and physical isolation while reinforcing its social capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nNo trecho do primeiro parágrafo “Its position along the Amazon River makes it dependent on resources”, o termo sublinhado refere-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“boat”.",
@@ -2982,15 +3298,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 10."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 5,
@@ -3015,7 +3330,15 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island \nof Parintins to the rest of the world. This remote city in the \nAmazon is 369 kilometres away from Manaus, the capital of \nBrazil’s Amazonas state. Parintins is home to thousands of \nIndigenous Brazilians and can only be reached by plane or \nboat. Its position along the Amazon River makes it dependent \non resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of \nParintins has developed a novel strategy that celebrates its \nfolk and Indigenous traditions: the Festival do Boi-Bumbá. \nThis annual event is the second most important festival in \nBrazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the \nlocal economy by attracting investment as well as thousands \nof visitors and artists. Over the years, the festival has become \nthe city’s bridge from the deep Amazon to the outside world, \nreducing political and physical isolation while reinforcing its \nsocial capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nNo trecho do segundo parágrafo “Despite these isolated \nconditions, the community of Parintins has developed a novel \nstrategy”, o termo sublinhado equivale, em português, a:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThere are no bridges or roads that connect the city-island of Parintins to the rest of the world. This remote city in the Amazon is 369 kilometres away from Manaus, the capital of Brazil’s Amazonas state. Parintins is home to thousands of Indigenous Brazilians and can only be reached by plane or boat. Its position along the Amazon River makes it dependent on resources that arrive from far away cities.\n\nDespite these isolated conditions, the community of Parintins has developed a novel strategy that celebrates its folk and Indigenous traditions: the Festival do Boi-Bumbá. This annual event is the second most important festival in Brazil, after Rio de Janeiro’s globally renowned carnival.\n\nBoi-Bumbá, which takes place at the end of June, fuels the local economy by attracting investment as well as thousands of visitors and artists. Over the years, the festival has become the city’s bridge from the deep Amazon to the outside world, reducing political and physical isolation while reinforcing its social capital and cultural assets.\n\n(Mauro Cossu et al. https://theconversation.com, 18.10.2022. Adaptado.)\n\nNo trecho do segundo parágrafo “Despite these isolated conditions, the community of Parintins has developed a novel strategy”, o termo sublinhado equivale, em português, a:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "por causa de.",
@@ -3026,15 +3349,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 11."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 5,
@@ -3059,12 +3381,16 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Read the comic strip by Jim Davis.\n\n(Garfield at large, 2012.)\n\nThe excerpt “What am I saying?!”, in the last panel, indicates \nthat the cat is",
+    "statement": "Read the comic strip by Jim Davis.\n\n(Garfield at large, 2012.)\n\nThe excerpt “What am I saying?!”, in the last panel, indicates that the cat is",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/sis-2024-a2/q12-1.svg",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -3076,15 +3402,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 12."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 5,
@@ -3109,7 +3434,13 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia um trecho de uma entrevista com a psicanalista Luanda \nFrancine.\n\nO antropocentrismo é um apaixonamento narcísico e o \nmito nos mostra o desfecho disso. Entretanto, é imprescindível que, antes de nos afogarmos, possamos dizer qual é a \nimagem que amamos, qual é a imagem que queremos nos \nfazer coincidir sob a égide do antropocentrismo.\n\n(João Vitor Santos. www.ihu.unisinos.br, 21.07.2022.)\n\nA psicanalista problematiza, na atualidade, um conceito \nrepresentativo",
+    "statement": "Leia um trecho de uma entrevista com a psicanalista Luanda Francine.\n\nO antropocentrismo é um apaixonamento narcísico e o mito nos mostra o desfecho disso. Entretanto, é imprescindível que, antes de nos afogarmos, possamos dizer qual é a imagem que amamos, qual é a imagem que queremos nos fazer coincidir sob a égide do antropocentrismo.\n\n(João Vitor Santos. www.ihu.unisinos.br, 21.07.2022.)\n\nA psicanalista problematiza, na atualidade, um conceito representativo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da transição entre o nomadismo e o sedentarismo.",
@@ -3120,15 +3451,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 13."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 5,
@@ -3152,26 +3482,31 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um documento de 1931, escrito pelo Barão Pierre de \nCoubertin, traz recomendações especiais às colônias europeias no continente africano, considerando a necessidade de \nse enfatizar nesses territórios as modalidades esportivas modernas individuais, à exceção a esgrima. Embora Coubertin \nenfatizasse que “as práticas esportivas não poderiam inspirar representações de vitória de uma raça dominada sobre a \nraça dominante”, ele buscava, por meio de seu receituário esportivo, reduzir o medo das administrações coloniais acerca \nda forma como os colonizados poderiam se valer do esporte \npara dar corpo a aspirações anticoloniais.\n\n(Neilton Ferreira Júnior. “Sobre Olimpíadas e hegemonia ocidental”.\n\nhttps://outraspalavras.net, 21.03.2022. Adaptado.)\n\nO excerto revela que, na primeira metade do século XX,",
+    "statement": "Um documento de 1931, escrito pelo Barão Pierre de Coubertin, traz recomendações especiais às colônias europeias no continente africano, considerando a necessidade de se enfatizar nesses territórios as modalidades esportivas modernas individuais, à exceção a esgrima. Embora Coubertin enfatizasse que “as práticas esportivas não poderiam inspirar representações de vitória de uma raça dominada sobre a raça dominante”, ele buscava, por meio de seu receituário esportivo, reduzir o medo das administrações coloniais acerca da forma como os colonizados poderiam se valer do esporte para dar corpo a aspirações anticoloniais.\n\n(Neilton Ferreira Júnior. “Sobre Olimpíadas e hegemonia ocidental”.\n\nhttps://outraspalavras.net, 21.03.2022. Adaptado.)\n\nO excerto revela que, na primeira metade do século XX,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "os esportes foram a base para os movimentos que pregavam a emancipação política de forma pacífica.",
+      "os esportes foram a base para os movimentos que prega- vam a emancipação política de forma pacífica.",
       "o darwinismo social era utilizado como justificativa para as vitórias esportivas de povos africanos e asiáticos.",
       "as lutas pelas independências afro-asiáticas envolveram técnicas utilizadas em esportes tradicionais.",
       "a proibição de algumas práticas esportivas nas colônias estava ligada à manutenção do imperialismo europeu.",
-      "as nações africanas e asiáticas usavam os jogos olímpicos para denunciar a colonização a que estavam submetidas."
+      "as nações africanas e asiáticas usavam os jogos olím- picos para denunciar a colonização a que estavam submetidas."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 6,
@@ -3195,7 +3530,12 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A Sabinada deriva da designação de seu principal líder, \nSabino Barroso, jornalista e professor da Escola de Medicina. A Bahia vinha sendo cenário de várias revoltas urbanas \ndesde a Independência, entre elas revoltas de escravizados \nou com sua participação. A Sabinada reuniu uma base ampla \nde apoio, incluindo pessoas da classe média e do comércio \nde Salvador, em torno de ideias federalistas e republicanas.\n\n(Boris Fausto. História concisa do Brasil, 2021. Adaptado.)\n\nEntre as causas do movimento citado no excerto estava a \nbusca",
+    "statement": "A Sabinada deriva da designação de seu principal líder, Sabino Barroso, jornalista e professor da Escola de Medicina. A Bahia vinha sendo cenário de várias revoltas urbanas desde a Independência, entre elas revoltas de escravizados ou com sua participação. A Sabinada reuniu uma base ampla de apoio, incluindo pessoas da classe média e do comércio de Salvador, em torno de ideias federalistas e republicanas.\n\n(Boris Fausto. História concisa do Brasil, 2021. Adaptado.)\n\nEntre as causas do movimento citado no excerto estava a busca",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela maior autonomia provincial.",
@@ -3206,15 +3546,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 6,
@@ -3238,26 +3577,31 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A legalização de posses irregulares por meio de alienação de terras devolutas1 é extremamente coerente com a \nhistória de ocupação da região amazônica. Diferentes estudiosos têm demonstrado a posse como principal forma de \naquisição de terras nesta região. De acordo com a historiadora Maria José dos Santos, “novos sujeitos sociais — degredados, militares e servidores do Estado — se tornaram detentores de extensos territórios, sem obterem títulos ou cartas de \nsesmarias2, ocorrendo uma posse simples.\n\n(Pedro Parga Rodrigues. Revista Maracanan, no 23, 2020. Adaptado.)\n\n1\u0007alienação de terras devolutas: transferência de terras públicas para \nparticulares.\n\n2\u0007carta de sesmaria: documento produzido por autoridades coloniais para \na doação de terras.\n\nNo contexto das políticas públicas do Segundo Reinado \n(1840-1889), o excerto demonstra que, na região amazônica, \nhavia",
+    "statement": "A legalização de posses irregulares por meio de alienação de terras devolutas¹ é extremamente coerente com a história de ocupação da região amazônica. Diferentes estudiosos têm demonstrado a posse como principal forma de aquisição de terras nesta região. De acordo com a historiadora Maria José dos Santos, “novos sujeitos sociais — degredados, militares e servidores do Estado — se tornaram detentores de extensos territórios, sem obterem títulos ou cartas de sesmarias², ocorrendo uma posse simples.\n\n(Pedro Parga Rodrigues. Revista Maracanan, nº 23, 2020. Adaptado.)\n\n1 alienação de terras devolutas: transferência de terras públicas para particulares.\n2 carta de sesmaria: documento produzido por autoridades coloniais para a doação de terras.\n\nNo contexto das políticas públicas do Segundo Reinado (1840-1889), o excerto demonstra que, na região amazônica, havia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "note",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o cumprimento formal do que previa a Lei Eusébio de Queirós.",
-      "a proposta de aquisição de terras por imigrantes europeus.",
+      "a proposta de aquisição de terras por imigrantes euro- peus.",
       "o afrouxamento das proposições estabelecidas pela Lei de Terras.",
       "a presença de projetos que coibiam a prática da grilagem.",
       "o resgate estatal de terras públicas em programas progressistas."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 6,
@@ -3281,12 +3625,16 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise as imagens que fazem parte de uma adaptação em \nquadrinhos do livro O diário de Anne Frank, concebida por \nAri Folman e ilustrada por David Polonsky. O livro original foi \nescrito entre 1942 e 1944.\n\n(O diário de Anne Frank em quadrinhos, 2020.)\n\nAs práticas explicitadas nas imagens expressam os ideais \nnazistas",
+    "statement": "Analise as imagens que fazem parte de uma adaptação em quadrinhos do livro O diário de Anne Frank, concebida por Ari Folman e ilustrada por David Polonsky. O livro original foi escrito entre 1942 e 1944.\n\n(O diário de Anne Frank em quadrinhos, 2020.)\n\nAs práticas explicitadas nas imagens expressam os ideais nazistas",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q17-1.jpg",
-        "alt": "Imagem de apoio da questão 17 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/sis-2024-a2/q17-1.svg",
+        "alt": "Imagem de apoio da questão 17 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -3298,15 +3646,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 17."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 7,
@@ -3330,10 +3677,19 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise um trecho da canção “Flutua”, gravada por Johnny \nHooker e Liniker em 2017.\n\nO que vão dizer de nós?\nSeus pais, Deus e coisas tais\nQuando ouvirem rumores do nosso amor\n\nBaby, eu já cansei de me esconder\nEntre olhares, sussurros com você\nSomos dois homens e nada mais\n\nEles não vão vencer\nBaby, nada há de ser em vão\nAntes dessa noite acabar\nDance comigo a nossa canção\n\nE flutua, flutua\nNinguém vai poder, querer nos dizer como amar\n\n(https://letras.mus.br)\n\nA respeito das lutas dos movimentos sociais contemporâneos, o tema abordado pela canção enfatiza",
+    "statement": "Analise um trecho da canção “Flutua”, gravada por Johnny Hooker e Liniker em 2017.\n\nO que vão dizer de nós?\nSeus pais, Deus e coisas tais\nQuando ouvirem rumores do nosso amor\n\nBaby, eu já cansei de me esconder\nEntre olhares, sussurros com você\nSomos dois homens e nada mais\n\nEles não vão vencer\nBaby, nada há de ser em vão\nAntes dessa noite acabar\nDance comigo a nossa canção\n\nE flutua, flutua\nNinguém vai poder, querer nos dizer como amar\n\n(https://letras.mus.br)\n\nA respeito das lutas dos movimentos sociais contemporâneos, o tema abordado pela canção enfatiza",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "poem",
+      "poem",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a consolidação de padrões impostos pela heteronormatividade.",
+      "a consolidação de padrões impostos pela heteronorma- tividade.",
       "a importância do reconhecimento social das relações homoafetivas.",
       "a persistência da proibição da união civil entre pessoas do mesmo sexo.",
       "a violência física à qual homossexuais são submetidos cotidianamente.",
@@ -3341,15 +3697,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 18."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 7,
@@ -3373,7 +3728,12 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A cantora Gaby Amarantos foi às redes sociais afirmar \nque enfrentou um episódio de preconceito e desvalorização \nda cultura do Norte do Brasil durante participação em um programa de rádio. Após ser convidada para falar sobre sua carreira e a importância da cultura nortista, a artista, referência \ndo tecnobrega, ficou perplexa quando ouviu que sua música \nnão se adequava ao “público elevado da rádio”.\n\n(Valmir Moratelli. https://veja.abril.com.br, 13.05.2024. Adaptado.)\n\nO tema abordado pela notícia pode ser debatido em um campo da Filosofia denominado",
+    "statement": "A cantora Gaby Amarantos foi às redes sociais afirmar que enfrentou um episódio de preconceito e desvalorização da cultura do Norte do Brasil durante participação em um programa de rádio. Após ser convidada para falar sobre sua carreira e a importância da cultura nortista, a artista, referência do tecnobrega, ficou perplexa quando ouviu que sua música não se adequava ao “público elevado da rádio”.\n\n(Valmir Moratelli. https://veja.abril.com.br, 13.05.2024. Adaptado.)\n\nO tema abordado pela notícia pode ser debatido em um campo da Filosofia denominado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Dialética.",
@@ -3384,15 +3744,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 19."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 7,
@@ -3416,26 +3775,30 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A proposta da “PEC das Praias”, é que a União — dona \ndas áreas à beira-mar — fosse autorizada a vender terrenos \nde Marinha a empresas e pessoas que já estivessem ocupando a área. Com isso, os lotes deixariam de ser compartilhados entre o governo e quem os ocupa e teriam apenas um \ndono, como um hotel ou resort, que teria maior liberdade para \nexplorar a área.\n\n(https://g1.globo.com, 04.06.2024. Adaptado.)\n\nDe acordo com o excerto, uma consequência da “PEC das \nPraias” seria",
+    "statement": "A proposta da “PEC das Praias”, é que a União — dona das áreas à beira-mar — fosse autorizada a vender terrenos de Marinha a empresas e pessoas que já estivessem ocupando a área. Com isso, os lotes deixariam de ser compartilhados entre o governo e quem os ocupa e teriam apenas um dono, como um hotel ou resort, que teria maior liberdade para explorar a área.\n\n(https://g1.globo.com, 04.06.2024. Adaptado.)\n\nDe acordo com o excerto, uma consequência da “PEC das Praias” seria",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o aumento da fiscalização de áreas litorâneas pela Marinha.",
-      "a maior participação da gestão pública nas áreas brasileiras à beira-mar.",
+      "a maior participação da gestão pública nas áreas brasi- leiras à beira-mar.",
       "o fim das ocupações legalizadas pré-existentes no litoral brasileiro.",
       "a possibilidade de privatização de áreas à beira-mar do litoral brasileiro.",
-      "o aumento do controle dos impactos ambientais litorâneos pela União."
+      "o aumento do controle dos impactos ambientais litorâ- neos pela União."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 20."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 8,
@@ -3459,12 +3822,16 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise o mapa que destaca os países participantes de uma \nparceria internacional anunciada em agosto de 2023.\n\n(www.poder360.com.br. Adaptado.)\n\nEsses países compõem",
+    "statement": "Analise o mapa que destaca os países participantes de uma parceria internacional anunciada em agosto de 2023.\n\n(www.poder360.com.br. Adaptado.)\n\nEsses países compõem",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a2/q21-1.svg",
+        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -3476,15 +3843,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 21."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 8,
@@ -3508,26 +3874,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os impactos da seca na região amazônica ainda são \nsentidos, em janeiro de 2024, após o fim do período de estiagem, que deveria durar de agosto a novembro de 2023. \nOs níveis dos rios ainda estão abaixo da média, o que tem \ncausado uma série de problemas para a população e a economia da região.\n\n(Liege Costa. https://diplomatique.org.br. Adaptado.)\n\nUma consequência econômica da seca na região amazônica é:",
+    "statement": "Os impactos da seca na região amazônica ainda são sentidos, em janeiro de 2024, após o fim do período de estiagem, que deveria durar de agosto a novembro de 2023. Os níveis dos rios ainda estão abaixo da média, o que tem causado uma série de problemas para a população e a economia da região.\n\n(Liege Costa. https://diplomatique.org.br. Adaptado.)\n\nUma consequência econômica da seca na região amazônica é:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a interrupção da exploração de petróleo na camada pré-sal para a exportação.",
-      "a ampliação dos gastos em usinas solares para a produção de energia elétrica.",
+      "a ampliação dos gastos em usinas solares para a produ- ção de energia elétrica.",
       "a redução do transporte de cargas com insumos para o comércio.",
-      "a diminuição da produção sucroalcooleira para o mercado interno.",
+      "a diminuição da produção sucroalcooleira para o merca- do interno.",
       "a queda na importação de matéria-prima para a indústria têxtil."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 22."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 8,
@@ -3551,12 +3921,16 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O gráfico apresenta dados da área plantada e da produção \nagrícola brasileira entre 1977 e 2018.\n\n(https://blog.sensix.ag. Adaptado.)\n\nEsse cenário é explicado pela",
+    "statement": "O gráfico apresenta dados da área plantada e da produção agrícola brasileira entre 1977 e 2018.\n\n(https://blog.sensix.ag. Adaptado.)\n\nEsse cenário é explicado pela",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a2/q23-1.svg",
+        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -3568,15 +3942,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 23."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 8,
@@ -3600,26 +3973,32 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Nas áreas de exploração de borracha nativa, especialmente no Acre, os anos 70 foram marcados pela facilitação \nda compra de antigos seringais para exploração de madeira e transformação em pastagens. Os desmatamentos que \npassaram a se suceder ameaçavam a reprodução social dos \nseringueiros, trabalhadores que viviam da exploração da borracha nas matas nativas. No início dos anos 80, a resistência \ndos seringueiros à perda de sua fonte de vida começou a se \nfazer de forma mais organizada para impedir o desmatamento. A resistência dos seringueiros consolidou uma organização própria, o Conselho Nacional dos Seringueiros, nascida \ndo I Encontro Nacional dos Seringueiros, realizado em 1985, \nque estabeleceu bandeiras próprias.\n\n(Leonilde Sérvolo de Medeiros. \nHistória dos movimentos sociais no campo, 1989.\n\nhttps://nmspp.net.br. Adaptado.)\n\nUm dos resultados da resistência dos seringueiros mencionada no excerto foi",
+    "statement": "Nas áreas de exploração de borracha nativa, especialmente no Acre, os anos 70 foram marcados pela facilitação da compra de antigos seringais para exploração de madeira e transformação em pastagens. Os desmatamentos que passaram a se suceder ameaçavam a reprodução social dos seringueiros, trabalhadores que viviam da exploração da borracha nas matas nativas. No início dos anos 80, a resistência dos seringueiros à perda de sua fonte de vida começou a se fazer de forma mais organizada para impedir o desmatamento. A resistência dos seringueiros consolidou uma organização própria, o Conselho Nacional dos Seringueiros, nascida do I Encontro Nacional dos Seringueiros, realizado em 1985, que estabeleceu bandeiras próprias.\n\n(Leonilde Sérvolo de Medeiros.\n\nHistória dos movimentos sociais no campo, 1989.\n\nhttps://nmspp.net.br. Adaptado.)\n\nUm dos resultados da resistência dos seringueiros mencionada no excerto foi",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o estabelecimento de parcerias, em que o proprietário empresta a terra para terceiros explorarem em troca de parte da produção.",
-      "a criação das reservas extrativistas, áreas florestais protegidas de onde as comunidades tradicionais podem extrair sua subsistência.",
-      "o aumento da quantidade de minifúndios, pequenas propriedades rurais exploradas pela agricultura familiar.",
+      "a criação das reservas extrativistas, áreas florestais pro- tegidas de onde as comunidades tradicionais podem ex- trair sua subsistência.",
+      "o aumento da quantidade de minifúndios, pequenas pro- priedades rurais exploradas pela agricultura familiar.",
       "a retração da fronteira agrícola, espaço ocupado pela agropecuária que deixou de compor a região Norte para compor a Nordeste.",
-      "o crescimento do trabalho terceirizado, emprego por tempo determinado estabelecido nos momentos de colheita da produção."
+      "o crescimento do trabalho terceirizado, emprego por tem- po determinado estabelecido nos momentos de colheita da produção."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 24."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 9,
@@ -3643,26 +4022,32 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Como China perdeu Taiwan e qual a situação atual\n\nda ‘ilha rebelde’\n\nA China vê Taiwan como uma província separatista que \num dia voltará a estar sob o controle de Pequim. No entanto, \nTaiwan se vê como um país independente, com sua própria \nConstituição e líderes democraticamente eleitos.\n\n(David Brown. www.bbc.com, 11.01.2024.)\n\nA relação conflituosa entre China e Taiwan é explicada pela",
+    "statement": "Como China perdeu Taiwan e qual a situação atual\n\nda ‘ilha rebelde’\n\nA China vê Taiwan como uma província separatista que um dia voltará a estar sob o controle de Pequim. No entanto, Taiwan se vê como um país independente, com sua própria Constituição e líderes democraticamente eleitos.\n\n(David Brown. www.bbc.com, 11.01.2024.)\n\nA relação conflituosa entre China e Taiwan é explicada pela",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Revolução Comunista Chinesa, com os nacionalistas ocupando Taiwan em 1949.",
       "Revolução Constitucionalista, que atendeu o resultado de um plebiscito em Taiwan em 1917.",
       "Revolução Gloriosa, que reforçou o isolamento cultural da China em 1917.",
-      "Revolução Comunista Chinesa, que levou os nacionalistas para a China em 1949.",
-      "Revolução Constitucionalista, que segregou territorialmente Taiwan em 1949."
+      "Revolução Comunista Chinesa, que levou os nacionalis- tas para a China em 1949.",
+      "Revolução Constitucionalista, que segregou territorial- mente Taiwan em 1949."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 9,
@@ -3687,16 +4072,15 @@ export const uea2024Sis = [
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
     "statement": "Analise o mapa que apresenta diferentes momentos da integração de um conjunto de países.\n\n(www.nexojornal.com.br)\n\nO mapa apresenta a expansão",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q26-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 9."
-      },
-      {
-        "src": "/images/uea/sis-2024-a2/q26-2.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2024-a2/q26-1.svg",
+        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -3708,15 +4092,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 26."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 9,
@@ -3740,32 +4123,36 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "As imagens produzidas por deepfakes mexem com a \nimaginação e perturbam observadores menos atentos. Elas \npodem ser engraçadas, quando o rosto de algum famoso \naparece no corpo de outra pessoa, mas também criminosas, \nquando associam alguém a situações comprometedoras. \nAgora, os cientistas da Universidade de Washington, nos \nEUA, alertam para um problema ainda maior: imagens falsas de satélites, que chamaram de “FakeGeo”. As imagens \nda chamada “geografia falsa” são geradas por Inteligência \nArtificial capaz de mudar paisagens urbanas, alterar relevos, \no curso de rios e qualquer outro elemento que faça parte do \nambiente fotografado.\n\nParece Tacoma, nos EUA, mas na verdade é uma imagem\n\nsimulada de um bairro de Pequim, na China\n\n(https://canaltech.com.br)\n\nConsiderando esse exemplo, uma imagem de satélite \n“FakeGeo” é capaz de gerar problemas quando utilizada \npara",
+    "statement": "As imagens produzidas por deepfakes mexem com a imaginação e perturbam observadores menos atentos. Elas podem ser engraçadas, quando o rosto de algum famoso aparece no corpo de outra pessoa, mas também criminosas, quando associam alguém a situações comprometedoras. Agora, os cientistas da Universidade de Washington, nos EUA, alertam para um problema ainda maior: imagens falsas de satélites, que chamaram de “FakeGeo”. As imagens da chamada “geografia falsa” são geradas por Inteligência Artificial capaz de mudar paisagens urbanas, alterar relevos, o curso de rios e qualquer outro elemento que faça parte do ambiente fotografado. Parece Tacoma, nos EUA, mas na verdade é uma imagem\n\nsimulada de um bairro de Pequim, na China\n\n(https://canaltech.com.br)\n\nConsiderando esse exemplo, uma imagem de satélite “FakeGeo” é capaz de gerar problemas quando utilizada para",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q27-1.jpg",
-        "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/sis-2024-a2/q27-1.svg",
+        "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
       "analisar dados em tempo real relativos aos domínios morfoclimáticos.",
       "observar dados do tempo atmosférico em mapas digitais interativos.",
       "acompanhar in loco focos de incêndio em áreas de preservação ambiental.",
-      "elevar o preço de imóveis com a proximidade de benfeitorias públicas inexistentes.",
+      "elevar o preço de imóveis com a proximidade de benfei- torias públicas inexistentes.",
       "monitorar ao vivo o avanço de grupos militares em áreas de conflito."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 27."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 10,
@@ -3789,26 +4176,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma empresa fabricante de cosméticos anunciou o início da operação do “Mecanismo de Financiamento Amazônia Viva”, que começa com dez cooperativas e associações \nagroextrativistas na Amazônia. “A intenção do mecanismo é \nque agora as cooperativas consigam financiamentos melhores, com mais capital de giro e segurança na safra”, diz Angela Pinhati, diretora de sustentabilidade dessa fabricante na \nAmérica Latina. Para o produtor, a vantagem do mecanismo \né poder conseguir o financiamento, sabendo que o insumo \nproduzido será comprado pela empresa com um preço justo.\n\n(https://exame.com, 30.01.2024. Adaptado.)\n\nCom essa nova operação, ocorre",
+    "statement": "Uma empresa fabricante de cosméticos anunciou o início da operação do “Mecanismo de Financiamento Amazônia Viva”, que começa com dez cooperativas e associações agroextrativistas na Amazônia. “A intenção do mecanismo é que agora as cooperativas consigam financiamentos melhores, com mais capital de giro e segurança na safra”, diz Angela Pinhati, diretora de sustentabilidade dessa fabricante na América Latina. Para o produtor, a vantagem do mecanismo é poder conseguir o financiamento, sabendo que o insumo produzido será comprado pela empresa com um preço justo.\n\n(https://exame.com, 30.01.2024. Adaptado.)\n\nCom essa nova operação, ocorre",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a exclusão dos boias-frias, trabalhadores assalariados, que são recrutados para empreitadas temporárias em período de colheita.",
       "a extinção das políticas protecionistas, cobrança de impostos federais sobre a produção, que prejudicam o ganho de capital dos cooperativados.",
-      "a erradicação da biopirataria, apropriação ilegal de material genético por empresas estrangeiras, que desenvolvem patentes com fins comerciais.",
-      "o encerramento do escambo, modalidade de troca de mercadorias, que desobriga a intermediação de um sistema monetário.",
-      "a eliminação dos atravessadores, intermediários atuantes na compra e revenda da matéria-prima, que reduzem os ganhos dos trabalhadores no processo produtivo."
+      "a erradicação da biopirataria, apropriação ilegal de ma- terial genético por empresas estrangeiras, que desenvol- vem patentes com fins comerciais.",
+      "o encerramento do escambo, modalidade de troca de mercadorias, que desobriga a intermediação de um sis- tema monetário.",
+      "a eliminação dos atravessadores, intermediários atuan- tes na compra e revenda da matéria-prima, que reduzem os ganhos dos trabalhadores no processo produtivo."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 28."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 10,
@@ -3832,7 +4223,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os órgãos são formados por conjuntos de tecidos que, por \nsua vez, são agrupamentos de células que se associam e se \norganizam para desempenhar determinada função. A função \ndo maior órgão do corpo humano está relacionada à",
+    "statement": "Os órgãos são formados por conjuntos de tecidos que, por sua vez, são agrupamentos de células que se associam e se organizam para desempenhar determinada função. A função do maior órgão do corpo humano está relacionada à",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "absorção de nutrientes da alimentação.",
@@ -3843,15 +4237,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 10,
@@ -3875,7 +4268,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Alguns cientistas defendem a hipótese de que sucessivos \ndobramentos da membrana plasmática teriam originado algumas organelas citoplasmáticas e o envelope nuclear, que \nenvolve o material genético presente na célula. Essa hipótese explica o surgimento",
+    "statement": "Alguns cientistas defendem a hipótese de que sucessivos dobramentos da membrana plasmática teriam originado algumas organelas citoplasmáticas e o envelope nuclear, que envolve o material genético presente na célula. Essa hipótese explica o surgimento",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da mitocôndria.",
@@ -3886,15 +4282,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 30."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 10,
@@ -3918,26 +4313,28 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma determinada proteína apresenta 1 200 aminoácidos em \nsua composição. Considerando o dogma central da Biologia e as moléculas envolvidas na síntese proteica, a partir \ndos processos metabólicos da transcrição e da tradução, \nconclui-se que",
+    "statement": "Uma determinada proteína apresenta 1 200 aminoácidos em sua composição. Considerando o dogma central da Biologia e as moléculas envolvidas na síntese proteica, a partir dos processos metabólicos da transcrição e da tradução, conclui-se que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "foram necessários 1 200 genes para produzir essa proteína.",
-      "essa proteína é produzida por um ribossomo no citoplasma.",
+      "foram necessários 1 200 genes para produzir essa pro- teína.",
+      "essa proteína é produzida por um ribossomo no citoplas- ma.",
       "essa proteína foi produzida no núcleo e migrou para o citoplasma.",
-      "o gene ativo para essa proteína possui 400 pares de bases nitrogenadas.",
+      "o gene ativo para essa proteína possui 400 pares de ba- ses nitrogenadas.",
       "são necessárias centenas de RNA mensageiros para produzir essa proteína."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 11,
@@ -3961,7 +4358,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A questão energética é crucial para o desenvolvimento e para \na melhoria da qualidade de vida da população humana. Na \ntentativa de substituir as fontes de energias não renováveis, \nmuitos países têm investido em estudos para a obtenção de \nenergias renováveis, tais como a solar, a eólica, a hidrelétrica \ne a geotérmica.\n\nEssas alternativas para a produção energética objetivam",
+    "statement": "A questão energética é crucial para o desenvolvimento e para a melhoria da qualidade de vida da população humana. Na tentativa de substituir as fontes de energias não renováveis, muitos países têm investido em estudos para a obtenção de energias renováveis, tais como a solar, a eólica, a hidrelétrica e a geotérmica. Essas alternativas para a produção energética objetivam",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aumentar a produtividade líquida em regiões áridas.",
@@ -3972,15 +4372,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 32."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 11,
@@ -4004,12 +4403,16 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A figura representa uma célula humana.\n\n(https://biologydictionary.net)\n\nQuando essa célula está em plena atividade no corpo, ocorre \na liberação de substâncias chamadas nos terminais dos .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A figura representa uma célula humana.\n\n(https://biologydictionary.net)\n\nQuando essa célula está em plena atividade no corpo, ocorre a liberação de substâncias chamadas nos terminais dos. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q33-1.jpg",
-        "alt": "Imagem de apoio da questão 33 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/sis-2024-a2/q33-1.svg",
+        "alt": "Imagem de apoio da questão 33 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -4021,15 +4424,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 33."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 11,
@@ -4053,10 +4455,13 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O etanol combustível é considerado uma energia limpa e \nrenovável. Uma das principais vantagens da produção e da \nutilização do etanol como combustível está no fato de haver \numa compensação de gases atmosféricos, retardando a intensificação do efeito estufa. Isso acontece porque a cana-\n-de-açúcar, matéria-prima do etanol, é capaz de",
+    "statement": "O etanol combustível é considerado uma energia limpa e renovável. Uma das principais vantagens da produção e da utilização do etanol como combustível está no fato de haver uma compensação de gases atmosféricos, retardando a intensificação do efeito estufa. Isso acontece porque a cana-de-açúcar, matéria-prima do etanol, é capaz de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "liberar o gás oxigênio na atmosfera por meio da respiração celular.",
+      "liberar o gás oxigênio na atmosfera por meio da respira- ção celular.",
       "absorver o gás carbônico da atmosfera para realizar a respiração celular.",
       "absorver o gás carbônico da atmosfera para realizar a fotossíntese.",
       "absorver o gás metano da atmosfera para realizar a fotossíntese.",
@@ -4064,15 +4469,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 34."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 11,
@@ -4096,26 +4500,30 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O Brasil pode perder 40% de disponibilidade de água até \n2040, de acordo com estudo da Agência Nacional de Águas \ne Saneamento Básico (ANA). Segundo a publicação, a disponibilidade de água pode diminuir nas bacias hidrográficas \ndo Norte, Nordeste, Centro-Oeste e parte do Sudeste. Para o \nNorte, região que abriga grande parte da Amazônia, o estudo \naponta que há perspectiva de secas mais frequentes e intensas, além da redução nas vazões dos rios e volumes médios \nde chuvas.\n\n(www.cnnbrasil.com.br, 01.02.2024. Adaptado.)\n\nConsiderando conhecimentos sobre o ciclo da água e a seca \nmencionada no excerto, afirma-se que",
+    "statement": "O Brasil pode perder 40% de disponibilidade de água até 2040, de acordo com estudo da Agência Nacional de Águas e Saneamento Básico (ANA). Segundo a publicação, a disponibilidade de água pode diminuir nas bacias hidrográficas do Norte, Nordeste, Centro-Oeste e parte do Sudeste. Para o Norte, região que abriga grande parte da Amazônia, o estudo aponta que há perspectiva de secas mais frequentes e intensas, além da redução nas vazões dos rios e volumes médios de chuvas.\n\n(www.cnnbrasil.com.br, 01.02.2024. Adaptado.)\n\nConsiderando conhecimentos sobre o ciclo da água e a seca mencionada no excerto, afirma-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a água dos oceanos está reduzindo no planeta por causa de sua excessiva evaporação.",
       "a transpiração das florestas tem grande importância na formação das chuvas.",
-      "as geleiras e os lençóis subterrâneos contêm água indisponível para os seres vivos.",
+      "as geleiras e os lençóis subterrâneos contêm água indis- ponível para os seres vivos.",
       "as lavouras utilizam pouco recurso hídrico, pois integram o ciclo curto da água.",
-      "a água vem se acumulando nos aquíferos após a percolação em áreas desmatadas."
+      "a água vem se acumulando nos aquíferos após a perco- lação em áreas desmatadas."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 35."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 11,
@@ -4139,7 +4547,12 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um salmão do Atlântico (Salmo salar), geneticamente \nmodificado, cresceu duas vezes mais rápido que os espécimes utilizados em criações de cativeiro. Em um comunicado, \na Food and Drug Administration (FDA) afirmou ser esse salmão geneticamente modificado tão seguro e nutritivo quanto \no tradicional. A engenharia genética utilizou dois genes de \ndois outros peixes para tornar o salmão do Atlântico mais \nprodutivo. Um desses genes é responsável pelo hormônio \nde crescimento do salmão Chinook (Oncorhynchus tshawytscha), do Oceano Pacífico, e outro gene — da enguia Zoarces \namericanus — que codifica um promotor de proteínas anticongelamento que deixa o salmão geneticamente modificado \ncrescer no inverno.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nA modificação genética do salmão do Atlântico só foi possível \nporque",
+    "statement": "Um salmão do Atlântico (Salmo salar), geneticamente modificado, cresceu duas vezes mais rápido que os espécimes utilizados em criações de cativeiro. Em um comunicado, a Food and Drug Administration (FDA) afirmou ser esse salmão geneticamente modificado tão seguro e nutritivo quanto o tradicional. A engenharia genética utilizou dois genes de dois outros peixes para tornar o salmão do Atlântico mais produtivo. Um desses genes é responsável pelo hormônio de crescimento do salmão Chinook (Oncorhynchus tshawytscha), do Oceano Pacífico, e outro gene — da enguia Zoarces americanus — que codifica um promotor de proteínas anticongelamento que deixa o salmão geneticamente modificado crescer no inverno.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nA modificação genética do salmão do Atlântico só foi possível porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ocorreram mutações gênicas específicas nas células do salmão.",
@@ -4150,15 +4563,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 12,
@@ -4182,7 +4594,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma progressão aritmética (PA) é formada por 21 termos, \nsendo – 5 o primeiro termo e 19 o último termo. A razão dessa \nPA é",
+    "statement": "Uma progressão aritmética (PA) é formada por 21 termos, sendo – 5 o primeiro termo e 19 o último termo. A razão dessa PA é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0,6.",
@@ -4193,15 +4608,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 37."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 12,
@@ -4225,7 +4639,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em uma fábrica 6 máquinas, com a mesma capacidade de \nprodução e funcionando simultaneamente, produzem 504 \npeças em 7 horas. Considerando condições proporcionais \nde produção, o número necessário dessas máquinas para a \nprodução de 480 dessas peças em 5 horas é",
+    "statement": "Em uma fábrica 6 máquinas, com a mesma capacidade de produção e funcionando simultaneamente, produzem 504 peças em 7 horas. Considerando condições proporcionais de produção, o número necessário dessas máquinas para a produção de 480 dessas peças em 5 horas é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5.",
@@ -4236,15 +4653,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 38."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 12,
@@ -4268,7 +4684,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A quantia de R$ 40.000,00 será aplicada a uma taxa de 1,6% \nde juros simples ao mês. O tempo que essa quantia deverá \nficar aplicada para que o montante totalize R$ 54.080,00 é de",
+    "statement": "A quantia de R$ 40.000,00 será aplicada a uma taxa de 1,6% de juros simples ao mês. O tempo que essa quantia deverá ficar aplicada para que o montante totalize R$ 54.080,00 é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 ano e 7 meses.",
@@ -4279,15 +4698,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 40."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 12,
@@ -4311,26 +4729,28 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma das faces de um paralelepípedo retorretângulo tem \n44 cm2 de área, sendo que nessa face a medida da maior \naresta excede a medida da menor aresta em 7 cm. Sabendo que o volume desse paralelepípedo é 308 cm3, sua área \ntotal é",
+    "statement": "Uma das faces de um paralelepípedo retorretângulo tem 44 cm² de área, sendo que nessa face a medida da maior aresta excede a medida da menor aresta em 7 cm. Sabendo que o volume desse paralelepípedo é 308 cm³, sua área total é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "298 cm2.",
-      "336 cm2.",
-      "352 cm2.",
-      "412 cm2.",
-      "448 cm2."
+      "298 cm².",
+      "336 cm².",
+      "352 cm².",
+      "412 cm².",
+      "448 cm²."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 41."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 12,
@@ -4354,8 +4774,17 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um trapézio ABCD tem ângulos retos nos vértices B e C. Sobre o lado AB desse trapézio está o ponto E, tal que CDE é \num triângulo isósceles com m(E C) = m(E D), conforme \nmostra a figura.\n\nO valor da diferença β – α é igual a:",
-    "images": [],
+    "statement": "Um trapézio ABCD tem ângulos retos nos vértices B e C. Sobre o lado AB desse trapézio está o ponto E, tal que CDE é um triângulo isósceles com m(E C) = m(E D), conforme mostra a figura.\n\nO valor da diferença β – α é igual a:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q42-1.svg",
+        "alt": "Figura de apoio da questão 42."
+      }
+    ],
     "alternatives": [
       "8º",
       "9º",
@@ -4365,15 +4794,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 42."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 13,
@@ -4397,7 +4825,12 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\n1 006\n995\n1 028\n1 017\n\n1 006\n996\n1 012\n1 023\n1 010\n\n1 029\n1 014\n1 003\n1 020\n1 009\n\nConsiderando esses 15 registros, a diferença entre a média \naritmética e a mediana é igual a",
+    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\t1 006\t995\t1 028\t1 017\n1 006\t996\t1 012\t1 023\t1 010\n1 029\t1 014\t1 003\t1 020\t1 009\n\nConsiderando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0 g.",
@@ -4408,15 +4841,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 43."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 13,
@@ -4440,26 +4872,34 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma assistência técnica especializada reparou 100 celulares \nno mês de fevereiro. O reparo de um celular pode demorar de \n1 a 5 dias, e o gráfico registra os números de celulares pelo \ntempo que demorou o reparo.\n\nA análise dos dados do gráfico revela que",
-    "images": [],
+    "statement": "Uma assistência técnica especializada reparou 100 celulares no mês de fevereiro. O reparo de um celular pode demorar de 1 a 5 dias, e o gráfico registra os números de celulares pelo tempo que demorou o reparo.\n\nA análise dos dados do gráfico revela que",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q44-1.svg",
+        "alt": "Figura de apoio da questão 44."
+      }
+    ],
     "alternatives": [
       "no dia 3 de fevereiro foi reparado o maior número de celulares.",
       "nos dois primeiros dias de fevereiro foram reparados 38 celulares.",
       "37% dos celulares levaram mais de 3 dias para o reparo.",
-      "14 celulares foram reparados no dia de menor movimento da loja.",
+      "14 celulares foram reparados no dia de menor movi- mento da loja.",
       "em média foram reparados 20 celulares por dia."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 44."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 13,
@@ -4483,7 +4923,12 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere dois termômetros, um graduado na escala Celsius e\n\no outro graduado na escala Fahrenheit, ambos submetidos à\n\nmesma situação térmica. Observa-se que, em um dado mo-\n\nmento, o valor numérico apresentado pelo termômetro em Cel-\n\nsius é cinco vezes maior que o valor numérico apresentado\n\npelo termômetro em Fahrenheit. Sabendo que a equação de\n\nconversão entre essas escalas é dada pela relação\n\n, a temperatura observada naquele\n\nmomento foi de",
+    "statement": "Considere dois termômetros, um graduado na escala Celsius e o outro graduado na escala Fahrenheit, ambos submetidos à mesma situação térmica. Observa-se que, em um dado momento, o valor numérico apresentado pelo termômetro em Celsius é cinco vezes maior que o valor numérico apresentado pelo termômetro em Fahrenheit. Sabendo que a equação de conversão entre essas escalas é dada pela relação\n\n, a temperatura observada naquele\n\nmomento foi de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "– 4 ºC.",
@@ -4494,15 +4939,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 45."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 13,
@@ -4526,7 +4970,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em uma panela de alumínio encontram-se 300 g de água. A \npanela e a água estão inicialmente à temperatura de 20 ºC. \nSabendo que o calor específico da água é 1,0 cal/(g × ºC), \nque o calor específico do alumínio é 0,2 cal/(g × ºC), que a \npanela tem massa de 500 g e que a temperatura de ebulição \nda água é de 100 ºC, a quantidade mínima de calor que a \npanela e a água devem absorver, para que a água atinja a \ntemperatura de ebulição, é de",
+    "statement": "Em uma panela de alumínio encontram-se 300 g de água. A panela e a água estão inicialmente à temperatura de 20 ºC. Sabendo que o calor específico da água é 1,0 cal/(g × ºC), que o calor específico do alumínio é 0,2 cal/(g × ºC), que a panela tem massa de 500 g e que a temperatura de ebulição da água é de 100 ºC, a quantidade mínima de calor que a panela e a água devem absorver, para que a água atinja a temperatura de ebulição, é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "8 kcal.",
@@ -4537,15 +4984,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 46."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 14,
@@ -4569,8 +5015,17 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O gráfico representa a transformação cíclica de um gás ideal \nque é utilizado em uma máquina térmica.\n\nSabendo que em transformações isovolumétricas não há \nrealização de trabalho e que em transformações isobáricas \no trabalho realizado é calculado pelo produto da pressão \npela variação do volume ocorrida na transformação, o trabalho total realizado pelo gás, em um ciclo completo dessa \nmáquina térmica, é igual a",
-    "images": [],
+    "statement": "O gráfico representa a transformação cíclica de um gás ideal que é utilizado em uma máquina térmica.\n\nSabendo que em transformações isovolumétricas não há realização de trabalho e que em transformações isobáricas o trabalho realizado é calculado pelo produto da pressão pela variação do volume ocorrida na transformação, o trabalho total realizado pelo gás, em um ciclo completo dessa máquina térmica, é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q47-1.svg",
+        "alt": "Figura de apoio da questão 47."
+      }
+    ],
     "alternatives": [
       "2 400 J.",
       "2 100 J.",
@@ -4580,15 +5035,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 47."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 14,
@@ -4612,7 +5066,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O isótopo de Bismuto 210Bi possui meia vida de 5 dias. Para \nque 64 g desse isótopo sejam reduzidas a 4 g, é necessário \nque transcorra um número de dias igual a",
+    "statement": "O isótopo de Bismuto²¹⁰Bi possui meia vida de 5 dias. Para que 64 g desse isótopo sejam reduzidas a 4 g, é necessário que transcorra um número de dias igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "10.",
@@ -4623,15 +5080,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 48."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 14,
@@ -4655,8 +5111,17 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para verificar se todos os resistores de um circuito estão funcionando corretamente, um eletricista afere, com o auxílio do \namperímetro A, a corrente elétrica que passa por uma região \ndesse circuito, conforme representado na figura.\n\nSabendo que os fios de ligação, o amperímetro e o gerador \nsão ideais, caso todos os resistores estejam funcionando corretamente, o amperímetro medirá uma corrente elétrica de",
-    "images": [],
+    "statement": "Para verificar se todos os resistores de um circuito estão funcionando corretamente, um eletricista afere, com o auxílio do amperímetro A, a corrente elétrica que passa por uma região desse circuito, conforme representado na figura.\n\nSabendo que os fios de ligação, o amperímetro e o gerador são ideais, caso todos os resistores estejam funcionando corretamente, o amperímetro medirá uma corrente elétrica de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q49-1.svg",
+        "alt": "Figura de apoio da questão 49."
+      }
+    ],
     "alternatives": [
       "1 A.",
       "2 A.",
@@ -4666,15 +5131,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 49."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 14,
@@ -4698,27 +5162,17 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Estão representados, nas figuras 1, 2, 3 e 4, os processos \nrealizados por um único pistão durante um ciclo completo de \num motor de combustão interna.\n\nFigura 1\n\nFigura 2\n\nFigura 3\n\nFigura 4\n\n(https://motulexpert.com.br. Adaptado.)\n\nOs processos representados nas figuras 1, 2, 3 e 4 são, respectivamente:",
+    "statement": "Estão representados, nas figuras 1, 2, 3 e 4, os processos realizados por um único pistão durante um ciclo completo de um motor de combustão interna.\n\nFigura 1\n\n(https://motulexpert.com.br. Adaptado.)\n\nOs processos representados nas figuras 1, 2, 3 e 4 são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q50-1.jpg",
-        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/sis-2024-a2/q50-2.jpg",
-        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/sis-2024-a2/q50-3.jpg",
-        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/sis-2024-a2/q50-4.jpg",
-        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/sis-2024-a2/q50-1.svg",
+        "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -4730,15 +5184,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 50."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 15,
@@ -4762,7 +5215,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma das formas de obtenção de energia elétrica que causa \na liberação de gases de efeito estufa na atmosfera tem como \nbase a conversão da energia",
+    "statement": "Uma das formas de obtenção de energia elétrica que causa a liberação de gases de efeito estufa na atmosfera tem como base a conversão da energia",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "cinética do vento.",
@@ -4773,15 +5229,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 51."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 15,
@@ -4806,6 +5261,9 @@ export const uea2024Sis = [
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
     "statement": "As ondas sonoras são classificadas como ondas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "mecânicas, transversais e tridimensionais.",
@@ -4816,15 +5274,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 52."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 15,
@@ -4848,7 +5305,12 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em 2021, o Prêmio Nobel de Medicina foi concedido a dois \ncientistas que desvendaram o mecanismo bioquímico relacionado ao tato e à sensação térmica da pele humana exposta ao ambiente.\n\nAlgumas substâncias, mesmo em temperatura ambiente, desencadeiam a sensação de frio no contato com a pele. É o \ncaso da acetona, um solvente volátil que, ao ser derramado \nna pele, nos dá uma sensação de frio.\n\nEssa sensação de frio causada pelo derramamento da acetona \ndecorre de sua evaporação, que é um processo e \n o calor da pele. O calor envolvido nesse processo \n a energia cinética das moléculas da acetona e \npromove a evaporação desse solvente.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Em 2021, o Prêmio Nobel de Medicina foi concedido a dois cientistas que desvendaram o mecanismo bioquímico relacionado ao tato e à sensação térmica da pele humana exposta ao ambiente. Algumas substâncias, mesmo em temperatura ambiente, desencadeiam a sensação de frio no contato com a pele. É o caso da acetona, um solvente volátil que, ao ser derramado na pele, nos dá uma sensação de frio. Essa sensação de frio causada pelo derramamento da acetona decorre de sua evaporação, que é um processo e\n\no calor da pele. O calor envolvido nesse processo\na energia cinética das moléculas da acetona e\n\npromove a evaporação desse solvente. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "exotérmico – absorve – diminui.",
@@ -4859,15 +5321,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 53."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 15,
@@ -4891,7 +5352,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A radioembolização do iodo-131 é uma terapia empregada \npara o tratamento de tumores de tireoide. Esse radioisótopo é \nproduzido, não é armazenado e deve ser entregue ao hospital na ocasião do tratamento do paciente, pois, em oito horas, \nsua atividade radioativa decai para a metade do valor inicial. \nSua reação de decaimento é expressa na equação a seguir.\n\nConsiderando que a emissão y não possua massa, nem carga, as emissões radioativas x e y do iodo-131 e o parâmetro \nque determina a impossibilidade de sua armazenagem são, \nrespectivamente:",
+    "statement": "A radioembolização do iodo-131 é uma terapia empregada para o tratamento de tumores de tireoide. Esse radioisótopo é produzido, não é armazenado e deve ser entregue ao hospital na ocasião do tratamento do paciente, pois, em oito horas, sua atividade radioativa decai para a metade do valor inicial. Sua reação de decaimento é expressa na equação a seguir.\n\nConsiderando que a emissão y não possua massa, nem carga, as emissões radioativas x e y do iodo-131 e o parâmetro que determina a impossibilidade de sua armazenagem são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "partícula alfa – partícula beta – meia-vida.",
@@ -4902,15 +5367,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 55."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 16,
@@ -4934,8 +5398,17 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Corrosão química é um processo de óxido-redução que ocorre na ausência de água, sendo suficiente o contato entre as \nespécies reagentes. O esquema representa a corrosão química espontânea que ocorre no contato entre ferro metálico \ne gás sulfídrico.\n\nNo processo representado no esquema, verifica-se que a \nquantidade de elétrons transferidos por mol de ferro e a denominação do ferro metálico no processo são, respectivamente,",
-    "images": [],
+    "statement": "Corrosão química é um processo de óxido-redução que ocorre na ausência de água, sendo suficiente o contato entre as espécies reagentes. O esquema representa a corrosão química espontânea que ocorre no contato entre ferro metálico e gás sulfídrico.\n\nNo processo representado no esquema, verifica-se que a quantidade de elétrons transferidos por mol de ferro e a denominação do ferro metálico no processo são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q56-1.svg",
+        "alt": "Figura de apoio da questão 56."
+      }
+    ],
     "alternatives": [
       "2 mol e ânodo.",
       "2 mol e cátodo.",
@@ -4945,15 +5418,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 56."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 16,
@@ -4977,12 +5449,16 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A determinação do potencial de redução de uma espécie química é feita pela montagem de uma pilha eletroquímica semelhante à pilha de Daniell, na qual o eletrodo de hidrogênio \né utilizado como referência e seu potencial de redução (E°) é \nigual a zero. A figura mostra a determinação do potencial de \nredução do zinco (Zn2+/Zn), que é o compartimento anódico.\n\n(www.a-levelnotes.co.uk. Adaptado.)\n\nConsiderando o potencial de redução do estanho (Sn2+/Sn) \nigual a – 0,14 V, a substituição do eletrodo de hidrogênio por \num eletrodo de estanho metálico, mergulhado em uma solução de Sn2+ com concentração 1 mol/L, resultará em uma \nreação espontânea com a ddp indicada no voltímetro igual a",
+    "statement": "A determinação do potencial de redução de uma espécie química é feita pela montagem de uma pilha eletroquímica semelhante à pilha de Daniell, na qual o eletrodo de hidrogênio é utilizado como referência e seu potencial de redução (E°) é igual a zero. A figura mostra a determinação do potencial de redução do zinco (Zn2+/Zn), que é o compartimento anódico.\n\n(www.a-levelnotes.co.uk. Adaptado.)\n\nConsiderando o potencial de redução do estanho (Sn2+/Sn) igual a – 0,14 V, a substituição do eletrodo de hidrogênio por um eletrodo de estanho metálico, mergulhado em uma solução de Sn2+ com concentração 1 mol/L, resultará em uma reação espontânea com a ddp indicada no voltímetro igual a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q57-1.jpg",
-        "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2024).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/sis-2024-a2/q57-1.svg",
+        "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
     "alternatives": [
@@ -4994,15 +5470,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 57."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 17,
@@ -5026,26 +5501,28 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A combustão completa de 0,2 mol de um álcool consumiu \n1,2 mol de O2 e gerou 0,8 mol de CO2 e 1 mol de H2O, além \nde produzir 488,4 kJ. A fórmula molecular desse álcool e o \nseu calor de combustão, em kJ/mol, são, respectivamente,",
+    "statement": "A combustão completa de 0,2 mol de um álcool consumiu 1,2 mol de $O_{2}$ e gerou 0,8 mol de $CO_{2}$ e 1 mol de $H_{2}$O, além de produzir 488,4 kJ. A fórmula molecular desse álcool e o seu calor de combustão, em kJ/mol, são, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "C4H10 e –2 442.",
-      "C4H10 e +4 884.",
-      "C4H10O e –2 442.",
-      "C4H10O e – 4 884.",
-      "C4H10O2 e +2 442."
+      "$C_{4}$$H_{10}$ e –2 442.",
+      "$C_{4}$$H_{10}$ e +4 884.",
+      "$C_{4}$$H_{10}$O e –2 442.",
+      "$C_{4}$$H_{10}$O e – 4 884.",
+      "$C_{4}$$H_{10}$ $O_{2}$ e +2 442."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 58."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 17,
@@ -5069,7 +5546,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O uso excessivo de fertilizantes nitrogenados e as constantes queimadas provocam desequilíbrio no ciclo do nitrogênio, devido, principalmente, à contaminação de corpos \nd’água com nutrientes em excesso e à geração de óxidos, \ncomo NO e NO2, que são lançados na atmosfera. Essa contaminação dos ambientes aquático e atmosférico causa impactos denominados, respectivamente,",
+    "statement": "O uso excessivo de fertilizantes nitrogenados e as constantes queimadas provocam desequilíbrio no ciclo do nitrogênio, devido, principalmente, à contaminação de corpos d’água com nutrientes em excesso e à geração de óxidos,\n\n2, que são lançados na atmosfera. Essa conpactos denominados, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "smog fotoquímico e chuva ácida.",
@@ -5080,15 +5561,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 59."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 17,
@@ -5112,26 +5592,34 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O Conselho Nacional do Meio Ambiente (Conama) regulamenta a forma adequada de descarte de resíduos de laboratórios de química. Resíduos ácidos devem ser neutralizados \nantes de serem despejados na pia. O esquema ilustra o tratamento adequado de uma solução de ácido clorídrico (HCl).\n\nO neutralizante utilizado nessa operação deve ser uma",
-    "images": [],
+    "statement": "O Conselho Nacional do Meio Ambiente (Conama) regulamenta a forma adequada de descarte de resíduos de laboratórios de química. Resíduos ácidos devem ser neutralizados antes de serem despejados na pia. O esquema ilustra o tratamento adequado de uma solução de ácido clorídrico (HCl).\n\nO neutralizante utilizado nessa operação deve ser uma",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a2/q60-1.svg",
+        "alt": "Figura de apoio da questão 60."
+      }
+    ],
     "alternatives": [
       "solução de cloreto de sódio (NaCl).",
-      "solução de bicarbonato de sódio (NaHCO3).",
-      "solução de cloreto de amônio (NH4Cl).",
-      "mistura de etanol (C2H5OH) e água (H2O).",
-      "mistura de etanol (C2H5OH) e cloreto de sódio (NaCl)."
+      "solução de bicarbonato de sódio ($NaHCO_{3}$).",
+      "solução de cloreto de amônio ($NH_{4}$Cl).",
+      "mistura de etanol ($C_{2}$$H_{5}$OH) e água ($H_{2}$O).",
+      "mistura de etanol ($C_{2}$$H_{5}$OH) e cloreto de sódio (NaCl)."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf, questão 60."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-2_prova.pdf",
     "sourcePage": 17,
@@ -5155,7 +5643,13 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães \nda Areia. Os que a traíam eram expulsos e nada de bom os \nesperava no mundo. E nunca nenhum a havia traído do modo \ncomo o Sem-Pernas a ia trair. Para virar menino mimado, \npara virar uma daquelas crianças que eram eterno motivo de \ngalhofa para eles. Não, não os trairia. Teriam bastado três \ndias para ele localizar os objetos de valor da casa. Mas a \ncomida, a roupa, o quarto, e mais que a comida, a roupa e o \nquarto, o carinho de dona Ester tinham feito que ele passasse \njá oito dias. Tinha sido comprado por este carinho como o \nestivador fora comprado por dinheiro. Não, não trairia. Mas aí \npensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: \nsó castigava quando havia erro, pagava o bem com o bem. O \nSem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma \ncasa para ela ser assaltada, era uma grande alegria que o \ninvadia. Desta vez não tinha alegria nenhuma. Seu ódio para \ntodos não desaparecera, é verdade. Mas abrira uma exceção \npara a gente daquela casa, porque dona Ester o chamava de \nfilho e o beijava na face. O Sem-Pernas luta consigo mesmo. \nGostaria de continuar naquela vida. Mas que adiantaria isso \npara os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o \nprenderam e o surraram enquanto um homem de colete ria \nbrutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, \nnotou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\nNo trecho, Sem-Pernas cogita trair os Capitães da Areia em \nrazão, sobretudo,",
+    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães da Areia. Os que a traíam eram expulsos e nada de bom os esperava no mundo. E nunca nenhum a havia traído do modo como o Sem-Pernas a ia trair. Para virar menino mimado, para virar uma daquelas crianças que eram eterno motivo de galhofa para eles. Não, não os trairia. Teriam bastado três dias para ele localizar os objetos de valor da casa. Mas a comida, a roupa, o quarto, e mais que a comida, a roupa e o quarto, o carinho de dona Ester tinham feito que ele passasse já oito dias. Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro. Não, não trairia. Mas aí pensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: só castigava quando havia erro, pagava o bem com o bem. O Sem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma casa para ela ser assaltada, era uma grande alegria que o invadia. Desta vez não tinha alegria nenhuma. Seu ódio para todos não desaparecera, é verdade. Mas abrira uma exceção para a gente daquela casa, porque dona Ester o chamava de filho e o beijava na face. O Sem-Pernas luta consigo mesmo. Gostaria de continuar naquela vida. Mas que adiantaria isso para os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o prenderam e o surraram enquanto um homem de colete ria brutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, notou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\nNo trecho, Sem-Pernas cogita trair os Capitães da Areia em razão, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da violência dos soldados da prisão.",
@@ -5166,15 +5660,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 01."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 3,
@@ -5198,7 +5691,13 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O dilema vivenciado por Sem-Pernas está melhor explicitado \nno seguinte trecho:",
+    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães da Areia. Os que a traíam eram expulsos e nada de bom os esperava no mundo. E nunca nenhum a havia traído do modo como o Sem-Pernas a ia trair. Para virar menino mimado, para virar uma daquelas crianças que eram eterno motivo de galhofa para eles. Não, não os trairia. Teriam bastado três dias para ele localizar os objetos de valor da casa. Mas a comida, a roupa, o quarto, e mais que a comida, a roupa e o quarto, o carinho de dona Ester tinham feito que ele passasse já oito dias. Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro. Não, não trairia. Mas aí pensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: só castigava quando havia erro, pagava o bem com o bem. O Sem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma casa para ela ser assaltada, era uma grande alegria que o invadia. Desta vez não tinha alegria nenhuma. Seu ódio para todos não desaparecera, é verdade. Mas abrira uma exceção para a gente daquela casa, porque dona Ester o chamava de filho e o beijava na face. O Sem-Pernas luta consigo mesmo. Gostaria de continuar naquela vida. Mas que adiantaria isso para os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o prenderam e o surraram enquanto um homem de colete ria brutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, notou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\nO dilema vivenciado por Sem-Pernas está melhor explicitado no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Antes de tudo estava a lei do grupo”.",
@@ -5209,15 +5708,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 3,
@@ -5241,7 +5739,13 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No trecho, pensamentos do personagem Sem-Pernas aparecem entremeados na fala do narrador, como ocorre em:",
+    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães da Areia. Os que a traíam eram expulsos e nada de bom os esperava no mundo. E nunca nenhum a havia traído do modo como o Sem-Pernas a ia trair. Para virar menino mimado, para virar uma daquelas crianças que eram eterno motivo de galhofa para eles. Não, não os trairia. Teriam bastado três dias para ele localizar os objetos de valor da casa. Mas a comida, a roupa, o quarto, e mais que a comida, a roupa e o quarto, o carinho de dona Ester tinham feito que ele passasse já oito dias. Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro. Não, não trairia. Mas aí pensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: só castigava quando havia erro, pagava o bem com o bem. O Sem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma casa para ela ser assaltada, era uma grande alegria que o invadia. Desta vez não tinha alegria nenhuma. Seu ódio para todos não desaparecera, é verdade. Mas abrira uma exceção para a gente daquela casa, porque dona Ester o chamava de filho e o beijava na face. O Sem-Pernas luta consigo mesmo. Gostaria de continuar naquela vida. Mas que adiantaria isso para os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o prenderam e o surraram enquanto um homem de colete ria brutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, notou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\nNo trecho, pensamentos do personagem Sem-Pernas aparecem entremeados na fala do narrador, como ocorre em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Teriam bastado três dias para ele localizar os objetos de valor da casa.”",
@@ -5252,15 +5756,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 03."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 3,
@@ -5284,26 +5787,31 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Retoma uma expressão mencionada anteriormente no texto \na palavra sublinhada em:",
+    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães da Areia. Os que a traíam eram expulsos e nada de bom os esperava no mundo. E nunca nenhum a havia traído do modo como o Sem-Pernas a ia trair. Para virar menino mimado, para virar uma daquelas crianças que eram eterno motivo de galhofa para eles. Não, não os trairia. Teriam bastado três dias para ele localizar os objetos de valor da casa. Mas a comida, a roupa, o quarto, e mais que a comida, a roupa e o quarto, o carinho de dona Ester tinham feito que ele passasse já oito dias. Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro. Não, não trairia. Mas aí pensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: só castigava quando havia erro, pagava o bem com o bem. O Sem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma casa para ela ser assaltada, era uma grande alegria que o invadia. Desta vez não tinha alegria nenhuma. Seu ódio para todos não desaparecera, é verdade. Mas abrira uma exceção para a gente daquela casa, porque dona Ester o chamava de filho e o beijava na face. O Sem-Pernas luta consigo mesmo. Gostaria de continuar naquela vida. Mas que adiantaria isso para os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o prenderam e o surraram enquanto um homem de colete ria brutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, notou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\nRetoma uma expressão mencionada anteriormente no texto a palavra sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Antes de tudo estava a lei do grupo, a lei dos Capitães da Areia”.",
-      "“Os que a traíam eram expulsos e nada de bom os esperava no mundo”.",
+      "“Os que a traíam eram expulsos e nada de bom os espe- rava no mundo”.",
       "“Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro”.",
       "“Ela também na sua casa tinha uma lei como os Capitães da Areia”.",
       "“Mas abrira uma exceção para a gente daquela casa”."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 3,
@@ -5327,7 +5835,13 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "“os soldados [...] o surraram enquanto um homem de colete \nria brutalmente.”\n\nEm relação à oração que a antecede, a oração sublinhada \nexpressa ideia de",
+    "statement": "Leia o trecho do romance Capitães da Areia, de Jorge Amado, para responder às questões de 01 a 05.\n\nAntes de tudo estava a lei do grupo, a lei dos Capitães da Areia. Os que a traíam eram expulsos e nada de bom os esperava no mundo. E nunca nenhum a havia traído do modo como o Sem-Pernas a ia trair. Para virar menino mimado, para virar uma daquelas crianças que eram eterno motivo de galhofa para eles. Não, não os trairia. Teriam bastado três dias para ele localizar os objetos de valor da casa. Mas a comida, a roupa, o quarto, e mais que a comida, a roupa e o quarto, o carinho de dona Ester tinham feito que ele passasse já oito dias. Tinha sido comprado por este carinho como o estivador fora comprado por dinheiro. Não, não trairia. Mas aí pensou se não ia trair dona Ester. Ela confiara nele. Ela também na sua casa tinha uma lei como os Capitães da Areia: só castigava quando havia erro, pagava o bem com o bem. O Sem-Pernas ia trair essa lei, ia pagar o bem com o mal. Lembrou-se que das outras vezes, quando dava o fora de uma casa para ela ser assaltada, era uma grande alegria que o invadia. Desta vez não tinha alegria nenhuma. Seu ódio para todos não desaparecera, é verdade. Mas abrira uma exceção para a gente daquela casa, porque dona Ester o chamava de filho e o beijava na face. O Sem-Pernas luta consigo mesmo. Gostaria de continuar naquela vida. Mas que adiantaria isso para os Capitães da Areia? E ele era um deles, nunca poderia deixar de ser um deles porque uma vez os soldados o prenderam e o surraram enquanto um homem de colete ria brutalmente. E o Sem-Pernas se decidiu. Mas olhou com carinho as janelas do quarto de dona Ester e ela, que o espiava, notou que ele chorava [...].\n\n(Capitães da Areia, 2008.)\n\n“os soldados [...] o surraram enquanto um homem de colete ria brutalmente.” Em relação à oração que a antecede, a oração sublinhada expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consequência.",
@@ -5338,15 +5852,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 05."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 3,
@@ -5370,7 +5883,18 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões 06 e 07.\n\nO quarto estava na penumbra, impregnado de um perfume adocicado e morno. A doente estava deitada no divã. \nO roupão azul, frouxamente entreaberto no busto, deixava \nentrever o colo magro, da brancura seca do gesso. O rosto \nparecia tranquilo em meio à cabeleira em desordem, de um \nlouro sem brilho.\n\n[...] Pousou o olhar em Virgínia. — E quem é esta \nmenina?\n\nVirgínia aproximou-se. “Outra vez, meu Deus, outra \nvez?!”\n\n— Sou eu, mãe.\nLaura cerrou os grandes olhos mortiços. Tinha a expressão serena mas desatenta.\n\n— Eu sou sua mãe, eu sou sua mãe — repetiu como uma \ncriança obediente que consegue decorar a lição sem contudo \nentendê-la. Sorriu. — Eu estava brincando...\n\n“Será melhor esperar”, resolveu Virgínia ajoelhando-se \nao lado do divã. Se lhe perguntassem esperar o quê, não \nsaberia responder. Apenas esperava. Uma vez surpreendeu \numa mariposa presa numa teia. “Fuja depressa, fuja!”, desejara sem coragem de intervir. Mas a mariposa se deixava envolver sem nenhuma resistência no viscoso tecido cinzento \nque a aranha ia acumulando em torno de suas asas. Assim \nvia a mãe, enleada em fios que lhe tapavam os ouvidos, os \nolhos, a boca. Não adiantava dizer-lhe nada. Nem mostrar-\n-lhe nada. Falas e pessoas batiam naquele invólucro macio \ne ao mesmo tempo resistente como uma carapaça, batiam \ne voltavam e batiam novamente num vaivém inútil. Apenas \numa pessoa conseguia penetrar no emaranhado: Daniel.\n\n(Ciranda de pedra, 2009.)\n\nNão fosse a doença, a comparação com a mariposa enredada permitiria caracterizar Laura como uma mulher",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões 06 e 07.\n\nO quarto estava na penumbra, impregnado de um perfume adocicado e morno. A doente estava deitada no divã. O roupão azul, frouxamente entreaberto no busto, deixava entrever o colo magro, da brancura seca do gesso. O rosto parecia tranquilo em meio à cabeleira em desordem, de um louro sem brilho.\n\n[...] Pousou o olhar em Virgínia. — E quem é esta menina?\n\nVirgínia aproximou-se. “Outra vez, meu Deus, outra vez?!”\n\n— Sou eu, mãe. Laura cerrou os grandes olhos mortiços. Tinha a expressão serena mas desatenta.\n\n— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la. Sorriu. — Eu estava brincando...\n\n“Será melhor esperar”, resolveu Virgínia ajoelhando-se ao lado do divã. Se lhe perguntassem esperar o quê, não saberia responder. Apenas esperava. Uma vez surpreendeu uma mariposa presa numa teia. “Fuja depressa, fuja!”, desejara sem coragem de intervir. Mas a mariposa se deixava envolver sem nenhuma resistência no viscoso tecido cinzento que a aranha ia acumulando em torno de suas asas. Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca. Não adiantava dizer-lhe nada. Nem mostrar-lhe nada. Falas e pessoas batiam naquele invólucro macio e ao mesmo tempo resistente como uma carapaça, batiam e voltavam e batiam novamente num vaivém inútil. Apenas uma pessoa conseguia penetrar no emaranhado: Daniel.\n\n(Ciranda de pedra, 2009.)\n\nNão fosse a doença, a comparação com a mariposa enredada permitiria caracterizar Laura como uma mulher",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ensimesmada.",
@@ -5381,15 +5905,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 06."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 4,
@@ -5413,26 +5936,36 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões 06 e 07.\n\nO quarto estava na penumbra, impregnado de um perfume adocicado e morno. A doente estava deitada no divã. \nO roupão azul, frouxamente entreaberto no busto, deixava \nentrever o colo magro, da brancura seca do gesso. O rosto \nparecia tranquilo em meio à cabeleira em desordem, de um \nlouro sem brilho.\n\n[...] Pousou o olhar em Virgínia. — E quem é esta \nmenina?\n\nVirgínia aproximou-se. “Outra vez, meu Deus, outra \nvez?!”\n\n— Sou eu, mãe.\nLaura cerrou os grandes olhos mortiços. Tinha a expressão serena mas desatenta.\n\n— Eu sou sua mãe, eu sou sua mãe — repetiu como uma \ncriança obediente que consegue decorar a lição sem contudo \nentendê-la. Sorriu. — Eu estava brincando...\n\n“Será melhor esperar”, resolveu Virgínia ajoelhando-se \nao lado do divã. Se lhe perguntassem esperar o quê, não \nsaberia responder. Apenas esperava. Uma vez surpreendeu \numa mariposa presa numa teia. “Fuja depressa, fuja!”, desejara sem coragem de intervir. Mas a mariposa se deixava envolver sem nenhuma resistência no viscoso tecido cinzento \nque a aranha ia acumulando em torno de suas asas. Assim \nvia a mãe, enleada em fios que lhe tapavam os ouvidos, os \nolhos, a boca. Não adiantava dizer-lhe nada. Nem mostrar-\n-lhe nada. Falas e pessoas batiam naquele invólucro macio \ne ao mesmo tempo resistente como uma carapaça, batiam \ne voltavam e batiam novamente num vaivém inútil. Apenas \numa pessoa conseguia penetrar no emaranhado: Daniel.\n\n(Ciranda de pedra, 2009.)\n\nVerifica-se o emprego de vírgula para isolar um vocativo em:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões 06 e 07.\n\nO quarto estava na penumbra, impregnado de um perfume adocicado e morno. A doente estava deitada no divã. O roupão azul, frouxamente entreaberto no busto, deixava entrever o colo magro, da brancura seca do gesso. O rosto parecia tranquilo em meio à cabeleira em desordem, de um louro sem brilho.\n\n[...] Pousou o olhar em Virgínia. — E quem é esta menina?\n\nVirgínia aproximou-se. “Outra vez, meu Deus, outra vez?!”\n\n— Sou eu, mãe. Laura cerrou os grandes olhos mortiços. Tinha a expressão serena mas desatenta.\n\n— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la. Sorriu. — Eu estava brincando...\n\n“Será melhor esperar”, resolveu Virgínia ajoelhando-se ao lado do divã. Se lhe perguntassem esperar o quê, não saberia responder. Apenas esperava. Uma vez surpreendeu uma mariposa presa numa teia. “Fuja depressa, fuja!”, desejara sem coragem de intervir. Mas a mariposa se deixava envolver sem nenhuma resistência no viscoso tecido cinzento que a aranha ia acumulando em torno de suas asas. Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca. Não adiantava dizer-lhe nada. Nem mostrar-lhe nada. Falas e pessoas batiam naquele invólucro macio e ao mesmo tempo resistente como uma carapaça, batiam e voltavam e batiam novamente num vaivém inútil. Apenas uma pessoa conseguia penetrar no emaranhado: Daniel.\n\n(Ciranda de pedra, 2009.)\n\nVerifica-se o emprego de vírgula para isolar um vocativo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“O roupão azul, frouxamente entreaberto no busto, deixava entrever o colo magro, da brancura seca do gesso.” (1o parágrafo)",
-      "“Virgínia aproximou-se. ‘Outra vez, meu Deus, outra vez?!’” (3o parágrafo)",
-      "“— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la.” (6o parágrafo)",
-      "“‘Fuja depressa, fuja!’, desejara sem coragem de intervir.” (7o parágrafo)",
-      "“Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca.” (7o parágrafo)"
+      "“O roupão azul, frouxamente entreaberto no busto, dei- xava entrever o colo magro, da brancura seca do gesso.” (1º parágrafo)",
+      "“Virgínia aproximou-se. ‘Outra vez, meu Deus, outra vez?!’” (3º parágrafo)",
+      "“— Eu sou sua mãe, eu sou sua mãe — repetiu como uma criança obediente que consegue decorar a lição sem contudo entendê-la.” (6º parágrafo)",
+      "“‘Fuja depressa, fuja!’, desejara sem coragem de intervir.” (7º parágrafo)",
+      "“Assim via a mãe, enleada em fios que lhe tapavam os ouvidos, os olhos, a boca.” (7º parágrafo)"
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 07."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 4,
@@ -5456,32 +5989,30 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Este movimento de vanguarda decompõe os objetos \npara recompô-los segundo uma lógica própria, que não obedece às leis naturais. A deformação do objeto se dá por via \nda geometrização.\n\n(Lígia Cademartori. Períodos literários, 1987. Adaptado.)\n\nUma obra representativa da vanguarda artística retratada no \ntexto está reproduzida em:",
-    "images": [
-      {
-        "src": "/images/uea/sis-2024-a3/q08-alternativas.jpg",
-        "alt": "Alternativas em imagem da questão 08.",
-        "caption": "Alternativas reproduzidas do caderno original."
-      }
+    "statement": "Este movimento de vanguarda decompõe os objetos para recompô-los segundo uma lógica própria, que não obedece às leis naturais. A deformação do objeto se dá por via da geometrização.\n\n(Lígia Cademartori. Períodos literários, 1987. Adaptado.)\n\nUma obra representativa da vanguarda artística retratada no texto está reproduzida em:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
     ],
+    "images": [],
     "alternatives": [
-      "(A)",
-      "(B)",
-      "(C)",
-      "(D)",
-      "(E)"
+      "Edvard Munch. O grito, 1910.",
+      "Pablo Picasso. Duas meninas lendo, 1934.",
+      "René Magritte. Os amantes, 1928.",
+      "Otto Dix. Retrato de Sylvia von Harden, 1926.",
+      "Roy Lichtenstein. No carro, 1963."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 08."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 4,
@@ -5489,7 +6020,39 @@ export const uea2024Sis = [
     "triennium": "2025–2027",
     "acompanhamento": 3,
     "serie": "3ª série",
-    "languageOption": "Inglês"
+    "languageOption": "Inglês",
+    "alternativeImages": [
+      [
+        {
+          "src": "/images/uea/sis-2024-a3/q08-a.svg",
+          "alt": "Edvard Munch. O grito, 1910."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/sis-2024-a3/q08-b.svg",
+          "alt": "Pablo Picasso. Duas meninas lendo, 1934."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/sis-2024-a3/q08-c.svg",
+          "alt": "René Magritte. Os amantes, 1928."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/sis-2024-a3/q08-d.svg",
+          "alt": "Otto Dix. Retrato de Sylvia von Harden, 1926."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/sis-2024-a3/q08-e.svg",
+          "alt": "Roy Lichtenstein. No carro, 1963."
+        }
+      ]
+    ]
   },
   {
     "id": "uea-sis-2024-a3-q09-ingles",
@@ -5506,26 +6069,34 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "The main purpose of the text is to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nAtlas: the new movie from Jennifer Lopez\n\nAtlas is a sci-fi thriller in which humanity faces the fury of Artificial Intelligence (AI). Filled with impressive visuals and intense action sequences, the movie explores themes of technology, ethics, and humanity’s future in an increasingly interconnected world. However, despite Jennifer Lopez’s convincing performance, the film’s predictability impedes its potential to become an incredible masterpiece.\n\nJennifer Lopez is simply superb as a human distrusting machine. Her struggle to survive the battle and her transformation from analyst to combat fighter are convincing. Simu Liu, as the villainous robotic character Harlan, is believable, though he could have been more impactful. Sterling K. Brown, as Colonel Elias, delivers a strong performance, and Abraham Popoola, as the unbeatable AI fighter Casca, is brilliant. In a limited role as Atlas’s mother, Lana Parrilla plays a key character in the film.\n\n(Archika Khurana. https://timesofindia.indiatimes.com, 24.05.2024.\n\nAdaptado.)\n\nThe main purpose of the text is to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "engage readers through rhythm, metaphor, and vivid language.",
-      "explain complex concepts or procedures in a readerfriendly manner.",
+      "explain complex concepts or procedures in a reader- friendly manner.",
       "provide the reader step-by-step instructions, lists and techniques.",
       "teach the reader ethical principles through intriguing narratives.",
       "inform the reader and offer an opinion."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 09."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 5,
@@ -5550,7 +6121,16 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No trecho do primeiro parágrafo “the film’s predictability \nimpedes its potential to become an incredible masterpiece”, \no termo sublinhado refere-se a",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nAtlas: the new movie from Jennifer Lopez\n\nAtlas is a sci-fi thriller in which humanity faces the fury of Artificial Intelligence (AI). Filled with impressive visuals and intense action sequences, the movie explores themes of technology, ethics, and humanity’s future in an increasingly interconnected world. However, despite Jennifer Lopez’s convincing performance, the film’s predictability impedes its potential to become an incredible masterpiece.\n\nJennifer Lopez is simply superb as a human distrusting machine. Her struggle to survive the battle and her transformation from analyst to combat fighter are convincing. Simu Liu, as the villainous robotic character Harlan, is believable, though he could have been more impactful. Sterling K. Brown, as Colonel Elias, delivers a strong performance, and Abraham Popoola, as the unbeatable AI fighter Casca, is brilliant. In a limited role as Atlas’s mother, Lana Parrilla plays a key character in the film.\n\n(Archika Khurana. https://timesofindia.indiatimes.com, 24.05.2024.\n\nAdaptado.)\n\nNo trecho do primeiro parágrafo “the film’s predictability impedes its potential to become an incredible masterpiece”, o termo sublinhado refere-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“performance”.",
@@ -5561,15 +6141,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 10."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 5,
@@ -5593,26 +6172,34 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em “Simu Liu, as the villainous robotic character Harlan, is \nbelievable” (2o parágrafo), o trecho sublinhado apresenta",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nAtlas: the new movie from Jennifer Lopez\n\nAtlas is a sci-fi thriller in which humanity faces the fury of Artificial Intelligence (AI). Filled with impressive visuals and intense action sequences, the movie explores themes of technology, ethics, and humanity’s future in an increasingly interconnected world. However, despite Jennifer Lopez’s convincing performance, the film’s predictability impedes its potential to become an incredible masterpiece.\n\nJennifer Lopez is simply superb as a human distrusting machine. Her struggle to survive the battle and her transformation from analyst to combat fighter are convincing. Simu Liu, as the villainous robotic character Harlan, is believable, though he could have been more impactful. Sterling K. Brown, as Colonel Elias, delivers a strong performance, and Abraham Popoola, as the unbeatable AI fighter Casca, is brilliant. In a limited role as Atlas’s mother, Lana Parrilla plays a key character in the film.\n\n(Archika Khurana. https://timesofindia.indiatimes.com, 24.05.2024.\n\nAdaptado.)\n\nEm “Simu Liu, as the villainous robotic character Harlan, is believable” (2º parágrafo), o trecho sublinhado apresenta",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "uma opinião sobre a atuação desastrosa de Simu Liu.",
       "uma informação sobre o personagem de Simu Liu.",
-      "uma nova evidência sobre o futuro da Inteligência Artificial.",
+      "uma nova evidência sobre o futuro da Inteligência Arti- ficial.",
       "um argumento favorável ao uso de robôs.",
       "uma conclusão sobre a luta entre humanos e robôs."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 11."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 6,
@@ -5636,12 +6223,16 @@ export const uea2024Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Read the advertising campaign of the state of North Dakota, \nlocated in the United States.\n\n(https://www.ndtourism.com)\n\nThe main purpose of the advertising campaign is to",
+    "statement": "Read the advertising campaign of the state of North Dakota, located in the United States.\n\n(https://www.ndtourism.com)\n\nThe main purpose of the advertising campaign is to",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/sis-2024-a3/q12-1.svg",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
@@ -5653,15 +6244,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 12."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 6,
@@ -5686,7 +6276,10 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No século XVI, a produção açucareira prosperou nas capitanias de Pernambuco e Bahia, tornando-se a principal atividade econômica da América portuguesa, controlada pela metrópole por meio do pacto colonial. Esse sistema de produção \nteve como pilares",
+    "statement": "No século XVI, a produção açucareira prosperou nas capitanias de Pernambuco e Bahia, tornando-se a principal atividade econômica da América portuguesa, controlada pela metrópole por meio do pacto colonial. Esse sistema de produção teve como pilares",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a manufatura e a produção em pequena escala.",
@@ -5697,15 +6290,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 13."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 6,
@@ -5729,26 +6321,31 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A Conferência de Estocolmo aconteceu entre os dias \n5 e 16 de junho de 1972 e reuniu chefes de Estado de \n113 países, além de diversas organizações internacionais \ngovernamentais e não governamentais, observadores e \njornalistas. Pautou temas como poluição atmosférica e \nconsumo excessivo dos recursos naturais. A partir dela, o \ndia 5 de junho de cada ano ficou designado como Dia Mundial do Meio Ambiente.\n\n(“‘Uma Só Terra’: Conferência de Estocolmo completa 50 anos”.\n\nhttps://crbio07.gov.br, 05.06.2022. Adaptado.)\n\nO excerto refere-se",
+    "statement": "A Conferência de Estocolmo aconteceu entre os dias 5 e 16 de junho de 1972 e reuniu chefes de Estado de 113 países, além de diversas organizações internacionais governamentais e não governamentais, observadores e jornalistas. Pautou temas como poluição atmosférica e consumo excessivo dos recursos naturais. A partir dela, o dia 5 de junho de cada ano ficou designado como Dia Mundial do Meio Ambiente.\n\n(“‘Uma Só Terra’: Conferência de Estocolmo completa 50 anos”.\n\nhttps://crbio07.gov.br, 05.06.2022. Adaptado.)\n\nO excerto refere-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a um marco histórico em relação ao respeito e à visibilidade dos povos indígenas da América.",
-      "a um evento mundial cuja participação do Brasil foi vetada pela ditadura civil-militar vigente no país.",
+      "a um marco histórico em relação ao respeito e à visibili- dade dos povos indígenas da América.",
+      "a um evento mundial cuja participação do Brasil foi veta- da pela ditadura civil-militar vigente no país.",
       "à continuidade dos debates pela redução da poluição atmosférica que tiveram início com os japoneses em Kyoto.",
       "à formulação de leis criadas no âmbito internacional para a preservação das diversas formas de vida.",
       "ao primeiro evento organizado pela ONU para discutir questões ambientais de maneira global."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 6,
@@ -5772,7 +6369,12 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O imperador e a burocracia imperial atendiam à essência \ndos interesses dominantes ao dar tratamento gradativo ao \nproblema da escravidão. Mas assim agiam contrariando, às \nvezes, os pontos de vista de sua base de apoio. A Lei do Ventre Livre, proposta pelo imperador apesar da oposição quase \ngeneralizada dos fazendeiros, é um exemplo disso.\n\n(Boris Fausto. História concisa do Brasil, 2021. Adaptado.)\n\nNo Brasil do período imperial, a aprovação dessa lei faz parte \ndo contexto",
+    "statement": "O imperador e a burocracia imperial atendiam à essência dos interesses dominantes ao dar tratamento gradativo ao problema da escravidão. Mas assim agiam contrariando, às vezes, os pontos de vista de sua base de apoio. A Lei do Ventre Livre, proposta pelo imperador apesar da oposição quase generalizada dos fazendeiros, é um exemplo disso.\n\n(Boris Fausto. História concisa do Brasil, 2021. Adaptado.)\n\nNo Brasil do período imperial, a aprovação dessa lei faz parte do contexto",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "de pressões dos cafeicultores pelo retorno do tráfico de escravizados.",
@@ -5783,15 +6385,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 15."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 7,
@@ -5815,26 +6416,30 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Canudos incomodou o governo da República e os grandes proprietários de terras da região por uma razão principal: era uma nova maneira de viver no sertão. É certo que \no arraial não chegou a representar uma experiência de vida \nigualitária, mas é certo também que se tratava de uma experiência social e política distinta daquela do governo central \nrepublicano. O resultado da produção era dividido entre o \ntrabalhador e a comunidade, a autoridade religiosa do Conselheiro não dependia do reconhecimento da Igreja católica, \ne Canudos não estava submetido nem aos proprietários de \nterra nem aos chefes políticos da região — representava um \nelemento perturbador num mundo dominado pelo latifúndio.\n\n(Lilia M. Schwarcz e Heloisa M. Starling.\n\nBrasil: uma biografia, 2018. Adaptado.)\n\nSegundo o excerto, Canudos perturbou o governo central por",
+    "statement": "Canudos incomodou o governo da República e os grandes proprietários de terras da região por uma razão principal: era uma nova maneira de viver no sertão. É certo que o arraial não chegou a representar uma experiência de vida igualitária, mas é certo também que se tratava de uma experiência social e política distinta daquela do governo central republicano. O resultado da produção era dividido entre o trabalhador e a comunidade, a autoridade religiosa do Conselheiro não dependia do reconhecimento da Igreja católica, e Canudos não estava submetido nem aos proprietários de terra nem aos chefes políticos da região — representava um elemento perturbador num mundo dominado pelo latifúndio.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018. Adaptado.)\n\nSegundo o excerto, Canudos perturbou o governo central por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "propor uma lógica de produção com base na reforma agrária nacional.",
       "organizar paralelamente um exército para atacar as fazendas do sertão.",
       "dispensar a subordinação aos poderes estabelecidos pelas oligarquias.",
-      "incentivar a adesão ao protestantismo em área de domínio católico.",
+      "incentivar a adesão ao protestantismo em área de domí- nio católico.",
       "criticar a subordinação da Igreja católica ao Estado republicano."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 7,
@@ -5858,26 +6463,30 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O trabalhador que foi para a fábrica não era dono de \nnada que lá existia. Não era dono das matérias-primas nem \ndo dinheiro necessário para comprá-las. [...] Não era dono \ndas máquinas e tampouco dos produtos finais que ajudava \na fabricar. Sendo donos apenas de sua força de trabalho, os \ntrabalhadores das primeiras fábricas transformaram-se em \noperários, empregados de algum dono de fábrica, perdendo \nsua independência.\n\n(Edgar de Decca e Cristina Meneguello. Fábricas e homens, 2009.)\n\nO excerto descreve",
+    "statement": "O trabalhador que foi para a fábrica não era dono de nada que lá existia. Não era dono das matérias-primas nem do dinheiro necessário para comprá-las. [...] Não era dono das máquinas e tampouco dos produtos finais que ajudava a fabricar. Sendo donos apenas de sua força de trabalho, os trabalhadores das primeiras fábricas transformaram-se em operários, empregados de algum dono de fábrica, perdendo sua independência.\n\n(Edgar de Decca e Cristina Meneguello. Fábricas e homens, 2009.)\n\nO excerto descreve",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o desenvolvimento de uma relação de trabalho chamada de comitatus.",
       "a condição de alienação dos operários em uma economia planificada.",
-      "a passagem da produção nas manufaturas para a industrialização.",
+      "a passagem da produção nas manufaturas para a indus- trialização.",
       "o retorno da utilização da moeda pelos europeus após o feudalismo.",
-      "o aumento da identificação do trabalhador com suas funções laborais."
+      "o aumento da identificação do trabalhador com suas fun- ções laborais."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 17."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 7,
@@ -5901,26 +6510,30 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O Supremo Tribunal Federal validou, em dezembro de \n2023, o uso de créditos do Imposto sobre Circulação de Mercadorias e Prestação de Serviços (ICMS) que incidem sobre \nmercadorias produzidas na Zona Franca de Manaus (ZFM). \nO Amazonas acionou a corte após o Governo de São Paulo questionar esses créditos e alegar queda na arrecadação \npaulista por conta dos benefícios concedidos às empresas \ninstaladas na ZFM. No entanto, os ministros da Suprema \nCorte entenderam, de forma unânime, que o Amazonas pode \nconceder o benefício, dando causa ganha ao estado.\n\n(https://g1.globo.com, 12.12.2023. Adaptado.)\n\nA situação exposta na notícia retrata",
+    "statement": "O Supremo Tribunal Federal validou, em dezembro de 2023, o uso de créditos do Imposto sobre Circulação de Mercadorias e Prestação de Serviços (ICMS) que incidem sobre mercadorias produzidas na Zona Franca de Manaus (ZFM). O Amazonas acionou a corte após o Governo de São Paulo questionar esses créditos e alegar queda na arrecadação paulista por conta dos benefícios concedidos às empresas instaladas na ZFM. No entanto, os ministros da Suprema Corte entenderam, de forma unânime, que o Amazonas pode conceder o benefício, dando causa ganha ao estado.\n\n(https://g1.globo.com, 12.12.2023. Adaptado.)\n\nA situação exposta na notícia retrata",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a defasagem das garantias tributárias conferidas no contexto da implantação do neoliberalismo no Brasil.",
-      "uma crise de investimentos públicos que atinge diretamente o agronegócio na Amazônia.",
+      "a defasagem das garantias tributárias conferidas no con- texto da implantação do neoliberalismo no Brasil.",
+      "uma crise de investimentos públicos que atinge direta- mente o agronegócio na Amazônia.",
       "a falência do sistema federalista devido à centralização política predominante no Brasil.",
       "uma disputa fiscal brasileira apoiada nas especificidades da industrialização amazonense.",
-      "a aspiração histórica dos paulistas em superar os números da produção industrial amazonense."
+      "a aspiração histórica dos paulistas em superar os núme- ros da produção industrial amazonense."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 7,
@@ -5944,26 +6557,30 @@ export const uea2024Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A existência de uma reserva de força de trabalho desempregada é o que Karl Marx chamou exército industrial de \nreserva. Quaisquer que fossem suas fronteiras históricas, o \nsistema capitalista sempre criou e manteve um exército industrial de reserva. O capitalismo moderno expandiu-se por \ntodo o mundo, e o mesmo acontece com o seu exército industrial de reserva. As massas famintas do Terceiro Mundo, \na importação e subsequente expulsão de “trabalhadores imigrados” pelos países industrializados e a fuga do capital para \nas regiões onde são baixos os salários são simplesmente \nmanifestações desse fato.\n\n(Tom Bottomore. Dicionário do pensamento marxista, 2013. Adaptado.)\n\nNa concepção marxista de “exército industrial de reserva”, o \ndesemprego",
+    "statement": "A existência de uma reserva de força de trabalho desempregada é o que Karl Marx chamou exército industrial de reserva. Quaisquer que fossem suas fronteiras históricas, o sistema capitalista sempre criou e manteve um exército industrial de reserva. O capitalismo moderno expandiu-se por todo o mundo, e o mesmo acontece com o seu exército industrial de reserva. As massas famintas do Terceiro Mundo, a importação e subsequente expulsão de “trabalhadores imigrados” pelos países industrializados e a fuga do capital para as regiões onde são baixos os salários são simplesmente manifestações desse fato.\n\n(Tom Bottomore. Dicionário do pensamento marxista, 2013. Adaptado.)\n\nNa concepção marxista de “exército industrial de reserva”, o desemprego",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "é uma característica inerente à sociedade capitalista e reproduzida pela acumulação do capital.",
       "tem início a partir de uma lógica econômica que divide o mundo em três grandes grupos de países.",
       "é mais percebido em territórios que absorvem números expressivos de trabalhadores imigrantes.",
       "é uma expressão do potencial dos territórios para o desenvolvimento de um maior contingente militar.",
-      "está presente em todas as organizações socioeconômicas estrategicamente para manter a desigualdade."
+      "está presente em todas as organizações socioeconômi- cas estrategicamente para manter a desigualdade."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 8,
@@ -5988,31 +6605,34 @@ export const uea2024Sis = [
     "detail": "História — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "Analise as charges de Toni D’Agostinho.\n\n(www.acaricatura.com.br)\n\nEm um contexto atual de transformações das relações de trabalho, as charges",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a3/q20-1.svg",
+        "alt": "Imagem de apoio da questão 20 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
       "valorizam a oportunidade de unir profissionalismo e vínculos familiares.",
-      "ironizam a associação entre trabalho informal e empreendedorismo.",
+      "ironizam a associação entre trabalho informal e em- preendedorismo.",
       "criticam a redução das jornadas de trabalho para grupos sociais específicos.",
       "revelam os benefícios conquistados pelos “trabalhadores uberizados”.",
       "abordam o crescimento das negociações entre patrões e funcionários."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 8,
@@ -6037,11 +6657,14 @@ export const uea2024Sis = [
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "(www.tempo.com)\n\nA forma de descarte de lixo apresentada na imagem corresponde",
+    "blockTypes": [
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2024-a3/q21-1.svg",
+        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
@@ -6053,15 +6676,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 8,
@@ -6085,26 +6707,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "“Estamos observando uma redução quase constante na \nsuperfície de água no Brasil nos últimos 20 anos, e desde \n2013 tivemos os 10 anos mais secos da série histórica, com \nmenos superfície de água”, disse o coordenador do projeto \nMapBiomas Água. Entre 1985 e 2022, todos os biomas perderam superfície de água, especialmente o Pantanal, onde \na retração foi de 81,7 %, mostra o MapBiomas. Em segundo \nlugar vem a Caatinga, que já é o bioma mais seco do país \ne que perdeu quase um quinto de sua superfície de água \n(19,1 %). A Mata Atlântica perdeu 5,7 %, a Amazônia, 5,5 %, \no Pampa, 3,6 %, e o Cerrado, 2,6 %, ficando mais secos.\n\n(https://agenciabrasil.ebc.com.br, 16.02.2023. Adaptado.)\n\nRepresenta uma causa para a redução da superfície de água \nno Brasil a",
+    "statement": "“Estamos observando uma redução quase constante na superfície de água no Brasil nos últimos 20 anos, e desde 2013 tivemos os 10 anos mais secos da série histórica, com menos superfície de água”, disse o coordenador do projeto MapBiomas Água. Entre 1985 e 2022, todos os biomas perderam superfície de água, especialmente o Pantanal, onde a retração foi de 81,7%, mostra o MapBiomas. Em segundo lugar vem a Caatinga, que já é o bioma mais seco do país e que perdeu quase um quinto de sua superfície de água (19,1%). A Mata Atlântica perdeu 5,7%, a Amazônia, 5,5%, o Pampa, 3,6%, e o Cerrado, 2,6%, ficando mais secos.\n\n(https://agenciabrasil.ebc.com.br, 16.02.2023. Adaptado.)\n\nRepresenta uma causa para a redução da superfície de água no Brasil a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "exposição dos rios a partir da retirada da mata ciliar.",
       "superexploração dos aquíferos a partir da crise hídrica.",
       "contaminação dos rios a partir da instalação de fossas sépticas.",
-      "ocupação das várzeas a partir do crescimento das cidades.",
+      "ocupação das várzeas a partir do crescimento das cida- des.",
       "ampliação da calha dos rios a partir do assoreamento."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 22."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 8,
@@ -6128,26 +6754,32 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise os gráficos que demonstram, respectivamente, os \ndiferentes usos da internet e o número de acessos às tecnologias de informação e comunicação, em quantidade de \npessoas, em 2016.\n\nUm dia típico na internet\n\nAcesso a tecnologias de informação e comunicação\n\n(www.worldbank.org. Adaptado.)\n\nOs gráficos permitem avaliar que, no mundo, a globalização é",
+    "statement": "Analise os gráficos que demonstram, respectivamente, os diferentes usos da internet e o número de acessos às tecnologias de informação e comunicação, em quantidade de pessoas, em 2016.\n\nUm dia típico na internet\n\nAcesso a tecnologias de informação e comunicação\n\n(www.worldbank.org. Adaptado.)\n\nOs gráficos permitem avaliar que, no mundo, a globalização é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "concentrada, haja vista o reduzido número de pessoas com cobertura móvel.",
-      "universal, haja vista o amplo fluxo de informações transmitidas diariamente.",
-      "veloz, haja vista a quantidade de vídeos assistidos diariamente.",
-      "fragmentada, haja vista a elevada diversidade de empresas que atuam na internet.",
+      "universal, haja vista o amplo fluxo de informações trans- mitidas diariamente.",
+      "veloz, haja vista a quantidade de vídeos assistidos dia- riamente.",
+      "fragmentada, haja vista a elevada diversidade de empre- sas que atuam na internet.",
       "desigual, haja vista o restrito acesso de pessoas à internet."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 23."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 9,
@@ -6171,7 +6803,12 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O desenvolvimento da Indústria 4.0 no Brasil envolve \ndesafios que vão desde os investimentos em equipamentos \nque incorporem essas tecnologias à adaptação de layouts, \nadaptação de processos e das formas de relacionamento entre empresas ao longo da cadeia produtiva, criação de novas \nespecialidades e desenvolvimento de competências, entre \noutras.\n\n(www.portaldaindustria.com.br)\n\nAs tecnologias que são próprias à indústria 4.0 e que demandam as habilidades e as competências mencionadas no excerto correspondem",
+    "statement": "O desenvolvimento da Indústria 4.0 no Brasil envolve desafios que vão desde os investimentos em equipamentos que incorporem essas tecnologias à adaptação de layouts, adaptação de processos e das formas de relacionamento entre empresas ao longo da cadeia produtiva, criação de novas especialidades e desenvolvimento de competências, entre outras.\n\n(www.portaldaindustria.com.br)\n\nAs tecnologias que são próprias à indústria 4.0 e que demandam as habilidades e as competências mencionadas no excerto correspondem",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à eletricidade e à integração de sistemas.",
@@ -6182,15 +6819,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 9,
@@ -6214,26 +6850,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A China criou seu maior fundo de investimento estatal \nem semicondutores, com valor de US$ 47,5 bilhões (cerca de \nR$ 245 bilhões). Pequim estabeleceu uma meta para que a \nChina se torne líder global em uma ampla gama de setores, \nincluindo inteligência artificial (IA), 5G sem fio e computação \nquântica.\n\n(www.cnnbrasil.com.br, 27.05.2024. Adaptado.)\n\nUm dos objetivos do governo chinês com o fundo de investimento citado no excerto é",
+    "statement": "A China criou seu maior fundo de investimento estatal em semicondutores, com valor de US$ 47,5 bilhões (cerca de R$ 245 bilhões). Pequim estabeleceu uma meta para que a China se torne líder global em uma ampla gama de setores, incluindo inteligência artificial (IA), 5G sem fio e computação quântica.\n\n(www.cnnbrasil.com.br, 27.05.2024. Adaptado.)\n\nUm dos objetivos do governo chinês com o fundo de investimento citado no excerto é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "incentivar a exploração de aço na América Latina.",
       "diminuir a dependência tecnológica da China diante dos Estados Unidos.",
       "acelerar a exportação de carros elétricos para a Europa.",
-      "reduzir o impacto da China na emissão de CO2 na Ásia.",
+      "reduzir o impacto da China na emissão de $CO_{2}$ na Ásia.",
       "ampliar o comércio de manufaturados de baixo custo com a África."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 9,
@@ -6258,11 +6898,14 @@ export const uea2024Sis = [
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "(www.nexojornal.com.br)\n\nAs imagens apresentam práticas que caracterizam uma relação de trabalho",
+    "blockTypes": [
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q26-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/sis-2024-a3/q26-1.svg",
+        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
@@ -6274,15 +6917,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 26."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 10,
@@ -6306,26 +6948,30 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Moradores de comunidades isoladas da Amazônia têm \num novo aliado para ajudá-los a proteger as árvores — o \nchocolate. Os agricultores da reserva extrativista Arapixi \ntrabalham para uma cooperativa no município de Boca do \nAcre, que administra a venda e a exportação do cacau. Em \n2016, eles exportaram mais de 10 toneladas de cacau nativo para a Europa, o que rendeu à cooperativa cerca de \nR$ 130 mil reais. Uma vez que chega à Alemanha, o cacau \né transformado em chocolate de alta qualidade, certificado \nambientalmente — “cacau silvestre do Amazonas”.\n\n(https://news.trust.org, 14.06.2017. Adaptado.)\n\nNo cenário apresentado pelo excerto, o cacau amazonense \ncontribui para",
+    "statement": "Moradores de comunidades isoladas da Amazônia têm um novo aliado para ajudá-los a proteger as árvores — o chocolate. Os agricultores da reserva extrativista Arapixi trabalham para uma cooperativa no município de Boca do Acre, que administra a venda e a exportação do cacau. Em 2016, eles exportaram mais de 10 toneladas de cacau nativo para a Europa, o que rendeu à cooperativa cerca de R$ 130 mil reais. Uma vez que chega à Alemanha, o cacau é transformado em chocolate de alta qualidade, certificado ambientalmente — “cacau silvestre do Amazonas”.\n\n(https://news.trust.org, 14.06.2017. Adaptado.)\n\nNo cenário apresentado pelo excerto, o cacau amazonense contribui para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a financeirização de comunidades isoladas que se tornam proprietárias de centros logísticos europeus.",
       "o estabelecimento de novas relações fundiárias àqueles que consomem os produtos brasileiros.",
       "a mudança no perfil das exportações brasileiras para países europeus economicamente parceiros.",
       "o rearranjo de centralidades entre as regiões brasileiras para o fornecimento de commodities.",
-      "a melhora na qualidade de vida das comunidades que exploram um produto com responsabilidade socioambiental."
+      "a melhora na qualidade de vida das comunidades que exploram um produto com responsabilidade socioam- biental."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 27."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 10,
@@ -6349,7 +6995,12 @@ export const uea2024Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Os cientistas de uma empresa na Finlândia estão implantando uma nova tecnologia para cultivar proteínas a partir de \ncélulas usando ar e eletricidade. Um micro-organismo é alimentado com dióxido de carbono, hidrogênio e minerais em \num processo que utiliza energia solar. Essa empresa conseguiu criar um pó rico em proteínas que pode ser usado como \nsubstituto do ovo ou do leite.\n\n(https://revistaplaneta.com.br, 29.05.2024. Adaptado.)\n\nEm comparação com as proteínas animais provenientes da \npecuária, a produção de proteína por essa empresa tem \ncomo uma vantagem",
+    "statement": "Os cientistas de uma empresa na Finlândia estão implantando uma nova tecnologia para cultivar proteínas a partir de células usando ar e eletricidade. Um micro-organismo é alimentado com dióxido de carbono, hidrogênio e minerais em um processo que utiliza energia solar. Essa empresa conseguiu criar um pó rico em proteínas que pode ser usado como substituto do ovo ou do leite.\n\n(https://revistaplaneta.com.br, 29.05.2024. Adaptado.)\n\nEm comparação com as proteínas animais provenientes da pecuária, a produção de proteína por essa empresa tem como uma vantagem",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a redução das emissões de gases do efeito estufa.",
@@ -6360,15 +7011,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 28."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 10,
@@ -6392,7 +7042,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O Brasil possui biomas com alta biodiversidade, ou seja, com \numa grande diversidade de organismos vivos. Entretanto, \nessa alta biodiversidade está sendo reduzida por várias razões. Uma das principais causas dessa redução de biodiversidade é",
+    "statement": "O Brasil possui biomas com alta biodiversidade, ou seja, com uma grande diversidade de organismos vivos. Entretanto, essa alta biodiversidade está sendo reduzida por várias razões. Uma das principais causas dessa redução de biodiversidade é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o cruzamento entre espécies diferentes.",
@@ -6403,15 +7056,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 29."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 11,
@@ -6435,7 +7087,12 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "É um método anticoncepcional que, se usado de forma \ncorreta, pode agir impedindo a “ovulação”. Por isso, é o mais \neficiente método anticoncepcional reversível que existe até \nhoje, e sua indicação deve ser feita a critério médico.\n\n(Sônia Lopes e Sergio Rosso. Bio, 2013. Adaptado.)\n\nTal método é denominado",
+    "statement": "É um método anticoncepcional que, se usado de forma correta, pode agir impedindo a “ovulação”. Por isso, é o mais eficiente método anticoncepcional reversível que existe até hoje, e sua indicação deve ser feita a critério médico.\n\n(Sônia Lopes e Sergio Rosso. Bio, 2013. Adaptado.)\n\nTal método é denominado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pílula anticoncepcional.",
@@ -6446,15 +7103,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 30."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 11,
@@ -6478,7 +7134,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Existem várias infecções sexualmente transmissíveis (ISTs). \nUma delas tem como sintoma inicial, após 7 a 15 dias da relação sexual, a formação de uma ferida (úlcera) na genitália \nexterna, que desaparece depois de alguns dias. A infecção \nreaparece causando pequenas lesões vermelhas na pele e, \nem estágios mais avançados, causa lesões mais graves. A \ninfecção pode afetar os sistemas nervoso, cardiovascular e \nurinário e até levar ao óbito. O tratamento dessa infecção é \nfeito com o uso de antibióticos e a pessoa pode ser curada.\n\nA infecção descrita no texto denomina-se",
+    "statement": "Existem várias infecções sexualmente transmissíveis (ISTs). Uma delas tem como sintoma inicial, após 7 a 15 dias da relação sexual, a formação de uma ferida (úlcera) na genitália externa, que desaparece depois de alguns dias. A infecção reaparece causando pequenas lesões vermelhas na pele e, em estágios mais avançados, causa lesões mais graves. A infecção pode afetar os sistemas nervoso, cardiovascular e urinário e até levar ao óbito. O tratamento dessa infecção é feito com o uso de antibióticos e a pessoa pode ser curada. A infecção descrita no texto denomina-se",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aids.",
@@ -6489,15 +7148,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 31."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 11,
@@ -6521,26 +7179,30 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A coqueluche voltou a ter alta de casos no Brasil, mais \nprecisamente em São Paulo, que até o final de maio de 2024 \nregistrou cerca de 32 casos da doença — o número é mais \nque o dobro se comparado com o mesmo período de 2023. \nSegundo especialistas, a queda na cobertura vacinal pode \nestar por trás do aumento dos casos da doença.\n\n(https://oglobo.globo.com, 09.06.2024.)\n\nA queda na cobertura vacinal reflete uma população mais vulnerável imunologicamente, uma vez que a vacina",
+    "statement": "A coqueluche voltou a ter alta de casos no Brasil, mais precisamente em São Paulo, que até o final de maio de 2024 registrou cerca de 32 casos da doença — o número é mais que o dobro se comparado com o mesmo período de 2023. Segundo especialistas, a queda na cobertura vacinal pode estar por trás do aumento dos casos da doença.\n\n(https://oglobo.globo.com, 09.06.2024.)\n\nA queda na cobertura vacinal reflete uma população mais vulnerável imunologicamente, uma vez que a vacina",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "contém substâncias que matam o agente causador da coqueluche.",
       "induz o corpo humano a produzir antígenos específicos.",
       "contém anticorpos atenuados responsáveis pela defesa do corpo.",
       "contém substâncias que estimulam o corpo a produzir anticorpos específicos.",
-      "provoca elevação da temperatura corporal para aumentar a defesa."
+      "provoca elevação da temperatura corporal para aumen- tar a defesa."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 32."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 11,
@@ -6564,10 +7226,19 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma população de serpentes, presente em uma ilha, foi analisada ao longo de determinado tempo.\n\nConsiderando a flutuação no número de indivíduos da população de serpentes observada no gráfico, verifica-se que, \napós o tempo",
-    "images": [],
+    "statement": "Uma população de serpentes, presente em uma ilha, foi analisada ao longo de determinado tempo.\n\nConsiderando a flutuação no número de indivíduos da população de serpentes observada no gráfico, verifica-se que, após o tempo",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q33-1.svg",
+        "alt": "Figura de apoio da questão 33."
+      }
+    ],
     "alternatives": [
-      "X, houve alta resistência ambiental, o que resultou na extinção da população.",
+      "X, houve alta resistência ambiental, o que resultou na ex- tinção da população.",
       "X, houve baixa resistência ambiental, o que resultou em uma superpopulação.",
       "Y, houve alta resistência ambiental, o que resultou em uma superpopulação.",
       "X, houve baixa resistência ambiental em comparação com o momento após o tempo Y.",
@@ -6575,15 +7246,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 33."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 11,
@@ -6607,12 +7277,15 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Determinada espécie de planta, produtora de flores amarelas, foi retirada do ambiente natural e utilizada para verificar \na influência do ambiente sobre a cor das pétalas. A partir \nde uma única planta, foram obtidos seis clones, dos quais \ntrês foram plantados em um recipiente cujo solo era alcalino \ne os outros três foram plantados em solo ácido. Depois de \num tempo, houve a produção de flores conforme ilustra a \nimagem.\n\nDe acordo com os resultados, afirma-se que houve alteração",
+    "statement": "Determinada espécie de planta, produtora de flores amarelas, foi retirada do ambiente natural e utilizada para verificar a influência do ambiente sobre a cor das pétalas. A partir de uma única planta, foram obtidos seis clones, dos quais três foram plantados em um recipiente cujo solo era alcalino e os outros três foram plantados em solo ácido. Depois de um tempo, houve a produção de flores conforme ilustra a imagem.\n\nDe acordo com os resultados, afirma-se que houve alteração",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q34-1.jpg",
-        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/sis-2024-a3/q34-1.svg",
+        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
@@ -6624,15 +7297,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 34."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 12,
@@ -6657,6 +7329,10 @@ export const uea2024Sis = [
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "Analise a genealogia em que os indivíduos destacados apresentam uma condição genética determinada por um gene autossômico dominante.\n\nSobre os dados apresentados na genealogia, afirma-se que:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Paulo, Giulia e Igor são homozigotos recessivos.",
@@ -6667,15 +7343,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 35."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 12,
@@ -6699,7 +7374,10 @@ export const uea2024Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em uma determinada raça de cão, ocorre a formação de pelos brancos no corpo e de pelos pretos em torno de um dos \nolhos, sendo que tal característica é um tipo de herança restrita ao sexo. Considere que um macho de pelos brancos no \ncorpo e pelos pretos em torno de um dos olhos foi cruzado \ncom uma fêmea de pelos brancos no corpo e gerou um filhote \nmacho e um filhote fêmea. A probabilidade de o filhote macho \ne de o filhote fêmea apresentarem o mesmo fenótipo do pai é \nde, respectivamente,",
+    "statement": "Em uma determinada raça de cão, ocorre a formação de pelos brancos no corpo e de pelos pretos em torno de um dos olhos, sendo que tal característica é um tipo de herança restrita ao sexo. Considere que um macho de pelos brancos no corpo e pelos pretos em torno de um dos olhos foi cruzado com uma fêmea de pelos brancos no corpo e gerou um filhote macho e um filhote fêmea. A probabilidade de o filhote macho e de o filhote fêmea apresentarem o mesmo fenótipo do pai é de, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "zero e 100%.",
@@ -6710,15 +7388,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 36."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 12,
@@ -6742,7 +7419,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Considere a matriz B = (bij)2×3, tal que bij = i + 2j – 2. Sejam \nM e m, respectivamente, o maior e o menor elemento da \nmatriz B. A diferença M – m é igual a",
+    "statement": "M e m, respectivamente, o maior e o menor elemento da Considere a matriz B = (bij)2×3, tal que bij = i + 2j – 2. Sejam matriz B. A diferença M – m é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "–12.",
@@ -6753,15 +7433,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 37."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 13,
@@ -6785,7 +7464,12 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Considere a matriz \n, em que k é uma constante\n\nreal. Seja D o determinante da matriz M. Sabendo que\n\n2(D – 3) = –3(9 – k), o valor da constante k é",
+    "statement": "Considere a matriz, em que k é uma constante\n\nreal. Seja D o determinante da matriz M. Sabendo que\n\n2(D – 3) = –3(9 – k), o valor da constante k é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "– 42.",
@@ -6796,15 +7480,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 38."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 13,
@@ -6828,7 +7511,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Todos os alunos de um curso de geologia farão uma viagem \nde estudos e, para isso, precisam escolher se farão a viagem \nde 2 dias, com um custo por aluno de R$ 350,00, ou a viagem \nde 3 dias, com um custo por aluno de R$ 380,00. O custo \ntotal da viagem de 3 dias é R$ 3.540,00 mais caro do que o \ncusto total da viagem em 2 dias. O número de alunos desse \ncurso é",
+    "statement": "Todos os alunos de um curso de geologia farão uma viagem de estudos e, para isso, precisam escolher se farão a viagem de 2 dias, com um custo por aluno de R$ 350,00, ou a viagem de 3 dias, com um custo por aluno de R$ 380,00. O custo total da viagem de 3 dias é R$ 3.540,00 mais caro do que o custo total da viagem em 2 dias. O número de alunos desse curso é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "60.",
@@ -6839,15 +7525,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 39."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 13,
@@ -6871,8 +7556,17 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Um ponto E está no interior de um quadrilátero ABCD de área \n32 cm2 e o divide em 4 triângulos, conforme mostra a figura.\n\nA área do triângulo ADE é 4 cm2 a mais do que a área do triângulo CDE. A área do triângulo CDE é 2 cm2 a mais do que \na área do triângulo BCE. Sabendo que os triângulos BCE e \nABE têm a mesma área, a altura do triângulo ADE, relativamente ao vértice E, é",
-    "images": [],
+    "statement": "Um ponto E está no interior de um quadrilátero ABCD de área 32 cm² e o divide em 4 triângulos, conforme mostra a figura.\n\nA área do triângulo ADE é 4 cm² a mais do que a área do triângulo CDE. A área do triângulo CDE é 2 cm² a mais do que a área do triângulo BCE. Sabendo que os triângulos BCE e ABE têm a mesma área, a altura do triângulo ADE, relativamente ao vértice E, é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q40-1.svg",
+        "alt": "Figura de apoio da questão 40."
+      }
+    ],
     "alternatives": [
       "3 cm.",
       "3,5 cm.",
@@ -6882,15 +7576,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 40."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 13,
@@ -6914,7 +7607,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma fila será formada por 6 atletas que representam 6 clubes diferentes, e o atleta que ficar na primeira posição da fila \ncarregará a Bandeira Nacional. A cor do uniforme de 2 desses clubes é predominantemente branca e, por isso, se um \ndesses dois estiver na primeira posição da fila, o outro não \npode ficar na sexta posição. Nessas condições, o número de \nmaneiras diferentes de formar essa fila é",
+    "statement": "Uma fila será formada por 6 atletas que representam 6 clubes diferentes, e o atleta que ficar na primeira posição da fila carregará a Bandeira Nacional. A cor do uniforme de 2 desses clubes é predominantemente branca e, por isso, se um desses dois estiver na primeira posição da fila, o outro não pode ficar na sexta posição. Nessas condições, o número de maneiras diferentes de formar essa fila é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "192.",
@@ -6925,15 +7621,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 43."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 14,
@@ -6957,7 +7652,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para que os programas de uma rádio sejam transmitidos, \neles são transformados em sinais elétricos e adicionados a \numa onda principal denominada onda portadora. A onda portadora se propaga pelo ar com velocidade de 3 × 108 m/s e \nsua frequência identifica a estação da rádio. Se uma estação \nde rádio transmite sua programação com o auxílio de uma \nonda portadora de frequência 75 MHz, o comprimento de \nonda da onda transmitida é",
+    "statement": "Para que os programas de uma rádio sejam transmitidos, eles são transformados em sinais elétricos e adicionados a uma onda principal denominada onda portadora. A onda portadora se propaga pelo ar com velocidade de 3 × $10^{8}$ m/s e sua frequência identifica a estação da rádio. Se uma estação de rádio transmite sua programação com o auxílio de uma onda portadora de frequência 75 MHz, o comprimento de onda da onda transmitida é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2,0 m.",
@@ -6968,15 +7666,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 45."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 15,
@@ -7000,26 +7697,34 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A imagem mostra o comportamento de um raio de luz que \natravessa a superfície de separação entre dois meios ópticos, 1 e 2. Os ângulos alfa e beta são medidos com relação \nà reta normal no ponto de incidência do raio de luz sobre a \nsuperfície de separação dos meios.\n\nA reflexão total poderá ocorrer se o raio de luz for proveniente \ndo meio óptico",
-    "images": [],
+    "statement": "A imagem mostra o comportamento de um raio de luz que atravessa a superfície de separação entre dois meios ópticos, 1 e 2. Os ângulos alfa e beta são medidos com relação à reta normal no ponto de incidência do raio de luz sobre a superfície de separação dos meios.\n\nA reflexão total poderá ocorrer se o raio de luz for proveniente do meio óptico",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q46-1.svg",
+        "alt": "Figura de apoio da questão 46."
+      }
+    ],
     "alternatives": [
-      "2, que é o meio mais refringente, sendo que o raio refletido permanece no meio 2.",
+      "2, que é o meio mais refringente, sendo que o raio refleti- do permanece no meio 2.",
       "2, que é o meio menos refringente, sendo que o raio refletido permanece no meio 1.",
-      "1, que é o meio mais refringente, sendo que o raio refletido permanece no meio 1.",
-      "1, que é o meio mais refringente, sendo que o raio refletido permanece no meio 2.",
+      "1, que é o meio mais refringente, sendo que o raio refle- tido permanece no meio 1.",
+      "1, que é o meio mais refringente, sendo que o raio refleti- do permanece no meio 2.",
       "1, que é o meio menos refringente, sendo que o raio refletido permanece no meio 1."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 46."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 15,
@@ -7043,7 +7748,11 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Um observador posicionado no ponto O tem à sua frente dois \nobstáculos que atrapalham parcialmente a sua visão de um \nespelho E.\n\nEsse observador pode ver, por reflexão no espelho, apenas \nos pontos",
+    "statement": "Um observador posicionado no ponto O tem à sua frente dois obstáculos que atrapalham parcialmente a sua visão de um espelho E.\n\nEsse observador pode ver, por reflexão no espelho, apenas os pontos",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "P e Q.",
@@ -7054,15 +7763,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 47."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 16,
@@ -7086,7 +7794,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Na correção dos defeitos da visão, devem ser utilizadas lentes apropriadas para cada caso. Assim, para a miopia, que \né um defeito da visão causado pelo grande distanciamento \ndo cristalino até a retina, acarretando a formação das imagens em uma região muito à frente da retina, são utilizadas \nlentes . Para a hipermetropia, situação oposta \nà da miopia, as lentes corretivas devem ser . \nNo caso do astigmatismo, defeito da visão caracterizado pelo \nformato irregular da superfície ocular, as lentes corretivas devem ser .\n\nOs nomes das lentes que preenchem as lacunas do texto \nsão, respectivamente:",
+    "statement": "Na correção dos defeitos da visão, devem ser utilizadas lentes apropriadas para cada caso. Assim, para a miopia, que é um defeito da visão causado pelo grande distanciamento do cristalino até a retina, acarretando a formação das imagens em uma região muito à frente da retina, são utilizadas lentes. Para a hipermetropia, situação oposta à da miopia, as lentes corretivas devem ser. No caso do astigmatismo, defeito da visão caracterizado pelo formato irregular da superfície ocular, as lentes corretivas devem ser. Os nomes das lentes que preenchem as lacunas do texto são, respectivamente:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "divergentes – cilíndricas – convergentes.",
@@ -7097,15 +7808,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 48."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 16,
@@ -7129,12 +7839,16 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Muitos equipamentos eletrônicos possuem componentes que \nnecessitam de dissipadores de calor especiais, feitos de alumínio, como o da figura, que tem 150 g e dissipa 180 W de \ncalor quando em uso.\n\n(https://novaeletronica.com.br)\n\nSuponha que esse dissipador tenha recebido uma quantidade definida de calor que tenha elevado sua temperatura a \n80 ºC. Se não houver mais nenhuma entrega de calor para \nesse dissipador, considerando que 1 cal = 4 J e que o calor \nespecífico do alumínio vale 0,2 cal/(g · ºC), o tempo necessário para que sua temperatura caia para 20 ºC é de",
+    "statement": "Muitos equipamentos eletrônicos possuem componentes que necessitam de dissipadores de calor especiais, feitos de alumínio, como o da figura, que tem 150 g e dissipa 180 W de calor quando em uso.\n\n(https://novaeletronica.com.br)\n\nSuponha que esse dissipador tenha recebido uma quantidade definida de calor que tenha elevado sua temperatura a 80 ºC. Se não houver mais nenhuma entrega de calor para esse dissipador, considerando que 1 cal = 4 J e que o calor específico do alumínio vale 0,2 cal/(g · ºC), o tempo necessário para que sua temperatura caia para 20 ºC é de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q49-1.jpg",
-        "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento III, 2024).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/sis-2024-a3/q49-1.svg",
+        "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
     "alternatives": [
@@ -7146,15 +7860,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 49."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 16,
@@ -7178,7 +7891,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A busca pela compreensão das cores de luz emitidas por corpos aquecidos levou ao surgimento de uma nova teoria, na \nqual se admite que a energia de um fóton é quantizada, ou \nseja, corresponde ao produto da constante de Planck pela \nfrequência desse fóton. Usando para a constante de Planck \no valor h = 6,6 × 10–34 J · s, fótons emitidos com a frequência \n5,0 × 1014 Hz transportarão uma quantidade de energia de, \naproximadamente,",
+    "statement": "A busca pela compreensão das cores de luz emitidas por corpos aquecidos levou ao surgimento de uma nova teoria, na qual se admite que a energia de um fóton é quantizada, ou seja, corresponde ao produto da constante de Planck pela frequência desse fóton. Usando para a constante de Planck o valor h = 6,6 × 10–34 J · s, fótons emitidos com a frequência 5,0 × $10^{14}$ Hz transportarão uma quantidade de energia de, aproximadamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 × 10–19 J.",
@@ -7189,15 +7905,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 50."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 16,
@@ -7221,7 +7936,10 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "As usinas nucleares Angra 1 e Angra 2, no Rio de Janeiro, \nutilizam o isótopo de Urânio-235 como fonte de energia nuclear. Durante o processo de obtenção de energia, a reação \nà qual esse isótopo é submetido é estimulada pelo bombardeamento de",
+    "statement": "As usinas nucleares Angra 1 e Angra 2, no Rio de Janeiro, utilizam o isótopo de Urânio-235 como fonte de energia nuclear. Durante o processo de obtenção de energia, a reação à qual esse isótopo é submetido é estimulada pelo bombardeamento de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "elétrons, acarretando a fusão nuclear.",
@@ -7232,15 +7950,14 @@ export const uea2024Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 51."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 17,
@@ -7264,8 +7981,17 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em um trecho da série de decaimentos radioativos naturais \ndo Urânio-238, há o decaimento do Protactínio-234 para Urânio-234. Este, por sua vez, decai para Tório-230, que, então, \ndecai para Rádio-226, como é mostrado no esquema:\n\nSabendo que partículas α têm quatro unidades de massa \natômica, correspondendo ao núcleo do átomo de Hélio, e \nque, nesse caso, as partículas b são elétrons, os decaimentos indicados no esquema pelos números 1, 2 e 3, são, respectivamente,",
-    "images": [],
+    "statement": "Em um trecho da série de decaimentos radioativos naturais do Urânio-238, há o decaimento do Protactínio-234 para Urânio-234. Este, por sua vez, decai para Tório-230, que, então, decai para Rádio-226, como é mostrado no esquema:\n\nSabendo que partículas α têm quatro unidades de massa atômica, correspondendo ao núcleo do átomo de Hélio, e que, nesse caso, as partículas b são elétrons, os decaimentos indicados no esquema pelos números 1, 2 e 3, são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/sis-2024-a3/q52-1.svg",
+        "alt": "Figura de apoio da questão 52."
+      }
+    ],
     "alternatives": [
       "alfa, alfa e beta.",
       "alfa, beta e alfa.",
@@ -7275,15 +8001,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 52."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 17,
@@ -7307,26 +8032,28 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A combustão incompleta de combustíveis fósseis para geração de energia e a queima de plásticos, como policloreto de \nvinila (PVC), resultam em compostos voláteis que são considerados poluentes atmosféricos, pois não são componentes \nda composição média do ar.\n\nDentre os poluentes atmosféricos resultantes dessas queimas, estão os compostos:",
+    "statement": "A combustão incompleta de combustíveis fósseis para geração de energia e a queima de plásticos, como policloreto de vinila (PVC), resultam em compostos voláteis que são considerados poluentes atmosféricos, pois não são componentes da composição média do ar. Dentre os poluentes atmosféricos resultantes dessas queimas, estão os compostos:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "CO e N2",
+      "CO e $N_{2}$",
       "CO e HCℓ",
-      "N2 e CO2",
-      "HCℓ e N2",
-      "H2 e CO2"
+      "$N_{2}$ e $CO_{2}$",
+      "HCℓ e $N_{2}$",
+      "$H_{2}$ e $CO_{2}$"
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 53."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 17,
@@ -7350,26 +8077,31 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\nFórmula estrutural\n\nde ebulição\n\n(ºC)\n\nPentano\n36\n\nMetilbutano\n30\n\nDimetilpropano\n9,5\n\nA variação das temperaturas de ebulição informada na tabela \ntem como explicação",
+    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\tFórmula estrutural\tde ebulição (ºC)\nPentano\t\t36\nMetilbutano\t\t30\nDimetilpropano\t\t9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "os diferentes tipos de interação intermolecular existentes entre as moléculas.",
-      "a diminuição progressiva da massa molar das substâncias.",
+      "a diminuição progressiva da massa molar das substân- cias.",
       "a redução de pontos de aplicação de interações entre as moléculas ocasionada pela ramificação das cadeias.",
-      "o aumento da solubilidade das moléculas em água ocasionada pela ramificação das cadeias.",
+      "o aumento da solubilidade das moléculas em água oca- sionada pela ramificação das cadeias.",
       "o aumento da polaridade das moléculas ocasionada pela ramificação das cadeias."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 54."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 17,
@@ -7393,7 +8125,10 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Revestimentos de superfícies feitos de monômeros de acrilato, um derivado de petróleo, podem ser substituídos por materiais mais ecológicos feitos a partir de lignocelulose, matéria-\n-prima obtida a partir de biomassa. Para tornar a substituição \ndo revestimento ainda mais sustentável, deve-se buscar a \ngeração de energia mais limpa, evitando a emissão de gases \ndo efeito estufa. Essa energia limpa pode ser gerada a partir",
+    "statement": "Revestimentos de superfícies feitos de monômeros de acrilato, um derivado de petróleo, podem ser substituídos por materiais mais ecológicos feitos a partir de lignocelulose, matéria-prima obtida a partir de biomassa. Para tornar a substituição do revestimento ainda mais sustentável, deve-se buscar a geração de energia mais limpa, evitando a emissão de gases do efeito estufa. Essa energia limpa pode ser gerada a partir",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da queima do excedente de biomassa.",
@@ -7404,15 +8139,14 @@ export const uea2024Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 55."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 18,
@@ -7436,7 +8170,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "As dietas de baixa ingestão de calorias, na forma de jejum ou \nde restrição de carboidratos, desencadeiam no organismo o \nconsumo das reservas de energia na forma de gordura corpórea. Nesse processo, os ácidos graxos são transformados \nem certos compostos, como o acetoacetato, a propanona e \no β-hidroxibutirato, cujas fórmulas estruturais estão representadas a seguir.\n\nConsiderando que cetonas podem ser produzidas a partir \nde reações de oxidação de álcoois, verifica-se que o \ncomposto é produto da oxidação do composto .\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "As dietas de baixa ingestão de calorias, na forma de jejum ou de restrição de carboidratos, desencadeiam no organismo o consumo das reservas de energia na forma de gordura corpórea. Nesse processo, os ácidos graxos são transformados em certos compostos, como o acetoacetato, a propanona e o β-hidroxibutirato, cujas fórmulas estruturais estão representadas a seguir.\n\nConsiderando que cetonas podem ser produzidas a partir de reações de oxidação de álcoois, verifica-se que o composto é produto da oxidação do composto. As lacunas do texto são preenchidas, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "acetoacetato e β-hidroxibutirato.",
@@ -7447,15 +8185,14 @@ export const uea2024Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 56."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 18,
@@ -7479,7 +8216,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A taurina é um composto produzido no organismo humano \na partir dos aminoácidos metionina e cisteína. As fórmulas \nestruturais a seguir representam a sequência de compostos \nque dão origem à taurina.\n\nA taurina é comparável aos aminoácidos por apresentar",
+    "statement": "A taurina é um composto produzido no organismo humano a partir dos aminoácidos metionina e cisteína. As fórmulas estruturais a seguir representam a sequência de compostos que dão origem à taurina.\n\nA taurina é comparável aos aminoácidos por apresentar",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um átomo de carbono assimétrico.",
@@ -7490,15 +8231,14 @@ export const uea2024Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 57."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 18,
@@ -7522,7 +8262,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Lise Meitner foi uma cientista que trabalhou no início do século XX em pesquisas que envolviam o cálculo da energia liberada na reação entre o núcleo de urânio-235 (235U) e um nêutron. Em reconhecimento à sua contribuição para a ciência, \na União Internacional de Química Pura e Aplicada (IUPAC) a \nhomenageou atribuindo seu nome a um elemento químico.\n\nO processo nuclear pesquisado por Lise Meitner e o número \natômico do elemento químico que a homenageia são:",
+    "statement": "Lise Meitner foi uma cientista que trabalhou no início do século XX em pesquisas que envolviam o cálculo da energia liberada na reação entre o núcleo de urânio-235 (²³⁵U) e um nêutron. Em reconhecimento à sua contribuição para a ciência, a União Internacional de Química Pura e Aplicada (IUPAC) a homenageou atribuindo seu nome a um elemento químico.\n\nO processo nuclear pesquisado por Lise Meitner e o número atômico do elemento químico que a homenageia são:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fusão nuclear e 109.",
@@ -7533,15 +8277,14 @@ export const uea2024Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf, questão 59."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2024_SIS_acompanhamento-3_prova.pdf",
     "sourcePage": 19,

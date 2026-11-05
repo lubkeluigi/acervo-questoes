@@ -51,6 +51,19 @@ export function statementToHtml(questionOrStatement, section = 'main') {
       html += `<div class="dictionary-box">${entries.join('')}</div>`;
       continue;
     }
+    if (type === 'table') {
+      const rows = text.split('\n').map((r) => r.split('\t'));
+      const numericRow = (row) => row.every((c) => !c.trim() || /^[\d\s.,%$RUS-]+$/.test(c.trim()));
+      const hasHeader = rows.length > 0 && !numericRow(rows[0]);
+      const head = hasHeader ? rows[0] : null;
+      const body = hasHeader ? rows.slice(1) : rows;
+      let t = '<div class="statement-table-wrap"><table class="statement-table">';
+      if (head) t += `<thead><tr>${head.map((c) => `<th>${inline(c)}</th>`).join('')}</tr></thead>`;
+      t += `<tbody>${body.map((r) => `<tr>${r.map((c) => `<td>${inline(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+      html += t;
+      index += 1;
+      continue;
+    }
     if (type === 'label') html += `<div class="statement-label">${withLineBreaks(text)}</div>`;
     else if (type === 'subheading') html += `<h4 class="statement-subheading">${withLineBreaks(text)}</h4>`;
     else if (type === 'poem-title') html += `<h4 class="poem-title">${withLineBreaks(text)}</h4>`;

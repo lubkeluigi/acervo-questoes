@@ -15,31 +15,34 @@ export const uea2022Vestibular = [
     "detail": "Português — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "Leia a tirinha.\n\n(https://i.pinimg.com)\n\nContribui para o efeito de humor da tirinha",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2022-cg/q01-1.svg",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "o emprego do verbo “arrumar” no imperativo afirmativo, no primeiro quadrinho.",
       "o sentido atribuído pela criança ao verbo “arrumar”, no segundo quadrinho.",
       "a ironia contida no pedido de desculpas da criança, no terceiro quadrinho.",
-      "a dupla negação na frase da mulher, no segundo quadrinho.",
-      "o uso irônico da palavra “sim” para indicar forte discordância, no segundo quadrinho."
+      "a dupla negação na frase da mulher, no segundo qua- drinho.",
+      "o uso irônico da palavra “sim” para indicar forte discor- dância, no segundo quadrinho."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -61,26 +64,51 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton \nHatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos \nda calça. [...] Meu pai não tinha renovado o seguro do Eldorado, \ne a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, \nmas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a \nCompanhia Adler tinha perdido oitenta toneladas de borracha \ne castanha, e movia um processo contra a empresa; as taxas \nportuárias não haviam sido pagas para a Manaus Harbour... O \nfalatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou \ne apoiou os cotovelos na escrivaninha, os dedos na testa, o \nolhar de admiração e saudade na fotografia do meu pai. Eu \nnão conseguia encarar Amando, nem na parede. Murmurei: A \nempresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu \npai parecia me desafiar. Covarde. Não serves para nada. Era \na voz de Amando Cordovil. As mesmas palavras. Ou minha \nmemória repetia o que eu tinha ouvido tantas vezes? Então \nnaquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti \no mesmo sufoco quando o diretor do banco me mostrou os \ndocumentos assinados por Amando. A dívida, uma fortuna. \nSaí tonto, peguei o bonde para a chácara e esperei Estiliano \nem Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu \ntinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. \nMas fiz questão de dizer que só meu pai fazia a renovação do \nseguro. Vim antes porque li a notícia do naufrágio nos jornais de \nBelém, ele disse. E então revelou que estava em Manaus havia \numa semana. Não quis perder tempo, prosseguiu. Conversei \ncom o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no \nManaus Harbour, confiscados pela justiça. Essas barcaças \nvelhas não valiam muito, mas era possível vendê-las. O que \ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas \ndívidas. Estiliano não se alterou: o gerente era uma sombra \ndo meu pai, e uma sombra não podia pensar em tudo. Mas \nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da \nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar \ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes \ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda \npela cidade. Aquela moça arrancou tua cabeça, te deixou \nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nNo trecho, Arminto",
-    "images": [],
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nNo trecho, Arminto",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 02."
+      }
+    ],
     "alternatives": [
       "recorre a Estiliano em busca de auxílio para solucionar os problemas financeiros em que a empresa da família se encontrava.",
       "mostra-se arrependido por ter incumbido Estiliano da administração do navio Eldorado.",
       "confessa a si mesmo que o relacionamento amoroso com Dinaura o impedira de zelar pelo patrimônio familiar.",
       "isenta o gerente dos negócios da família pela derrocada financeira dos Cordovil.",
-      "sente-se inconformado porque o Eldorado, navio a que dedicara todo o seu trabalho, naufragara sem a renovação da apólice de seguro."
+      "sente-se inconformado porque o Eldorado, navio a que dedicara todo o seu trabalho, naufragara sem a renova- ção da apólice de seguro."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -102,8 +130,34 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton \nHatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos \nda calça. [...] Meu pai não tinha renovado o seguro do Eldorado, \ne a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, \nmas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a \nCompanhia Adler tinha perdido oitenta toneladas de borracha \ne castanha, e movia um processo contra a empresa; as taxas \nportuárias não haviam sido pagas para a Manaus Harbour... O \nfalatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou \ne apoiou os cotovelos na escrivaninha, os dedos na testa, o \nolhar de admiração e saudade na fotografia do meu pai. Eu \nnão conseguia encarar Amando, nem na parede. Murmurei: A \nempresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu \npai parecia me desafiar. Covarde. Não serves para nada. Era \na voz de Amando Cordovil. As mesmas palavras. Ou minha \nmemória repetia o que eu tinha ouvido tantas vezes? Então \nnaquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti \no mesmo sufoco quando o diretor do banco me mostrou os \ndocumentos assinados por Amando. A dívida, uma fortuna. \nSaí tonto, peguei o bonde para a chácara e esperei Estiliano \nem Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu \ntinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. \nMas fiz questão de dizer que só meu pai fazia a renovação do \nseguro. Vim antes porque li a notícia do naufrágio nos jornais de \nBelém, ele disse. E então revelou que estava em Manaus havia \numa semana. Não quis perder tempo, prosseguiu. Conversei \ncom o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no \nManaus Harbour, confiscados pela justiça. Essas barcaças \nvelhas não valiam muito, mas era possível vendê-las. O que \ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas \ndívidas. Estiliano não se alterou: o gerente era uma sombra \ndo meu pai, e uma sombra não podia pensar em tudo. Mas \nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da \nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar \ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes \ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda \npela cidade. Aquela moça arrancou tua cabeça, te deixou \nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA figura do pai, embora já morto, produz em Arminto um \nsentimento de",
-    "images": [],
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA figura do pai, embora já morto, produz em Arminto um sentimento de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 03."
+      }
+    ],
     "alternatives": [
       "indiferença.",
       "orgulho.",
@@ -113,15 +167,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -143,26 +196,51 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton \nHatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos \nda calça. [...] Meu pai não tinha renovado o seguro do Eldorado, \ne a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, \nmas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a \nCompanhia Adler tinha perdido oitenta toneladas de borracha \ne castanha, e movia um processo contra a empresa; as taxas \nportuárias não haviam sido pagas para a Manaus Harbour... O \nfalatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou \ne apoiou os cotovelos na escrivaninha, os dedos na testa, o \nolhar de admiração e saudade na fotografia do meu pai. Eu \nnão conseguia encarar Amando, nem na parede. Murmurei: A \nempresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu \npai parecia me desafiar. Covarde. Não serves para nada. Era \na voz de Amando Cordovil. As mesmas palavras. Ou minha \nmemória repetia o que eu tinha ouvido tantas vezes? Então \nnaquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti \no mesmo sufoco quando o diretor do banco me mostrou os \ndocumentos assinados por Amando. A dívida, uma fortuna. \nSaí tonto, peguei o bonde para a chácara e esperei Estiliano \nem Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu \ntinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. \nMas fiz questão de dizer que só meu pai fazia a renovação do \nseguro. Vim antes porque li a notícia do naufrágio nos jornais de \nBelém, ele disse. E então revelou que estava em Manaus havia \numa semana. Não quis perder tempo, prosseguiu. Conversei \ncom o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no \nManaus Harbour, confiscados pela justiça. Essas barcaças \nvelhas não valiam muito, mas era possível vendê-las. O que \ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas \ndívidas. Estiliano não se alterou: o gerente era uma sombra \ndo meu pai, e uma sombra não podia pensar em tudo. Mas \nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da \nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar \ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes \ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda \npela cidade. Aquela moça arrancou tua cabeça, te deixou \nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA vírgula foi empregada para demarcar a elipse de um \nverbo em:",
-    "images": [],
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA vírgula foi empregada para demarcar a elipse de um verbo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q02-1.svg",
+        "alt": "Figura de apoio da questão 04."
+      }
+    ],
     "alternatives": [
-      "“Ele ia renovar, mas morreu” (3o parágrafo).",
-      "“A dívida, uma fortuna” (7o parágrafo).",
-      "“Eu não conseguia encarar Amando, nem na parede” (4o parágrafo).",
-      "“Só de pensar, fico agoniado” (7o parágrafo).",
-      "“Permaneceu mudo, na mesma posição” (6o parágrafo)."
+      "“Ele ia renovar, mas morreu” (3º parágrafo).",
+      "“A dívida, uma fortuna” (7º parágrafo).",
+      "“Eu não conseguia encarar Amando, nem na parede” (4º parágrafo).",
+      "“Só de pensar, fico agoniado” (7º parágrafo).",
+      "“Permaneceu mudo, na mesma posição” (6º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -184,26 +262,46 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton \nHatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos \nda calça. [...] Meu pai não tinha renovado o seguro do Eldorado, \ne a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, \nmas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a \nCompanhia Adler tinha perdido oitenta toneladas de borracha \ne castanha, e movia um processo contra a empresa; as taxas \nportuárias não haviam sido pagas para a Manaus Harbour... O \nfalatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou \ne apoiou os cotovelos na escrivaninha, os dedos na testa, o \nolhar de admiração e saudade na fotografia do meu pai. Eu \nnão conseguia encarar Amando, nem na parede. Murmurei: A \nempresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu \npai parecia me desafiar. Covarde. Não serves para nada. Era \na voz de Amando Cordovil. As mesmas palavras. Ou minha \nmemória repetia o que eu tinha ouvido tantas vezes? Então \nnaquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti \no mesmo sufoco quando o diretor do banco me mostrou os \ndocumentos assinados por Amando. A dívida, uma fortuna. \nSaí tonto, peguei o bonde para a chácara e esperei Estiliano \nem Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu \ntinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. \nMas fiz questão de dizer que só meu pai fazia a renovação do \nseguro. Vim antes porque li a notícia do naufrágio nos jornais de \nBelém, ele disse. E então revelou que estava em Manaus havia \numa semana. Não quis perder tempo, prosseguiu. Conversei \ncom o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no \nManaus Harbour, confiscados pela justiça. Essas barcaças \nvelhas não valiam muito, mas era possível vendê-las. O que \ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas \ndívidas. Estiliano não se alterou: o gerente era uma sombra \ndo meu pai, e uma sombra não podia pensar em tudo. Mas \nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da \nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar \ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes \ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda \npela cidade. Aquela moça arrancou tua cabeça, te deixou \nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA palavra empregada em sentido figurado está sublinhada \nem:",
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA palavra empregada em sentido figurado está sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Se não venderes tudo, podes ser preso” (13o parágrafo).",
-      "“Vais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores” (11o parágrafo).",
-      "“Já sabia de tudo: eu tinha sido ingênuo ou irresponsável” (8o parágrafo).",
-      "“Estiliano não se alterou: o gerente era uma sombra do meu pai” (10o parágrafo).",
-      "“As pequenas companhias de navegação da Amazônia estão falidas” (13o parágrafo)."
+      "“Se não venderes tudo, podes ser preso” (13º parágrafo).",
+      "“Vais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores” (11º parágrafo).",
+      "“Já sabia de tudo: eu tinha sido ingênuo ou irresponsável” (8º parágrafo).",
+      "“Estiliano não se alterou: o gerente era uma sombra do meu pai” (10º parágrafo).",
+      "“As pequenas companhias de navegação da Amazônia estão falidas” (13º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -225,7 +323,15 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do artigo de João de Jesus Paes Loureiro para \nresponder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura \nmítica marcada pela dominante poética do imaginário. Original \ncultura mítica sobrevivente neste terceiro milênio, onde ainda \nse constata uma incessante produção de narrativas fabulosas \nna oralidade que caracteriza a sociedade regional amazônica. \nSão os deuses de uma teogonia1 cotidiana e operativa. Para \nabrigá-los, os caboclos ribeirinhos inventaram uma singular \npaisagem ideal, um lugar ameno situado no fundo dos rios \nou nas brenhas das florestas. Trata-se das encantarias, lugar \nonde moram os seres encantados, os deuses e personagens \ndo imaginário amazônico, decorrente do fertilíssimo devaneio \ndo homem do lugar, diante do correr das águas doces de seus \nrios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles \ncom a natureza.\n\n(João de Jesus Paes Loureiro. \nwww.amazonialatitude.com. Adaptado.)\n\n1 teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n“Para abrigá-los, os caboclos ribeirinhos inventaram uma \nsingular paisagem ideal, um lugar ameno situado no fundo \ndos rios ou nas brenhas das florestas.”\n\nA referência a um lugar ameno (em latim, locus amoenus) \naproxima as narrativas produzidas pelo imaginário amazônico \nda estética",
+    "statement": "Leia o trecho do artigo de João de Jesus Paes Loureiro para responder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário. Original cultura mítica sobrevivente neste terceiro milênio, onde ainda se constata uma incessante produção de narrativas fabulosas na oralidade que caracteriza a sociedade regional amazônica. São os deuses de uma teogonia¹ cotidiana e operativa. Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas. Trata-se das encantarias, lugar onde moram os seres encantados, os deuses e personagens do imaginário amazônico, decorrente do fertilíssimo devaneio do homem do lugar, diante do correr das águas doces de seus rios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles com a natureza.\n\n(João de Jesus Paes Loureiro.\n\nwww.amazonialatitude.com. Adaptado.)\n\n1 teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n“Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas.” A referência a um lugar ameno (em latim, locus amoenus) aproxima as narrativas produzidas pelo imaginário amazônico da estética",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "simbolista.",
@@ -236,15 +342,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -266,7 +371,15 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do artigo de João de Jesus Paes Loureiro para \nresponder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura \nmítica marcada pela dominante poética do imaginário. Original \ncultura mítica sobrevivente neste terceiro milênio, onde ainda \nse constata uma incessante produção de narrativas fabulosas \nna oralidade que caracteriza a sociedade regional amazônica. \nSão os deuses de uma teogonia1 cotidiana e operativa. Para \nabrigá-los, os caboclos ribeirinhos inventaram uma singular \npaisagem ideal, um lugar ameno situado no fundo dos rios \nou nas brenhas das florestas. Trata-se das encantarias, lugar \nonde moram os seres encantados, os deuses e personagens \ndo imaginário amazônico, decorrente do fertilíssimo devaneio \ndo homem do lugar, diante do correr das águas doces de seus \nrios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles \ncom a natureza.\n\n(João de Jesus Paes Loureiro. \nwww.amazonialatitude.com. Adaptado.)\n\n1 teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n“A cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário.”\n\nA palavra “reminiscência” pode ser substituída, sem prejuízo \npara o sentido do texto, por:",
+    "statement": "Leia o trecho do artigo de João de Jesus Paes Loureiro para responder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário. Original cultura mítica sobrevivente neste terceiro milênio, onde ainda se constata uma incessante produção de narrativas fabulosas na oralidade que caracteriza a sociedade regional amazônica. São os deuses de uma teogonia¹ cotidiana e operativa. Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas. Trata-se das encantarias, lugar onde moram os seres encantados, os deuses e personagens do imaginário amazônico, decorrente do fertilíssimo devaneio do homem do lugar, diante do correr das águas doces de seus rios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles com a natureza.\n\n(João de Jesus Paes Loureiro.\n\nwww.amazonialatitude.com. Adaptado.)\n\n1 teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n“A cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário.” A palavra “reminiscência” pode ser substituída, sem prejuízo para o sentido do texto, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "exaltação.",
@@ -277,15 +390,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -307,12 +419,18 @@ export const uea2022Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Observe a obra de arte Meteoro, de Bruno Giorgi.\n\nConstruída entre 1967 e 1968, essa escultura está localizada em frente ao Palácio do Itamaraty, no espelho d’água do \nedifício do Ministério das Relações Exteriores, em Brasília, e \né composta de cinco blocos de mármore de Carrara, cada um \nrepresentando um continente.\n\n(Meteoro. http://enciclopedia.itaucultural.org.br)\n\nO Ministério das Relações Exteriores (ou Itamaraty) é \n“responsável, entre outros, pelas relações internacionais do \nBrasil, nos planos bilateral, regional e multilateral. O Itamaraty \nassessora o Presidente da República na execução das relações diplomáticas com Estados e organismos internacionais”.\n\n(www.gov.br. Adaptado.)\n\nInfere-se das características da escultura Meteoro que ela faz \nreferência a um dos ideais das relações diplomáticas, qual \nseja, o de",
+    "statement": "Observe a obra de arte Meteoro, de Bruno Giorgi. Construída entre 1967 e 1968, essa escultura está localizada em frente ao Palácio do Itamaraty, no espelho d’água do edifício do Ministério das Relações Exteriores, em Brasília, e é composta de cinco blocos de mármore de Carrara, cada um representando um continente.\n\n(Meteoro. http://enciclopedia.itaucultural.org.br)\n\nO Ministério das Relações Exteriores (ou Itamaraty) é “responsável, entre outros, pelas relações internacionais do Brasil, nos planos bilateral, regional e multilateral. O Itamaraty assessora o Presidente da República na execução das relações diplomáticas com Estados e organismos internacionais”.\n\n(www.gov.br. Adaptado.)\n\nInfere-se das características da escultura Meteoro que ela faz referência a um dos ideais das relações diplomáticas, qual seja, o de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2022-cg/q08-1.svg",
+        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -324,15 +442,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -354,10 +471,16 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably \nquite easy to grab a cheap hamburger from a nearby fast-food \nrestaurant. But what you may not realize is that the meat in \nthat cheap burger can actually illustrate a grand narrative \nabout how humans have shaped the planet. From the land \nused to raise cattle for beef consumption, to the water used to \nfeed those cattle, to the fuel used to transport the beef all over \nthe world, the human progress that enables us to easily buy \na burger — and, for that matter, hop on a plane, charge our \nphones, and take part in the multitude of activities that make \nup our everyday experiences — has changed the biosphere.\n\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nDe acordo com o texto,",
+    "statement": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably quite easy to grab a cheap hamburger from a nearby fast-food restaurant. But what you may not realize is that the meat in that cheap burger can actually illustrate a grand narrative about how humans have shaped the planet. From the land used to raise cattle for beef consumption, to the water used to feed those cattle, to the fuel used to transport the beef all over the world, the human progress that enables us to easily buy a burger — and, for that matter, hop on a plane, charge our phones, and take part in the multitude of activities that make up our everyday experiences — has changed the biosphere.\n\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nDe acordo com o texto,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "o aumento no preço dos combustíveis influencia diretamente o preço da carne.",
+      "o aumento no preço dos combustíveis influencia direta- mente o preço da carne.",
       "o consumo de carne vermelha é prejudicial à saúde e ao meio ambiente.",
       "a agropecuária é a atividade que mais consome água no mundo.",
       "situações corriqueiras impactam o planeta de forma significativa.",
@@ -365,15 +488,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -396,7 +518,14 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura \nno es la excepción. Con el correr de los años, distintos \nlineamientos generales transformaron a construcciones en \n“normales”. Sin embargo, también, alrededor del planeta, \nalgunos osados buscan romper con los estereotipos, \nignorando los mandamientos de su profesión para que sus \nhogares resalten por su originalidad o extravagancia. Veamos \nestos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble \ncon forma de zapato. En su versión original, fue una \ncasa de huéspedes real con 3 dormitorios, dos baños, \nuna cocina y un living para un magnate de los zapatos \na quien le encantaba ese tema.\n• \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece \nde cualquier tipo de intimidad. Dada su transparencia, \ntodos los detalles de la casa se pueden ver desde el \nexterior. Solo a la noche, un cortinaje general ofrece \nla posibilidad de cierta privacidad en sus 914 metros \ncuadrados.\n• \u0007Entre dos edificios de dimensiones tradicionales, se \nencuentra la Casa Keret, en Varsovia. La peculiar \nconstrucción de aluminio y plástico tiene 10 metros de \naltura y exactos 92 centímetros de ancho. El huésped \npuede acceder a través de una escalera al corazón del \nhogar.\n• \u0007Inspirada en una clásica serie animada, figura una \ncasa rocosa en Malibú, que emula la residencia de Los \nPicapiedras (“The Flintstones”). La enorme propiedad, \nque se encuentra rodeada por más de 22 hectáreas, \nconsta de un solo piso. Tiene un dormitorio, dos baños, \nuna gran chimenea y ventanas de cristal que permiten \nver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nConsiderando seu conteúdo geral, um título apropriado para \no texto seria:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nConsiderando seu conteúdo geral, um título apropriado para o texto seria:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "¿Por qué nos gustan las casas raras?",
@@ -407,15 +536,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -438,26 +566,31 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably \nquite easy to grab a cheap hamburger from a nearby fast-food \nrestaurant. But what you may not realize is that the meat in \nthat cheap burger can actually illustrate a grand narrative \nabout how humans have shaped the planet. From the land \nused to raise cattle for beef consumption, to the water used to \nfeed those cattle, to the fuel used to transport the beef all over \nthe world, the human progress that enables us to easily buy \na burger — and, for that matter, hop on a plane, charge our \nphones, and take part in the multitude of activities that make \nup our everyday experiences — has changed the biosphere.\n\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nNo trecho “the human progress that enables us to easily buy a \nburger”, o termo sublinhado equivale, em português, a",
+    "statement": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably quite easy to grab a cheap hamburger from a nearby fast-food restaurant. But what you may not realize is that the meat in that cheap burger can actually illustrate a grand narrative about how humans have shaped the planet. From the land used to raise cattle for beef consumption, to the water used to feed those cattle, to the fuel used to transport the beef all over the world, the human progress that enables us to easily buy a burger — and, for that matter, hop on a plane, charge our phones, and take part in the multitude of activities that make up our everyday experiences — has changed the biosphere.\n\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nNo trecho “the human progress that enables us to easily buy a burger”, o termo sublinhado equivale, em português, a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "protege.",
       "possibilita.",
       "proíbe.",
       "confunde.",
-      "atrapalha. Leia o texto para responder às questões 11 e 12. Michigan State University’s Quick Check 1. \u0007Check the website name and domain: Fake sites often have a “.co” in the domain. 2. \u0007Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. \u0007Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. \u0007Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. \u0007Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. \u0007Corrections: Again, reputable sites have a Corrections section or policy. 7. \u0007Named Sources, Studies etc.: Does the article name a source or study for its information? 8. \u0007Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. \u0007Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. \u0007Verify Information Using Multiple Sources: This is a good habit for all research. Make sure you can find more than one reputable source reporting the same information. (www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)"
+      "atrapalha."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -480,7 +613,14 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura \nno es la excepción. Con el correr de los años, distintos \nlineamientos generales transformaron a construcciones en \n“normales”. Sin embargo, también, alrededor del planeta, \nalgunos osados buscan romper con los estereotipos, \nignorando los mandamientos de su profesión para que sus \nhogares resalten por su originalidad o extravagancia. Veamos \nestos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble \ncon forma de zapato. En su versión original, fue una \ncasa de huéspedes real con 3 dormitorios, dos baños, \nuna cocina y un living para un magnate de los zapatos \na quien le encantaba ese tema.\n• \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece \nde cualquier tipo de intimidad. Dada su transparencia, \ntodos los detalles de la casa se pueden ver desde el \nexterior. Solo a la noche, un cortinaje general ofrece \nla posibilidad de cierta privacidad en sus 914 metros \ncuadrados.\n• \u0007Entre dos edificios de dimensiones tradicionales, se \nencuentra la Casa Keret, en Varsovia. La peculiar \nconstrucción de aluminio y plástico tiene 10 metros de \naltura y exactos 92 centímetros de ancho. El huésped \npuede acceder a través de una escalera al corazón del \nhogar.\n• \u0007Inspirada en una clásica serie animada, figura una \ncasa rocosa en Malibú, que emula la residencia de Los \nPicapiedras (“The Flintstones”). La enorme propiedad, \nque se encuentra rodeada por más de 22 hectáreas, \nconsta de un solo piso. Tiene un dormitorio, dos baños, \nuna gran chimenea y ventanas de cristal que permiten \nver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nPor lo dicho en el texto, al comparar la casa Keret y la casa \nde Malibú, se entiende que",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nPor lo dicho en el texto, al comparar la casa Keret y la casa de Malibú, se entiende que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "el material rocoso de la casa de Malibú le da una mayor sensación hogareña.",
@@ -491,15 +631,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -522,7 +661,15 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "The purpose of the text is to",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain. 2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. Corrections: Again, reputable sites have a Corrections section or policy. 7. Named Sources, Studies etc.: Does the article name a source or study for its information? 8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nThe purpose of the text is to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "provide a guideline on how to identify misleading information or fake news.",
@@ -533,15 +680,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -564,7 +710,14 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura \nno es la excepción. Con el correr de los años, distintos \nlineamientos generales transformaron a construcciones en \n“normales”. Sin embargo, también, alrededor del planeta, \nalgunos osados buscan romper con los estereotipos, \nignorando los mandamientos de su profesión para que sus \nhogares resalten por su originalidad o extravagancia. Veamos \nestos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble \ncon forma de zapato. En su versión original, fue una \ncasa de huéspedes real con 3 dormitorios, dos baños, \nuna cocina y un living para un magnate de los zapatos \na quien le encantaba ese tema.\n• \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece \nde cualquier tipo de intimidad. Dada su transparencia, \ntodos los detalles de la casa se pueden ver desde el \nexterior. Solo a la noche, un cortinaje general ofrece \nla posibilidad de cierta privacidad en sus 914 metros \ncuadrados.\n• \u0007Entre dos edificios de dimensiones tradicionales, se \nencuentra la Casa Keret, en Varsovia. La peculiar \nconstrucción de aluminio y plástico tiene 10 metros de \naltura y exactos 92 centímetros de ancho. El huésped \npuede acceder a través de una escalera al corazón del \nhogar.\n• \u0007Inspirada en una clásica serie animada, figura una \ncasa rocosa en Malibú, que emula la residencia de Los \nPicapiedras (“The Flintstones”). La enorme propiedad, \nque se encuentra rodeada por más de 22 hectáreas, \nconsta de un solo piso. Tiene un dormitorio, dos baños, \nuna gran chimenea y ventanas de cristal que permiten \nver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nAl pasar el fragmento “a quien le encantaba ese tema” al \nplural, sustituyendo el verbo subrayado por un sinónimo \nequivalente, el segmento quedaría como:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nAl pasar el fragmento “a quien le encantaba ese tema” al plural, sustituyendo el verbo subrayado por un sinónimo equivalente, el segmento quedaría como:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a quienes les gustaban esos temas.",
@@ -575,15 +728,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -606,7 +758,15 @@ export const uea2022Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "In the excerpt from the third item “Anonymous articles \ngenerally should be avoided”, the underlined term is used to",
+    "statement": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain. 2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited? 3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided. 4. Emotional Manipulation: Do you feel emotions by simply reading the headline? 5. Statement of Ethics: Most reputable news sites have a Statement of Ethics. 6. Corrections: Again, reputable sites have a Corrections section or policy. 7. Named Sources, Studies etc.: Does the article name a source or study for its information? 8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion. 9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent? 10. Verify Information Using Multiple Sources: This is a good\n\nhabit for all research. Make sure you can find more than one reputable source reporting the same information.\n\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nIn the excerpt from the third item “Anonymous articles generally should be avoided”, the underlined term is used to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "introduce a reason.",
@@ -617,15 +777,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -648,7 +807,14 @@ export const uea2022Vestibular = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura \nno es la excepción. Con el correr de los años, distintos \nlineamientos generales transformaron a construcciones en \n“normales”. Sin embargo, también, alrededor del planeta, \nalgunos osados buscan romper con los estereotipos, \nignorando los mandamientos de su profesión para que sus \nhogares resalten por su originalidad o extravagancia. Veamos \nestos ejemplos:\n\n• \u0007En Hellam, Estados Unidos, hay un curioso inmueble \ncon forma de zapato. En su versión original, fue una \ncasa de huéspedes real con 3 dormitorios, dos baños, \nuna cocina y un living para un magnate de los zapatos \na quien le encantaba ese tema.\n• \u0007La “House N.A.”, en Tokio, de estilo minimalista, carece \nde cualquier tipo de intimidad. Dada su transparencia, \ntodos los detalles de la casa se pueden ver desde el \nexterior. Solo a la noche, un cortinaje general ofrece \nla posibilidad de cierta privacidad en sus 914 metros \ncuadrados.\n• \u0007Entre dos edificios de dimensiones tradicionales, se \nencuentra la Casa Keret, en Varsovia. La peculiar \nconstrucción de aluminio y plástico tiene 10 metros de \naltura y exactos 92 centímetros de ancho. El huésped \npuede acceder a través de una escalera al corazón del \nhogar.\n• \u0007Inspirada en una clásica serie animada, figura una \ncasa rocosa en Malibú, que emula la residencia de Los \nPicapiedras (“The Flintstones”). La enorme propiedad, \nque se encuentra rodeada por más de 22 hectáreas, \nconsta de un solo piso. Tiene un dormitorio, dos baños, \nuna gran chimenea y ventanas de cristal que permiten \nver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nUma afirmação gramaticalmente correta que atende à descrição \nda casa de Tokio é:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nEl ojo humano se acostumbra a lo habitual. La arquitectura no es la excepción. Con el correr de los años, distintos lineamientos generales transformaron a construcciones en “normales”. Sin embargo, también, alrededor del planeta, algunos osados buscan romper con los estereotipos, ignorando los mandamientos de su profesión para que sus hogares resalten por su originalidad o extravagancia. Veamos estos ejemplos:\n\n• En Hellam, Estados Unidos, hay un curioso inmueble con forma de zapato. En su versión original, fue una casa de huéspedes real con 3 dormitorios, dos baños, una cocina y un living para un magnate de los zapatos a quien le encantaba ese tema. • La “House N.A.”, en Tokio, de estilo minimalista, carece de cualquier tipo de intimidad. Dada su transparencia, todos los detalles de la casa se pueden ver desde el exterior. Solo a la noche, un cortinaje general ofrece la posibilidad de cierta privacidad en sus 914 metros cuadrados. • Entre dos edificios de dimensiones tradicionales, se encuentra la Casa Keret, en Varsovia. La peculiar construcción de aluminio y plástico tiene 10 metros de altura y exactos 92 centímetros de ancho. El huésped puede acceder a través de una escalera al corazón del hogar. • Inspirada en una clásica serie animada, figura una casa rocosa en Malibú, que emula la residencia de Los Picapiedras (“The Flintstones”). La enorme propiedad, que se encuentra rodeada por más de 22 hectáreas, consta de un solo piso. Tiene un dormitorio, dos baños, una gran chimenea y ventanas de cristal que permiten ver el exterior.\n\n(www.infobae.com. Adaptado.)\n\nUma afirmação gramaticalmente correta que atende à descrição da casa de Tokio é:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Del exterior de la casa se pueden ver sus detalles porque fuera transparente.",
@@ -659,15 +825,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -690,7 +855,13 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A educação física fazia parte da educação de meninos \ne adolescentes na Grécia Antiga, especialmente o atletismo. \nEles praticavam diversos tipos de jogos de bola, corrida a \npé, salto em extensão com impulso, lançamento de disco, de \ndardo e luta. Os treinos eram diários e completavam-se com \nexercícios variados para fortalecer os músculos como marcha em terreno acidentado, corrida em círculos, pés batendo \nnas nádegas, pontapés no ar, movimentos de braços, subir \nna corda etc.\n\n(Joelza Ester Domingues. “O que você sabe sobre as Olimpíadas na\n\nGrécia Antiga?”. https://ensinarhistoria.com.br. Adaptado.)\n\nCom base no excerto e em conhecimentos sobre a Grécia \nAntiga, a educação física, majoritariamente, fazia parte da \nformação",
+    "statement": "A educação física fazia parte da educação de meninos e adolescentes na Grécia Antiga, especialmente o atletismo. Eles praticavam diversos tipos de jogos de bola, corrida a pé, salto em extensão com impulso, lançamento de disco, de dardo e luta. Os treinos eram diários e completavam-se com exercícios variados para fortalecer os músculos como marcha em terreno acidentado, corrida em círculos, pés batendo nas nádegas, pontapés no ar, movimentos de braços, subir na corda etc.\n\n(Joelza Ester Domingues. “O que você sabe sobre as Olimpíadas na\n\nGrécia Antiga?”. https://ensinarhistoria.com.br. Adaptado.)\n\nCom base no excerto e em conhecimentos sobre a Grécia Antiga, a educação física, majoritariamente, fazia parte da formação",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "dos escravos capturados nas guerras.",
@@ -701,15 +872,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -731,26 +901,28 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na América pré-colombiana, maias, astecas e incas tinham \ncomo semelhanças",
+    "statement": "Na América pré-colombiana, maias, astecas e incas tinham como semelhanças",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a edificação de pirâmides e o uso de canais de irrigação para ampliar as áreas de plantio.",
-      "a escrita hieroglífica e o comércio como atividade principal da economia.",
-      "a construção de terraços agrícolas e os sacrifícios humanos em rituais religiosos.",
-      "o uso de sementes de cacau como moedas e a centralização política em um império.",
+      "a escrita hieroglífica e o comércio como atividade princi- pal da economia.",
+      "a construção de terraços agrícolas e os sacrifícios huma- nos em rituais religiosos.",
+      "o uso de sementes de cacau como moedas e a centrali- zação política em um império.",
       "a religião politeísta e a economia agrícola com o cultivo de milho e batata."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -772,26 +944,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A obra do Marquês de Pombal, realizada ao longo de \nmuitos anos (1750-1777), representou um grande esforço \nno sentido de tornar mais eficaz a administração portuguesa e introduzir modificações no relacionamento Metrópole-\n-Colônia. A reforma combinava o absolutismo ilustrado com \na tentativa de uma aplicação consequente das doutrinas \nmercantilistas. Essa fórmula geral se concretizou em uma \nsérie de medidas no Brasil, como a criação da Companhia \nGeral do Comércio do Grão-Pará e Maranhão em 1755.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nDe acordo com as concepções mercantilistas de Pombal, a \nreferida companhia tinha como objetivo desenvolver a região \nNorte,",
+    "statement": "A obra do Marquês de Pombal, realizada ao longo de muitos anos (1750-1777), representou um grande esforço no sentido de tornar mais eficaz a administração portuguesa e introduzir modificações no relacionamento Metrópole-Colônia. A reforma combinava o absolutismo ilustrado com a tentativa de uma aplicação consequente das doutrinas mercantilistas. Essa fórmula geral se concretizou em uma série de medidas no Brasil, como a criação da Companhia Geral do Comércio do Grão-Pará e Maranhão em 1755.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nDe acordo com as concepções mercantilistas de Pombal, a referida companhia tinha como objetivo desenvolver a região Norte,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "permitindo a instalação de manufaturas de tecidos de algodão para diminuir a importação de tecidos oriundos das fábricas inglesas.",
       "estimulando a livre concorrência entre os produtores locais para dinamizar a economia colonial e a exportação das drogas do sertão.",
       "coibindo o contrabando de metais preciosos para garantir a eficácia da política metalista do império português.",
-      "oferecendo preços atraentes para as mercadorias produzidas para serem transportadas com exclusividade nos navios da companhia até a Europa.",
+      "oferecendo preços atraentes para as mercadorias produ- zidas para serem transportadas com exclusividade nos navios da companhia até a Europa.",
       "incentivando a substituição do trabalho escravo pela mão de obra assalariada tendo em vista a alta dos preços dos escravos africanos no mercado internacional."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -813,26 +989,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A nova Assembleia, a Convenção, dividiu-se rapidamente \nem dois grupos rivais, embora, entre eles, muitos deputados \ndo centro (chamado de “Planície”) relutassem em tomar uma \nposição.\n\n(Michel Vovelle. A Revolução Francesa explicada à minha neta, 2007.)\n\nNo contexto da Revolução Francesa, sobre “os dois grupos \nrivais” da Convenção, pode-se afirmar que",
+    "statement": "A nova Assembleia, a Convenção, dividiu-se rapidamente em dois grupos rivais, embora, entre eles, muitos deputados do centro (chamado de “Planície”) relutassem em tomar uma posição.\n\n(Michel Vovelle. A Revolução Francesa explicada à minha neta, 2007.)\n\nNo contexto da Revolução Francesa, sobre “os dois grupos rivais” da Convenção, pode-se afirmar que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "os republicanos moderados defendiam a inviolabilidade da propriedade privada, que era contestada pelas ideias socialistas do pântano.",
-      "a defesa da secularização dos bens da Igreja Católica, sustentada pelo “clero constitucional” provocou a oposição do chamado “clero refratário”.",
-      "as reivindicações sociais e políticas dos jacobinos contrariavam os interesses de parte da alta burguesia, que era representada pelos girondinos.",
-      "a proposta de votação por Estado, apoiada pela nobreza cortesã, desagradava o Terceiro Estado, que compreendia grupos sociais bem distintos entre si.",
+      "a defesa da secularização dos bens da Igreja Católica, sustentada pelo “clero constitucional” provocou a oposi- ção do chamado “clero refratário”.",
+      "as reivindicações sociais e políticas dos jacobinos contra- riavam os interesses de parte da alta burguesia, que era representada pelos girondinos.",
+      "a proposta de votação por Estado, apoiada pela nobreza cortesã, desagradava o Terceiro Estado, que compreen- dia grupos sociais bem distintos entre si.",
       "os sans-culottes reivindicavam o retorno da monarquia constitucional contra as pretensões republicanas da alta burguesia financeira."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -854,10 +1034,16 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No Brasil, a independência foi descrita como um episódio \nsem rupturas profundas.\n\n(Maria Lígia Coelho Prado. América Latina no \nséculo XIX: tramas, telas e textos, 2014. Adaptado.)\n\nNo Brasil independente, são fatos históricos que justificam o \nexposto na frase da historiadora:",
+    "statement": "No Brasil, a independência foi descrita como um episódio sem rupturas profundas.\n\n(Maria Lígia Coelho Prado. América Latina no\n\nséculo XIX: tramas, telas e textos, 2014. Adaptado.)\n\nNo Brasil independente, são fatos históricos que justificam o exposto na frase da historiadora:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a conservação das capitanias hereditárias e do governo-geral.",
+      "a conservação das capitanias hereditárias e do governo- -geral.",
       "a subsistência de normas legais e do parlamentarismo português.",
       "a continuidade da política industrializante e de reformas urbanas joanina.",
       "o prosseguimento do sistema de parceria e da imigração subvencionada.",
@@ -865,15 +1051,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -895,7 +1080,12 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A Lei Eusébio de Queirós de 1850 foi um acontecimento \nque cimentou o início do movimento abolicionista no Brasil. \nEsse movimento passou para a ordem do dia. Iniciou-se, \nassim, uma nova etapa na luta sustentada pelos abolicionistas de várias frentes, tendo de enfrentar, apesar disso, um \nperíodo de árduas labutas.\n\n(Clóvis Moura. Dicionário da escravidão negra no Brasil, 2013. Adaptado.)\n\nO fato citado no excerto entusiasmou o movimento abolicionista, dentre outros motivos, porque",
+    "statement": "A Lei Eusébio de Queirós de 1850 foi um acontecimento que cimentou o início do movimento abolicionista no Brasil. Esse movimento passou para a ordem do dia. Iniciou-se, assim, uma nova etapa na luta sustentada pelos abolicionistas de várias frentes, tendo de enfrentar, apesar disso, um período de árduas labutas.\n\n(Clóvis Moura. Dicionário da escravidão negra no Brasil, 2013. Adaptado.)\n\nO fato citado no excerto entusiasmou o movimento abolicionista, dentre outros motivos, porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "acatou as pressões externas pelo fim da escravidão, o que levou o parlamento brasileiro a estabelecer as etapas para a abolição da escravatura.",
@@ -906,15 +1096,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -936,32 +1125,35 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Observe a fotografia do Teatro Amazonas, inaugurado em \n1896 na cidade de Manaus.\n\n(https://correiodaamazonia.com)\n\nA construção do Teatro Amazonas está relacionada",
+    "statement": "Observe a fotografia do Teatro Amazonas, inaugurado em 1896 na cidade de Manaus.\n\n(https://correiodaamazonia.com)\n\nA construção do Teatro Amazonas está relacionada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q19-1.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2022-cg/q19-1.svg",
+        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "ao auge da exploração da borracha e à execução de obras urbanas grandiosas durante a Belle Époque brasileira.",
       "à expansão das fazendas de cacau na região e à difusão do ideário pré-modernista na Amazônia.",
       "ao projeto da Primeira República de integrar o país e ao resgate da arquitetura colonial.",
-      "ao crescimento da economia algodoeira e à heterogeneidade do estilo arquitetônico neobarroco.",
+      "ao crescimento da economia algodoeira e à heterogenei- dade do estilo arquitetônico neobarroco.",
       "ao desenvolvimento urbano e à retomada de elementos da arquitetura greco-romana sem adaptações locais."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -983,26 +1175,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em 1916, a guerra de trincheiras tinha assumido uma \nestrutura básica que poderia ser encontrada, com variações \nlocais, em todas as frentes de batalha. Em cada lado da terra \nde ninguém, as respectivas frentes tinham, pelo menos, três \nlinhas de trincheiras; a distância entre as sucessivas linhas (e \na largura da própria terra de ninguém) variava muito, e costumava depender do terreno local.\n\n(Lawrence Sondhaus. A Primeira Guerra Mundial: história completa, 2017.)\n\nDurante a Primeira Guerra Mundial, a tática de combate descrita no excerto decorreu",
+    "statement": "Em 1916, a guerra de trincheiras tinha assumido uma estrutura básica que poderia ser encontrada, com variações locais, em todas as frentes de batalha. Em cada lado da terra de ninguém, as respectivas frentes tinham, pelo menos, três linhas de trincheiras; a distância entre as sucessivas linhas (e a largura da própria terra de ninguém) variava muito, e costumava depender do terreno local.\n\n(Lawrence Sondhaus. A Primeira Guerra Mundial: história completa, 2017.)\n\nDurante a Primeira Guerra Mundial, a tática de combate descrita no excerto decorreu",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da polarização entre a França e a Grã-Bretanha, que disputavam territórios no Norte da África.",
-      "do equilíbrio de forças entre as grandes potências beligerantes, que investiram na produção de armas no período conhecido como paz armada.",
+      "do equilíbrio de forças entre as grandes potências belige- rantes, que investiram na produção de armas no período conhecido como paz armada.",
       "da entrada dos Estados Unidos no conflito em apoio aos Aliados, o que freou o avanço alemão sobre a Bélgica e a França.",
       "da política de alianças, que levou boa parte da Europa ao conflito devido aos acordos de defesa mútua entre os países.",
       "do projeto alemão de conquista de um espaço vital, que garantisse o desenvolvimento da nação."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -1025,31 +1221,34 @@ export const uea2022Vestibular = [
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "Observe o cartaz, ilustrado por Roman Cieslewicz em 1968.\n\n(https://thevintageposter.com)\n\nO cartaz faz referência",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2022-cg/q21-1.svg",
+        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
-      "à crítica marxista à ideologia capitalista difundida pela indústria de cultura de massa.",
-      "à desconstrução do discurso estadunidense de proteção à liberdade por críticos ao envolvimento do país na Guerra da Coreia.",
+      "à crítica marxista à ideologia capitalista difundida pela in- dústria de cultura de massa.",
+      "à desconstrução do discurso estadunidense de proteção à liberdade por críticos ao envolvimento do país na Guer- ra da Coreia.",
       "à guerra comercial entre grandes editoras de revistas em quadrinho e de audiovisuais durante a Guerra do Vietnã.",
       "ao poder igualável das duas superpotências do período histórico chamado de Guerra Fria.",
-      "ao combate ideológico entre o liberalismo e a social-democracia durante a Segunda Guerra Mundial."
+      "ao combate ideológico entre o liberalismo e a social-de- mocracia durante a Segunda Guerra Mundial."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1071,26 +1270,31 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os militares tinham um projeto de desenvolvimento em \ngrande escala, pretendiam realizar a integração completa do \nterritório nacional, e o Brasil se transformou num imenso canteiro de obras verde-oliva. A mais famosa dessas obras — a \nconstrução da Transamazônica — fez o encaixe perfeito entre o projeto de desenvolvimento econômico e as diretrizes \nde segurança interna.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2015.\n\nAdaptado.)\n\nO projeto de desenvolvimento econômico referido no excerto",
+    "statement": "Os militares tinham um projeto de desenvolvimento em grande escala, pretendiam realizar a integração completa do território nacional, e o Brasil se transformou num imenso canteiro de obras verde-oliva. A mais famosa dessas obras — a construção da Transamazônica — fez o encaixe perfeito entre o projeto de desenvolvimento econômico e as diretrizes de segurança interna.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2015.\n\nAdaptado.)\n\nO projeto de desenvolvimento econômico referido no excerto",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "pretendia assegurar infraestrutura adequada nas regiões mais distantes do país para estender o processo de industrialização nacional.",
-      "priorizava investimentos nos setores de saúde, alimentação, educação e transporte rodoviário.",
+      "pretendia assegurar infraestrutura adequada nas regi- ões mais distantes do país para estender o processo de industrialização nacional.",
+      "priorizava investimentos nos setores de saúde, alimenta- ção, educação e transporte rodoviário.",
       "associava o intervencionismo estatal com o estímulo ao povoamento da região por trabalhadores nordestinos.",
       "visava estabelecer a indústria de base com a instalação de siderurgias em todas as regiões do país.",
-      "aliava o crescimento econômico regional com a preservação do meio ambiente e do modo de vida das populações tradicionais."
+      "aliava o crescimento econômico regional com a preserva- ção do meio ambiente e do modo de vida das populações tradicionais."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1112,7 +1316,12 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Juntemos três fenômenos fundamentais: a ascensão \nda cultura da imagem e do consumo, a desregulamentação \ndos mercados e a retração do Estado, com a progressiva \ndesmontagem de seus mecanismos de distribuição e apoio \nsocial, promovidos pela era Reagan (1981-1989) e Thatcher \n(1979-1990) — e, como seu elemento propulsor, a Revolução Microeletrônica e digital. O resultado é uma situação na \nqual as imagens são mais importantes do que os conteúdos, \nem que as pessoas são estimuladas a concorrer agressivamente umas com as outras e na qual as relações ou comunicações mediadas pelos recursos tecnológicos predominam \nsobre os contatos diretos e o calor humano.\n\n(Nicolau Sevcenko. A corrida para o século XXI:\n\nno loop da montanha-russa, 2001. Adaptado.)\n\nO contexto descrito no excerto esteve amparado",
+    "statement": "Juntemos três fenômenos fundamentais: a ascensão da cultura da imagem e do consumo, a desregulamentação dos mercados e a retração do Estado, com a progressiva desmontagem de seus mecanismos de distribuição e apoio social, promovidos pela era Reagan (1981-1989) e Thatcher (1979-1990) — e, como seu elemento propulsor, a Revolução Microeletrônica e digital. O resultado é uma situação na qual as imagens são mais importantes do que os conteúdos, em que as pessoas são estimuladas a concorrer agressivamente umas com as outras e na qual as relações ou comunicações mediadas pelos recursos tecnológicos predominam sobre os contatos diretos e o calor humano.\n\n(Nicolau Sevcenko. A corrida para o século XXI: no loop da montanha-russa, 2001. Adaptado.)\n\nO contexto descrito no excerto esteve amparado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela social-democracia.",
@@ -1123,15 +1332,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1153,26 +1361,31 @@ export const uea2022Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Há 25 anos, as emissoras tradicionais podiam interromper a divulgação de vídeos que possivelmente seriam do interesse de milhões de pessoas — das estrepolias divertidas de \num gato doméstico às decapitações brutais perpetradas por \ngrupos terroristas — negando-se a levá-los ao ar. Hoje, as \nemissoras tradicionais ainda podem se recusar a transmitir \ndeterminado conteúdo, e às vezes o fazem. Mas sua função \ncomo difusores da informação praticamente evaporou: se o \nconteúdo viralizar o bastante, ele tende a se espalhar pelas \nredes sociais, tenham as emissoras tradicionais decidido \ntransmiti-lo ou não.\n\n(Yascha Mounk. O povo contra a democracia: \npor que nossa liberdade corre perigo e como salvá-la, 2019.)\n\nSegundo o texto, as novas mídias sociais",
+    "statement": "Há 25 anos, as emissoras tradicionais podiam interromper a divulgação de vídeos que possivelmente seriam do interesse de milhões de pessoas — das estrepolias divertidas de um gato doméstico às decapitações brutais perpetradas por grupos terroristas — negando-se a levá-los ao ar. Hoje, as emissoras tradicionais ainda podem se recusar a transmitir determinado conteúdo, e às vezes o fazem. Mas sua função como difusores da informação praticamente evaporou: se o conteúdo viralizar o bastante, ele tende a se espalhar pelas redes sociais, tenham as emissoras tradicionais decidido transmiti-lo ou não.\n\n(Yascha Mounk. O povo contra a democracia:\n\npor que nossa liberdade corre perigo e como salvá-la, 2019.)\n\nSegundo o texto, as novas mídias sociais",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "concorrem em pé de igualdade com emissoras consagradas no que diz respeito à captação de recursos comerciais gerados pelos conteúdos divulgados.",
-      "são incapazes de romper com as formas convencionais de comunicação devido à resistência do público a conteúdos sensacionalistas.",
+      "concorrem em pé de igualdade com emissoras consagra- das no que diz respeito à captação de recursos comer- ciais gerados pelos conteúdos divulgados.",
+      "são incapazes de romper com as formas convencio- nais de comunicação devido à resistência do público a conteúdos sensacionalistas.",
       "complementam as informações das mídias tradicionais com base em acordos pré-estabelecidos.",
-      "modificam as formas de produção e difusão das informações no mundo contemporâneo.",
-      "encontram-se condicionadas às pautas e regulamentações da imprensa e redes de televisão nacionais."
+      "modificam as formas de produção e difusão das informa- ções no mundo contemporâneo.",
+      "encontram-se condicionadas às pautas e regulamenta- ções da imprensa e redes de televisão nacionais."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1194,12 +1407,16 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a imagem.\n\n(https://studymaps.com.br. Adaptado.)\n\nA projeção cartográfica empregada nessa imagem tem como \ncaracterística",
+    "statement": "Analise a imagem.\n\n(https://studymaps.com.br. Adaptado.)\n\nA projeção cartográfica empregada nessa imagem tem como característica",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2022-cg/q25-1.svg",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -1211,15 +1428,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1241,12 +1457,16 @@ export const uea2022Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o mapa.\n\n(https://cpisp.org.br, 07.06.2022. Adaptado.)\n\nCom base na análise do mapa e em conhecimentos sobre a \nformação do território e da população brasileira, a quantidade \nde terras representadas corresponde",
+    "statement": "Analise o mapa.\n\n(https://cpisp.org.br, 07.06.2022. Adaptado.)\n\nCom base na análise do mapa e em conhecimentos sobre a formação do território e da população brasileira, a quantidade de terras representadas corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q26-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2022-cg/q26-1.svg",
+        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -1258,15 +1478,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1288,7 +1507,14 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Desde o final da Segunda Guerra Mundial, em 1945, até \na dissolução da União Soviética, em 1989, o mundo se tornou \nrefém do enfrentamento ideológico a que se chamou Guerra \nFria. A hostilidade e a desconfiança mútuas entre os Estados Unidos e a URSS provocaram uma acirrada competição \nque foi marcada por uma corrida armamentista. Pode-se \ndizer que a Guerra Fria original não terminou — apenas se \nmodificou, com o permanente antagonismo dos norte americanos com os russos e a crescente rivalidade entre Pequim \ne Washington. Há mais diferenças do que semelhanças entre \nessas situações descritas.\n\n(Sérgio Duarte. “Nova Guerra Fria pode gerar ponto de inflexão em\n\nprol do reforço da segurança global”. \nwww1.folha.uol.com.br, 08.01.2022. Adaptado.)\n\nA partir da leitura do excerto, observa-se que, atualmente, a \ndivergência dos Estados Unidos com a Rússia e a rivalidade dos \nEstados Unidos com a China são, respectivamente, de natureza",
+    "statement": "Desde o final da Segunda Guerra Mundial, em 1945, até a dissolução da União Soviética, em 1989, o mundo se tornou refém do enfrentamento ideológico a que se chamou Guerra Fria. A hostilidade e a desconfiança mútuas entre os Estados Unidos e a URSS provocaram uma acirrada competição que foi marcada por uma corrida armamentista. Pode-se dizer que a Guerra Fria original não terminou — apenas se modificou, com o permanente antagonismo dos norte americanos com os russos e a crescente rivalidade entre Pequim e Washington. Há mais diferenças do que semelhanças entre essas situações descritas.\n\n(Sérgio Duarte. “Nova Guerra Fria pode gerar ponto de inflexão em\n\nprol do reforço da segurança global”.\n\nwww1.folha.uol.com.br, 08.01.2022. Adaptado.)\n\nA partir da leitura do excerto, observa-se que, atualmente, a divergência dos Estados Unidos com a Rússia e a rivalidade dos Estados Unidos com a China são, respectivamente, de natureza",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "política e econômica.",
@@ -1299,15 +1525,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1329,26 +1554,37 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o gráfico produzido pelo Observatório das Migrações \nInternacionais, publicado no Relatório Anual de 2020.\n\nProporção de imigrantes no mercado formal\n\nde trabalho do Brasil (por sexo e segundo\n\nos continentes de origem) – 2019\n\n(https://portaldeimigracao.mj.gov.br, 2020. Adaptado.)\n\nDe acordo com a análise do gráfico e conhecimentos sobre a \npopulação brasileira, verifica-se que",
-    "images": [],
+    "statement": "Analise o gráfico produzido pelo Observatório das Migrações Internacionais, publicado no Relatório Anual de 2020.\n\nProporção de imigrantes no mercado formal\nde trabalho do Brasil (por sexo e segundo\n\nos continentes de origem) – 2019\n\n(https://portaldeimigracao.mj.gov.br, 2020. Adaptado.)\n\nDe acordo com a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se que",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q28-1.svg",
+        "alt": "Figura de apoio da questão 28."
+      }
+    ],
     "alternatives": [
       "a população feminina mais empregrada no mercado de trabalho do Brasil é de origem europeia.",
-      "em comparação direta com os demais continentes, América Central e Caribe apresenta a menor empregabilidade masculina no mercado de trabalho do Brasil.",
+      "em comparação direta com os demais continentes, Amé- rica Central e Caribe apresenta a menor empregabilidade masculina no mercado de trabalho do Brasil.",
       "a população masculina de origem africana é a que tem a menor empregabilidade no mercado de trabalho do Brasil.",
-      "as mulheres de origem asiática são as que menos conseguem ocupar espaços no mercado de trabalho do Brasil.",
-      "em comparação direta com os demais continentes, a América do Norte é o que exibe maior equilíbrio de gêneros contratados no mercado de trabalho do Brasil."
+      "as mulheres de origem asiática são as que menos conse- guem ocupar espaços no mercado de trabalho do Brasil.",
+      "em comparação direta com os demais continentes, a América do Norte é o que exibe maior equilíbrio de gêne- ros contratados no mercado de trabalho do Brasil."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1370,7 +1606,12 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Criado em 1985, com o propósito de proteger e integrar as \nfronteiras do Brasil nos estados do Acre, do Amapá, do Amazonas, do Pará, de Rondônia e de Roraima, este programa \nagora também executa obras de infraestrutura e projetos de \nacolhimento, em municípios e comunidades indígenas da região amazônica. As verbas para o programa vêm do Ministério \nda Defesa e de emendas parlamentares, para a construção de \nescolas, pontes, rede elétrica e também para a pavimentação \nasfáltica.\n\n(https://tvbrasil.ebc.com.br, 28.02.2022. Adaptado.)\n\nDo ponto de vista da proteção do espaço territorial brasileiro, \no programa a que o excerto faz menção é",
+    "statement": "Criado em 1985, com o propósito de proteger e integrar as fronteiras do Brasil nos estados do Acre, do Amapá, do Amazonas, do Pará, de Rondônia e de Roraima, este programa agora também executa obras de infraestrutura e projetos de acolhimento, em municípios e comunidades indígenas da região amazônica. As verbas para o programa vêm do Ministério da Defesa e de emendas parlamentares, para a construção de escolas, pontes, rede elétrica e também para a pavimentação asfáltica.\n\n(https://tvbrasil.ebc.com.br, 28.02.2022. Adaptado.)\n\nDo ponto de vista da proteção do espaço territorial brasileiro, o programa a que o excerto faz menção é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o Projeto Jari.",
@@ -1381,15 +1622,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1411,26 +1651,33 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a tabela que destaca as cinco primeiras posições \nocupadas pelos estados brasileiros com relação à produção \ndo setor industrial.\n\nA importância da indústria para os estados\n\nMaior participa-\n\nMaior participação\n\nCom mais estabeleci-\n\nção dos produtos\n\nda indústria no\n\nPosição\n\nmentos industriais em\n\nindustrializados nas\n\nemprego formal\n\nexportações totais\n\nem 2020 (%)\n\nem 2021 (%)\n\n1o\nSão Paulo\n120 901\nSanta\n\n34,1\nSergipe\n99,8\n\nCatarina\n\n2o\nMinas\n\n59 876\nRio Grande\n\n26,7\nAlagoas\n99,2\n\nGerais\n\ndo Sul\n\n3o\nSanta\n\n44 731\nParaná\n26,4\nAmazonas\n94,2\n\nCatarina\n\n4o\nRio Grande\n\n44 657\nMinas\n\n23,8\nCeará\n87,9\n\ndo Sul\n\nGerais\n\n5o\nParaná\n42 897\nGoiás\n22,0\nPernambuco\n86,2\n\n(www.portaldaindustria.com.br, 22.02.2022. Adaptado.)\n\nDentre as causas das variações das posições ocupadas \npelos estados brasileiros, aquela relacionada à atividade \nindustrial é",
+    "statement": "Analise a tabela que destaca as cinco primeiras posições ocupadas pelos estados brasileiros com relação à produção do setor industrial.\n\nA importância da indústria para os estados\n\nPosição mentos industriais em Com mais estabeleci-2020 Maior participação emprego formal da indústria no em 2020 (%) industrializados nas exportações totais ção dos produtos Maior participa-em 2021 (%)\n\n1º São Paulo 120 901 CatarinaSanta 34,1 Sergipe 99,8 2º GeraisMinas 59 876 Rio Grande do Sul 26,7 Alagoas 99,2 3º CatarinaSanta 44 731 Paraná 26,4 Amazonas 94,2 4º Rio Grande do Sul 44 657 GeraisMinas 23,8 Ceará 87,9 5º Paraná 42 897 Goiás 22,0 Pernambuco 86,2\n\n(www.portaldaindustria.com.br, 22.02.2022. Adaptado.)\n\nDentre as causas das variações das posições ocupadas pelos estados brasileiros, aquela relacionada à atividade industrial é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a adoção da política econômica planificada, com destaque à região Sudeste.",
+      "a adoção da política econômica planificada, com desta- que à região Sudeste.",
       "a implantação da terciarização econômica, que resultou na maior expressividade de participação dos estados da região Sul.",
-      "a ocorrência de guerra fiscal, que ocasionou o processo de desconcentração produtiva para dentro e fora da região Sudeste.",
-      "a privatização dos investimentos em ciência e tecnologia, especialmente nos polos econômicos instalados nos estados da região Nordeste.",
+      "a ocorrência de guerra fiscal, que ocasionou o proces- so de desconcentração produtiva para dentro e fora da região Sudeste.",
+      "a privatização dos investimentos em ciência e tecnologia, especialmente nos polos econômicos instalados nos esta- dos da região Nordeste.",
       "o estabelecimento da política de pleno emprego e aumento da renda, tendo como destaque os estados da região Sul."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1452,7 +1699,13 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a sinopse do filme Onde está a Segunda?, do diretor \nTommy Wirkola, lançado em 2017.\n\nEm 2073, o aumento crescente da população faz com \nque os recursos naturais da Terra se tornem cada vez mais \nescassos. A saída é investir em alimentos geneticamente modificados, que têm como efeito colateral o nascimento cada vez maior de gêmeos, aumentando o problema da \nsuperpopulação. Nesse contexto, cada casal pode ter apenas \num filho. Apesar da vigilância, Terrence consegue salvar a \nvida de suas sete netas fazendo com que se revezem nos \ndias da semana, de forma que todas assumam o codinome \nKaren — o mesmo nome da mãe, que faleceu no parto. Trinta \nanos depois, as sete irmãs seguem essa rígida rotina até que \numa delas, Segunda, misteriosamente não retorna para casa.\n\n(www.papodecinema.com.br.)\n\nA sinopse analisada possui relação com a teoria demográfica",
+    "statement": "Analise a sinopse do filme Onde está a Segunda?, do diretor Tommy Wirkola, lançado em 2017.\n\nEm 2073, o aumento crescente da população faz com que os recursos naturais da Terra se tornem cada vez mais escassos. A saída é investir em alimentos geneticamente modificados, que têm como efeito colateral o nascimento cada vez maior de gêmeos, aumentando o problema da superpopulação. Nesse contexto, cada casal pode ter apenas um filho. Apesar da vigilância, Terrence consegue salvar a vida de suas sete netas fazendo com que se revezem nos dias da semana, de forma que todas assumam o codinome Karen — o mesmo nome da mãe, que faleceu no parto. Trinta anos depois, as sete irmãs seguem essa rígida rotina até que uma delas, Segunda, misteriosamente não retorna para casa.\n\n(www.papodecinema.com.br.)\n\nA sinopse analisada possui relação com a teoria demográfica",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ecomalthusiana, que promove o aumento da expectativa de vida.",
@@ -1463,15 +1716,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1493,26 +1745,30 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um passageiro chinês começou a tossir a bordo de \num voo da Lufthansa de Frankfurt para a China, criando \na maior confusão ao seu redor. A situação não melhorou \nnada depois de ele declarar que, duas semanas antes, \nestivera em Wuhan, a metrópole que foi o epicentro do surto de coronavírus. Após pousar sem problemas no seu destino, a tripulação e os passageiros das poltronas perto do \nchinês foram logo examinados. Horas depois veio o alívio: \nninguém estava infectado pelo coronavírus.\n\n(Dang Yuan. www.dw.com, 31.01.2020. Adaptado.)\n\nConsiderando o excerto e o cenário de insegurança que \nmarcou o início da pandemia de covid-19, para promover a \ntolerância entre os povos no contexto do mundo globalizado \nseria necessário",
+    "statement": "Um passageiro chinês começou a tossir a bordo de um voo da Lufthansa de Frankfurt para a China, criando a maior confusão ao seu redor. A situação não melhorou nada depois de ele declarar que, duas semanas antes, estivera em Wuhan, a metrópole que foi o epicentro do surto de coronavírus. Após pousar sem problemas no seu destino, a tripulação e os passageiros das poltronas perto do chinês foram logo examinados. Horas depois veio o alívio: ninguém estava infectado pelo coronavírus.\n\n(Dang Yuan. www.dw.com, 31.01.2020. Adaptado.)\n\nConsiderando o excerto e o cenário de insegurança que marcou o início da pandemia de covid-19, para promover a tolerância entre os povos no contexto do mundo globalizado seria necessário",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "contrapor as manifestações de preconceito de gênero e de origem.",
       "mitigar as atividades diplomáticas que contestam o racismo.",
       "combater socialmente as hostilidades e as aversões xenofóbicas.",
-      "reduzir a exclusão dos países culturalmente subdesenvolvidos.",
-      "conservar o direito nacional de segregar grupos minoritários."
+      "reduzir a exclusão dos países culturalmente subdesen- volvidos.",
+      "conservar o direito nacional de segregar grupos mino- ritários."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1535,31 +1791,34 @@ export const uea2022Vestibular = [
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "Examine a tela O Casamento, de Tarsila do Amaral, de 1940.\n\n(https://enciclopedia.itaucultural.org.br)\n\nConsiderando a formação étnico-cultural da população brasileira, a tela retrata um processo de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q33-1.jpg",
-        "alt": "Imagem de apoio da questão 33 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 14."
+        "src": "/images/uea/vestibular-2022-cg/q33-1.svg",
+        "alt": "Imagem de apoio da questão 33 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "mestiçagem, que viabilizou a formação de cafuzos e de mamelucos e consolidou hábitos e costumes de um modo de vida.",
-      "miscigenação, que deu origem a inúmeros povos com características físicas próprias e marcou o fim da ancestralidade cultural.",
-      "mestiçagem, que propiciou o respeito cultural de diversos grupos sociais e assegurou, até os dias de hoje, a harmonia e a democracia racial no país.",
-      "miscigenação, que promoveu a unidade cultural entre indígenas, negros e brancos e permitiu a implementação do ciclo colonial da borracha na região Amazônica.",
-      "mestiçagem, que estabeleceu a negação dos valores tribais dos povos originários pelos brancos e propiciou, até os dias de hoje, a convivência tolerante entre as pessoas."
+      "miscigenação, que deu origem a inúmeros povos com características físicas próprias e marcou o fim da ances- tralidade cultural.",
+      "mestiçagem, que propiciou o respeito cultural de diversos grupos sociais e assegurou, até os dias de hoje, a harmo- nia e a democracia racial no país.",
+      "miscigenação, que promoveu a unidade cultural entre indígenas, negros e brancos e permitiu a implementa- ção do ciclo colonial da borracha na região Amazônica.",
+      "mestiçagem, que estabeleceu a negação dos valores tri- bais dos povos originários pelos brancos e propiciou, até os dias de hoje, a convivência tolerante entre as pessoas."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1581,7 +1840,13 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O Canadá anunciou um aumento em suas exportações \nde petróleo para atender os pedidos de assistência de seus \naliados europeus, que estão lutando com a escassez desse \nrecurso, devido ao conflito na Ucrânia. Segundo o ministro de \nRecursos Naturais do Canadá, Jonathan Wilkinson, “a indústria canadense tem a capacidade de aumentar gradualmente \nsuas exportações de petróleo e gás em aproximadamente \n300 000 barris por dia, a fim de substituir o petróleo e o gás \nque até então os países europeus compravam dos russos”.\n\n(“Canadá aumentará exportações de petróleo devido ao conflito na Ucrânia”.\n\nwww.em.com.br, 24.03.2022. Adaptado.)\n\nPara atender a demanda apresentada no excerto, o Canadá \ndeverá ampliar o seu mercado na área de petróleo e gás. Essa \nsituação exigirá que o país intensifique a extração desses \nrecursos na região",
+    "statement": "O Canadá anunciou um aumento em suas exportações de petróleo para atender os pedidos de assistência de seus aliados europeus, que estão lutando com a escassez desse recurso, devido ao conflito na Ucrânia. Segundo o ministro de Recursos Naturais do Canadá, Jonathan Wilkinson, “a indústria canadense tem a capacidade de aumentar gradualmente suas exportações de petróleo e gás em aproximadamente 300 000 barris por dia, a fim de substituir o petróleo e o gás que até então os países europeus compravam dos russos”.\n\n(“Canadá aumentará exportações de petróleo devido ao conflito na Ucrânia”.\n\nwww.em.com.br, 24.03.2022. Adaptado.)\n\nPara atender a demanda apresentada no excerto, o Canadá deverá ampliar o seu mercado na área de petróleo e gás. Essa situação exigirá que o país intensifique a extração desses recursos na região",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do Oeste, que é delimitada pela área da Columbia Britânica.",
@@ -1592,15 +1857,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1622,32 +1886,35 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a imagem.\n\n(www.hids.unicamp.br, 06.03.2021.)\n\nA imagem demonstra a forma urbana e a organização dos \nfluxos de bens, serviços e comunicação, as quais podem \nocorrer em",
+    "statement": "Analise a imagem.\n\n(www.hids.unicamp.br, 06.03.2021.)\n\nA imagem demonstra a forma urbana e a organização dos fluxos de bens, serviços e comunicação, as quais podem ocorrer em",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q35-1.jpg",
-        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 14."
+        "src": "/images/uea/vestibular-2022-cg/q35-1.svg",
+        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "uma região metropolitana, reduzindo as oportunidades de negócios.",
       "uma capital mundial, criando entraves no espaço urbano.",
       "um aglomerado urbano, limitando a qualidade de vida da população.",
-      "uma cidade inteligente, utilizando tecnologias da informação e comunicação.",
-      "uma área urbana conurbada, promovendo a sustentabilidade."
+      "uma cidade inteligente, utilizando tecnologias da infor- mação e comunicação.",
+      "uma área urbana conurbada, promovendo a sustentabi- lidade."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1669,12 +1936,16 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o mapa que representa a presença de Material Particulado (PM) no bioma Amazônia, em 2019.\n\n(www.hrw.org, 26.08.2020.)\n\nConsiderando a análise do mapa, as políticas ambientais no \nBrasil devem ser significativas para",
+    "statement": "Analise o mapa que representa a presença de Material Particulado (PM) no bioma Amazônia, em 2019.\n\n(www.hrw.org, 26.08.2020.)\n\nConsiderando a análise do mapa, as políticas ambientais no Brasil devem ser significativas para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q36-1.jpg",
-        "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/vestibular-2022-cg/q36-1.svg",
+        "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -1686,15 +1957,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1716,77 +1986,35 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura ilustra o mecanismo de funcionamento da bomba de \nsódio (Na+) e potássio (K+) localizada na membrana celular.\n\n(www.todamateria.com.br)\n\nAs moléculas de ATP (adenosina trifosfato), que atuam na \nbomba de sódio e potássio, são responsáveis, nesse mecanismo, pela",
+    "statement": "A figura ilustra o mecanismo de funcionamento da bomba de sódio ($Na^{+}$) e potássio ($K^{+}$) localizada na membrana celular.\n\n(www.todamateria.com.br)\n\nAs moléculas de ATP (adenosina trifosfato), que atuam na bomba de sódio e potássio, são responsáveis, nesse mecanismo, pela",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q37-1.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-2.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-3.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-4.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-5.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-6.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-7.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-8.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-9.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q37-10.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/vestibular-2022-cg/q37-1.svg",
+        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "liberação de energia contida na ligação entre fosfatos.",
-      "assimilação de energia contida nos íons Na+.",
-      "assimilação de energia contida nas proteínas da membrana.",
-      "liberação de energia contida nos íons K+.",
-      "liberação de energia contida nas moléculas de fosfolipídeos."
+      "assimilação de energia contida nos íons $Na^{+}$.",
+      "assimilação de energia contida nas proteínas da mem- brana.",
+      "liberação de energia contida nos íons $K^{+}$.",
+      "liberação de energia contida nas moléculas de fosfoli- pídeos."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 37."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1808,7 +2036,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A hipótese autotrófica defende que, durante o processo de \norigem da vida, os primeiros organismos eram capazes de \nsintetizar moléculas orgânicas a partir de moléculas inorgânicas.\n\nAtualmente, o processo metabólico celular mais simples que \nexiste, realizado apenas por microrganismos procariontes, e \nque embasa tal hipótese é a",
+    "statement": "A hipótese autotrófica defende que, durante o processo de origem da vida, os primeiros organismos eram capazes de sintetizar moléculas orgânicas a partir de moléculas inorgânicas. Atualmente, o processo metabólico celular mais simples que existe, realizado apenas por microrganismos procariontes, e que embasa tal hipótese é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fotossíntese.",
@@ -1819,15 +2050,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 38."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1849,7 +2079,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A evolução dos mamíferos foi caracterizada em função do \ndesenvolvimento do processo reprodutivo desses animais. \nDentro do grupo dos mamíferos é possível notar características reprodutivas mais ancestrais, como a presença de ovos \ncalcários nos ornitorrincos, e características mais derivadas, \ncomo a placenta nos primatas.\n\nO grupo dos cangurus e gambás, diferentemente dos grupos \nmais primitivos e derivados, possui características reprodutivas intermediárias exclusivas, tais como",
+    "statement": "A evolução dos mamíferos foi caracterizada em função do desenvolvimento do processo reprodutivo desses animais. Dentro do grupo dos mamíferos é possível notar características reprodutivas mais ancestrais, como a presença de ovos calcários nos ornitorrincos, e características mais derivadas, como a placenta nos primatas. O grupo dos cangurus e gambás, diferentemente dos grupos mais primitivos e derivados, possui características reprodutivas intermediárias exclusivas, tais como",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o hermafroditismo dos organismos adultos.",
@@ -1860,15 +2093,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 39."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -1890,12 +2122,16 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa uma pirâmide ecológica de energia.\n\n(www.sobiologia.com.br)\n\nAs pirâmides de energia, diferentemente das pirâmides de \nnúmero e de biomassa, não podem ser representadas de \nforma invertida, uma vez que a energia",
+    "statement": "A figura representa uma pirâmide ecológica de energia.\n\n(www.sobiologia.com.br)\n\nAs pirâmides de energia, diferentemente das pirâmides de número e de biomassa, não podem ser representadas de forma invertida, uma vez que a energia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q40-1.jpg",
-        "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/vestibular-2022-cg/q40-1.svg",
+        "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -1907,15 +2143,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 40."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -1937,7 +2172,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O sistema cardiovascular humano é composto basicamente \npor coração, vasos sanguíneos e sangue. O coração é responsável pelo impulsionamento do sangue para dentro dos \nvasos sanguíneos. Tal impulsionamento do sangue ocorre \nsempre a partir de um",
+    "statement": "O sistema cardiovascular humano é composto basicamente por coração, vasos sanguíneos e sangue. O coração é responsável pelo impulsionamento do sangue para dentro dos vasos sanguíneos. Tal impulsionamento do sangue ocorre sempre a partir de um",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ventrículo para o interior de uma artéria.",
@@ -1948,15 +2186,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 41."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -1978,7 +2215,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A língua humana exerce diversas funções, dentre as quais a \nde ser responsável pela identificação de diferentes sabores e \ntexturas dos alimentos consumidos. A captação desses estímulos sensoriais, relacionados ao paladar, ocorre na língua \na partir da",
+    "statement": "A língua humana exerce diversas funções, dentre as quais a de ser responsável pela identificação de diferentes sabores e texturas dos alimentos consumidos. A captação desses estímulos sensoriais, relacionados ao paladar, ocorre na língua a partir da",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "digestão dos alimentos pelas enzimas produzidas na musculatura interna da língua.",
@@ -1989,15 +2229,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 42."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -2019,12 +2258,16 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra um embrião animal no estágio de mórula.\n\n(www.agravidez.com)\n\nCada subunidade da mórula é uma célula denominada \nblastômero, caracterizada",
+    "statement": "A figura mostra um embrião animal no estágio de mórula.\n\n(www.agravidez.com)\n\nCada subunidade da mórula é uma célula denominada blastômero, caracterizada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q43-1.jpg",
-        "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/vestibular-2022-cg/q43-1.svg",
+        "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -2036,15 +2279,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 43."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2066,7 +2308,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A partenogênese é o desenvolvimento de um óvulo em um \nnovo organismo sem a necessidade da fecundação. Ocorre \nna formação de machos (zangões) das abelhas Apis mellifera \ne na formação de fêmeas de escorpiões amarelos Tityus \nserrulatus.\n\nA análise das células de um zangão e de uma fêmea de \nescorpião amarelo revela que o núcleo de cada uma dessas \ncélulas apresenta",
+    "statement": "A partenogênese é o desenvolvimento de um óvulo em um novo organismo sem a necessidade da fecundação. Ocorre na formação de machos (zangões) das abelhas Apis mellifera e na formação de fêmeas de escorpiões amarelos Tityus serrulatus. A análise das células de um zangão e de uma fêmea de escorpião amarelo revela que o núcleo de cada uma dessas células apresenta",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pares de cromossomos.",
@@ -2077,15 +2322,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 44."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2107,16 +2351,20 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura ilustra um cnidócito, célula característica dos integrantes do Filo Cnidaria.\n\n(https://canal.cecierj.edu.br)\n\nAs queimaduras causadas pelas águas-vivas em humanos \nestão diretamente relacionadas ao mecanismo de funcionamento do cnidócito, em função",
+    "statement": "A figura ilustra um cnidócito, célula característica dos integrantes do Filo Cnidaria.\n\n(https://canal.cecierj.edu.br)\n\nAs queimaduras causadas pelas águas-vivas em humanos estão diretamente relacionadas ao mecanismo de funcionamento do cnidócito, em função",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q45-1.jpg",
-        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/vestibular-2022-cg/q45-1.svg",
+        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
-      "da liberação, sobre a pele, de espículas calcárias presentes no interior do cnidócito.",
+      "da liberação, sobre a pele, de espículas calcárias presen- tes no interior do cnidócito.",
       "da liberação, sobre a pele, do ácido clorídrico produzido na cavidade gástrica do cnidócito.",
       "da inibição do funcionamento das glândulas sudoríparas e sebáceas da pele.",
       "do bloqueio da transmissão do impulso nervoso pelos nervos da pele.",
@@ -2124,15 +2372,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 45."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2154,32 +2401,36 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura ilustra o ciclo de vida da ascaridíase, popularmente \nconhecida como lombriga.\n\nAscaris lumbricoides\n\n(www.cdc.gov. Adaptado.)\n\nA análise do ciclo permite afirmar que, na etapa",
+    "statement": "A figura ilustra o ciclo de vida da ascaridíase, popularmente conhecida como lombriga.\n\nAscaris lumbricoides\n\n(www.cdc.gov. Adaptado.)\n\nA análise do ciclo permite afirmar que, na etapa",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q46-1.jpg",
-        "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 18."
+        "src": "/images/uea/vestibular-2022-cg/q46-1.svg",
+        "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
       "3, os ovos da lombriga são ingeridos com a água e os alimentos.",
       "1, as larvas da lombriga estão presentes no estômago.",
-      "2, os ovos da lombriga, eliminados com as fezes, eclodem no solo.",
+      "2, os ovos da lombriga, eliminados com as fezes, eclo- dem no solo.",
       "5, as lombrigas adultas são conduzidas pela traqueia até o intestino.",
       "4, os ovos da lombriga penetram no sistema circulatório, onde eclodem."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 46."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -2201,7 +2452,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Durante seus experimentos de hibridação de plantas de ervilha, Pisum sativum, Gregor Mendel identificou características \ncondicionadas por um par de “fatores” que podiam permanecer “escondidas” por algumas gerações e, repentinamente, \n“reaparecer” em função de determinados cruzamentos.\n\nAtualmente, os “fatores” notados por Mendel são denominados . Tais características “escondidas” \nsão classificadas como e só se manifestam \nem .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Durante seus experimentos de hibridação de plantas de ervilha, Pisum sativum, Gregor Mendel identificou características condicionadas por um par de “fatores” que podiam permanecer “escondidas” por algumas gerações e, repentinamente, “reaparecer” em função de determinados cruzamentos. Atualmente, os “fatores” notados por Mendel são denominados. Tais características “escondidas” são classificadas como e só se manifestam em. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "alelos – dominantes – heterozigose.",
@@ -2212,15 +2466,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 47."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -2242,7 +2495,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Ao longo da história, o desenvolvimento das teorias evolucionistas científicas ocorreu sempre em contraposição ao \npensamento fixista religioso. Atualmente, as teorias mais \naceitas relacionadas à evolução e, consequentemente, ao \nprocesso de origem de novas espécies integra diferentes \náreas do conhecimento biológico.\n\nA teoria moderna da evolução possibilita a compreensão da \nevolução a partir de",
+    "statement": "Ao longo da história, o desenvolvimento das teorias evolucionistas científicas ocorreu sempre em contraposição ao pensamento fixista religioso. Atualmente, as teorias mais aceitas relacionadas à evolução e, consequentemente, ao processo de origem de novas espécies integra diferentes áreas do conhecimento biológico. A teoria moderna da evolução possibilita a compreensão da evolução a partir de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "lei do uso e desuso, teoria celular e código genético.",
@@ -2253,15 +2509,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 48."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -2283,7 +2538,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para pintar, com uma única demão, um muro de 480 m2 de \nárea foi escolhida uma tinta que tem rendimento de 5 m2 \npor litro. Essa tinta é vendida em latas de 18 litros ao preço \nde R$ 330,00 a lata e em galões de 3,6 litros ao preço de \nR$ 120,00 o galão. O mínimo que será gasto com aquisição \nde tinta para pintar o muro é",
+    "statement": "Para pintar, com uma única demão, um muro de 480 $m^{2}$ de área foi escolhida uma tinta que tem rendimento de 5 $m^{2}$ por litro. Essa tinta é vendida em latas de 18 litros ao preço de R$ 330,00 a lata e em galões de 3,6 litros ao preço de R$ 120,00 o galão. O mínimo que será gasto com aquisição de tinta para pintar o muro é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 1.710,00.",
@@ -2294,15 +2552,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 49."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2324,7 +2581,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Ronaldo fez um empréstimo de R$ 1.000,00. Ao final do primeiro mês, foram aplicados juros de 10% sobre o valor da \ndívida, e ele fez um pagamento de R$ 300,00. Ao final do \nsegundo mês, foram aplicados juros de 10% sobre o saldo \nda dívida, e ele fez um pagamento de R$ 500,00. Ao final \ndo terceiro mês, foram aplicados juros de 10% sobre o saldo \nda dívida, e ele fez um pagamento para quitá-la. O valor do \núltimo pagamento feito por Ronaldo foi de",
+    "statement": "Ronaldo fez um empréstimo de R$ 1.000,00. Ao final do primeiro mês, foram aplicados juros de 10% sobre o valor da dívida, e ele fez um pagamento de R$ 300,00. Ao final do segundo mês, foram aplicados juros de 10% sobre o saldo da dívida, e ele fez um pagamento de R$ 500,00. Ao final do terceiro mês, foram aplicados juros de 10% sobre o saldo da dívida, e ele fez um pagamento para quitá-la. O valor do último pagamento feito por Ronaldo foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 531,00.",
@@ -2335,15 +2595,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 50."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2365,7 +2624,12 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um reservatório de água estava parcialmente cheio quando \npassou a receber, de uma torneira, um fluxo constante de \nágua. Em dois momentos, após receber água dessa torneira, \nfoi registrada em uma tabela a porcentagem da capacidade \ntotal do reservatório que estava preenchida.\n\nTempo após o início da\n\nPorcentagem da capacidade \ntotal do reservatório preenchida\n\nentrada de água\n\n10 minutos\n30%\n\n30 minutos\n40%\n\nA partir do momento em que a torneira foi aberta, o tempo \npara que o reservatório ficasse completamente cheio foi de",
+    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\nTempo após o início da entrada de água\tPorcentagem da capacidade total do reservatório preenchida\t\n10 minutos\t\t30%\n30 minutos\t\t40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 horas e 50 minutos.",
@@ -2376,15 +2640,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 51."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2406,7 +2669,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No plano cartesiano, o gráfico da função quadrática \nf(x) = – 6x2 + bx + c, em que b e c são números reais, corta o \neixo das abscissas nos pontos de coordenadas (1, 0) e (3, 0). \nO valor de f(0) é",
+    "statement": "No plano cartesiano, o gráfico da função quadrática f(x) = – $6x^{2}$ + bx + c, em que b e c são números reais, corta o eixo das abscissas nos pontos de coordenadas (1, 0) e (3, 0). O valor de f(0) é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "–12.",
@@ -2417,15 +2683,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 52."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2447,8 +2712,19 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No retângulo ABCD, na figura, o ponto E foi tomado sobre o\n\nlado \n e o ponto F foi tomado sobre o lado \n de modo que \no segmento \n seja paralelo ao lado \n e os ângulos \n e \n sejam congruentes.\n\nfora de escala\n\nSabendo que BC = 12 cm e que a razão entre as áreas dos\n\ntriângulos EDF e BFE é \n, o perímetro do retângulo ABCD é",
-    "images": [],
+    "statement": "No retângulo ABCD, na figura, o ponto E foi tomado sobre o lado e o ponto F foi tomado sobre o lado de modo que o segmento seja paralelo ao lado e os ângulos e\n\nsejam congruentes.\n\nfora de escala\n\nSabendo que BC = 12 cm e que a razão entre as áreas dos triângulos EDF e BFE é, o perímetro do retângulo ABCD é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q53-1.svg",
+        "alt": "Figura de apoio da questão 53."
+      }
+    ],
     "alternatives": [
       "72 cm.",
       "68 cm.",
@@ -2458,15 +2734,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 53."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -2488,8 +2763,17 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As circunferências de raios R e r, medidos em cm, são concêntricas e a coroa circular determinada por elas tem área de \n80p cm2, como mostra a figura:\n\nSabendo que a média aritmética das medidas de R e r é igual \na 10 cm, conclui-se que o raio maior excede o menor em",
-    "images": [],
+    "statement": "As circunferências de raios R e r, medidos em cm, são concêntricas e a coroa circular determinada por elas tem área de 80p cm², como mostra a figura:\n\nSabendo que a média aritmética das medidas de R e r é igual a 10 cm, conclui-se que o raio maior excede o menor em",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q54-1.svg",
+        "alt": "Figura de apoio da questão 54."
+      }
+    ],
     "alternatives": [
       "4 cm.",
       "1 cm.",
@@ -2499,15 +2783,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 54."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -2529,8 +2812,17 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As notas obtidas por 10 alunos foram registradas no gráfico:\n\nEm relação às notas obtidas pelos alunos, a média, a moda e \na mediana são, respectivamente,",
-    "images": [],
+    "statement": "As notas obtidas por 10 alunos foram registradas no gráfico:\n\nEm relação às notas obtidas pelos alunos, a média, a moda e a mediana são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q55-1.svg",
+        "alt": "Figura de apoio da questão 55."
+      }
+    ],
     "alternatives": [
       "7,1; 7; 8.",
       "7; 6; 7.",
@@ -2540,15 +2832,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 55."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -2570,7 +2861,11 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Se x e y são as soluções do sistema linear \n,\n\nentão x – y é igual a",
+    "statement": "Se x e y são as soluções do sistema linear,\n\nentão x – y é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "8.",
@@ -2581,15 +2876,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 56."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -2611,7 +2905,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Márcia tem 3 canetas, uma azul, uma amarela e uma vermelha; 3 lápis, um amarelo, um laranja e um verde; e 5 gizes de \ncera, um azul, um laranja, um roxo, um marrom e um cinza. \nEla quer escolher uma caneta, um lápis e um giz de cera de \nmodo que nenhuma cor se repita. O número de diferentes \nmaneiras de ela fazer essa escolha é",
+    "statement": "Márcia tem 3 canetas, uma azul, uma amarela e uma vermelha; 3 lápis, um amarelo, um laranja e um verde; e 5 gizes de cera, um azul, um laranja, um roxo, um marrom e um cinza. Ela quer escolher uma caneta, um lápis e um giz de cera de modo que nenhuma cor se repita. O número de diferentes maneiras de ela fazer essa escolha é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "10.",
@@ -2622,15 +2919,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 57."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -2652,26 +2948,28 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um prisma reto de base quadrada tem lado da base medindo \n3 cm e altura, relativa a essa base, de 5 cm. Uma pirâmide \nreta de base quadrada tem lado da base medindo 4 cm e altura, relativa a essa base, de 6 cm. A diferença entre o volume \ndo prisma e o da pirâmide é de",
+    "statement": "Um prisma reto de base quadrada tem lado da base medindo 3 cm e altura, relativa a essa base, de 5 cm. Uma pirâmide reta de base quadrada tem lado da base medindo 4 cm e altura, relativa a essa base, de 6 cm. A diferença entre o volume do prisma e o da pirâmide é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "13 cm3.",
-      "9 cm3.",
-      "10 cm3.",
-      "12 cm3.",
-      "11 cm3."
+      "13 cm³.",
+      "9 cm³.",
+      "10 cm³.",
+      "12 cm³.",
+      "11 cm³."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 58."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -2694,6 +2992,9 @@ export const uea2022Vestibular = [
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "No plano cartesiano, a reta r passa pelos pontos de coordenadas (0, 3) e (4, 0), e a reta s passa pela origem e é perpendicular à reta r. Uma equação da reta s é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2x – y = 0",
@@ -2704,15 +3005,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 59."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -2734,7 +3034,12 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Cinco dos produtos vendidos em determinada loja tiveram \nseus preços reajustados. A tabela mostra os preços antes e \ndepois do reajuste:\n\nPreço antes\n\nPreço depois\n\nProduto\n\ndo reajuste\n\ndo reajuste\n\n(em R$)\n\n(em R$)\n\n1\n30,00\n37,00\n\n2\n12,00\n15,00\n\n3\n18,00\n22,00\n\n4\n15,00\n18,00\n\n5\n24,00\n29,00\n\nPercentualmente, o maior aumento ocorreu no preço do \nproduto",
+    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\nProduto\tPreço antes do reajuste (em R$)\tPreço depois do reajuste (em R$)\n1\t30,00\t37,00\n2\t12,00\t15,00\n3\t18,00\t22,00\n4\t15,00\t18,00\n5\t24,00\t29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -2745,15 +3050,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 60."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -2775,12 +3079,16 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Nos anos 80 e 90, uma caneta esferográfica muito conhecida \npossuía em seu nome o apelo de que seria possível escrever o equivalente a vários quilômetros com a carga total da \ncaneta.\n\n(www.voceselembra.com)\n\nConsiderando que a velocidade média com que uma pessoa \ndesliza a ponta de uma caneta sobre uma folha de papel \nenquanto escreve é de 1,05 cm/s, o tempo total de utilização \nde uma dessas canetas, supondo que ela pudesse escrever \no equivalente a 3,6 km, seria de, aproximadamente,",
+    "statement": "Nos anos 80 e 90, uma caneta esferográfica muito conhecida possuía em seu nome o apelo de que seria possível escrever o equivalente a vários quilômetros com a carga total da caneta.\n\n(www.voceselembra.com)\n\nConsiderando que a velocidade média com que uma pessoa desliza a ponta de uma caneta sobre uma folha de papel enquanto escreve é de 1,05 cm/s, o tempo total de utilização de uma dessas canetas, supondo que ela pudesse escrever o equivalente a 3,6 km, seria de, aproximadamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q61-1.jpg",
-        "alt": "Imagem de apoio da questão 61 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 22."
+        "src": "/images/uea/vestibular-2022-cg/q61-1.svg",
+        "alt": "Imagem de apoio da questão 61 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -2792,15 +3100,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 61."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 22,
@@ -2822,26 +3129,34 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa pressiona com a mão o centro de um livro que \nestá apoiado sobre uma mesa, aplicando sobre o livro uma\n\nforça \n, vertical e que aponta para baixo, como indica a \nfigura.\n\nA força de reação correspondente à força, \n, aplicada sobre \no livro aponta",
-    "images": [],
+    "statement": "Uma pessoa pressiona com a mão o centro de um livro que está apoiado sobre uma mesa, aplicando sobre o livro uma força, vertical e que aponta para baixo, como indica a figura.\n\nA força de reação correspondente à força,, aplicada sobre o livro aponta",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q62-1.svg",
+        "alt": "Figura de apoio da questão 62."
+      }
+    ],
     "alternatives": [
       "para baixo e está aplicada na mão.",
       "para cima e está aplicada na mesa.",
       "para cima e está aplicada no livro.",
       "para baixo e está aplicada na mesa.",
-      "para cima e está aplicada na mão. Leia o texto para responder às questões 63 e 64. Na figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa. fora de escala"
+      "para cima e está aplicada na mão."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 62."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 22,
@@ -2863,8 +3178,18 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considerando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de",
-    "images": [],
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nConsiderando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q63-1.svg",
+        "alt": "Vela acesa e estátua sobre uma mesa, com a sombra da estátua projetada pela luz da vela (fora de escala)."
+      }
+    ],
     "alternatives": [
       "2,5 × 10 –3 m/h.",
       "2,0 × 10 –3 m/h.",
@@ -2874,15 +3199,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 63."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 22,
@@ -2904,8 +3228,18 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para que a sombra da estátua dobre de tamanho em relação \nao momento em que a vela foi acesa, será necessário que \nse passe",
-    "images": [],
+    "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nPara que a sombra da estátua dobre de tamanho em relação ao momento em que a vela foi acesa, será necessário que se passe",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q63-1.svg",
+        "alt": "Vela acesa e estátua sobre uma mesa, com a sombra da estátua projetada pela luz da vela (fora de escala)."
+      }
+    ],
     "alternatives": [
       "0,75 dia.",
       "0,25 dia.",
@@ -2915,15 +3249,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 64."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 22,
@@ -2945,12 +3278,15 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a representação do Sistema Solar, em que os planetas descrevem órbitas ao redor do Sol.\n\nDe acordo com a terceira lei de Kepler, \n, em que T e R\n\nsão, respectivamente, o período e o raio médio da órbita e k é\n\numa constante, um dos planetas do Sistema Solar que possui\n\num ano com menos de 365 dias é",
+    "statement": "Considere a representação do Sistema Solar, em que os planetas descrevem órbitas ao redor do Sol.\n\nDe acordo com a terceira lei de Kepler,, em que T e R são, respectivamente, o período e o raio médio da órbita e k é uma constante, um dos planetas do Sistema Solar que possui um ano com menos de 365 dias é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q65-1.jpg",
-        "alt": "Imagem de apoio da questão 65 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 23."
+        "src": "/images/uea/vestibular-2022-cg/q65-1.svg",
+        "alt": "Imagem de apoio da questão 65 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -2962,15 +3298,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 65."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 23,
@@ -2992,17 +3327,15 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a figura que representa o esquema básico de determinada usina hidrelétrica, em que os tipos de energia envolvidos são somente potencial gravitacional, cinética e elétrica.\n\nDas regiões destacadas na imagem, 1, 2, 3, 4 e 5, as únicas \nnas quais estão ocorrendo transformações de energia são as \nregiões de números",
+    "statement": "Analise a figura que representa o esquema básico de determinada usina hidrelétrica, em que os tipos de energia envolvidos são somente potencial gravitacional, cinética e elétrica.\n\nDas regiões destacadas na imagem, 1, 2, 3, 4 e 5, as únicas nas quais estão ocorrendo transformações de energia são as regiões de números",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q66-1.jpg",
-        "alt": "Imagem de apoio da questão 66 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q66-2.jpg",
-        "alt": "Imagem de apoio da questão 66 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 23."
+        "src": "/images/uea/vestibular-2022-cg/q66-1.svg",
+        "alt": "Imagem de apoio da questão 66 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -3014,15 +3347,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 66."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 23,
@@ -3044,26 +3376,28 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma viola com cordas de aço foi perfeitamente afinada pelo \nvioleiro em uma noite fria. Na tarde do dia seguinte, com uma \ntemperatura mais elevada em relação à noite passada, o \nvioleiro percebeu que todas as cordas de sua viola estavam \ndesafinadas em tons de frequências mais altas. A constatação do violeiro decorre do fato de que, em temperaturas mais \nelevadas, as cordas da viola ficam mais tensionadas. Considerando que o restante dos componentes da viola é feito de \numa madeira uniforme, que não há empenamento de nenhuma de suas partes e que a umidade manteve-se constante, \nverificou-se que",
+    "statement": "Uma viola com cordas de aço foi perfeitamente afinada pelo violeiro em uma noite fria. Na tarde do dia seguinte, com uma temperatura mais elevada em relação à noite passada, o violeiro percebeu que todas as cordas de sua viola estavam desafinadas em tons de frequências mais altas. A constatação do violeiro decorre do fato de que, em temperaturas mais elevadas, as cordas da viola ficam mais tensionadas. Considerando que o restante dos componentes da viola é feito de uma madeira uniforme, que não há empenamento de nenhuma de suas partes e que a umidade manteve-se constante, verificou-se que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as cordas da viola dilataram, já a madeira não, pois é um isolante térmico.",
       "a madeira dos componentes da viola, ao ser aquecida, diminui de tamanho.",
       "o coeficiente de dilatação térmica superficial do aço é maior do que o da madeira.",
       "o coeficiente de dilatação térmica linear da madeira é maior do que o do aço.",
-      "as cordas da viola, ao serem aquecidas, tendem a diminuir de tamanho."
+      "as cordas da viola, ao serem aquecidas, tendem a dimi- nuir de tamanho."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 67."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 23,
@@ -3085,26 +3419,28 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa retira da geladeira um pote de plástico com tampa metálica que havia sido guardado no dia anterior. Ao tocar \na tampa, a pessoa deduz que esta esteja mais fria do que o \npote. A dedução da pessoa em relação às temperaturas do \npote e da tampa está",
+    "statement": "Uma pessoa retira da geladeira um pote de plástico com tampa metálica que havia sido guardado no dia anterior. Ao tocar a tampa, a pessoa deduz que esta esteja mais fria do que o pote. A dedução da pessoa em relação às temperaturas do pote e da tampa está",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "incorreta, pois tanto o pote quanto a tampa estão à mesma temperatura.",
-      "correta, pois os metais atingem temperaturas mais baixas do que os plásticos.",
+      "incorreta, pois tanto o pote quanto a tampa estão à mes- ma temperatura.",
+      "correta, pois os metais atingem temperaturas mais bai- xas do que os plásticos.",
       "incorreta, pois a tampa e o pote aquecem com a mesma velocidade.",
       "incorreta, pois os plásticos atingem temperaturas mais baixas que os metais.",
       "correta, pois, ao tocá-los, o pote aquece mais rápido do que a tampa."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 68."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 23,
@@ -3126,12 +3462,16 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sonorizadores, como o da imagem, são dispositivos utilizados para causar vibrações nos veículos que trafegam em \nrodovias, de forma a alertar os condutores de que há uma \nsituação atípica à frente.\n\n(www.mestresdotransito.com.br)\n\nUm sonorizador, que foi construído em formato ondulado, \npossui uma distância de 20 cm entre duas saliências consecutivas, conforme ilustrado.\n\nSe as rodas dianteiras de um veículo passarem, simultaneamente, por esse sonorizador com velocidade de 72 km/h, a \nfrequência das vibrações experimentada pelo condutor será de",
+    "statement": "Sonorizadores, como o da imagem, são dispositivos utilizados para causar vibrações nos veículos que trafegam em rodovias, de forma a alertar os condutores de que há uma situação atípica à frente.\n\nUm sonorizador, que foi construído em formato ondulado, possui uma distância de 20 cm entre duas saliências consecutivas, conforme ilustrado.\n\nSe as rodas dianteiras de um veículo passarem, simultaneamente, por esse sonorizador com velocidade de 72 km/h, a frequência das vibrações experimentada pelo condutor será de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q69-1.jpg",
-        "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 24."
+        "src": "/images/uea/vestibular-2022-cg/q69-1.svg",
+        "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -3143,15 +3483,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 69."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 24,
@@ -3173,17 +3512,15 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a figura que representa duas pequenas esferas e as \nlinhas de campo elétrico produzidas por elas.\n\nEm relação às cargas totais das esferas, conclui-se que",
+    "statement": "Analise a figura que representa duas pequenas esferas e as linhas de campo elétrico produzidas por elas.\n\nEm relação às cargas totais das esferas, conclui-se que",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q70-1.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 24."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-cg/q70-2.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2022).",
-        "caption": "Caderno original, p. 24."
+        "src": "/images/uea/vestibular-2022-cg/q70-1.svg",
+        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
     "alternatives": [
@@ -3195,15 +3532,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 70."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 24,
@@ -3225,7 +3561,10 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um refrigerador foi instalado em uma mercearia e, em decorrência de sua utilização, o consumo mensal de energia da \nmercearia subiu de 300 kWh para 372 kWh. Considerando \nque esse aumento ocorreu somente devido à utilização do \nrefrigerador e que este ficou ligado durante os 30 dias do \nmês, a potência média do refrigerador é de",
+    "statement": "Um refrigerador foi instalado em uma mercearia e, em decorrência de sua utilização, o consumo mensal de energia da mercearia subiu de 300 kWh para 372 kWh. Considerando que esse aumento ocorreu somente devido à utilização do refrigerador e que este ficou ligado durante os 30 dias do mês, a potência média do refrigerador é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "150 W.",
@@ -3236,15 +3575,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 71."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 24,
@@ -3266,7 +3604,10 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para disparar o flash de uma câmera, é necessário que um \ncapacitor, de 1,2 × 10 – 4 F, ligado a esse flash, esteja carregado com uma carga de 6,0 × 10 – 4 C. Sabendo que, ao carregar o capacitor, a bateria da câmera, considerada ideal, fica \nligada diretamente a ele, a diferença de potencial fornecida \npela bateria deve ser de, no mínimo,",
+    "statement": "Para disparar o flash de uma câmera, é necessário que um capacitor, de 1,2 × 10⁻⁴ F, ligado a esse flash, esteja carregado com uma carga de 6,0 × 10⁻⁴ C. Sabendo que, ao carregar o capacitor, a bateria da câmera, considerada ideal, fica ligada diretamente a ele, a diferença de potencial fornecida pela bateria deve ser de, no mínimo,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4,0 V.",
@@ -3277,15 +3618,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 72."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 24,
@@ -3307,7 +3647,10 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O óleo diesel, um derivado do petróleo, é o principal combustível do mercado brasileiro. Esse combustível é formado, principalmente, por átomos de carbono e hidrogênio com baixas \nconcentrações de compostos com átomos do elemento X, \nátomos do elemento Y e átomos do elemento Z.\n\nConsidere as seguintes configurações eletrônicas no estado \nfundamental para os átomos dos elementos X, Y e Z:\n\nElemento X: K = 2; L = 8; M = 6\nElemento Y: K = 2; L = 5\nElemento Z: K = 2; L = 6\n\nOs elementos X, Y e Z presentes no óleo diesel são, respectivamente,",
+    "statement": "O óleo diesel, um derivado do petróleo, é o principal combustível do mercado brasileiro. Esse combustível é formado, principalmente, por átomos de carbono e hidrogênio com baixas concentrações de compostos com átomos do elemento X, átomos do elemento Y e átomos do elemento Z. Considere as seguintes configurações eletrônicas no estado fundamental para os átomos dos elementos X, Y e Z: Elemento X: K = 2; L = 8; M = 6 Elemento Y: K = 2; L = 5 Elemento Z: K = 2; L = 6 Os elementos X, Y e Z presentes no óleo diesel são, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "nitrogênio, enxofre e carbono.",
@@ -3318,15 +3661,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 73."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 24,
@@ -3348,7 +3690,11 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere que em um processo físico de separação de misturas foi empregado um funil em que foram adicionadas as substâncias álcool etílico (d = 0,789 g/cm3) e óleo (d = 0,91 g/cm3). \nApós a agitação e o repouso do funil, observou-se a formação \nde duas fases líquidas diferentes, A e B, que podiam ser separadas após a abertura da torneira desse funil.\n\nO processo de separação descrito foi empregado para separar uma mistura de líquidos . No \nbéquer, foi recolhida a substância densa.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Considere que em um processo físico de separação de misturas foi empregado um funil em que foram adicionadas as substâncias álcool etílico (d = 0,789 g/cm³) e óleo (d = 0,91 g/cm³). Após a agitação e o repouso do funil, observou-se a formação de duas fases líquidas diferentes, A e B, que podiam ser separadas após a abertura da torneira desse funil.\n\nO processo de separação descrito foi empregado para separar uma mistura de líquidos. No béquer, foi recolhida a substância densa. As lacunas do texto são preenchidas, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "homogênea, miscíveis e menos.",
@@ -3359,15 +3705,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 74."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 25,
@@ -3389,7 +3734,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O contraste utilizado no preparo para exames de radiografia \ndigital é composto por uma suspensão de sulfato de bário \n(BaSO4) em água. Uma das reações de obtenção do sulfato \nde bário pode ser realizada por meio da adição de ácido sulfúrico (H2SO4) ao carbonato de bário (BaCO3) com formação \nde sulfato de bário, dióxido de carbono (CO2) e água (H2O), \nconforme a equação não balanceada da reação a seguir.\n\nH2SO4 + BaCO3 \n BaSO4 + CO2 + H2O\n\nConsiderando essas informações e a ordem fornecida dos \nreagentes e dos produtos da reação de obtenção do sulfato \nde bário, a sequência dos menores coeficientes inteiros que \nbalanceiam corretamente a equação dessa reação é:",
+    "statement": "O contraste utilizado no preparo para exames de radiografia digital é composto por uma suspensão de sulfato de bário ($BaSO_{4}$) em água. Uma das reações de obtenção do sulfato de bário pode ser realizada por meio da adição de ácido sulfúrico ($H_{2}$ $SO_{4}$) ao carbonato de bário ($BaCO_{3}$) com formação de sulfato de bário, dióxido de carbono ($CO_{2}$) e água ($H_{2}$O), conforme a equação não balanceada da reação a seguir.\n\n$H_{2}$ $SO_{4}$ + $BaCO_{3}$ $BaSO_{4}$ + $CO_{2}$ + $H_{2}$O\n\nConsiderando essas informações e a ordem fornecida dos reagentes e dos produtos da reação de obtenção do sulfato de bário, a sequência dos menores coeficientes inteiros que balanceiam corretamente a equação dessa reação é:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1; 2; 2; 1; 2.",
@@ -3400,15 +3750,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 75."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 25,
@@ -3430,8 +3779,17 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Fertilizantes utilizados na agricultura têm em sua composição \no nitrato de amônio (NH4NO3). Esse composto possui elevada solubilidade em água e oferece às plantas o nitrogênio, \num nutriente essencial para o crescimento, o desenvolvimento e a produção dos vegetais.\n\nO gráfico representa a curva de solubilidade do nitrato de \namônio em água em função da temperatura.\n\nA massa do nitrato de amônio que restará na fase sólida \nquando forem adicionados 10 600 g desse sal em 1 000 g de \nágua, a 80 ºC, é de",
-    "images": [],
+    "statement": "Fertilizantes utilizados na agricultura têm em sua composição o nitrato de amônio ($NH_{4}$ $NO_{3}$). Esse composto possui elevada solubilidade em água e oferece às plantas o nitrogênio, um nutriente essencial para o crescimento, o desenvolvimento e a produção dos vegetais. O gráfico representa a curva de solubilidade do nitrato de amônio em água em função da temperatura.\n\nA massa do nitrato de amônio que restará na fase sólida quando forem adicionados 10 600 g desse sal em 1 000 g de água, a 80 ºC, é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q76-1.svg",
+        "alt": "Figura de apoio da questão 76."
+      }
+    ],
     "alternatives": [
       "15 820 g.",
       "27 840 g.",
@@ -3441,15 +3799,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 76."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 25,
@@ -3471,7 +3828,11 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O controle de pH para a manutenção da qualidade da água \nde uma piscina é essencial, pois quando a água fica muito \nácida ou muito básica pode ocorrer irritação dos olhos e das \nmucosas, além de ressecamento da pele e dos cabelos.\n\nConsidere o produto iônico da água (kw) a 25 ºC igual a \n1 × 10−14 (mol/L)2. A análise de uma amostra de água de \numa piscina a 25 ºC encontrou uma concentração de íons \nOH− igual a 1 × 10−10,8 mol/L. Nessas condições, a água \ndessa piscina está",
+    "statement": "O controle de pH para a manutenção da qualidade da água de uma piscina é essencial, pois quando a água fica muito ácida ou muito básica pode ocorrer irritação dos olhos e das mucosas, além de ressecamento da pele e dos cabelos.\n\n1 Considere o produto iônico da água (k× 14 2. A análise de uma amostra de água $de_{w}$) a 25 ºC igual a uma piscina a 25 ºC encontrou uma concentração de íons $OH^{−}$ igual a 1 × $10^{−}$10,8 mol/L. Nessas condições, a água dessa piscina está",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "neutra e o pH = 7.",
@@ -3482,15 +3843,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 77."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 26,
@@ -3512,26 +3872,32 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A água deve ser tratada para eliminar qualquer tipo de contaminação e evitar a transmissão de doenças, o que a torna \npotável. O tratamento da água consiste em um conjunto de \nprocedimentos químicos, por exemplo, a adição de alcalinizantes (correção do pH), como o carbonato de sódio, e de \ncoagulantes (remoção de sólidos suspensos), como o FeCℓ3. \nSão realizados também procedimentos físicos para que a \nágua fique em condições adequadas para ser consumida.\n\nA fórmula química do carbonato de sódio, o alcalinizante, e \no nome do FeCℓ3, o coagulante, citados no excerto para o \ntratamento da água são, respectivamente,",
+    "statement": "A água deve ser tratada para eliminar qualquer tipo de contaminação e evitar a transmissão de doenças, o que a torna potável. O tratamento da água consiste em um conjunto de procedimentos químicos, por exemplo, a adição de alcalinizantes (correção do pH), como o carbonato de sódio, e de\n\n3.\n\nSão realizados também procedimentos físicos para que a água fique em condições adequadas para ser consumida. A fórmula química do carbonato de sódio, o alcalinizante, e\n\n3, o coagulante, citados no excerto para o\n\ntratamento da água são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "Na2CO3 e cloreto férrico.",
-      "Na2CO3 e cloreto ferroso.",
-      "NaCO2 e tricloreto férrico.",
-      "Na3CO2 e cloreto de ferro(III).",
-      "Na2CO3 e tricloreto de ferro(III). Leia o texto para responder às questões 79 e 80. Em um aterro sanitário, o gás metano (CH4) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração."
+      "$Na_{2}$ $CO_{3}$ e cloreto férrico.",
+      "$Na_{2}$ $CO_{3}$ e cloreto ferroso.",
+      "$NaCO_{2}$ e tricloreto férrico.",
+      "$Na_{3}$ $CO_{2}$ e cloreto de ferro(III).",
+      "$Na_{2}$ $CO_{3}$e tricloreto de ferro(III)."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 78."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 26,
@@ -3553,8 +3919,18 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Com base nas informações fornecidas, afirma-se que, na \nreação ocorrida no “flare”,",
-    "images": [],
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nCom base nas informações fornecidas, afirma-se que, na reação ocorrida no “flare”,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q79-1.svg",
+        "alt": "Ilustração de um flare (queimador de biogás) captando e queimando o gás metano de um aterro sanitário."
+      }
+    ],
     "alternatives": [
       "o gás metano é o agente redutor.",
       "o gás dióxido de carbono é um dos reagentes.",
@@ -3564,15 +3940,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 79."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 26,
@@ -3594,8 +3969,18 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A geometria molecular do gás metano e a do gás dióxido de \ncarbono são, respectivamente,",
-    "images": [],
+    "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nA geometria molecular do gás metano e a do gás dióxido de carbono são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-cg/q79-1.svg",
+        "alt": "Ilustração de um flare (queimador de biogás) captando e queimando o gás metano de um aterro sanitário."
+      }
+    ],
     "alternatives": [
       "angular e angular.",
       "piramidal e angular.",
@@ -3605,15 +3990,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 80."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 26,
@@ -3635,7 +4019,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere as informações contidas no rótulo de um frasco \nreagente de solução aquosa de nitrato de sódio (NaNO3), \ncomposto encontrado naturalmente na saliva e que industrialmente pode ser empregado como conservante de alimentos.\n\n0,425 g do composto em \n500 mL de solução aquosa\n\nMassa molar do \ncomposto: 85 g/mol\n\nA concentração dessa solução é igual a",
+    "statement": "Considere as informações contidas no rótulo de um frasco reagente de solução aquosa de nitrato de sódio ($NaNO_{3}$), composto encontrado naturalmente na saliva e que industrialmente pode ser empregado como conservante de alimentos.\n\n0,425 g do composto em\n500 mL de solução aquosa\nMassa molar do\ncomposto: 85 g/mol\n\nA concentração dessa solução é igual a",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0,25 mol/L.",
@@ -3646,15 +4035,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 81."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 27,
@@ -3676,7 +4064,14 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A Fundação de Vigilância em Saúde do Amazonas divulgou uma nota técnica de alerta sobre a intensificação das \ndoenças transmitidas por mosquitos como o Aedes aegypti, \npois foi registrado 1,4 mil casos de dengue somente nos primeiros meses de 2022.\n\n(www.g1.globo.com, 01.04.2022. Adaptado.)\n\nUm dos medicamentos mais indicados para aliviar as dores \ne a febre causadas pela dengue é a dipirona, uma opção \nrecomendada pelo Ministério da Saúde no tratamento dos \nsintomas.\n\ndipirona\n\nDentre as interações intermoleculares que podem agir entre \nas moléculas de dipirona, a que possui maior intensidade é a",
+    "statement": "A Fundação de Vigilância em Saúde do Amazonas divulgou uma nota técnica de alerta sobre a intensificação das doenças transmitidas por mosquitos como o Aedes aegypti, pois foi registrado 1,4 mil casos de dengue somente nos primeiros meses de 2022.\n\n(www.g1.globo.com, 01.04.2022. Adaptado.)\n\nUm dos medicamentos mais indicados para aliviar as dores e a febre causadas pela dengue é a dipirona, uma opção recomendada pelo Ministério da Saúde no tratamento dos sintomas.\n\ndipirona\n\nDentre as interações intermoleculares que podem agir entre as moléculas de dipirona, a que possui maior intensidade é a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "dipolo-dipolo.",
@@ -3687,15 +4082,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 82."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 27,
@@ -3717,7 +4111,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O agente químico 1,1-tio-bis-2-cloroetano, conhecido como \ngás mostarda devido a seu odor acre semelhante ao da mostarda, foi empregado pela primeira vez como arma química \nno noroeste da Europa, durante a Primeira Guerra Mundial.\n\ngás mostarda\n\nA cadeia carbônica do gás mostarda pode ser classificada \ncomo:",
+    "statement": "O agente químico 1,1-tio-bis-2-cloroetano, conhecido como gás mostarda devido a seu odor acre semelhante ao da mostarda, foi empregado pela primeira vez como arma química no noroeste da Europa, durante a Primeira Guerra Mundial.\n\ngás mostarda\n\nA cadeia carbônica do gás mostarda pode ser classificada como:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "alifática, normal, saturada e heterogênea.",
@@ -3728,15 +4127,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 83."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 27,
@@ -3758,7 +4156,13 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O airbag, componente de segurança passiva dos veículos \nautomotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio (NaN3). \nQuando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico \n(faísca) que provoca a rápida decomposição desse sólido, \nem gás nitrogênio (N2), responsável por inflar o airbag, e o \nsólido sódio (Na), conforme a equação da reação:\n\n2NaN3 (s) \n 3N2 (g) + 2Na (s)\n\ntempo (min)\nNaN3 (mol)\n\n0\n0,8\n\n10\n0,5\n\nConsiderando a reação de decomposição e os dados da \ntabela, a velocidade média de formação do gás nitrogênio, \nno intervalo entre 0 e 10 minutos, é igual a",
+    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\n$2NaN_{3}$ (s) tempo (min)\t$3N_{2}$ (g) + 2Na (s) $NaN_{3}$ (mol)\n0\t0,8\n10\t0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3\t1.\n2\t1.\n4\t1.\n4\t1.\n2\t1.",
+    "blockTypes": [
+      "prose",
+      "table",
+      "prose",
+      "table"
+    ],
     "images": [],
     "alternatives": [
       "3,0 × 10–3 mol × s–1.",
@@ -3769,15 +4173,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 84."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 27,
@@ -3799,17 +4202,17 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O tracajá (Podocnemis unifilis) e a tartaruga-da-Amazônia \n(Podocnemis expansa) são dois répteis cujas histórias \nevolutivas são bastante semelhantes.\n\nTracajá\nTartaruga-da-Amazônia\n\n(www.zoo.df.gov.br)\n(www.zoo.df.gov.br)\n\nConsiderando os nomes científicos desses dois répteis, conclui-se que ambos os animais pertencem, taxonomicamente,",
+    "statement": "O tracajá (Podocnemis unifilis) e a tartaruga-da-Amazônia (Podocnemis expansa) são dois répteis cujas histórias evolutivas são bastante semelhantes.\n\nTracajá Tartaruga-da-Amazônia\n\n(www.zoo.df.gov.br) (www.zoo.df.gov.br)\n\nConsiderando os nomes científicos desses dois répteis, conclui-se que ambos os animais pertencem, taxonomicamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 67."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-g1/q01-2.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 67."
+        "src": "/images/uea/vestibular-2022-g1/q01-1.svg",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
     "alternatives": [
@@ -3821,15 +4224,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 67,
@@ -3852,7 +4254,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A hipótese de Oparin e Haldane, em resumo, considera \nque moléculas mais simples teriam adquirido, ao longo de \nmilhões de anos, novas organizações e propriedades mais \ncomplexas, o que teria aumentado consideravelmente as \npossibilidades de reações entre elas.\n\nEssa hipótese fornece elementos que fundamentam pesquisas relacionadas",
+    "statement": "A hipótese de Oparin e Haldane, em resumo, considera que moléculas mais simples teriam adquirido, ao longo de milhões de anos, novas organizações e propriedades mais complexas, o que teria aumentado consideravelmente as possibilidades de reações entre elas. Essa hipótese fornece elementos que fundamentam pesquisas relacionadas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à origem das primeiras manifestações de vida.",
@@ -3863,15 +4268,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 67,
@@ -3894,12 +4298,18 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Pastagem abandonada no Cerrado impossibilita a\n\nrecuperação do bioma original\n\nA destruição do Cerrado constitui uma perda inestimável \nem termos de biodiversidade, uma vez que esse bioma pode \napresentar 35 espécies diferentes de plantas por metro quadrado.\n\n(https://envolverde.com.br. Adaptado.)\n\nDentro do bioma Cerrado existem inúmeros ecossistemas, \npreservados e não preservados, como a pastagem abandonada, a qual é classificada como uma",
+    "statement": "Pastagem abandonada no Cerrado impossibilita a\n\nrecuperação do bioma original\n\nA destruição do Cerrado constitui uma perda inestimável em termos de biodiversidade, uma vez que esse bioma pode apresentar 35 espécies diferentes de plantas por metro quadrado.\n\n(https://envolverde.com.br. Adaptado.)\n\nDentro do bioma Cerrado existem inúmeros ecossistemas, preservados e não preservados, como a pastagem abandonada, a qual é classificada como uma",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q03-1.jpg",
-        "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 67."
+        "src": "/images/uea/vestibular-2022-g1/q03-1.svg",
+        "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
     "alternatives": [
@@ -3911,15 +4321,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 67,
@@ -3942,7 +4351,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As vitaminas representam uma classe de nutrientes de que \no organismo humano necessita em pequenas quantidades \ndiárias. São obtidas em diversos tipos de alimentos e são \nessenciais para o bom funcionamento do organismo.\n\nDe modo simplificado, afirma-se que, no organismo humano, \nmuitas vitaminas",
+    "statement": "As vitaminas representam uma classe de nutrientes de que o organismo humano necessita em pequenas quantidades diárias. São obtidas em diversos tipos de alimentos e são essenciais para o bom funcionamento do organismo. De modo simplificado, afirma-se que, no organismo humano, muitas vitaminas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "atuam no processo de hematose.",
@@ -3953,15 +4365,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 67,
@@ -3984,7 +4395,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A construção do conhecimento científico humano, também \nconhecida como investigação científica, segue uma metodologia lógica e sequencial, em que os fatos observados na \nnatureza são analisados e pesquisados para uma melhor \ncompreensão das leis naturais.\n\nConsiderando que a observação do fato constitui a primeira \netapa da investigação científica, a etapa subsequente em tal \nmetodologia é a",
+    "statement": "A construção do conhecimento científico humano, também conhecida como investigação científica, segue uma metodologia lógica e sequencial, em que os fatos observados na natureza são analisados e pesquisados para uma melhor compreensão das leis naturais. Considerando que a observação do fato constitui a primeira etapa da investigação científica, a etapa subsequente em tal metodologia é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "identificação de um problema e de novas hipóteses.",
@@ -3995,15 +4409,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 68,
@@ -4026,7 +4439,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No corpo humano, a digestão das proteínas ingeridas durante as refeições ocorre no estômago e no intestino delgado, \npor meio da ação dos sucos gástrico, pancreático e entérico. \nO processo de quebra das proteínas em moléculas menores \nse dá por meio da hidrólise enzimática, a qual ocorre especificamente nas",
+    "statement": "No corpo humano, a digestão das proteínas ingeridas durante as refeições ocorre no estômago e no intestino delgado, por meio da ação dos sucos gástrico, pancreático e entérico. O processo de quebra das proteínas em moléculas menores se dá por meio da hidrólise enzimática, a qual ocorre especificamente nas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ligações iônicas entre os sais minerais das proteínas.",
@@ -4037,15 +4453,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 68,
@@ -4068,12 +4483,18 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura mostra três microrganismos (X, Y e Z) integrantes do \nReino Protista.\n\n(https://brasilescola.uol.com.br. Adaptado.)\n\nA \nestrutura \nlocomotora \npresente \nno \nmicrorganismo \n também está presente em algumas células \nhumanas, mais especificamente, .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A figura mostra três microrganismos (X, Y e Z) integrantes do Reino Protista.\n\n(https://brasilescola.uol.com.br. Adaptado.)\n\nA estrutura locomotora presente no microrganismo\n\ntambém está presente em algumas células\n\nhumanas, mais especificamente,. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q07-1.jpg",
-        "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 68."
+        "src": "/images/uea/vestibular-2022-g1/q07-1.svg",
+        "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
     "alternatives": [
@@ -4085,15 +4506,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 68,
@@ -4116,7 +4536,10 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A reprodução dos crocodilianos (jacarés e crocodilos) é \ncaracterizada pela fecundação cruzada e interna e pelo \ndesenvolvimento direto. A fecundação interna ocorre em \nfunção da presença do pênis nos machos, o qual é capaz \nde liberar, durante a cópula, milhões de espermatozoides no \ncanal reprodutivo das fêmeas. Já o desenvolvimento direto \nestá relacionado à ausência de fase larval nos filhotes e",
+    "statement": "A reprodução dos crocodilianos (jacarés e crocodilos) é caracterizada pela fecundação cruzada e interna e pelo desenvolvimento direto. A fecundação interna ocorre em função da presença do pênis nos machos, o qual é capaz de liberar, durante a cópula, milhões de espermatozoides no canal reprodutivo das fêmeas. Já o desenvolvimento direto está relacionado à ausência de fase larval nos filhotes e",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao útero presente no sistema reprodutor das fêmeas.",
@@ -4127,15 +4550,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 69,
@@ -4158,26 +4580,28 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No estado do Amazonas, a hanseníase e a malária são \ndoenças que merecem atenção profilática específica, em \nfunção do número de casos registrados pelos órgãos de \nsaúde locais.\n\nA hanseníase é causada pelo bacilo Mycobacterium leprae, \nenquanto a malária é causada por esporozoários do gênero \nPlasmodium. Tendo em vista as características biológicas \ndesses agentes etiológicos, afirma-se que o",
+    "statement": "No estado do Amazonas, a hanseníase e a malária são doenças que merecem atenção profilática específica, em função do número de casos registrados pelos órgãos de saúde locais. A hanseníase é causada pelo bacilo Mycobacterium leprae, enquanto a malária é causada por esporozoários do gênero Plasmodium. Tendo em vista as características biológicas desses agentes etiológicos, afirma-se que o",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Plasmodium é um protozoário unicelular heterótrofo.",
       "Mycobacterium leprae não apresenta organização celular.",
       "Mycobacterium leprae é um fungo unicelular.",
-      "Plasmodium é um microrganismo pluricelular e procarionte.",
+      "Plasmodium é um microrganismo pluricelular e proca- rionte.",
       "Mycobacterium leprae é um organismo eucariótico e autotrófico."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 69,
@@ -4200,12 +4624,16 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra o movimento de flexionar o braço, o qual \ndepende da ação dos músculos esqueléticos.\n\n(https://brasilescola.uol.com.br)\n\nOs músculos esqueléticos, responsáveis pela realização desse movimento,",
+    "statement": "A figura ilustra o movimento de flexionar o braço, o qual depende da ação dos músculos esqueléticos.\n\n(https://brasilescola.uol.com.br)\n\nOs músculos esqueléticos, responsáveis pela realização desse movimento,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q10-1.jpg",
-        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 69."
+        "src": "/images/uea/vestibular-2022-g1/q10-1.svg",
+        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
     "alternatives": [
@@ -4217,15 +4645,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 69,
@@ -4248,7 +4675,11 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise o heredograma para responder às questões 11 e 12.\n\nNo heredograma, os indivíduos representados pelos símbolos escuros são portadores de determinada característica \ngenética. Essa característica é condicionada por apenas um \npar de alelos autossômicos.\n\nNessas condições, conclui-se que tal característica genética",
+    "statement": "Analise o heredograma para responder às questões 11 e 12.\n\nNo heredograma, os indivíduos representados pelos símbolos escuros são portadores de determinada característica genética. Essa característica é condicionada por apenas um par de alelos autossômicos. Nessas condições, conclui-se que tal característica genética",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "está ligada ao cromossomo sexual X.",
@@ -4259,15 +4690,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 70,
@@ -4290,7 +4720,11 @@ export const uea2022Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise o heredograma para responder às questões 11 e 12.\n\nCom base no sistema ABO de tipagem sanguínea, sabe-se \nque o indivíduo II-1 apresenta tipo sanguíneo A. Já o indivíduo II-2 apresenta tipo sanguíneo O. A primeira filha do casal, \nindivíduo III-1, apresenta tipo sanguíneo O.\n\nA probabilidade de o mesmo casal gerar uma criança do sexo \nmasculino e do tipo sanguíneo A é de",
+    "statement": "Analise o heredograma para responder às questões 11 e 12.\n\nCom base no sistema ABO de tipagem sanguínea, sabe-se que o indivíduo II-1 apresenta tipo sanguíneo A. Já o indivíduo II-2 apresenta tipo sanguíneo O. A primeira filha do casal, indivíduo III-1, apresenta tipo sanguíneo O. A probabilidade de o mesmo casal gerar uma criança do sexo masculino e do tipo sanguíneo A é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1/8.",
@@ -4301,15 +4735,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 70,
@@ -4332,7 +4765,11 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Para separar uma mistura composta por água e tetracloreto \nde carbono (CCℓ4), dois líquidos incolores e imiscíveis, deve \nser utilizado o método de separação denominado:",
+    "statement": "Para separar uma mistura composta por água e tetracloreto\n\n4), dois líquidos incolores e imiscíveis, deve",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "destilação.",
@@ -4343,15 +4780,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 70,
@@ -4374,7 +4810,11 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Um átomo de certo elemento químico utilizado para recobrimento de metais possui 28 nêutrons e sua distribuição eletrônica termina em 3d4.\n\nO número atômico (Z) e o número de massa (A) desse elemento \nsão, respectivamente, iguais a",
+    "statement": "Um átomo de certo elemento químico utilizado para recobrimento de metais possui 28 nêutrons e sua distribuição eletrônica termina em $3d^{4}$.\n\nO número atômico (Z) e o número de massa (A) desse elemento são, respectivamente, iguais a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "14 e 42.",
@@ -4385,15 +4825,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 70,
@@ -4416,7 +4855,13 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio \n(KMnO4) de cor violeta é gotejada em uma solução aquosa de \nácido clorídrico (HCℓ), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n2KMnO4 + 16HCℓ \n 2KCℓ + 2MnCℓ2 + 5Cℓ2 + 8H2O\n\nA variação do número de oxidação (Nox) do agente redutor \nda reação de descoloração é de",
+    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio (KMnO₄) de cor violeta é gotejada em uma solução aquosa de ácido clorídrico (HCl), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n2 KMnO₄ + 16 HCl → 2 KCl + 2 MnCl₂ + 5 Cl₂ + 8 H₂O\n\nA variação do número de oxidação (Nox) do agente redutor da reação de descoloração é de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "–1 para 0.",
@@ -4427,15 +4872,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 71,
@@ -4458,7 +4902,13 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio \n(KMnO4) de cor violeta é gotejada em uma solução aquosa de \nácido clorídrico (HCℓ), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n2KMnO4 + 16HCℓ \n 2KCℓ + 2MnCℓ2 + 5Cℓ2 + 8H2O\n\nEm uma solução aquosa de ácido clorídrico (HCℓ), que é \num ácido forte, as forças intermoleculares entre o soluto e o \nsolvente são do tipo",
+    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio ($KMnO_{4}$) de cor violeta é gotejada em uma solução aquosa de ácido clorídrico (HCℓ), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n$2KMnO_{4}$ + 16HCℓ 2 2 + $8H_{2}$O\n\nEm uma solução aquosa de ácido clorídrico (HCℓ), que é um ácido forte, as forças intermoleculares entre o soluto e o solvente são do tipo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "dipolo - dipolo.",
@@ -4469,15 +4919,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 71,
@@ -4500,7 +4949,10 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Suponha que no interior do pneu de um veículo a pressão \ntotal do ar seja 1 750 mmHg e que a temperatura desse pneu \nseja 27 ºC. Após esse veículo percorrer uma certa distância, realizou-se uma nova medição da temperatura do pneu, \nconstatando-se um valor de 57 ºC.\n\nConsiderando que a variação de volume do pneu seja desprezível, a nova pressão desse pneu será igual a",
+    "statement": "Suponha que no interior do pneu de um veículo a pressão total do ar seja 1 750 mmHg e que a temperatura desse pneu seja 27 ºC. Após esse veículo percorrer uma certa distância, realizou-se uma nova medição da temperatura do pneu, constatando-se um valor de 57 ºC. Considerando que a variação de volume do pneu seja desprezível, a nova pressão desse pneu será igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 420 mmHg.",
@@ -4511,15 +4963,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 71,
@@ -4542,7 +4993,10 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma salmoura foi preparada pela dissolução de 8 g do sal \ncloreto de sódio (NaCℓ) em 42 g de água, obtendo-se uma \nsolução de densidade 1,1 g/mL.\n\nO título percentual, a concentração comum e a molaridade \ndessa solução são, respectivamente, iguais a",
+    "statement": "Uma salmoura foi preparada pela dissolução de 8 g do sal cloreto de sódio (NaCℓ) em 42 g de água, obtendo-se uma solução de densidade 1,1 g/mL. O título percentual, a concentração comum e a molaridade dessa solução são, respectivamente, iguais a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "16%, 176 g/L e 3,0 mol/L.",
@@ -4553,15 +5007,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 71,
@@ -4584,7 +5037,14 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a equação de hidrogenação do prop-2-eno.\n\nC3H6 (g) + H2 (g) \n C3H8 (g) + 123,8 kJ\n\nNessa hidrogenação a variação da entalpia (ΔH) é \n e a reação é , porque se processa com de calor.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Considere a equação de hidrogenação do prop-2-eno.\n\n$C_{3}$$H_{6}$ (g) + $H_{2}$ (g) $C_{3}$$H_{8}$ (g) + 123,8 kJ\n\nNessa hidrogenação a variação da entalpia (ΔH) é\n\ne a reação é, porque se processa com de calor.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "positiva, endotérmica e absorção.",
@@ -4595,15 +5055,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 72,
@@ -4626,7 +5085,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Partindo-se da fórmula molecular C3H6O, pode-se obter os \ncompostos orgânicos:\n\n1: propanal.\n\n2: propanona.\n\n3: prop-1-en-2ol.\n\nAo comparar as fórmulas estruturais dos compostos orgânicos citados e considerando o conceito de isomeria plana, o \ntipo de isomeria que ocorre entre as substâncias",
+    "statement": "Partindo-se da fórmula molecular C₃H₆O, pode-se obter os compostos orgânicos:\n\n1: propanal.\n2: propanona.\n3: prop-1-en-2ol.\n\nAo comparar as fórmulas estruturais dos compostos orgânicos citados e considerando o conceito de isomeria plana, o tipo de isomeria que ocorre entre as substâncias",
+    "blockTypes": [
+      "prose",
+      "list",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 e 2 é a de compensação.",
@@ -4637,15 +5101,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 72,
@@ -4668,7 +5131,13 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere \no \nproduto \niônico \nda \nágua \n(Kw) \na \n25 ºC = 1 × 10–14 (mol/L)2 e a concentração de íons H+ \nde um suco puro igual a 10–1 mol/L. Ao se preparar um \nrefresco com 40 mL desse suco, adicionando água suficiente \npara completar 400 mL, o valor do pH obtido no refresco será \nigual a",
+    "statement": "Considere o produto iônico da água (Kw) a\n\n14 2 e a concentração de íons $H^{+}$\n\n1 mol/L. Ao se preparar um\n\nrefresco com 40 mL desse suco, adicionando água suficiente para completar 400 mL, o valor do pH obtido no refresco será igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.",
@@ -4679,15 +5148,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 72,
@@ -4710,7 +5178,10 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma criança diverte-se com um brinquedo movido à pilha, \npor um determinado tempo. Nesse intervalo de tempo, a cápsula de zinco dessa pilha sofreu um desgaste de 0,3275 g e \noriginou uma corrente de 0,3216 A.\n\nConsiderando a reação de oxidação do zinco como sendo \nZn \n Zn2+ + 2e– e a constante de Faraday \n(F) = 96 500 C/mol, a duração de tempo em que o \nbrinquedo ficou ligado foi de",
+    "statement": "Uma criança diverte-se com um brinquedo movido à pilha, por um determinado tempo. Nesse intervalo de tempo, a cápsula de zinco dessa pilha sofreu um desgaste de 0,3275 g e originou uma corrente de 0,3216 A. Considerando a reação de oxidação do zinco como sendo Zn Zn2+ + 2e– e a constante de Faraday (F) = 96 500 C/mol, a duração de tempo em que o brinquedo ficou ligado foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "30 min.",
@@ -4721,15 +5192,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 72,
@@ -4752,7 +5222,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A vanilina é o principal componente da essência de baunilha, \num aromatizante muito utilizado industrialmente.\n\nvanilina\n\nAs funções orgânicas presentes na vanilina são",
+    "statement": "A vanilina é o principal componente da essência de baunilha, um aromatizante muito utilizado industrialmente.\n\nvanilina\n\nAs funções orgânicas presentes na vanilina são",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fenol, éter e aldeído.",
@@ -4763,15 +5238,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 73,
@@ -4794,7 +5268,11 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma das substâncias responsáveis pelo mau cheiro das \nsecreções do gambá tem a seguinte fórmula estrutural:\n\nA cadeia principal dessa substância pode ser classificada \ncomo:",
+    "statement": "Uma das substâncias responsáveis pelo mau cheiro das secreções do gambá tem a seguinte fórmula estrutural:\n\nA cadeia principal dessa substância pode ser classificada como:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "alifática, ramificada, insaturada e homogênea.",
@@ -4805,15 +5283,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 73,
@@ -4837,11 +5314,15 @@ export const uea2022Vestibular = [
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
     "statement": "Observe a charge de André Dahmer.\n\n(Folha de S.Paulo, 28.02.2022.)\n\nPara obter seu efeito de humor, a charge explora, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2022).",
-        "caption": "Caderno original, p. 73."
+        "src": "/images/uea/vestibular-2022-g1/q25-1.svg",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
     "alternatives": [
@@ -4853,15 +5334,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 73,
@@ -4884,7 +5364,13 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel \nBandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n\n[...]\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nA caracterização que o eu lírico faz dos comensais durante \na corrida de cavalos remete a um procedimento típico da \nestética",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nA caracterização que o eu lírico faz dos comensais durante a corrida de cavalos remete a um procedimento típico da estética",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "simbolista.",
@@ -4895,15 +5381,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 74,
@@ -4926,26 +5411,31 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel \nBandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n\n[...]\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1a estrofe), as vírgulas isolam o",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1ª estrofe), as vírgulas isolam o",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "sujeito.",
       "vocativo.",
       "aposto.",
       "adjunto adnominal.",
-      "objeto direto. Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34. Mergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes. Naquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos. Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava. Na manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana1 mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas. (Infância, 2020.) 1 cruviana: vento intenso e gelado."
+      "objeto direto."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 74,
@@ -4968,7 +5458,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Infere-se do trecho “Olhando-me por dentro, percebo com \ndesgosto a segunda paisagem.” (1o parágrafo) que o narrador se sente",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” (1º parágrafo) que o narrador se sente",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "sereno.",
@@ -4979,15 +5479,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 74,
@@ -5010,7 +5509,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No segundo parágrafo, o narrador assinala que, a partir de \nestratégias de compreensão da realidade, acabou por forjar \num “mundo”",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nNo segundo parágrafo, o narrador assinala que, a partir de estratégias de compreensão da realidade, acabou por forjar um “mundo”",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "desconexo.",
@@ -5021,15 +5530,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5052,7 +5560,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Na construção do primeiro parágrafo, o narrador recorre, sobretudo, ao seguinte recurso retórico:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nNa construção do primeiro parágrafo, o narrador recorre, sobretudo, ao seguinte recurso retórico:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pleonasmo.",
@@ -5063,15 +5581,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5094,26 +5611,35 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O narrador lança mão da figura de linguagem conhecida \ncomo personificação no trecho:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nO narrador lança mão da figura de linguagem conhecida como personificação no trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Acordei, reuni pedaços de pessoas e de coisas” (2o parágrafo).",
-      "“a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos” (2o parágrafo).",
-      "“As paredes úmidas enegreciam” (4o parágrafo).",
-      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1o parágrafo).",
-      "“Olhando-me por dentro, percebo com desgosto a segunda paisagem” (1o parágrafo)."
+      "“Acordei, reuni pedaços de pessoas e de coisas” (2º parágrafo).",
+      "“a humanidade, feita de indivíduos que me atormenta- vam e indivíduos que não me atormentavam, perdia os característicos” (2º parágrafo).",
+      "“As paredes úmidas enegreciam” (4º parágrafo).",
+      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1º parágrafo).",
+      "“Olhando-me por dentro, percebo com desgosto a segun- da paisagem” (1º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5136,7 +5662,17 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Bem e mal ainda não existiam, faltava razão para que nos \nafligissem com pancadas e gritos. Contudo as pancadas e \nos gritos figuravam na ordem dos acontecimentos” (3o parágrafo)\n\nHá no trecho um termo responsável por conectar as duas \nfrases. Tal termo estabelece entre essas frases relação de",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” (3º parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "conclusão.",
@@ -5147,15 +5683,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5178,7 +5713,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considerando o contexto, no trecho “Fechava-se o doce \nparêntese — e isto me desorientava.” (3o parágrafo), o narrador refere-se",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” (3º parágrafo), o narrador refere-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à inconstância das atitudes dos pais.",
@@ -5189,15 +5734,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5220,26 +5764,35 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Está empregada em sentido figurado a palavra sublinhada em:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nEstá empregada em sentido figurado a palavra sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Os objetos se tornavam irreconhecíveis” (2o parágrafo).",
-      "“Mergulhei numa comprida manhã de inverno” (1o parágrafo).",
-      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1o parágrafo).",
-      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1o parágrafo).",
-      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4o parágrafo)."
+      "“Os objetos se tornavam irreconhecíveis” (2º parágrafo).",
+      "“Mergulhei numa comprida manhã de inverno” (1º pará- grafo).",
+      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1º parágrafo).",
+      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1º parágrafo).",
+      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 75,
@@ -5262,26 +5815,34 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice \nna década de 1960, quando chegou aos EUA. A pop Art se \ncaracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma \ncrítica a essa indústria que, na visão dos artistas, exercia uma \npoderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma \nexposição emblemática na Ferus Gallery em Los Angeles, na \nqual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos \nde reprodução mecânica para fazer suas obras, diminuindo a \ndistância entre a fotografia e a pintura. Assim como a pop Art \nfaz desaparecer a distinção entre arte “erudita” e “comercial”, \nWarhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as \nestrelas de Hollywood, políticos e esportistas que eram \nrepresentantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de \n1960 e 1970”, aponta a professora e pesquisadora Elaine \nCaramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, no 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a pop Art usar a linguagem artística erudita para reproduzir temas relacionados à cultura de massa, como as revistas de celebridades.",
-      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a fotografia e a pintura.",
-      "Andy Warhol trazer para suas obras pinturas de produtos industrializados, apesar de ter desistido da carreira publicitária.",
+      "a pop Art usar a linguagem artística erudita para repro- duzir temas relacionados à cultura de massa, como as revistas de celebridades.",
+      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a foto- grafia e a pintura.",
+      "Andy Warhol trazer para suas obras pinturas de produ- tos industrializados, apesar de ter desistido da carreira publicitária.",
       "a pop Art usar métodos de reprodução mecânica para diluir a distinção entre a arte erudita e a arte popular.",
       "Andy Warhol trazer para suas obras ícones do poder americano e, ao mesmo tempo, demonstrar que não acredita no sonho americano."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 76,
@@ -5304,26 +5865,34 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice \nna década de 1960, quando chegou aos EUA. A pop Art se \ncaracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma \ncrítica a essa indústria que, na visão dos artistas, exercia uma \npoderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma \nexposição emblemática na Ferus Gallery em Los Angeles, na \nqual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos \nde reprodução mecânica para fazer suas obras, diminuindo a \ndistância entre a fotografia e a pintura. Assim como a pop Art \nfaz desaparecer a distinção entre arte “erudita” e “comercial”, \nWarhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as \nestrelas de Hollywood, políticos e esportistas que eram \nrepresentantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de \n1960 e 1970”, aponta a professora e pesquisadora Elaine \nCaramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, no 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2o parágrafo).",
-      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda)” (1o parágrafo).",
-      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1o parágrafo).",
-      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2o parágrafo).",
-      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representantes do glamour e do poder americano” (3o parágrafo)."
+      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2º parágrafo).",
+      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebri- dades, quadrinhos, propaganda)” (1º parágrafo).",
+      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1º parágrafo).",
+      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2º parágrafo).",
+      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representan- tes do glamour e do poder americano” (3º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 76,
@@ -5346,26 +5915,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A República romana era dominada pelo Senado, controlado, nos seus dois primeiros séculos de existência, por um \npequeno grupo de clãs patrícios; [...]. Os magistrados anuais, \ndos quais os cônsules eram os dois postos mais elevados, [...] \neram as instâncias executivas supremas do Estado e foram \njuridicamente monopólio de uma restrita ordem de patrícios \naté 366 a.C.\n\n(Perry Anderson. Passagens da Antiguidade ao feudalismo, 1982.)\n\nA estrutura política, descrita no excerto, sofreu alterações \napós",
+    "statement": "A República romana era dominada pelo Senado, controlado, nos seus dois primeiros séculos de existência, por um pequeno grupo de clãs patrícios; [...]. Os magistrados anuais, dos quais os cônsules eram os dois postos mais elevados, [...] eram as instâncias executivas supremas do Estado e foram juridicamente monopólio de uma restrita ordem de patrícios até 366 a.C.\n\n(Perry Anderson. Passagens da Antiguidade ao feudalismo, 1982.)\n\nA estrutura política, descrita no excerto, sofreu alterações após",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "as sucessivas lutas das camadas plebeias, que resultaram na ampliação de direitos civis desse grupo social.",
+      "as sucessivas lutas das camadas plebeias, que resulta- ram na ampliação de direitos civis desse grupo social.",
       "a instituição da tirania, que distribuiu cargos públicos aos pequenos proprietários rurais.",
-      "as reformas dos legisladores, que estabeleceram o mesmo peso para o voto dos cidadãos, fossem eles ricos ou pobres.",
+      "as reformas dos legisladores, que estabeleceram o mes- mo peso para o voto dos cidadãos, fossem eles ricos ou pobres.",
       "a instalação da ditadura, que concentrou poderes nas mãos dos grandes generais romanos.",
       "o estabelecimento do triunvirato, que criou o consulado com três governantes, cada um representando um grupo social."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 50,
@@ -5388,26 +5961,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No século XVII, a América portuguesa foi marcada por \nduas conjunturas econômicas distintas: uma primeira metade \nde considerável crescimento, com a consolidação da colonização tendo por base a expansão da produção açucareira e \ndo tráfico de escravos; e uma segunda metade marcada por \numa crise agrícola.\n\n(Antônio Carlos Jucá de Sampaio. “Fluxos e refluxos mercantis: centros,\n\nperiferias e diversidade regional”. In: João Fragoso e Maria de Fátima\n\nGouvêa (org.). O Brasil colonial: 1580-1720, vol. 2, 2018. Adaptado.)\n\nEntre as razões da crise econômica mencionada no excerto, \nencontram-se",
+    "statement": "No século XVII, a América portuguesa foi marcada por duas conjunturas econômicas distintas: uma primeira metade de considerável crescimento, com a consolidação da colonização tendo por base a expansão da produção açucareira e do tráfico de escravos; e uma segunda metade marcada por uma crise agrícola.\n\n(Antônio Carlos Jucá de Sampaio. “Fluxos e refluxos mercantis: centros, periferias e diversidade regional”. In: João Fragoso e Maria de Fátima Gouvêa (org.). O Brasil colonial: 1580-1720, vol. 2, 2018. Adaptado.)\n\nEntre as razões da crise econômica mencionada no excerto, encontram-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a instabilidade política advinda das revoltas nativistas e a elevação dos impostos metropolitanos.",
       "o estabelecimento da União Ibérica e a posterior invasão holandesa do nordeste brasileiro.",
       "o grande número de incêndios nos canaviais e o boicote dos negros ao trabalho compulsório.",
-      "a concorrência antilhana no mercado do açúcar e a consequente baixa dos preços internacionais do produto.",
+      "a concorrência antilhana no mercado do açúcar e a con- sequente baixa dos preços internacionais do produto.",
       "a escassez da mão de obra escrava e o ulterior aumento dos custos de produção."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 50,
@@ -5430,10 +6007,13 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No que diz respeito à formação histórica do atual estado \ndo Amazonas, o Tratado de Madri, firmado entre Portugal e \nEspanha em 1750, assegurou",
+    "statement": "No que diz respeito à formação histórica do atual estado do Amazonas, o Tratado de Madri, firmado entre Portugal e Espanha em 1750, assegurou",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "a posse da Capitania de São José do Rio Negro, subordinada ao Estado do Grão-Pará pela Coroa portuguesa.",
+      "a posse da Capitania de São José do Rio Negro, subor- dinada ao Estado do Grão-Pará pela Coroa portuguesa.",
       "a criação da Província do Amazonas por meio de um decreto assinado pelos soberanos português e espanhol.",
       "a livre ocupação do território brasileiro por diferentes colonizadores, como ingleses, holandeses, portugueses e espanhóis.",
       "o controle português de terras na região Norte por meio de um acordo adicional com a França arbitrado pelo governo suíço.",
@@ -5441,15 +6021,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 50,
@@ -5472,26 +6051,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Os centenários foram inventados no fim do século XIX. \nEm algum momento entre o centésimo aniversário da Revolução Americana (1876) e o da Revolução Francesa (1889) \n— ambos comemorados com as exposições internacionais \nde praxe — os cidadãos instruídos do mundo ocidental tomaram consciência do fato de que aquele mundo, nascido entre \na Declaração de Independência, a construção da primeira \nponte de ferro do mundo e a tomada da Bastilha, estava completando cem anos. Qual seria o resultado de uma comparação entre o mundo dos anos 1880 e o dos anos 1780?\n\n(Eric J. Hobsbawm. A era dos impérios: 1875-1914, 2018.)\n\nPara responder à pergunta do historiador e comparar os \nperíodos de 1780 e 1880 adequadamente, deve-se considerar que, na década mais recente citada por ele, houve",
+    "statement": "Os centenários foram inventados no fim do século XIX. Em algum momento entre o centésimo aniversário da Revolução Americana (1876) e o da Revolução Francesa (1889) — ambos comemorados com as exposições internacionais de praxe — os cidadãos instruídos do mundo ocidental tomaram consciência do fato de que aquele mundo, nascido entre a Declaração de Independência, a construção da primeira ponte de ferro do mundo e a tomada da Bastilha, estava completando cem anos. Qual seria o resultado de uma comparação entre o mundo dos anos 1880 e o dos anos 1780?\n\n(Eric J. Hobsbawm. A era dos impérios: 1875-1914, 2018.)\n\nPara responder à pergunta do historiador e comparar os períodos de 1780 e 1880 adequadamente, deve-se considerar que, na década mais recente citada por ele, houve",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a unificação econômica da Alemanha e a independência política de boa parte da América espanhola.",
       "o rápido desenvolvimento do mercado de massa e o aumento do preço dos produtos industrializados.",
       "a fixação de alianças para a condenação da guerra e de defesa da paz permanente entre os Estados nacionais.",
       "uma expansão da Revolução Industrial para a Rússia czarista e para grande parte do Império chinês.",
-      "uma maior interligação dos mercados mundiais e a partilha da Ásia e da África pelos europeus."
+      "uma maior interligação dos mercados mundiais e a parti- lha da Ásia e da África pelos europeus."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 50,
@@ -5514,26 +6097,31 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A República, ou os vitoriosos da República, fizeram muito \npouco em termos de expansão de direitos civis e políticos. O \nque foi feito já era demanda do liberalismo imperial. Pode-se \ndizer que houve até retrocesso no que se refere a direitos \nsociais. Algumas mudanças, como a eliminação do Poder \nModerador, do Senado vitalício e do Conselho de Estado e \na introdução do federalismo, tinham sem dúvida inspiração \ndemocratizante na medida em que buscavam desconcentrar o exercício do poder. Mas, não vindo acompanhadas por \nexpansão significativa da cidadania política, resultaram em \nentregar o governo mais diretamente nas mãos dos setores \ndominantes.\n\n(José Murilo de Carvalho. Os bestializados: \no Rio de Janeiro e a República que não foi, 1987. Adaptado.)\n\nEssa situação de cidadania restrita era resultado, dentre \noutras razões,",
+    "statement": "A República, ou os vitoriosos da República, fizeram muito pouco em termos de expansão de direitos civis e políticos. O que foi feito já era demanda do liberalismo imperial. Pode-se dizer que houve até retrocesso no que se refere a direitos sociais. Algumas mudanças, como a eliminação do Poder Moderador, do Senado vitalício e do Conselho de Estado e a introdução do federalismo, tinham sem dúvida inspiração democratizante na medida em que buscavam desconcentrar o exercício do poder. Mas, não vindo acompanhadas por expansão significativa da cidadania política, resultaram em entregar o governo mais diretamente nas mãos dos setores dominantes.\n\n(José Murilo de Carvalho. Os bestializados:\n\no Rio de Janeiro e a República que não foi, 1987. Adaptado.)\n\nEssa situação de cidadania restrita era resultado, dentre outras razões,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da divisão do eleitorado em duas categorias distintas: votantes e eleitores.",
       "da adoção do voto distrital para reforçar as relações clientelistas no campo.",
-      "da regulamentação do direito ao voto a homens alfabetizados com no mínimo 21 anos.",
+      "da regulamentação do direito ao voto a homens alfabeti- zados com no mínimo 21 anos.",
       "da instituição de eleições indiretas para os cargos do Executivo.",
       "da exigência de uma renda mínima para participar do processo eleitoral."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 51,
@@ -5556,26 +6144,32 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Nas obras publicadas no início do século XX, como \nImpressões da América espanhola e América Latina e \nAmérica inglesa, Oliveira Lima referiu-se à situação caótica \nda América hispânica, marcada por “repúblicas doentes” e \n“guerras civis”, “desordem”, “selvageria”. Tal situação era \nvista pelo autor como resultado do caudilhismo.\n\n(Maria Helena Capelato. “O ‘gigante brasileiro’ na América Latina: \nser ou não ser latino-americano”. In: Carlos Guilherme Mota (org.).\n\nViagem incompleta. A experiência brasileira (1500-2000):\n\na grande transação, 2013. Adaptado.)\n\nO diagnóstico de Oliveira Lima sobre a América hispânica \nfundamentava-se",
+    "statement": "Nas obras publicadas no início do século XX, como Impressões da América espanhola e América Latina e América inglesa, Oliveira Lima referiu-se à situação caótica da América hispânica, marcada por “repúblicas doentes” e “guerras civis”, “desordem”, “selvageria”. Tal situação era vista pelo autor como resultado do caudilhismo.\n\n(Maria Helena Capelato. “O ‘gigante brasileiro’ na América Latina: ser ou não ser latino-americano”. In: Carlos Guilherme Mota (org.).\n\nViagem incompleta. A experiência brasileira (1500-2000):\n\na grande transação, 2013. Adaptado.)\n\nO diagnóstico de Oliveira Lima sobre a América hispânica fundamentava-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na oposição às guerrilhas rurais, que se desenvolviam na região em defesa de uma revolução socialista.",
-      "na crítica ao controle político das repúblicas latino-americanas por líderes, que exerciam o poder de forma personalista e autoritária.",
+      "na crítica ao controle político das repúblicas latino- -americanas por líderes, que exerciam o poder de for- ma personalista e autoritária.",
       "na condenação dos excessos democráticos fomentados por governantes carismáticos e populistas.",
       "na defesa de uma monarquia constitucional para sanar as deficiências dos regimes republicanos.",
-      "na desaprovação ao processo de independência conduzido pelos descendentes de espanhóis, vistos como inferiores pelos europeus."
+      "na desaprovação ao processo de independência condu- zido pelos descendentes de espanhóis, vistos como infe- riores pelos europeus."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 51,
@@ -5598,7 +6192,12 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a cronologia sobre a Segunda Guerra Mundial.\n\n• \u00073 de setembro de 1939: a França e a Grã-Bretanha declaram guerra à Alemanha.\n\n• \u000710 de maio de 1940: o exército alemão ataca Bélgica, \nHolanda e Luxemburgo.\n\n• \u000714 de maio de 1940: as linhas francesas são rompidas em \nSedan. Para o exército francês começa a derrota; para a \npopulação, o êxodo.\n\n• \u000717 de junho de 1940: o marechal francês Phillippe Pétain \npede o armistício.\n\n(Marc Ferro. História da Segunda Guerra Mundial, 1995. Adaptado.)\n\nNo contexto da Segunda Guerra Mundial, o armistício assinado \npela França",
+    "statement": "Analise a cronologia sobre a Segunda Guerra Mundial. • 3 de setembro de 1939: a França e a Grã-Bretanha declaram guerra à Alemanha. • 10 de maio de 1940: o exército alemão ataca Bélgica, Holanda e Luxemburgo. • 14 de maio de 1940: as linhas francesas são rompidas em Sedan. Para o exército francês começa a derrota; para a população, o êxodo. • 17 de junho de 1940: o marechal francês Phillippe Pétain pede o armistício.\n\n(Marc Ferro. História da Segunda Guerra Mundial, 1995. Adaptado.)\n\nNo contexto da Segunda Guerra Mundial, o armistício assinado pela França",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "resultou na divisão do país entre o Norte, ocupado pela Alemanha, e o Sul, onde foi constituído o governo de Vichy.",
@@ -5609,15 +6208,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 51,
@@ -5640,26 +6238,30 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Em 1960, último ano do governo Juscelino Kubitschek, \nas grandes empresas multinacionais do setor automobilístico \nproduziram em torno de 78% do total de 133 mil veículos, \nsuficientes para abastecer a demanda brasileira. As empresas estrangeiras continuaram se expandindo, enquanto a \nFábrica Nacional de Motores (FNM) perdeu cada vez mais \nimportância.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nEntre as consequências do exposto no excerto, pode-se citar",
+    "statement": "Em 1960, último ano do governo Juscelino Kubitschek, as grandes empresas multinacionais do setor automobilístico produziram em torno de 78% do total de 133 mil veículos, suficientes para abastecer a demanda brasileira. As empresas estrangeiras continuaram se expandindo, enquanto a Fábrica Nacional de Motores (FNM) perdeu cada vez mais importância.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nEntre as consequências do exposto no excerto, pode-se citar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o crescimento acelerado da indústria automobilística no país, sobretudo em função de investimentos estatais.",
       "a complementariedade da produção de automóveis entre indústrias nacionais e multinacionais para atender a demanda do mercado consumidor interno.",
-      "a criação da chamada “civilização do automóvel” em detrimento da ampliação de meios de transporte coletivo para a grande massa.",
+      "a criação da chamada “civilização do automóvel” em detrimento da ampliação de meios de transporte coleti- vo para a grande massa.",
       "a importação de autopeças em prejuízo da produção local, ocasionando o aumento no custo de produção dos automóveis.",
       "a inédita concentração de operários em polos industriais nas cinco regiões brasileiras, mudando completamente a fisionomia do país."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 51,
@@ -5682,7 +6284,13 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No Brasil entre 1979 e 1988, ocorreu uma particularidade: o restabelecimento do Estado de direito não coincidiu \ncom a instauração de uma Constituição democrática. O país \ndeixou de ser regido por uma ditadura — predomínio de um \nestado de exceção, quando prevalece a vontade, arbitrária, \ndos governantes, que podem fazer e desfazer leis — sem \nadotar de imediato, através de uma Assembleia eleita, uma \nConstituição democrática. Em outras palavras: no período de \ntransição já não havia ditadura, mas ainda não existia uma \ndemocracia.\n\n(Daniel Aarão Reis Filho. Ditadura e democracia no Brasil, 2014.\n\nAdaptado.)\n\nNo período referido no excerto, o restabelecimento do Estado \nde direito pode ser atestado",
+    "statement": "No Brasil entre 1979 e 1988, ocorreu uma particularidade: o restabelecimento do Estado de direito não coincidiu com a instauração de uma Constituição democrática. O país deixou de ser regido por uma ditadura — predomínio de um estado de exceção, quando prevalece a vontade, arbitrária, dos governantes, que podem fazer e desfazer leis — sem adotar de imediato, através de uma Assembleia eleita, uma Constituição democrática. Em outras palavras: no período de transição já não havia ditadura, mas ainda não existia uma democracia.\n\n(Daniel Aarão Reis Filho. Ditadura e democracia no Brasil, 2014.\n\nAdaptado.)\n\nNo período referido no excerto, o restabelecimento do Estado de direito pode ser atestado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pelo fim do habeas corpus.",
@@ -5693,15 +6301,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 52,
@@ -5724,26 +6331,28 @@ export const uea2022Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Iniciada em março de 1990, a gestão do presidente Fernando \nCollor de Mello foi voltada para uma agenda marcadamente \neconômica, que priorizava",
+    "statement": "Iniciada em março de 1990, a gestão do presidente Fernando Collor de Mello foi voltada para uma agenda marcadamente econômica, que priorizava",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a estabilização monetária e os investimentos estatais em infraestrutura.",
       "a distribuição de renda e a reparação às desigualdades raciais.",
       "a reforma trabalhista e a terceirização do setor de serviços.",
-      "as reformas tributária e agrária para aumentar a produtividade nacional.",
+      "as reformas tributária e agrária para aumentar a produti- vidade nacional.",
       "a liberalização da economia e a privatização de empresas estatais."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 52,
@@ -5766,26 +6375,31 @@ export const uea2022Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Hoje, com a interdependência e a globalização dos mercados e de tecnologias, o capital, as empresas e a comunicação derrubam as fronteiras nacionais, há interação de \nmão de obra de um lugar para outro. Utopicamente, não \nhouvesse soberanias exclusivas, protecionismos unilaterais, \ne o constrangedor passaporte, a migração seria uma forma \ninterativa de enriquecimento cultural e social entre diferentes \npessoas no mundo. Mas a força de trabalho encontra barreiras e indisposição por toda parte na América do Norte e na \nEuropa, bem como em vários países da Ásia e mesmo em \npaíses em desenvolvimento.\n\n(Clóvis Brigagão e Gilberto M. A. Rodrigues. Globalização a olho nu,\n\n1998. Adaptado.)\n\nDe acordo com o texto, o mundo globalizado atual",
+    "statement": "Hoje, com a interdependência e a globalização dos mercados e de tecnologias, o capital, as empresas e a comunicação derrubam as fronteiras nacionais, há interação de mão de obra de um lugar para outro. Utopicamente, não houvesse soberanias exclusivas, protecionismos unilaterais, e o constrangedor passaporte, a migração seria uma forma interativa de enriquecimento cultural e social entre diferentes pessoas no mundo. Mas a força de trabalho encontra barreiras e indisposição por toda parte na América do Norte e na Europa, bem como em vários países da Ásia e mesmo em países em desenvolvimento.\n\n(Clóvis Brigagão e Gilberto M. A. Rodrigues. Globalização a olho nu,\n\n1998. Adaptado.)\n\nDe acordo com o texto, o mundo globalizado atual",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "apoia-se na rapidez e nas facilidades trazidas pelos novos meios de comunicação, o que enfraquece os Estados nacionais.",
       "permite a integração de mercados e de tecnologias, mas impõe obstáculos aos fluxos migratórios.",
       "favorece o compartilhamento de tecnologias entre os países, o que diminui as desigualdades entre nações ricas e pobres.",
       "proporciona uma maior mobilidade dos trabalhadores, porém esta é restrita aos mais qualificados.",
-      "abole gradualmente as políticas protecionistas tanto nos países desenvolvidos como nos países em desenvolvimento."
+      "abole gradualmente as políticas protecionistas tanto nos países desenvolvidos como nos países em desen- volvimento."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 52,
@@ -5808,10 +6422,15 @@ export const uea2022Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Por cinco vias pode-se provar a existência de Deus. A \nprimeira e a mais manifesta é a procedente do movimento; \npois, é certo e verificado pelos sentidos, que alguns seres \nsão movidos neste mundo. Ora, todo o movido por outro o é. \nLogo, é impossível uma coisa ser motora e movida ou mover-\n-se a si própria, no mesmo ponto de vista e do mesmo modo, \npois, tudo o que é movido há-de sê-lo por outro. Se, portanto, o motor também se move, é necessário seja movido por \noutro, e este por outro. Ora, não se pode assim proceder até \nao infinito, porque não haveria nenhum primeiro motor e, por \nconsequência, outro qualquer; pois, os motores segundos \nnão movem, senão movidos pelo primeiro, como não move o \ncajado sem ser movido pela mão. Logo, é necessário chegar \na um primeiro motor, de nenhum outro movido, ao qual todos \ndão o nome de Deus.\n\n(São Tomás de Aquino. A suma teológica, 1942. Adaptado.)\n\nPara provar a existência de Deus, São Tomás de Aquino",
+    "statement": "Por cinco vias pode-se provar a existência de Deus. A primeira e a mais manifesta é a procedente do movimento; pois, é certo e verificado pelos sentidos, que alguns seres são movidos neste mundo. Ora, todo o movido por outro o é. Logo, é impossível uma coisa ser motora e movida ou mover-se a si própria, no mesmo ponto de vista e do mesmo modo, pois, tudo o que é movido há-de sê-lo por outro. Se, portanto, o motor também se move, é necessário seja movido por outro, e este por outro. Ora, não se pode assim proceder até ao infinito, porque não haveria nenhum primeiro motor e, por consequência, outro qualquer; pois, os motores segundos não movem, senão movidos pelo primeiro, como não move o cajado sem ser movido pela mão. Logo, é necessário chegar a um primeiro motor, de nenhum outro movido, ao qual todos dão o nome de Deus.\n\n(São Tomás de Aquino. A suma teológica, 1942. Adaptado.)\n\nPara provar a existência de Deus, São Tomás de Aquino",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "dissocia a fé e a razão como campos opostos e irreconciliáveis.",
+      "dissocia a fé e a razão como campos opostos e irrecon- ciliáveis.",
       "constata que o agente do movimento é interno aos seres.",
       "desenvolve noções idealistas sem pressupostos na realidade.",
       "apresenta argumentos em bases racionais e empíricas.",
@@ -5819,15 +6438,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 52,
@@ -5850,8 +6468,18 @@ export const uea2022Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o infográfico do saneamento básico das regiões \ngeográficas do Brasil.\n\n(https://bauminas.com.br, 31.03.2021. Adaptado.)\n\nDe acordo com a análise do infográfico, a região",
-    "images": [],
+    "statement": "Analise o infográfico do saneamento básico das regiões geográficas do Brasil.\n\n(https://bauminas.com.br, 31.03.2021. Adaptado.)\n\nDe acordo com a análise do infográfico, a região",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q13-1.svg",
+        "alt": "Figura de apoio da questão 13."
+      }
+    ],
     "alternatives": [
       "Nordeste possui o menor índice de abastecimento de água, porém ocupa uma posição acima à da região Sul em relação ao percentual no serviço de coleta de esgoto.",
       "Norte tem o maior percentual nas perdas de água, todavia ocupa posição de destaque nos demais índices quando comparada à região Centro-Oeste.",
@@ -5861,15 +6489,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 53,
@@ -5892,32 +6519,37 @@ export const uea2022Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine o mapa que representa a dinâmica de áreas desmatadas de 2005 a 2050 em relação às Unidades de Conservação e às Terras Indígenas no estado de Rondônia.\n\n(Patricia Christiana S. de S. Oliveira et al. “Modelagem dinâmica do\n\ndesmatamento no sul da Amazônia Ocidental”. \nBoletim de Geografia, no 3, vol. 37, 2019. Adaptado.)\n\nConsiderando o exame do mapa e conhecimentos sobre o \nSistema de Informação Geográfica (SIG), afirma-se que",
+    "statement": "Examine o mapa que representa a dinâmica de áreas desmatadas de 2005 a 2050 em relação às Unidades de Conservação e às Terras Indígenas no estado de Rondônia.\n\n(Patricia Christiana S. de S. Oliveira et al. “Modelagem dinâmica do\n\ndesmatamento no sul da Amazônia Ocidental”.\n\nBoletim de Geografia, nº 3, vol. 37, 2019. Adaptado.)\n\nConsiderando o exame do mapa e conhecimentos sobre o Sistema de Informação Geográfica (SIG), afirma-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q14-1.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2022).",
-        "caption": "Caderno original, p. 53."
+        "src": "/images/uea/vestibular-2022-g2/q14-1.svg",
+        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
     "alternatives": [
       "a elaboração desse mapa necessitou de um conjunto de softwares e hardwares capazes de produzir, armazenar, processar, analisar e representar inúmeras informações sobre o espaço geográfico.",
-      "a captura da área inicial para gerar esse mapa temático ocorreu por meio de sensores remotos que estão instalados nos satélites de observação que orbitam ao redor da Terra e são capazes de produzir as fotografias aéreas.",
-      "o tratamento das informações obtidas por meio de sensores remotos para produzir esse mapa topográfico é organizado em dois formatos primários de dados para armazenamento ou apresentação cartográfica: o raster e o matricial.",
-      "a construção desse mapa temático ocorreu a partir da definição de uma única camada (layer) de dados georreferenciados, obtida por meio de sensores remotos, que possibilita analisar as evoluções espaciais e temporais do fenômeno geográfico.",
-      "a finalização e a divulgação dos dados quantificáveis representados nesse mapa interativo constituem a maneira de transformar os dados geoespaciais contendo latitude e longitude em padrões ou formas coloridos."
+      "a captura da área inicial para gerar esse mapa temático ocorreu por meio de sensores remotos que estão insta- lados nos satélites de observação que orbitam ao redor da Terra e são capazes de produzir as fotografias aéreas.",
+      "o tratamento das informações obtidas por meio de sen- sores remotos para produzir esse mapa topográfico é organizado em dois formatos primários de dados para armazenamento ou apresentação cartográfica: o raster e o matricial.",
+      "a construção desse mapa temático ocorreu a partir da definição de uma única camada (layer) de dados georre- ferenciados, obtida por meio de sensores remotos, que possibilita analisar as evoluções espaciais e temporais do fenômeno geográfico.",
+      "a finalização e a divulgação dos dados quantificáveis representados nesse mapa interativo constituem a maneira de transformar os dados geoespaciais conten- do latitude e longitude em padrões ou formas coloridos."
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 53,
@@ -5940,26 +6572,31 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Os prognósticos de crescimento para a economia global têm piorado devido à guerra na Ucrânia, cujos efeitos se \nsobrepuseram aos da pandemia, dos quais os países vinham \nse recuperando. A escassez de oferta de alguns produtos \nem virtude da guerra adiciona pressão sobre os mercados \ninternacionais. Destacam-se os mercados de commodities, \nque tiveram seus preços ainda mais elevados. Na China, a \npolítica de “covid zero” provocou quedas muito fortes nos \nindicadores de atividade econômica em abril de 2022. Nos \nEstados Unidos, a economia tem estado bastante aquecida, \ncom destaque para os indicadores do mercado de trabalho.\n\n(Estêvão Kopschitz Xavier Bastos. “Panorama da economia mundial”.\n\nwww.ipea.gov.br, 02.06.2022. Adaptado.)\n\nConsiderando o excerto e conhecimentos sobre o processo \nde globalização, afirma-se que na economia mundial estão \nsendo produzidas",
+    "statement": "Os prognósticos de crescimento para a economia global têm piorado devido à guerra na Ucrânia, cujos efeitos se sobrepuseram aos da pandemia, dos quais os países vinham se recuperando. A escassez de oferta de alguns produtos em virtude da guerra adiciona pressão sobre os mercados internacionais. Destacam-se os mercados de commodities, que tiveram seus preços ainda mais elevados. Na China, a política de “covid zero” provocou quedas muito fortes nos indicadores de atividade econômica em abril de 2022. Nos Estados Unidos, a economia tem estado bastante aquecida, com destaque para os indicadores do mercado de trabalho.\n\n(Estêvão Kopschitz Xavier Bastos. “Panorama da economia mundial”.\n\nwww.ipea.gov.br, 02.06.2022. Adaptado.)\n\nConsiderando o excerto e conhecimentos sobre o processo de globalização, afirma-se que na economia mundial estão sendo produzidas",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "desvalorizações cambiais, que são mais significativas nos países com moedas dolarizadas, como o Brasil e a Índia, e dependentes do Banco Central dos Estados Unidos.",
-      "atividades especulativas, que são decorrentes das flutuações do mercado de capital e do colapso financeiro dos países da Zona do Euro.",
-      "pressões inflacionárias, que variam segundo o nível de desenvolvimento dos países e das condições socioeconômicas de cada população.",
-      "elevações nas taxas de juros, que são impostas para evitar a perda do capital investido e garantir a política do pleno emprego em escala global.",
-      "políticas de subsídios, que são aplicadas com mais intensidade sobre os países subdesenvolvidos e que possuem grande disponibilidade de recursos naturais energéticos."
+      "atividades especulativas, que são decorrentes das flutua- ções do mercado de capital e do colapso financeiro dos países da Zona do Euro.",
+      "pressões inflacionárias, que variam segundo o nível de desenvolvimento dos países e das condições socioeco- nômicas de cada população.",
+      "elevações nas taxas de juros, que são impostas para evi- tar a perda do capital investido e garantir a política do pleno emprego em escala global.",
+      "políticas de subsídios, que são aplicadas com mais inten- sidade sobre os países subdesenvolvidos e que possuem grande disponibilidade de recursos naturais energéticos."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 54,
@@ -5982,7 +6619,12 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Amazônia contém um ecossistema, único constituído \npela floresta tropical úmida, está situada em aproximadamente 40% do território da América do Sul e localizada em oito \npaíses, Bolívia, Brasil, Colômbia, Equador, Peru, Venezuela, \nGuiana, Suriname, e em uma província francesa ultramarina, a Guiana Francesa. A bacia amazônica gera entre 16% \ne 20% da água doce do planeta e contém 25% da biodiversidade terrestre. Embora a Amazônia cubra somente 1% da \nsuperfície do planeta, é o lar de 10% de todas as espécies de \nvida selvagem que conhecemos.\n\n(René Gómez-García. “A riqueza natural da Amazônia como base do desen-\n\nvolvimento regional sustentável”. www.caf.com, 06.09.2019. Adaptado.)\n\nA função primordial da vegetação descrita no excerto é de \nser uma grande região natural para o planeta. Essa função \ndecorre de ser um espaço favorável",
+    "statement": "A Amazônia contém um ecossistema, único constituído pela floresta tropical úmida, está situada em aproximadamente 40% do território da América do Sul e localizada em oito países, Bolívia, Brasil, Colômbia, Equador, Peru, Venezuela, Guiana, Suriname, e em uma província francesa ultramarina, a Guiana Francesa. A bacia amazônica gera entre 16% e 20% da água doce do planeta e contém 25% da biodiversidade terrestre. Embora a Amazônia cubra somente 1% da superfície do planeta, é o lar de 10% de todas as espécies de vida selvagem que conhecemos.\n\n(René Gómez-García. “A riqueza natural da Amazônia como base do desenvolvimento regional sustentável”. www.caf.com, 06.09.2019. Adaptado.)\n\nA função primordial da vegetação descrita no excerto é de ser uma grande região natural para o planeta. Essa função decorre de ser um espaço favorável",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à potencialização do efeito estufa.",
@@ -5993,15 +6635,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 54,
@@ -6024,26 +6665,30 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a pirâmide etária mundial para o ano de 2021.\n\n(www.populationpyramid.net, 2021. Adaptado.)\n\nCom base na análise da pirâmide etária apresentada e em \nconhecimentos acerca da população mundial, afirma-se que",
+    "statement": "Analise a pirâmide etária mundial para o ano de 2021.\n\n(www.populationpyramid.net, 2021. Adaptado.)\n\nCom base na análise da pirâmide etária apresentada e em conhecimentos acerca da população mundial, afirma-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o equilibrio do número de adultos é reflexo do fim das barreiras para conter imigrantes ilegais.",
-      "a retração da pirâmide é resultado das políticas de planejamento familiar reguladas por organizações internacionais.",
+      "a retração da pirâmide é resultado das políticas de planeja- mento familiar reguladas por organizações internacionais.",
       "o envelhecimento populacional resulta da abrangência de doações de medicamentos em âmbito mundial.",
       "a redução do número de jovens resulta de políticas de controle de natalidade mantidas por instituições como a Unesco.",
       "o estreitamento da pirâmide etária é consequência do crescimento desacelerado da população mundial."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 54,
@@ -6066,7 +6711,13 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Agência Metropolitana de Campinas (Agemcamp) irá \niniciar um estudo sobre os impactos que a implantação do \nTrem Intercidades trará para as cidades da região metropolitana. O objetivo é de integrar diversas cidades por meio do \ntransporte ferroviário de passageiros. Para o assessor técnico da Secretaria de Planejamento e Fazenda do Estado de \nSão Paulo, “o trem é um investimento extremamente grande. \nAs relações comerciais, econômicas e sociais serão alteradas nesse contexto porque nós vamos ter uma migração de \npessoas muito grande. Um fluxo grande de pessoas saindo \nda região, se dirigindo a São Paulo de forma constante, ou \nseja, vai um dia, volta no outro ou no mesmo dia”.\n\n(André Rossi. “Agência quer estudar impacto do Trem Intercidades”.\n\nhttps://liberal.com.br, 28.01.2020. Adaptado.)\n\nO movimento migratório retratado no excerto é classificado como",
+    "statement": "A Agência Metropolitana de Campinas (Agemcamp) irá iniciar um estudo sobre os impactos que a implantação do Trem Intercidades trará para as cidades da região metropolitana. O objetivo é de integrar diversas cidades por meio do transporte ferroviário de passageiros. Para o assessor técnico da Secretaria de Planejamento e Fazenda do Estado de São Paulo, “o trem é um investimento extremamente grande. As relações comerciais, econômicas e sociais serão alteradas nesse contexto porque nós vamos ter uma migração de pessoas muito grande. Um fluxo grande de pessoas saindo da região, se dirigindo a São Paulo de forma constante, ou seja, vai um dia, volta no outro ou no mesmo dia”.\n\n(André Rossi. “Agência quer estudar impacto do Trem Intercidades”.\n\nhttps://liberal.com.br, 28.01.2020. Adaptado.)\n\nO movimento migratório retratado no excerto é classificado como",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "êxodo rural.",
@@ -6077,15 +6728,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 55,
@@ -6108,8 +6758,18 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o gráfico que apresenta a porcentagem do PIB global \ndo BRICS e do G7, entre os anos de 1980 a 2026.\n\n(www.ecodebate.com.br, 27.06.2022. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a \nprodução econômica mundial, verifica-se que",
-    "images": [],
+    "statement": "Analise o gráfico que apresenta a porcentagem do PIB global do BRICS e do G7, entre os anos de 1980 a 2026.\n\n(www.ecodebate.com.br, 27.06.2022. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a produção econômica mundial, verifica-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q19-1.svg",
+        "alt": "Figura de apoio da questão 19."
+      }
+    ],
     "alternatives": [
       "o total do PIB do G7, após o ano de 2020, é superado pelo total do PIB do BRICS, que, atualmente, representa cerca de um terço da economia global.",
       "a formação dos blocos econômicos do G7 e do BRICS favoreceu os países desenvolvidos em detrimento dos países com economias emergentes.",
@@ -6119,15 +6779,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 55,
@@ -6150,17 +6809,17 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise os mapas.\n\n1990\n2020\n\n(https://gismaps.com.br, 09.06.2022. Adaptado.)\n\nOs mapas ilustram a evolução",
+    "statement": "Analise os mapas.\n\n1990 2020\n\n(https://gismaps.com.br, 09.06.2022. Adaptado.)\n\nOs mapas ilustram a evolução",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2022).",
-        "caption": "Caderno original, p. 56."
-      },
-      {
-        "src": "/images/uea/vestibular-2022-g2/q20-2.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2022).",
-        "caption": "Caderno original, p. 56."
+        "src": "/images/uea/vestibular-2022-g2/q20-1.svg",
+        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
     "alternatives": [
@@ -6172,15 +6831,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 56,
@@ -6203,26 +6861,32 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A energia nuclear voltou a entrar no horizonte do futuro \nenergético do Brasil, ainda que de forma discreta. Várias iniciativas foram adotadas pelo governo federal para incrementar \no setor, tanto do ponto de vista da infraestrutura como administrativo. Segundo declarou o ministro de Minas e Energia, o \nobjetivo é expandir até cinco vezes a capacidade de geração \nde energia elétrica por via nuclear. Ele atribuiu a retomada de \ninvestimentos no setor ao “processo de transição energética \nem busca de uma economia de baixo carbono”.\n\n(Guilherme Paladino. “Discretamente, governo federal mira na\n\nexpansão da produção de energia nuclear no Brasil”.\n\nhttps://jornal.unesp.br, 20.01.2022. Adaptado.)\n\nDe acordo com o excerto, a geração de energia nuclear no \nBrasil poderá ocasionar",
+    "statement": "A energia nuclear voltou a entrar no horizonte do futuro energético do Brasil, ainda que de forma discreta. Várias iniciativas foram adotadas pelo governo federal para incrementar o setor, tanto do ponto de vista da infraestrutura como administrativo. Segundo declarou o ministro de Minas e Energia, o objetivo é expandir até cinco vezes a capacidade de geração de energia elétrica por via nuclear. Ele atribuiu a retomada de investimentos no setor ao “processo de transição energética em busca de uma economia de baixo carbono”.\n\n(Guilherme Paladino. “Discretamente, governo federal mira na\n\nexpansão da produção de energia nuclear no Brasil”.\n\nhttps://jornal.unesp.br, 20.01.2022. Adaptado.)\n\nDe acordo com o excerto, a geração de energia nuclear no Brasil poderá ocasionar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "uma dificuldade no cumprimento das metas estabelecidas pelo Acordo de Paris, pois o urânio usado na fissão nuclear é de origem fóssil.",
+      "uma dificuldade no cumprimento das metas estabeleci- das pelo Acordo de Paris, pois o urânio usado na fissão nuclear é de origem fóssil.",
       "uma oportunidade político-militar, uma vez que o país terá mais tecnologia para renovar seu arsenal bélico-atômico.",
-      "um isolamento diplomático, uma vez que a geração de energia nuclear está limitada pelo Tratado de Não Proliferação da Energia Nuclear, do qual o país é signatário.",
-      "uma vantagem competitiva, devido à elevação da capacidade de geração de energia elétrica, sem elevar os níveis de poluição atmosférica, como ocorre com as termoelétricas.",
-      "uma redução nos preços da tarifa de energia elétrica, pois o custo da produção da energia nuclear é mais barata quando comparada com a energia gerada pelas hidroelétricas e termoelétricas."
+      "um isolamento diplomático, uma vez que a geração de energia nuclear está limitada pelo Tratado de Não Proli- feração da Energia Nuclear, do qual o país é signatário.",
+      "uma vantagem competitiva, devido à elevação da capacida- de de geração de energia elétrica, sem elevar os níveis de poluição atmosférica, como ocorre com as termoelétricas.",
+      "uma redução nos preços da tarifa de energia elétrica, pois o custo da produção da energia nuclear é mais bara- ta quando comparada com a energia gerada pelas hidro- elétricas e termoelétricas."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 56,
@@ -6245,10 +6909,16 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Em agosto de 2010, após 20 anos de discussão, foi \npublicada a Política Nacional de Resíduos Sólidos. Esta Lei \ninstituiu um novo marco regulatório para a gestão dos resíduos no país, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos. O \ndesafio se torna ainda mais complexo em um país com as \ndimensões continentais do Brasil e quando a responsabilidade é compartilhada entre o Poder Público, as empresas \nprivadas e a população, de modo que cada gerador deve \nse responsabilizar pelo resíduo que produz. O atual quadro \nbrasileiro não é nada animador. No ano de 2020, quase \n40% do total de resíduos coletados tiveram sua disposição \nfinal realizada de maneira inadequada, incluindo lixões e \naterros controlados.\n\n(Emiliano Lobo de Godoi. “Lixo, agora temos um Plano!”.\n\nwww.metropoles.com, 26.04.2022. Adaptado.)\n\nConsiderando o excerto, a implementação da Política Nacional de Resíduos Sólidos ocorre em e gera como \nbenefício .\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Em agosto de 2010, após 20 anos de discussão, foi publicada a Política Nacional de Resíduos Sólidos. Esta Lei instituiu um novo marco regulatório para a gestão dos resíduos no país, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos. O desafio se torna ainda mais complexo em um país com as dimensões continentais do Brasil e quando a responsabilidade é compartilhada entre o Poder Público, as empresas privadas e a população, de modo que cada gerador deve se responsabilizar pelo resíduo que produz. O atual quadro brasileiro não é nada animador. No ano de 2020, quase 40% do total de resíduos coletados tiveram sua disposição final realizada de maneira inadequada, incluindo lixões e aterros controlados.\n\n(Emiliano Lobo de Godoi. “Lixo, agora temos um Plano!”.\n\nwww.metropoles.com, 26.04.2022. Adaptado.)\n\nConsiderando o excerto, a implementação da Política Nacional de Resíduos Sólidos ocorre em e gera como benefício. As lacunas do texto são preenchidas, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "zonas urbanas e a redução das situações de alagamentos e inundações.",
+      "zonas urbanas e a redução das situações de alagamen- tos e inundações.",
       "municípios com mais de 20 mil habitantes e a diminuição do risco de endemias.",
       "macrometrópoles e a melhoria da qualidade de vida urbana.",
       "todas as cidades e o aumento da vida útil dos aterros sanitários.",
@@ -6256,15 +6926,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 56,
@@ -6287,7 +6956,12 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O Brasil foi responsável por 40% do desmatamento global em 2021, segundo dados da ONG Global Forest Watch \ndivulgados no dia 28.04.2022. O país perdeu cerca de \n1,5 milhão de hectares (15 000 km2) das chamadas florestas \nprimárias, aquelas que se encontram em seu estado natural. \nA maior perda foi na região Norte. O número é menor do que \no registrado em 2020, mas maior do que os registrados em \n2019 e 2018.\n\n(www.nexojornal.com.br, 28.04.2022. Adaptado.)\n\nO desmatamento de florestas primárias, conforme descrito \nno excerto, contribui para",
+    "statement": "O Brasil foi responsável por 40% do desmatamento global em 2021, segundo dados da ONG Global Forest Watch divulgados no dia 28.04.2022. O país perdeu cerca de 1,5 milhão de hectares (15 000 km²) das chamadas florestas primárias, aquelas que se encontram em seu estado natural. A maior perda foi na região Norte. O número é menor do que o registrado em 2020, mas maior do que os registrados em 2019 e 2018.\n\n(www.nexojornal.com.br, 28.04.2022. Adaptado.)\n\nO desmatamento de florestas primárias, conforme descrito no excerto, contribui para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a eliminação do gás metano.",
@@ -6298,15 +6972,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 56,
@@ -6329,8 +7002,20 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A guerra civil do Iêmen começou em 2014. De um lado, \ncom o apoio do Irã, estavam os Houthi, grupo xiita considerado uma milícia rebelde. Do outro, estavam o governo de \nAbd-Rabbu Mansour Hadi e a coalizão sunita que o apoiava. \nQuando os xiitas tomaram a capital e a parte Norte do país, o \ngoverno fugiu para o Sul, mas manteve-se com apoio de parte das tropas e principalmente com apoio da Arábia Saudita.\n\n(Julia di Spagna. https://guiadoestudante.abril.com.br,\n\n04.07.2022. Adaptado.)\n\n(https://brasilescola.uol.com.br. Adaptado.)\n\nO conflito armado retratado pelo excerto ocorre no território \nrepresentado no mapa pelo número",
-    "images": [],
+    "statement": "A guerra civil do Iêmen começou em 2014. De um lado, com o apoio do Irã, estavam os Houthi, grupo xiita considerado uma milícia rebelde. Do outro, estavam o governo de Abd-Rabbu Mansour Hadi e a coalizão sunita que o apoiava. Quando os xiitas tomaram a capital e a parte Norte do país, o governo fugiu para o Sul, mas manteve-se com apoio de parte das tropas e principalmente com apoio da Arábia Saudita.\n\n(Julia di Spagna. https://guiadoestudante.abril.com.br,\n\n04.07.2022. Adaptado.)\n\n(https://brasilescola.uol.com.br. Adaptado.)\n\nO conflito armado retratado pelo excerto ocorre no território representado no mapa pelo número",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2022-g2/q24-1.svg",
+        "alt": "Figura de apoio da questão 24."
+      }
+    ],
     "alternatives": [
       "1.",
       "3.",
@@ -6340,15 +7025,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 57,
@@ -6372,11 +7056,15 @@ export const uea2022Vestibular = [
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
     "statement": "Observe a charge de André Dahmer.\n\n(Folha de S.Paulo, 28.02.2022.)\n\nPara obter seu efeito de humor, a charge explora, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2022).",
-        "caption": "Caderno original, p. 57."
+        "src": "/images/uea/vestibular-2022-g2/q25-1.svg",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
     "alternatives": [
@@ -6388,15 +7076,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 57,
@@ -6419,7 +7106,13 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel \nBandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n\n[...]\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nA caracterização que o eu lírico faz dos comensais durante \na corrida de cavalos remete a um procedimento típico da \nestética",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nA caracterização que o eu lírico faz dos comensais durante a corrida de cavalos remete a um procedimento típico da estética",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "naturalista.",
@@ -6430,15 +7123,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 58,
@@ -6461,26 +7153,31 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel \nBandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n\n[...]\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\n\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1a estrofe), as vírgulas isolam o",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1ª estrofe), as vírgulas isolam o",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aposto.",
       "sujeito.",
       "vocativo.",
       "adjunto adnominal.",
-      "objeto direto. Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34. Mergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes. Naquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos. Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava. Na manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana1 mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas. (Infância, 2020.) 1 cruviana: vento intenso e gelado."
+      "objeto direto."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 58,
@@ -6503,7 +7200,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Infere-se do trecho “Olhando-me por dentro, percebo com \ndesgosto a segunda paisagem.” (1o parágrafo) que o narrador se sente",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” (1º parágrafo) que o narrador se sente",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "infeliz.",
@@ -6514,15 +7221,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 58,
@@ -6545,7 +7251,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No segundo parágrafo, o narrador assinala que, a partir de \nestratégias de compreensão da realidade, acabou por forjar \num “mundo”",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nNo segundo parágrafo, o narrador assinala que, a partir de estratégias de compreensão da realidade, acabou por forjar um “mundo”",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "utópico.",
@@ -6556,15 +7272,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6587,7 +7302,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Na construção do primeiro parágrafo, o narrador recorre, sobretudo, ao seguinte recurso retórico:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nNa construção do primeiro parágrafo, o narrador recorre, sobretudo, ao seguinte recurso retórico:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "eufemismo.",
@@ -6598,15 +7323,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6629,26 +7353,35 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O narrador lança mão da figura de linguagem conhecida \ncomo personificação no trecho:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nO narrador lança mão da figura de linguagem conhecida como personificação no trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Acordei, reuni pedaços de pessoas e de coisas” (2o parágrafo).",
-      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1o parágrafo).",
-      "“As paredes úmidas enegreciam” (4o parágrafo).",
-      "“Olhando-me por dentro, percebo com desgosto a segunda paisagem” (1o parágrafo).",
-      "“a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos” (2o parágrafo)."
+      "“Acordei, reuni pedaços de pessoas e de coisas” (2º parágrafo).",
+      "“o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta” (1º parágrafo).",
+      "“As paredes úmidas enegreciam” (4º parágrafo).",
+      "“Olhando-me por dentro, percebo com desgosto a segun- da paisagem” (1º parágrafo).",
+      "“a humanidade, feita de indivíduos que me atormenta- vam e indivíduos que não me atormentavam, perdia os característicos” (2º parágrafo)."
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6671,7 +7404,17 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Bem e mal ainda não existiam, faltava razão para que nos \nafligissem com pancadas e gritos. Contudo as pancadas e \nos gritos figuravam na ordem dos acontecimentos” (3o parágrafo)\n\nHá no trecho um termo responsável por conectar as duas \nfrases. Tal termo estabelece entre essas frases relação de",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” (3º parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "condição.",
@@ -6682,15 +7425,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6713,7 +7455,17 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considerando o contexto, no trecho “Fechava-se o doce \nparêntese — e isto me desorientava.” (3o parágrafo), o narrador refere-se",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” (3º parágrafo), o narrador refere-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao tédio que o abatia com a chegada do inverno.",
@@ -6724,15 +7476,14 @@ export const uea2022Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6755,26 +7506,35 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Está empregada em sentido figurado a palavra sublinhada em:",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nEstá empregada em sentido figurado a palavra sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1o parágrafo).",
-      "“Os objetos se tornavam irreconhecíveis” (2o parágrafo).",
-      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1o parágrafo).",
-      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4o parágrafo).",
-      "“Mergulhei numa comprida manhã de inverno” (1o parágrafo)."
+      "“Nesta vida lenta sinto-me coagido entre duas situações contraditórias” (1º parágrafo).",
+      "“Os objetos se tornavam irreconhecíveis” (2º parágrafo).",
+      "“O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma” (1º parágrafo).",
+      "“Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo” (4º parágrafo).",
+      "“Mergulhei numa comprida manhã de inverno” (1º pará- grafo)."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 59,
@@ -6797,26 +7557,34 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice \nna década de 1960, quando chegou aos EUA. A pop Art se \ncaracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma \ncrítica a essa indústria que, na visão dos artistas, exercia uma \npoderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma \nexposição emblemática na Ferus Gallery em Los Angeles, na \nqual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos \nde reprodução mecânica para fazer suas obras, diminuindo a \ndistância entre a fotografia e a pintura. Assim como a pop Art \nfaz desaparecer a distinção entre arte “erudita” e “comercial”, \nWarhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as \nestrelas de Hollywood, políticos e esportistas que eram \nrepresentantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de \n1960 e 1970”, aponta a professora e pesquisadora Elaine \nCaramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, no 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a fotografia e a pintura.",
-      "a pop Art usar a linguagem artística erudita para reproduzir temas relacionados à cultura de massa, como as revistas de celebridades.",
+      "Andy Warhol utilizar métodos de reprodução mecânica, como a serigrafia, para diminuir a distância entre a foto- grafia e a pintura.",
+      "a pop Art usar a linguagem artística erudita para repro- duzir temas relacionados à cultura de massa, como as revistas de celebridades.",
       "a pop Art usar métodos de reprodução mecânica para diluir a distinção entre a arte erudita e a arte popular.",
-      "Andy Warhol trazer para suas obras pinturas de produtos industrializados, apesar de ter desistido da carreira publicitária.",
+      "Andy Warhol trazer para suas obras pinturas de produ- tos industrializados, apesar de ter desistido da carreira publicitária.",
       "Andy Warhol trazer para suas obras ícones do poder americano e, ao mesmo tempo, demonstrar que não acredita no sonho americano."
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 60,
@@ -6839,26 +7607,34 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice \nna década de 1960, quando chegou aos EUA. A pop Art se \ncaracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma \ncrítica a essa indústria que, na visão dos artistas, exercia uma \npoderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma \nexposição emblemática na Ferus Gallery em Los Angeles, na \nqual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos \nde reprodução mecânica para fazer suas obras, diminuindo a \ndistância entre a fotografia e a pintura. Assim como a pop Art \nfaz desaparecer a distinção entre arte “erudita” e “comercial”, \nWarhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as \nestrelas de Hollywood, políticos e esportistas que eram \nrepresentantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de \n1960 e 1970”, aponta a professora e pesquisadora Elaine \nCaramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, no 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
-      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2o parágrafo).",
-      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1o parágrafo).",
-      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representantes do glamour e do poder americano” (3o parágrafo).",
-      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2o parágrafo).",
-      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda)” (1o parágrafo)."
+      "“No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell” (2º parágrafo).",
+      "“Surgido nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA” (1º parágrafo).",
+      "“Andy Warhol trazia para suas obras as estrelas de Holywood, políticos e esportistas que eram representan- tes do glamour e do poder americano” (3º parágrafo).",
+      "“Assim como a pop Art faz desaparecer a distinção entre arte ‘erudita’ e ‘comercial’, Warhol parte da publicidade para as artes” (2º parágrafo).",
+      "“A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebri- dades, quadrinhos, propaganda)” (1º parágrafo)."
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
     "sourcePage": 60,

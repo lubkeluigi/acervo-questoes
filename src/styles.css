@@ -243,6 +243,12 @@ button:disabled { cursor: not-allowed; }
 .statement-subheading { margin: 20px 0 10px; color: #31483d; font-size: 14px; font-weight: 650; }
 .statement-list { margin: 8px 0 20px; padding-left: 24px; color: #3c5147; }
 .statement-list li { margin: 4px 0; padding-left: 3px; }
+.statement-table-wrap { margin: 14px 0 20px; overflow-x: auto; }
+.statement-table { border-collapse: collapse; width: 100%; max-width: 620px; margin: 0 auto; color: #31463d; font-size: 14.5px; line-height: 1.5; }
+.statement-table th, .statement-table td { border: 1px solid #d8e0d8; padding: 6px 12px; text-align: center; }
+.statement-table thead th { background: #eef3ee; color: #263e34; font-weight: 650; }
+.statement-table tbody tr:nth-child(even) { background: #f7faf7; }
+.statement-table td:first-child, .statement-table th:first-child { text-align: left; }
 .question-statement p.statement-prose { margin-bottom: 16px; }
 .question-statement p.statement-command { margin: 24px 0 2px; color: #263e34; font-weight: 600; line-height: 1.72; }
 .question-statement p.statement-note { margin: 10px 0 17px; color: #849189; font-size: 14px; line-height: 1.6; }
