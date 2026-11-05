@@ -92,7 +92,7 @@ Considerando $\pi=3$, o volume do recipiente todo é de, aproximadamente,`, afte
     statementAfter: 'Segundo o infográfico, qual foi o total de casos de violência sexual notificados contra meninas pretas ou pardas?', afterBlockTypes: ['command'], preview: 'Aplique o percentual de meninas pretas ou pardas ao total de casos entre meninas.',
     alternatives: ['112 371.', '114 194.', '56 300.', '13 966.', '98 405.'], correct: 4,
     resolution: [tex`O infográfico informa 174.786 casos entre meninas e $56{,}3\%$ de meninas pretas ou pardas. Assim, $174\,786\cdot0{,}563=98\,404{,}518$. Arredondando o produto para o número inteiro mais próximo, obtém-se $\boxed{98\,405}$, que corresponde à alternativa oficial E.`],
-    analyses: ['Incorreta. Esse valor não corresponde a aproximadamente 56,3% de 174.786.', 'Incorreta. O total pedido é de cerca de 98,4 mil, não 114,2 mil.', 'Incorreta. 56 300 confunde o percentual 56,3% com uma contagem de casos.', 'Incorreta. 13 966 corresponde aproximadamente a 8% de 174.786, percentual de outra categoria do infográfico.', 'Correta, conforme o gabarito oficial. O produto é 98.404,518; arredondado para o inteiro mais próximo, resulta em 98.405.'],
+    analyses: ['Incorreta. Esse valor não corresponde a aproximadamente 56,3% de 174.786.', 'Incorreta. O total pedido é de cerca de 98,4 mil, não 114,2 mil.', 'Incorreta. 56 300 confunde o percentual 56,3% com uma contagem de casos.', 'Incorreta. 13 966 corresponde aproximadamente a 8% de 174.786, percentual de outra categoria do infográfico.', 'Correta. O produto é 98.404,518; arredondado para o inteiro mais próximo, resulta em 98.405.'],
   },
   {
     ...shared,
