@@ -1,0 +1,106 @@
+import { q, machado, zits, obesity, img } from './univas2027-helpers.js';
+
+export const univas2027Lote01 = [
+  q({
+    n: 1, subject: 'Literatura', content: 'Narrativa e efeitos de suspense em Machado de Assis', ...machado,
+    statementAfter: 'O silêncio a que o narrador se refere no último parágrafo se deu porque, em relação à situação ocorrida na loja, ele ficara', afterBlockTypes: ['command'],
+    alternatives: ['disperso.', 'atônito.', 'encantado.', 'indiferente.', 'tranquilo.'], answer: 'B',
+    why: 'O reencontro inesperado com Marcela provoca assombro e deixa o narrador sem reação imediata; portanto, ele ficou atônito.',
+    wrong: { 0: 'Ele não estava distraído, mas profundamente impressionado.', 2: 'A reação dominante é de assombro, não de encantamento.', 3: 'O silêncio demonstra forte envolvimento, não indiferença.', 4: 'A hesitação e o assombro contrariam a tranquilidade.' },
+  }),
+  q({
+    n: 2, subject: 'Português', content: 'Pronome de interesse', ...machado,
+    statementAfter: 'Usado sobretudo em contextos informais, o pronome de interesse é aquele empregado como recurso expressivo de realce, mediante o qual se indica de maneira secundária a quem aproveita ou prejudica a ação verbal enunciada.\n\nO pronome pessoal “me” está empregado como pronome de interesse no seguinte trecho:', afterBlockTypes: ['label', 'command'],
+    alternatives: ['“Não a conheci logo; era difícil; ela porém conheceu-me” (4º parágrafo).', '“— Venha cá jantar amanhã, disse-me o Dutra uma noite” (1º parágrafo).', '“ao passar pela Rua dos Ourives, consulto o relógio e cai-me o vidro na calçada” (2º parágrafo).', '“mandei que a sege me esperasse no Largo de São Francisco de Paula” (2º parágrafo).', '“— Quer comprar alguma coisa? disse ela estendendo-me a mão” (5º parágrafo).'], answer: 'C',
+    why: 'Em “cai-me o vidro”, o “me” realça a pessoa prejudicada pela queda, funcionando como pronome de interesse.',
+    wrong: { 0: 'Aqui, “me” é complemento de “conheceu”.', 1: 'Em “disse-me”, o pronome é complemento indireto da fala.', 3: 'O pronome integra a estrutura de “esperasse”, sem o valor expressivo destacado.', 4: 'Em “estendendo-me a mão”, o pronome indica o destinatário do movimento.' },
+  }),
+  q({
+    n: 3, subject: 'Português', content: 'Discurso direto e indireto', ...machado,
+    statementAfter: 'Ao transpor o convite de Dutra “— Venha cá jantar amanhã” (1º parágrafo) para o discurso indireto, alteram-se as seguintes palavras:', afterBlockTypes: ['command'],
+    alternatives: ['“Venha”, “cá” e “amanhã”, apenas.', '“Venha”, “cá” e “jantar”, apenas.', '“Venha” e “amanhã”, apenas.', '“Venha” e “cá”, apenas.', '“Venha”, “cá”, “jantar” e “amanhã”.'], answer: 'A',
+    why: 'Na transposição, o imperativo e as referências espacial e temporal mudam; “jantar” permanece.',
+    wrong: { 1: '“Jantar” não sofre alteração.', 2: 'Também é necessário ajustar “cá”.', 3: 'Também é necessário ajustar “amanhã”.', 4: 'A mudança não alcança o substantivo “jantar”.' },
+  }),
+  q({
+    n: 4, subject: 'Português', content: 'Conjunções e relações de sentido', ...machado,
+    statementAfter: 'No trecho “ela porém conheceu-me apenas lhe dirigi a palavra” (4º parágrafo), as conjunções sublinhadas estabelecem, respectivamente, relação de', afterBlockTypes: ['command'],
+    alternatives: ['conclusão e tempo.', 'oposição e condição.', 'oposição e exclusão.', 'conclusão e exclusão.', 'oposição e tempo.'], answer: 'C',
+    why: '“Porém” introduz oposição e “apenas” restringe a ação, estabelecendo ideia de exclusão.',
+    wrong: { 0: 'Nenhuma das duas relações corresponde aos termos.', 1: '“Apenas” não expressa condição.', 3: '“Porém” não é conclusivo.', 4: '“Apenas” não estabelece relação temporal.' },
+  }),
+  q({
+    n: 5, subject: 'Literatura', content: 'Interlocução no texto machadiano', ...machado,
+    statementAfter: 'A interlocução, um aspecto recorrente na obra de Machado de Assis, é marcada pelo diálogo direto que o narrador estabelece com o leitor, a exemplo do que se verifica em:', afterBlockTypes: ['command'],
+    alternatives: ['“Ao fundo, por trás do balcão, estava sentada uma mulher” (3º parágrafo).', '“Pois sabei que, naquele tempo, estava eu na quarta edição” (2º parágrafo).', '“a doença e uma velhice precoce destruíram-lhe a flor das graças” (3º parágrafo).', '“Os olhos chisparam e trocaram a expressão usual por outra” (4º parágrafo).', '“Marcela compreendeu a causa do meu silêncio (não era difícil)” (6º parágrafo).'], answer: 'B',
+    why: 'A forma verbal “sabei” dirige-se explicitamente ao leitor, configurando interlocução.',
+    wrong: { 0: 'O trecho apenas descreve o ambiente.', 2: 'A passagem descreve Marcela, sem chamar o leitor.', 3: 'O trecho narra uma mudança de expressão.', 4: 'A frase apresenta uma inferência narrativa, não um chamado direto.' },
+  }),
+  q({
+    n: 6, subject: 'Português', content: 'Interpretação de tirinha e intenção comunicativa', ...zits,
+    statementAfter: 'A tirinha propõe a seguinte reflexão:', afterBlockTypes: ['command'],
+    alternatives: ['o medo de conflitos pode prejudicar um relacionamento.', 'as boas intenções valem mais que as boas ações.', 'a cortesia dispensa o respeito às preferências pessoais.', 'o valor de um ato muda de acordo com a intenção de quem o realiza.', 'a independência fortalece as relações pessoais.'], answer: 'D',
+    why: 'A tirinha contrapõe o significado de uma atitude conforme a intenção atribuída a quem a realiza.',
+    wrong: { 0: 'O foco não é a evitação de conflitos.', 1: 'O texto não estabelece superioridade das intenções sobre as ações.', 2: 'A cortesia não elimina a necessidade de respeitar preferências.', 4: 'A independência não é o tema central.' },
+  }),
+  q({
+    n: 7, subject: 'Inglês', content: 'Would rather e preferência', ...zits,
+    statementAfter: 'In the second panel, the expression “I’d rather do it myself” can be replaced, with no change in meaning, by:', afterBlockTypes: ['command'],
+    alternatives: ['I would have to do it myself.', 'I usually do it myself.', 'I need to do it myself.', 'I am able to do it myself.', 'I would prefer to do it myself.'], answer: 'E',
+    why: '“I’d rather” expressa preferência e equivale a “I would prefer”.',
+    wrong: { 0: '“Would have to” indica obrigação.', 1: '“Usually” indica hábito.', 2: '“Need” indica necessidade.', 3: '“Am able” indica capacidade.' },
+  }),
+  q({
+    n: 8, subject: 'Inglês', content: 'Finalidade de texto jornalístico', ...obesity,
+    statementAfter: 'The text aims at', afterBlockTypes: ['command'],
+    alternatives: ['establishing the causes and consequences of child obesity worldwide.', 'calculating the economic impact of child obesity for societies around the globe.', 'calling attention to the increasing risk of child obesity worldwide.', 'presenting new ideas and strategies to control child obesity.', 'determining which country has the worst healthcare system to deal with child obesity.'], answer: 'C',
+    why: 'A reportagem alerta para o crescimento projetado da obesidade infantil e para a necessidade de ação.',
+    wrong: { 0: 'O texto não se dedica a estabelecer causas.', 1: 'Não há cálculo de impacto econômico.', 3: 'A reportagem não apresenta estratégias novas de controle.', 4: 'As comparações entre países não ranqueiam sistemas de saúde.' },
+  }),
+  q({
+    n: 9, subject: 'Inglês', content: 'Modal could e possibilidade', ...obesity,
+    statementAfter: 'No trecho do primeiro parágrafo “more than 220 million children could have obesity by 2040”, o termo sublinhado pode ser substituído, sem alteração de sentido, por:', afterBlockTypes: ['command'],
+    alternatives: ['should.', 'must.', 'would.', 'might.', 'will.'], answer: 'D',
+    why: '“Could” indica possibilidade no contexto e pode ser substituído por “might”.',
+    wrong: { 0: '“Should” sugere recomendação ou expectativa.', 1: '“Must” expressa obrigação ou forte certeza.', 2: '“Would” altera a relação temporal e condicional.', 4: '“Will” apresenta previsão mais categórica.' },
+  }),
+  q({
+    n: 10, subject: 'Inglês', content: 'Referenciação pronominal', ...obesity,
+    statementAfter: 'No trecho do primeiro parágrafo “But new figures from the World Obesity Federation suggest that by 2040, about 227 million of all five- to 19-year-olds will have obesity”, o termo sublinhado refere-se', afterBlockTypes: ['command'],
+    alternatives: ['aos números apresentados pela Federação Mundial da Obesidade.', 'às imagens apresentadas no relatório da Federação Mundial da Obesidade.', 'aos relatórios publicados pela Federação Mundial da Obesidade.', 'às ações necessárias para reduzir a obesidade infantil.', 'às doenças crônicas associadas ao alto índice de massa corporal.'], answer: 'A',
+    why: '“That” retoma a informação apresentada pelos novos números da Federação.',
+    wrong: { 1: 'O referente não são imagens.', 2: 'O pronome não retoma relatórios inteiros.', 3: 'Ações de redução ainda não foram mencionadas.', 4: 'As doenças são consequência discutida depois, não o referente.' },
+  }),
+  q({
+    n: 11, subject: 'História', content: 'Urbanização e comércio na Baixa Idade Média', statement: 'Sejam as cidades novas criações ou velhas aglomerações, é o seu caráter novo e importante que determina o primado da função econômica. Etapas de rotas comerciais, articulações entre as vias de comunicação, portos marítimos ou fluviais, seu centro vital fica ao lado do velho castelo feudal, do núcleo militar ou religioso, é o novo bairro das lojas, do mercado, do trânsito das mercadorias.\n\n(Jacques Le Goff. Mercadores e banqueiros da Idade Média, 1991. Adaptado.)\n\nAo se referir à Baixa Idade Média, o excerto relaciona a dinâmica urbana', blockTypes: ['quote', 'source', 'command'],
+    alternatives: ['à invenção dos fretes marítimos.', 'ao desenvolvimento agrícola.', 'ao poderio dos senhores feudais.', 'à desagregação do poder da Igreja.', 'à estruturação da atividade comercial.'], answer: 'E',
+    why: 'Rotas, portos, lojas e mercados evidenciam a centralidade do comércio na dinâmica urbana medieval.',
+    wrong: { 0: 'O texto não trata da invenção de fretes.', 1: 'A ênfase é urbana e mercantil, não agrícola.', 2: 'O poder senhorial aparece como referência espacial, não como causa.', 3: 'A desagregação da Igreja não é discutida.' },
+  }),
+  q({
+    n: 12, subject: 'História', content: 'Reforma Protestante e posições de Lutero', statement: 'Não à violência [...] ou, mais precisamente, não às vias de fato. O povo se agita, os jovens impacientes descem às ruas. Padres são atacados, algumas casas são saqueadas, monges são insultados. [...] é mau o princípio de tais agitações. De que servem, para destruir o papismo, essas perturbações e violências? [...] O falso zelo dos agitadores não seria inspirado por Satã, Satã tentando difamar os evangelistas? “Quanto a mim”, exclama Lutero em dezembro de 1521, “foi com a boca, sozinho, sem espada, que combati o papa, os bispos, padres, monges...”.\n\n(Lucien Febvre. Martinho Lutero, um destino, 2012.)\n\nDiante do quadro social apresentado no excerto, a posição de Lutero explica-se porque ele', blockTypes: ['quote', 'source', 'command'],
+    alternatives: ['visava garantir a centralização política alemã para estabilizar a nova doutrina.', 'buscava evitar radicalismos para manter a ordem social existente.', 'defendia as ações populares que se opunham à livre interpretação da Bíblia.', 'lutava para impedir a venda de indulgências para as pessoas pacíficas.', 'combatia as medidas da Contrarreforma católica que apoiavam o protestantismo.'], answer: 'B',
+    why: 'Ao rejeitar as agitações violentas, Lutero procura conter radicalismos e preservar a ordem social.',
+    wrong: { 0: 'A centralização política alemã não é o fundamento apresentado.', 2: 'Ele critica, e não defende, as ações populares violentas.', 3: 'A venda de indulgências não é o assunto do trecho.', 4: 'A Contrarreforma não apoiava o protestantismo.' },
+  }),
+  q({
+    n: 13, subject: 'História', content: 'Trabalho infantil na Revolução Industrial', statement: 'A gravura a seguir circulou em Londres em 1840.', blockTypes: ['label'], images: [img('q13-gravura-trabalho-infantil.svg', 'Gravura de 1840 com trabalhadores em ambiente fabril.', '(https://wellcomecollection.org)')],
+    statementAfter: 'Considerando o contexto da Revolução Industrial, a gravura registra', afterBlockTypes: ['command'],
+    alternatives: ['a exploração do trabalho infantil no sistema fabril.', 'a combinação do trabalho artesanal com a maquinofatura.', 'a organização sindical dos trabalhadores das fábricas.', 'a destruição das máquinas como protesto contra a precarização do trabalho.', 'o domínio do taylorismo na organização e na administração da produção.'], answer: 'A',
+    why: 'A cena denuncia a presença e a exploração de crianças no trabalho fabril industrial.',
+    wrong: { 1: 'A gravura não enfatiza a integração entre artesanato e máquinas.', 2: 'Não há representação de organização sindical.', 3: 'A cena não representa sabotagem ludista.', 4: 'O taylorismo se consolida posteriormente e não é o foco da gravura.' },
+  }),
+  q({
+    n: 14, subject: 'História', content: 'Liberalismo oligárquico na Primeira República', statement: 'É da coexistência de uma Constituição liberal com práticas políticas oligárquicas que deriva a expressão liberalismo oligárquico, com que se caracteriza o processo político da República no período compreendido entre 1889 e 1930. Ambígua [...], a expressão revela que o advento da República, cujo pressuposto teórico é o de um governo destinado a servir à coisa pública ou ao interesse coletivo, teve significado extremamente limitado no processo histórico de construção da democracia e da expansão da cidadania no Brasil.\n\n(Maria Efigênia Lage de Resende. “O processo político na Primeira República e o liberalismo oligárquico”, 2008.)\n\nO excerto faz referência à Primeira República, caracterizada por apresentar um sistema que', blockTypes: ['quote', 'source', 'command'],
+    alternatives: ['viabilizava a transparência do processo eleitoral nacional por meio de auditorias realizadas pelos partidos políticos da época.', 'permitia um exercício restrito da cidadania entre os grandes proprietários rurais espalhados pelo país.', 'garantia a dominação sociopolítica de poucos a partir da exclusão da maior parte da população do processo político.', 'protegia a representação política nacional a partir da exclusão do voto aos indivíduos submetidos aos coronéis.', 'apresentava uma coerência entre os princípios constitucionais e as práticas políticas excludentes adotadas.'], answer: 'C',
+    why: 'A expressão denuncia a combinação de instituições liberais com dominação oligárquica e exclusão política da maioria.',
+    wrong: { 0: 'As eleições da Primeira República não tinham essa transparência.', 1: 'A cidadania restrita não se limitava aos grandes proprietários.', 3: 'Os coronéis participavam do sistema de dominação, não eram excluídos do voto.', 4: 'O texto destaca justamente a incoerência entre princípios e práticas.' },
+  }),
+  q({
+    n: 15, subject: 'História', content: 'Redemocratização e Constituição de 1988', statement: 'Leia o preâmbulo da Constituição brasileira de 1988.\n\nNós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.\n\n(www.planalto.gov.br)\n\nNo processo de redemocratização do país, o preâmbulo da Constituição brasileira', blockTypes: ['label', 'quote', 'source', 'command'],
+    alternatives: ['reconheceu a existência de conflitos sociais espalhados pelo território nacional.', 'possibilitou a criação da centralização do sistema de justiça brasileiro.', 'garantiu a expansão de direitos humanos observada nos anos anteriores no Brasil.', 'apresentou medidas concretas para a redução da desigualdade social no país.', 'explicitou uma ruptura em relação ao período anterior à sua promulgação.'], answer: 'E',
+    why: 'Ao afirmar democracia, direitos e igualdade, o preâmbulo marca ruptura com a ditadura militar precedente.',
+    wrong: { 0: 'O preâmbulo não inventaria conflitos sociais.', 1: 'Não propõe centralização do sistema de justiça.', 2: 'Os anos anteriores foram marcados por violações, não expansão garantida de direitos.', 3: 'O preâmbulo apresenta princípios, não medidas concretas.' },
+  }),
+];
+

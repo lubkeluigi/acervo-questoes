@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 430" role="img" aria-labelledby="title desc">
+  <title id="title">Bloco preso a uma mola e apoiado em uma tábua</title>
+  <desc id="desc">Suporte com haste fixa, mola vertical sem deformação, bloco verde apoiado em uma tábua horizontal.</desc>
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9bb1c0"/><stop offset=".45" stop-color="#e5edf2"/><stop offset="1" stop-color="#7893a6"/></linearGradient>
+    <linearGradient id="block" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b6e79a"/><stop offset="1" stop-color="#67b867"/></linearGradient>
+    <style>.label{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#253842}.leader{fill:none;stroke:#526773;stroke-width:2.5;stroke-linecap:round}</style>
+  </defs>
+  <!-- Suporte e haste fixa -->
+  <path d="M108 55 V369" stroke="#4e687a" stroke-width="13" stroke-linecap="round"/><path d="M108 55 V369" stroke="url(#metal)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M70 374 H245" stroke="#4e687a" stroke-width="13" stroke-linecap="round"/><path d="M70 374 H245" stroke="url(#metal)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 88 H270" stroke="#4e687a" stroke-width="13" stroke-linecap="round"/><path d="M82 88 H270" stroke="url(#metal)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="108" cy="88" r="11" fill="#f1df48" stroke="#8d8737" stroke-width="3"/><circle cx="108" cy="88" r="4" fill="#fff8b1"/>
+  <!-- Mola -->
+  <path d="M218 96 V108 M218 108 C196 114 196 124 218 130 C240 136 240 146 218 152 C196 158 196 168 218 174 C240 180 240 190 218 196 C196 202 196 212 218 218 V228" fill="none" stroke="#526773" stroke-width="4" stroke-linecap="round"/>
+  <path d="M218 108 C196 114 196 124 218 130 C240 136 240 146 218 152 C196 158 196 168 218 174 C240 180 240 190 218 196 C196 202 196 212 218 218" fill="none" stroke="#d8e3e9" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bloco e tábua -->
+  <rect x="193" y="229" width="52" height="55" rx="9" fill="url(#block)" stroke="#4f7f52" stroke-width="3"/>
+  <path d="M165 287 H300" stroke="#4e687a" stroke-width="8" stroke-linecap="round"/><path d="M165 284 H300" stroke="#dce7ec" stroke-width="3" stroke-linecap="round"/>
+  <!-- Rótulos -->
+  <text class="label" x="286" y="57">Haste</text><text class="label" x="286" y="80">fixa</text><path class="leader" d="M282 83 L260 94"/>
+  <text class="label" x="270" y="238">Tábua</text><text class="label" x="270" y="261">horizontal</text><path class="leader" d="M266 266 L250 282"/>
+</svg>

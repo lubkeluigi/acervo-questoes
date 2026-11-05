@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1155 985" width="460" height="392" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Observação de palmeiras por uma vidraça plana</title>
+  <desc id="descricao">Malha quadriculada com cinco palmeiras numeradas, uma parede com vidraça, uma luminária e uma pessoa no interior da sala.</desc>
+  <defs>
+    <marker id="seta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10L2.5 5Z" fill="#25292a"/>
+    </marker>
+    <g id="fronde" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 3C9-8 17-30 11-58C3-51-7-25-5-3Z" fill="#567b3d" stroke="#294d31" stroke-width="2.2"/>
+      <path d="M1-2L9-51M4-15L-3-27M6-24L16-35M7-34L0-43M8-42L14-48" fill="none" stroke="#91a958" stroke-width="1.8"/>
+    </g>
+    <g id="palmeira">
+      <use xlink:href="#fronde" transform="rotate(0) scale(1 .95)"/>
+      <use xlink:href="#fronde" transform="rotate(30) scale(.95 1.04)"/>
+      <use xlink:href="#fronde" transform="rotate(60) scale(1 .9)"/>
+      <use xlink:href="#fronde" transform="rotate(90) scale(.92 1.03)"/>
+      <use xlink:href="#fronde" transform="rotate(120) scale(1 .92)"/>
+      <use xlink:href="#fronde" transform="rotate(150) scale(.9 1.06)"/>
+      <use xlink:href="#fronde" transform="rotate(180) scale(1 .93)"/>
+      <use xlink:href="#fronde" transform="rotate(210) scale(.94 1.03)"/>
+      <use xlink:href="#fronde" transform="rotate(240) scale(1 .9)"/>
+      <use xlink:href="#fronde" transform="rotate(270) scale(.9 1.05)"/>
+      <use xlink:href="#fronde" transform="rotate(300) scale(1 .95)"/>
+      <use xlink:href="#fronde" transform="rotate(330) scale(.93 1.02)"/>
+      <circle r="15" fill="#385634" stroke="#263f2b" stroke-width="3"/>
+      <circle cx="-6" cy="2" r="4" fill="#75623c"/>
+      <circle cx="5" cy="-4" r="4.5" fill="#887143"/>
+      <circle cx="5" cy="7" r="3.5" fill="#655333"/>
+    </g>
+  </defs>
+
+  <!-- Malha de referência -->
+  <path d="M60 110H1095M60 196H1095M60 282H1095M60 368H1095M60 454H1095M60 540H1095M60 626H1095M60 712H1095M60 798H1095M60 885H1095M60 110V885M146 110V885M233 110V885M320 110V885M406 110V885M493 110V885M580 110V885M666 110V885M753 110V885M840 110V885M926 110V885M1013 110V885M1095 110V885" fill="none" stroke="#a4a5a3" stroke-width="3" stroke-dasharray="12 9"/>
+
+  <!-- Numeração e copas das palmeiras -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="34" text-anchor="middle" fill="#171b1c">
+    <text x="60" y="42">1</text><text x="320" y="42">2</text><text x="580" y="42">3</text><text x="840" y="42">4</text><text x="1090" y="42">5</text>
+  </g>
+  <g>
+    <use xlink:href="#palmeira" transform="translate(60 108) rotate(-8)"/>
+    <use xlink:href="#palmeira" transform="translate(320 108) rotate(5)"/>
+    <use xlink:href="#palmeira" transform="translate(580 108) rotate(-4)"/>
+    <use xlink:href="#palmeira" transform="translate(840 108) rotate(7)"/>
+    <use xlink:href="#palmeira" transform="translate(1090 108) rotate(-6)"/>
+  </g>
+
+  <!-- Parede e vidraça -->
+  <g stroke="#292b2c" stroke-width="3">
+    <rect x="60" y="605" width="430" height="40" fill="#895040"/>
+    <rect x="835" y="605" width="260" height="40" fill="#895040"/>
+    <rect x="490" y="611" width="345" height="27" fill="#2b9dc2" stroke="#20576b"/>
+    <path d="M494 615H831" stroke="#8bd5e6" stroke-width="3"/>
+  </g>
+  <g fill="#171b1c" font-family="Arial, Helvetica, sans-serif" font-size="35">
+    <text x="210" y="590">Parede</text>
+    <text x="906" y="590">Parede</text>
+    <text x="181" y="773">Sala</text>
+    <text x="941" y="774">Vidraça</text>
+    <text x="416" y="959">luminária</text>
+    <text x="900" y="965">pessoa</text>
+  </g>
+  <path d="M930 747C870 758 818 730 781 657" fill="none" stroke="#25292a" stroke-width="3.2" marker-end="url(#seta)"/>
+
+  <!-- Luminária e observador -->
+  <g stroke="#272b2c" stroke-width="3">
+    <circle cx="660" cy="885" r="15" fill="#e7dd20"/>
+    <path d="M660 867V874M660 896V903M642 885H649M671 885H678M647 872L652 877M668 893L673 898M647 898L652 893M668 877L673 872" stroke="#b6a914" stroke-width="2"/>
+    <circle cx="835" cy="885" r="18" fill="#41377e"/>
+    <circle cx="830" cy="880" r="5" fill="#756bb0" stroke="none"/>
+  </g>
+  <path d="M603 944C628 943 648 929 655 908" fill="none" stroke="#25292a" stroke-width="3.2" marker-end="url(#seta)"/>
+  <path d="M899 944C866 943 845 928 839 908" fill="none" stroke="#25292a" stroke-width="3.2" marker-end="url(#seta)"/>
+</svg>

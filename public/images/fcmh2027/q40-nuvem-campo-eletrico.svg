@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+  <title id="title">Nuvem carregada e cinco regiões sobre o solo</title>
+  <desc id="desc">Nuvem sobre um perfil de solo com cinco regiões numeradas. VN indica o potencial da nuvem e VS o potencial do solo.</desc>
+  <defs><marker id="setaV" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#9e4b68"/></marker></defs>
+  <g stroke="#c7c4d1" stroke-width="1.5" stroke-dasharray="5 5"><path d="M150 100V312M235 100V307M320 100V352M400 100V381"/></g>
+  <path d="M35 330C70 320 90 335 120 315C150 295 180 320 210 310C240 295 270 305 300 330C325 350 330 445 365 450C395 450 410 350 435 275C450 230 465 190 480 215C500 250 510 310 525 330V480H35Z" fill="#a7d4c6"/>
+  <path d="M35 403C135 384 220 413 302 401C333 397 337 465 365 466C402 466 421 363 445 303C466 251 484 260 525 350V480H35Z" fill="#c8e5dc"/>
+  <path d="M35 330C70 320 90 335 120 315C150 295 180 320 210 310C240 295 270 305 300 330C325 350 330 445 365 450C395 450 410 350 435 275C450 230 465 190 480 215C500 250 510 310 525 330" fill="none" stroke="#a34e62" stroke-width="2.4"/>
+  <g stroke="#5f6c70" stroke-width="1.7">
+    <path d="M58 325V296H88V325Z" fill="#d6c29f"/><path d="M52 297L73 278L94 297Z" fill="#a65d55"/>
+    <path d="M66 325V309H76V325" fill="#6f5a4c"/>
+    <path d="M112 316V280" stroke="#705b43" stroke-width="4"/>
+    <circle cx="112" cy="275" r="18" fill="#5c9b67" stroke="#477c51"/>
+    <path d="M165 307L180 229L195 307ZM172 274H188M169 289H191" fill="none" stroke="#6c5c67" stroke-width="3"/>
+    <path d="M249 310V247H279V310Z" fill="#a67b68"/><path d="M245 247H283V239H245Z" fill="#795e58"/>
+  </g>
+  <g fill="#d8b29a"><path d="M255 255H262V264H255ZM268 255H275V264H268ZM255 272H262V281H255ZM268 272H275V281H268ZM255 289H262V298H255ZM268 289H275V298H268Z"/></g>
+  <path d="M35 76C55 64 76 73 94 69C117 55 143 69 161 66C186 53 213 67 235 65C260 52 289 67 310 64C337 51 365 68 388 65C414 55 439 69 459 67C482 57 510 67 525 78C514 88 499 90 484 88C468 101 445 91 431 94C410 105 388 92 370 96C347 107 324 93 305 97C281 108 258 94 239 98C216 108 192 94 174 98C151 107 129 94 111 96C85 103 58 94 35 87Z" fill="#d7d9e3" stroke="#707684" stroke-width="2"/>
+  <path d="M53 77C110 68 154 79 206 72C262 64 311 77 363 70C415 64 466 77 507 75" fill="none" stroke="#f5f5f8" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  <g font-family="Arial, sans-serif" fill="#263b45">
+    <text x="280" y="39" text-anchor="middle" font-size="27">Nuvem</text>
+    <text x="74" y="225" font-size="25">1</text>
+    <text x="185" y="181" font-size="25">2</text>
+    <text x="270" y="181" font-size="25">3</text>
+    <text x="348" y="278" font-size="25">4</text>
+    <text x="467" y="151" font-size="25">5</text>
+    <text x="239" y="427" font-size="28">Solo</text>
+  </g>
+  <path d="M535 119L500 94" fill="none" stroke="#53616b" stroke-width="2" marker-end="url(#setaV)"/>
+  <g font-family="Arial, sans-serif" font-style="italic" fill="#354853"><text x="505" y="137" font-size="22">V</text><text x="521" y="141" font-size="14">N</text></g>
+  <path d="M528 319L488 274" fill="none" stroke="#9e4b68" stroke-width="2" marker-end="url(#setaV)"/>
+  <g font-family="Arial, sans-serif" font-style="italic" fill="#9e4b68"><text x="503" y="345" font-size="22">V</text><text x="519" y="349" font-size="14">S</text></g>
+</svg>

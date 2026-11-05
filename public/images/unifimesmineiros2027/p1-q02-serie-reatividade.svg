@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Série de reatividade dos metais</title>
+  <desc id="descricao">A seta aponta para a esquerda, no sentido do aumento da reatividade. Da esquerda para a direita: potássio, sódio, cálcio, magnésio, alumínio, zinco, ferro, níquel, estanho, chumbo, hidrogênio, cobre, prata e ouro.</desc>
+  <defs>
+    <linearGradient id="arco-reatividade" gradientUnits="userSpaceOnUse" x1="70" y1="125" x2="900" y2="125">
+      <stop offset="0" stop-color="#e84b55"/><stop offset=".15" stop-color="#ee8a3c"/><stop offset=".30" stop-color="#e4cc3e"/><stop offset=".46" stop-color="#72bb58"/><stop offset=".62" stop-color="#35b4a1"/><stop offset=".78" stop-color="#3b91c1"/><stop offset="1" stop-color="#79569f"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="340" fill="#fff"/>
+  <text x="480" y="53" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#263b39">Série de reatividade dos metais</text>
+  <text x="480" y="88" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#42534e">Ordem crescente de reatividade</text>
+  <g id="seta-reatividade">
+    <path d="M82 125 H900" fill="none" stroke="url(#arco-reatividade)" stroke-width="9" stroke-linecap="round"/>
+    <path id="ponta-seta-esquerda" d="M48 125 L82 111 L82 139 Z" fill="#e84b55"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#fff">
+    <g><rect x="60" y="165" width="60" height="92" fill="#e8545b"/><text x="90" y="207" font-size="23" font-weight="700">K</text><text x="90" y="239" font-size="10.5">Potássio</text></g>
+    <g><rect x="120" y="165" width="60" height="92" fill="#e8754f"/><text x="150" y="207" font-size="23" font-weight="700">Na</text><text x="150" y="239" font-size="10.5">Sódio</text></g>
+    <g><rect x="180" y="165" width="60" height="92" fill="#e99b42"/><text x="210" y="207" font-size="23" font-weight="700">Ca</text><text x="210" y="239" font-size="10.5">Cálcio</text></g>
+    <g><rect x="240" y="165" width="60" height="92" fill="#e2bd3f"/><text x="270" y="207" font-size="23" font-weight="700">Mg</text><text x="270" y="239" font-size="10.5">Magnésio</text></g>
+    <g><rect x="300" y="165" width="60" height="92" fill="#b9c746"/><text x="330" y="207" font-size="23" font-weight="700">Al</text><text x="330" y="239" font-size="10.5">Alumínio</text></g>
+    <g><rect x="360" y="165" width="60" height="92" fill="#87bd50"/><text x="390" y="207" font-size="23" font-weight="700">Zn</text><text x="390" y="239" font-size="10.5">Zinco</text></g>
+    <g><rect x="420" y="165" width="60" height="92" fill="#57b56c"/><text x="450" y="207" font-size="23" font-weight="700">Fe</text><text x="450" y="239" font-size="10.5">Ferro</text></g>
+    <g><rect x="480" y="165" width="60" height="92" fill="#39b394"/><text x="510" y="207" font-size="23" font-weight="700">Ni</text><text x="510" y="239" font-size="10.5">Níquel</text></g>
+    <g><rect x="540" y="165" width="60" height="92" fill="#32afb0"/><text x="570" y="207" font-size="23" font-weight="700">Sn</text><text x="570" y="239" font-size="10.5">Estanho</text></g>
+    <g><rect x="600" y="165" width="60" height="92" fill="#389fc0"/><text x="630" y="207" font-size="23" font-weight="700">Pb</text><text x="630" y="239" font-size="10.5">Chumbo</text></g>
+    <g><rect x="660" y="165" width="60" height="92" fill="#4a8bbb"/><text x="690" y="207" font-size="22" font-weight="700">(H)</text><text x="690" y="239" font-size="10">Hidrogênio</text></g>
+    <g><rect x="720" y="165" width="60" height="92" fill="#6478b0"/><text x="750" y="207" font-size="23" font-weight="700">Cu</text><text x="750" y="239" font-size="10.5">Cobre</text></g>
+    <g><rect x="780" y="165" width="60" height="92" fill="#795fa6"/><text x="810" y="207" font-size="23" font-weight="700">Ag</text><text x="810" y="239" font-size="10.5">Prata</text></g>
+    <g><rect x="840" y="165" width="60" height="92" fill="#865794"/><text x="870" y="207" font-size="23" font-weight="700">Au</text><text x="870" y="239" font-size="10.5">Ouro</text></g>
+  </g>
+  <text x="480" y="309" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#6a7771">Imagem original do caderno: gerada por IA (chatgpt.com) · recriação vetorial</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">Balão em um parque de diversões</title>
+  <desc id="desc">Balão de festa a uma altura h do chão, com roda-gigante, montanha-russa e duas pessoas no parque. Ilustração fora de escala.</desc>
+  <path d="M95 398H608L683 480H25Z" fill="#c5d4dc" stroke="#8198a5" stroke-width="2"/>
+  <path d="M95 398H608" stroke="#334a56" stroke-width="5"/>
+  <g fill="none" stroke="#485b65" stroke-width="6" stroke-linecap="round"><path d="M180 290L126 400M180 290L235 400"/></g>
+  <g fill="none" stroke="#5d7079">
+    <circle cx="180" cy="288" r="91" stroke-width="4"/>
+    <circle cx="180" cy="288" r="77" stroke-width="2"/>
+    <g stroke-width="2.2"><path d="M180 288V197M180 288L244 224M180 288H271M180 288L244 352M180 288V379M180 288L116 352M180 288H89M180 288L116 224"/></g>
+    <circle cx="180" cy="288" r="13" fill="#d8e2e6" stroke-width="3"/>
+  </g>
+  <g stroke="#4e626c" stroke-width="2">
+    <path d="M170 192H190V208H170Z" fill="#d76c67"/><path d="M236 215H256V231H236Z" fill="#e1b74e"/>
+    <path d="M261 278H281V294H261Z" fill="#4f9faf"/><path d="M236 346H256V362H236Z" fill="#d76c67"/>
+    <path d="M170 374H190V390H170Z" fill="#e1b74e"/><path d="M106 346H126V362H106Z" fill="#4f9faf"/>
+    <path d="M79 278H99V294H79Z" fill="#d76c67"/><path d="M106 215H126V231H106Z" fill="#e1b74e"/>
+  </g>
+  <g stroke="#81929a" stroke-width="2"><path d="M370 338V399M400 357V399M430 383V399M460 374V399M490 331V399M520 309V399M550 321V399M580 326V399M615 297V399"/></g>
+  <path d="M360 346C390 326 400 386 435 386C475 386 475 307 520 307C564 307 573 345 630 287" fill="none" stroke="#314a56" stroke-width="5" stroke-linecap="round"/>
+  <path d="M360 355C390 335 400 395 435 395C475 395 475 316 520 316C564 316 573 354 630 296" fill="none" stroke="#617983" stroke-width="2.5" stroke-linecap="round"/>
+  <g transform="translate(521 300) rotate(8)" stroke="#35515e" stroke-width="2">
+    <path d="M-22-10H22V4H-22Z" fill="#3b9bad"/><path d="M-15-19H15V-10H-15Z" fill="#72c2ce"/>
+    <circle cx="-14" cy="7" r="4" fill="#354a53"/><circle cx="14" cy="7" r="4" fill="#354a53"/>
+  </g>
+  <path d="M450 104.0V111.0M450 117.0V124.0M450 130.0V137.0M450 143.0V150.0M450 156.0V163.0M450 169.0V176.0M450 182.0V189.0M450 195.0V202.0M450 208.0V215.0M450 221.0V228.0M450 234.0V241.0M450 247.0V254.0M450 260.0V267.0M450 273.0V280.0M450 286.0V293.0M450 299.0V306.0M450 312.0V319.0M450 325.0V332.0M450 338.0V345.0M450 351.0V358.0M450 364.0V371.0M450 377.0V384.0M450 390.0V397.0" fill="none" stroke="#b14664" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M439 104H461M439 400H461" stroke="#b14664" stroke-width="2.4"/>
+  <text x="468" y="260" font-family="Arial, sans-serif" font-size="32" font-style="italic" fill="#b14664">h</text>
+  <path d="M450 39C430 39 426 58 434 72C439 81 447 88 450 91C453 88 461 81 466 72C474 58 470 39 450 39Z" fill="#d84f66" stroke="#a8384e" stroke-width="2"/>
+  <path d="M450 91L446 98H454Z" fill="#a8384e"/>
+  <path d="M450 98C443 105 458 108 450 119" fill="none" stroke="#8d5863" stroke-width="1.6"/>
+  <ellipse cx="441" cy="52" rx="6" ry="10" fill="#f49aac" opacity=".6"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M317 399L305 457M331 399L342 457" stroke="#285e83" stroke-width="15"/>
+    <path d="M299 459H313M337 459H352" stroke="#263943" stroke-width="8"/>
+    <path d="M302 357L288 397M339 359L355 393" stroke="#263c50" stroke-width="13"/>
+    <path d="M303 350Q320 340 338 351L342 405H298Z" fill="#263c50" stroke="#1d303f" stroke-width="2"/>
+    <path d="M320 349V397" stroke="#536979" stroke-width="2"/>
+    <circle cx="320" cy="328" r="15" fill="#d8a17f"/>
+    <path d="M305 327Q306 308 322 311Q337 312 336 329Q323 320 305 327Z" fill="#253842"/>
+    <path d="M354 393L370 400" stroke="#d8a17f" stroke-width="8"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M373 420L365 460M387 420L395 460" stroke="#334b5b" stroke-width="11"/>
+    <path d="M359 462H370M391 462H402" stroke="#263943" stroke-width="7"/>
+    <path d="M366 385L352 409M392 386L405 402" stroke="#58a8a3" stroke-width="10"/>
+    <path d="M365 379Q379 373 393 380L397 423H361Z" fill="#58a8a3" stroke="#387d7a" stroke-width="2"/>
+    <circle cx="379" cy="360" r="12" fill="#e0aa86"/>
+    <path d="M368 358Q369 345 380 346Q391 347 391 359Q380 352 368 358Z" fill="#62473c"/>
+    <path d="M405 402L411 390" stroke="#e0aa86" stroke-width="7"/>
+  </g>
+  <g stroke="#7c6269" stroke-width="1.3" fill="none"><path d="M411 390L404 346M411 390L425 350M411 390L391 350"/></g>
+  <g stroke-width="1.5"><circle cx="403" cy="337" r="13" fill="#8266b0" stroke="#60478a"/><circle cx="425" cy="341" r="13" fill="#d3648b" stroke="#a84568"/><circle cx="390" cy="343" r="12" fill="#4da6b3" stroke="#357c87"/></g>
+  <text x="360" y="523" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-style="italic" fill="#3e535e">fora de escala</text>
+</svg>

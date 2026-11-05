@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">Urna com dez bolas numeradas</title>
+  <desc id="desc">Urna esférica contendo cinco bolas verdes, de 1 a 5, e cinco bolas azuis, de 6 a 10.</desc>
+  <defs><clipPath id="urna"><circle cx="180" cy="180" r="157"/></clipPath></defs>
+  <circle cx="180" cy="180" r="158" fill="#d8e8ef" stroke="#3e4c55" stroke-width="4"/>
+  <circle cx="180" cy="180" r="151" fill="#e8f2f6"/>
+  <path d="M48 145C68 76 119 36 181 31C109 53 74 108 61 174Z" fill="#ffffff" opacity=".58"/>
+  <path d="M50 231C82 305 151 337 229 326C155 348 79 315 50 251Z" fill="#b7d2df" opacity=".55"/>
+  <g clip-path="url(#urna)" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#ffffff">
+    <g transform="translate(119 151)"><circle r="35" fill="#087ea4" stroke="#075b78" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#075b78" stroke-width="6" opacity=".45"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">6</text></g>
+    <g transform="translate(181 137)"><circle r="35" fill="#19a974" stroke="#087654" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#087654" stroke-width="6" opacity=".42"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">1</text></g>
+    <g transform="translate(253 153)"><circle r="35" fill="#19a974" stroke="#087654" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#087654" stroke-width="6" opacity=".42"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">2</text></g>
+    <g transform="translate(72 197)"><circle r="35" fill="#19a974" stroke="#087654" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#087654" stroke-width="6" opacity=".42"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">5</text></g>
+    <g transform="translate(148 197)"><circle r="35" fill="#087ea4" stroke="#075b78" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#075b78" stroke-width="6" opacity=".45"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">9</text></g>
+    <g transform="translate(215 190)"><circle r="35" fill="#087ea4" stroke="#075b78" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#075b78" stroke-width="6" opacity=".45"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">8</text></g>
+    <g transform="translate(287 207)"><circle r="35" fill="#087ea4" stroke="#075b78" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#075b78" stroke-width="6" opacity=".45"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">7</text></g>
+    <g transform="translate(109 247)"><circle r="35" fill="#087ea4" stroke="#075b78" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#075b78" stroke-width="6" opacity=".45"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9" font-size="24">10</text></g>
+    <g transform="translate(177 285)"><circle r="35" fill="#19a974" stroke="#087654" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#087654" stroke-width="6" opacity=".42"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">4</text></g>
+    <g transform="translate(244 254)"><circle r="35" fill="#19a974" stroke="#087654" stroke-width="2.5"/><path d="M-27 12A31 31 0 0 0 26 15" fill="none" stroke="#087654" stroke-width="6" opacity=".42"/><ellipse cx="-12" cy="-15" rx="11" ry="7" fill="#ffffff" opacity=".25"/><text y="9">3</text></g>
+  </g>
+  <path d="M55 123C43 163 42 209 54 246" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+  <path d="M303 226C294 272 265 305 229 321" fill="none" stroke="#9abac9" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <ellipse cx="180" cy="38" rx="55" ry="18" fill="#8297a2" stroke="#3e4c55" stroke-width="3"/>
+  <ellipse cx="180" cy="39" rx="47" ry="13" fill="#2d3338"/>
+  <path d="M139 34C158 25 201 25 221 34" fill="none" stroke="#b6c6cd" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="180" cy="180" r="158" fill="none" stroke="#3e4c55" stroke-width="4"/>
+</svg>

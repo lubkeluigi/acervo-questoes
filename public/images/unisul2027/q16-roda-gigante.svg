@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 540" width="360" height="374" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Roda-gigante com indicação da altura h</title>
+  <desc id="descricao">Roda-gigante com doze cabines, raios, anéis concêntricos e estrutura de apoio. Uma linha tracejada indica a altura h entre o piso de uma cabine e o chão.</desc>
+  <defs>
+    <g id="cabine" stroke="#29262b" stroke-linejoin="round">
+      <path d="M0-29V-20" fill="none" stroke-width="3"/>
+      <path d="M-25-21H25V-15H-25Z" fill="#76616c" stroke-width="2.5"/>
+      <path d="M-22-15H22V9H-22Z" fill="#fff" stroke-width="3"/>
+      <path d="M-7-15V9M8-15V9" fill="none" stroke-width="2.5"/>
+      <path d="M-20-13L-8-4M1-13L8-7M10 7L20-3" fill="none" stroke="#b8b2b7" stroke-width="2"/>
+      <path d="M-22 9H22L16 23H-16Z" fill="#edb9c8" stroke-width="3"/>
+      <path d="M-15 17H15" fill="none" stroke="#f8dce4" stroke-width="2"/>
+      <circle cx="-18" cy="-18" r="1.5" fill="#e6dce2" stroke="none"/>
+      <circle cx="18" cy="-18" r="1.5" fill="#e6dce2" stroke="none"/>
+    </g>
+  </defs>
+
+  <!-- Estrutura circular e raios -->
+  <g fill="none" stroke="#302d31">
+    <circle cx="250" cy="220" r="180" stroke-width="4"/>
+    <circle cx="250" cy="220" r="163" stroke-width="3"/>
+    <circle cx="250" cy="220" r="105" stroke-width="3.5"/>
+    <g stroke-width="3.2">
+      <path d="M250 220V42M250 220L339 66M250 220L404 131M250 220H428M250 220L404 309M250 220L339 374M250 220V398M250 220L161 374M250 220L96 309M250 220H72M250 220L96 131M250 220L161 66"/>
+    </g>
+    <circle cx="250" cy="220" r="174" stroke="#69646a" stroke-width="1.2"/>
+  </g>
+
+  <!-- Suportes, eixo e base -->
+  <g stroke="#29262b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 220L126 490M250 220L374 490" fill="none" stroke-width="15"/>
+    <path d="M250 220L208 490M250 220L292 490" fill="none" stroke-width="5"/>
+    <path d="M170 397H330" fill="none" stroke-width="4"/>
+    <path d="M103 496H397" fill="none" stroke-width="13"/>
+    <path d="M110 488H390" fill="none" stroke="#5e585f" stroke-width="2"/>
+    <circle cx="250" cy="220" r="13" fill="#29262b" stroke-width="2"/>
+    <circle cx="250" cy="220" r="4" fill="#a59ca5" stroke="none"/>
+  </g>
+
+  <!-- Cabines sempre na vertical -->
+  <g>
+    <use xlink:href="#cabine" transform="translate(250 40)"/>
+    <use xlink:href="#cabine" transform="translate(340 64)"/>
+    <use xlink:href="#cabine" transform="translate(406 130)"/>
+    <use xlink:href="#cabine" transform="translate(430 220)"/>
+    <use xlink:href="#cabine" transform="translate(406 310)"/>
+    <use xlink:href="#cabine" transform="translate(340 376)"/>
+    <use xlink:href="#cabine" transform="translate(250 400)"/>
+    <use xlink:href="#cabine" transform="translate(160 376)"/>
+    <use xlink:href="#cabine" transform="translate(94 310)"/>
+    <use xlink:href="#cabine" transform="translate(70 220)"/>
+    <use xlink:href="#cabine" transform="translate(94 130)"/>
+    <use xlink:href="#cabine" transform="translate(160 64)"/>
+  </g>
+
+  <!-- Indicação da altura do piso da cabine ao chão -->
+  <g fill="none" stroke="#555158" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round">
+    <path d="M452 334V496H500"/>
+    <path d="M438 334H466" stroke-dasharray="none" stroke-width="2"/>
+  </g>
+  <text x="474" y="414" fill="#4b474d" font-family="Arial, Helvetica, sans-serif" font-size="29" font-style="italic">h</text>
+</svg>

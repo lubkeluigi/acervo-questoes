@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" width="700" height="220" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+<title id="title">Telefone de latas</title><desc id="desc">Duas pessoas conversam por latas ligadas por um arame esticado de 20 metros; uma onda se propaga da esquerda para a direita.</desc>
+<defs><linearGradient id="skinFill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3c995"/><stop offset="1" stop-color="#dda471"/></linearGradient><linearGradient id="canFill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#45b5c5"/><stop offset="0.5" stop-color="#2296ad"/><stop offset="1" stop-color="#17768e"/></linearGradient><linearGradient id="rimFill" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#155c70"/><stop offset="0.5" stop-color="#2b8295"/><stop offset="1" stop-color="#104c5e"/></linearGradient><marker id="arrowQ34" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#536a72"/></marker></defs>
+<rect width="700" height="220" fill="white"/>
+<g transform="translate(57 75) scale(1 1)" stroke="#3d4e54" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-13 26L-18 40H14L12 25Z" fill="#d8a174"/>
+<circle cx="0" cy="0" r="32" fill="url(#skinFill)"/>
+<path d="M26 -5L39 3L27 10Z" fill="#e2ad7d"/>
+<path d="M-31 3Q-38 -30 -7 -36Q22 -39 30 -12L17 -20Q0 -7 -29 -9Z" fill="#9e5038"/>
+<path d="M-25 -13Q-34 1 -27 14" fill="none" stroke="#9e5038" stroke-width="6"/>
+<circle cx="20" cy="-5" r="2" fill="#26343b" stroke="none"/><path d="M24 15Q18 19 12 15" fill="none" stroke-width="1.4"/>
+<path d="M-22 2Q-30 -2 -28 8Q-26 14 -20 10" fill="#e2ad7d"/>
+</g><g transform="translate(643 75) scale(-1 1)" stroke="#3d4e54" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-13 26L-18 40H14L12 25Z" fill="#d8a174"/>
+<circle cx="0" cy="0" r="32" fill="url(#skinFill)"/>
+<path d="M26 -5L39 3L27 10Z" fill="#e2ad7d"/>
+<path d="M-31 3Q-38 -30 -7 -36Q22 -39 30 -12L17 -20Q0 -7 -29 -9Z" fill="#9e5038"/>
+<path d="M-25 -13Q-34 1 -27 14" fill="none" stroke="#9e5038" stroke-width="6"/>
+<circle cx="20" cy="-5" r="2" fill="#26343b" stroke="none"/><path d="M24 15Q18 19 12 15" fill="none" stroke-width="1.4"/>
+<path d="M-22 2Q-30 -2 -28 8Q-26 14 -20 10" fill="#e2ad7d"/>
+</g>
+<g fill="none" stroke="#546d75" stroke-width="2" stroke-linecap="round"><path d="M97 77L120 73M98 86L122 86M97 95L120 100"/></g>
+<g stroke="#38525a" stroke-width="1.8" stroke-linejoin="round"><path d="M130 68H180V114H130Z" fill="url(#canFill)"/><ellipse cx="180" cy="91" rx="8" ry="23" fill="url(#rimFill)"/><path d="M136 73V108" stroke="#8ed5dd" stroke-width="2" opacity="0.8"/><path d="M520 68H570V114H520Z" fill="url(#canFill)"/><ellipse cx="520" cy="91" rx="8" ry="23" fill="url(#rimFill)"/><path d="M564 73V108" stroke="#8ed5dd" stroke-width="2" opacity="0.8"/></g>
+<path d="M180 91H520" fill="none" stroke="#465e66" stroke-width="1.8"/><g fill="#465e66"><circle cx="180" cy="91" r="2.5"/><circle cx="520" cy="91" r="2.5"/></g>
+<g fill="none" stroke="#6b8790" stroke-width="1.8" stroke-linecap="round"><path d="M190 75Q211 91 190 107M201 69Q231 91 201 113M214 64Q253 91 214 118M228 60Q276 91 228 122"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#26343b"><text x="155" y="43" text-anchor="middle" font-size="20" font-weight="600">Lata</text><text x="545" y="43" text-anchor="middle" font-size="20" font-weight="600">Lata</text><text x="228" y="37" text-anchor="middle" font-size="20" font-weight="600">Onda</text></g>
+<g fill="none" stroke="#7a8d91" stroke-width="1.2"><path d="M155 49V62M545 49V62"/><path d="M254 33H294" marker-end="url(#arrowQ34)"/></g>
+<g stroke="#60767d" stroke-width="1.4" fill="none"><path d="M180 119V176M520 119V176" stroke-dasharray="4 4"/><path d="M180 164H520" marker-start="url(#arrowQ34)" marker-end="url(#arrowQ34)"/></g>
+<rect x="316" y="148" width="68" height="30" rx="6" fill="white"/><text x="350" y="170" text-anchor="middle" font-size="22" font-weight="600" font-family="Arial, Helvetica, sans-serif" fill="#26343b">20 m</text>
+</svg>

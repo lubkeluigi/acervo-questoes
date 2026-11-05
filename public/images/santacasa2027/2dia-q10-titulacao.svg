@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 410" role="img" aria-labelledby="title desc">
+  <title id="title">Aparato de titulação antes e depois do ponto final</title>
+  <desc id="desc">Duas buretas com NaOH sobre frascos com 10 mL de H2SO4. No início, o nível da bureta está mais alto e o frasco está azul; no final, o nível está mais baixo e o frasco está rosado.</desc>
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#dcecf2" stop-opacity=".65"/><stop offset=".45" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#c5dce5" stop-opacity=".65"/></linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#c83d45"/></marker>
+    <marker id="leader" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#263b45"/></marker>
+    <g id="burette">
+      <path d="M-15 55 V238 M15 55 V238" stroke="#526b77" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-10 58 V232 H10 V58" fill="url(#glass)" stroke="#a9c0ca" stroke-width="2"/>
+      <path d="M-9 237 L-5 264 H5 L9 237" fill="url(#glass)" stroke="#526b77" stroke-width="3"/>
+      <path d="M-22 235 H22" stroke="#743f4b" stroke-width="7" stroke-linecap="round"/><circle r="10" cy="235" fill="#a66370" stroke="#743f4b" stroke-width="3"/>
+      <path d="M-15 78 H-7 M-15 104 H-7 M-15 130 H-7 M-15 156 H-7 M-15 182 H-7 M-15 208 H-7" stroke="#8ba2ac" stroke-width="2"/>
+    </g>
+    <g id="flask">
+      <path d="M-17 272 V294 C-17 306 -48 330 -50 351 C-52 369 -38 378 0 378 C38 378 52 369 50 351 C48 330 17 306 17 294 V272" fill="url(#glass)" stroke="#526b77" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M-20 272 H20" stroke="#526b77" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-34 344 Q0 354 34 344" fill="none" stroke="#fff" stroke-width="4" opacity=".65"/>
+    </g>
+    <style>.label{font-family:Arial,Helvetica,sans-serif;font-size:24px;fill:#20353f}.leader{fill:none;stroke:#263b45;stroke-width:2.5;marker-end:url(#leader)}</style>
+  </defs>
+  <text class="label" x="120" y="35">Início</text><text class="label" x="465" y="35">Final</text>
+  <g transform="translate(160 0)">
+    <use href="#burette"/>
+    <path d="M-9 82 H9 V231 H-9 Z" fill="#b9dce8" opacity=".72"/><path d="M-9 82 H9" stroke="#5799af" stroke-width="3"/>
+    <use href="#flask"/>
+    <path d="M-42 333 Q0 323 42 333 L48 354 Q46 370 0 370 Q-46 370 -48 354 Z" fill="#a9dce9" opacity=".72"/>
+  </g>
+  <g transform="translate(480 0)">
+    <use href="#burette"/>
+    <path d="M-9 151 H9 V231 H-9 Z" fill="#b9dce8" opacity=".72"/><path d="M-9 151 H9" stroke="#5799af" stroke-width="3"/>
+    <use href="#flask"/>
+    <path d="M-42 333 Q0 323 42 333 L48 354 Q46 370 0 370 Q-46 370 -48 354 Z" fill="#e8a9c7" opacity=".7"/>
+  </g>
+  <path d="M275 250 H365" fill="none" stroke="#c83d45" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <text class="label" x="28" y="145">NaOH</text><path class="leader" d="M102 151 L137 169"/>
+  <text class="label" x="18" y="297">H<tspan baseline-shift="sub" font-size="17">2</tspan>SO<tspan baseline-shift="sub" font-size="17">4</tspan></text><text class="label" x="18" y="326">10 mL</text><path class="leader" d="M91 321 L124 340"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cilindro inscrito em um cubo</title>
+  <desc id="desc">Cilindro circular reto de raio 5 centímetros inscrito em um cubo de aresta a.</desc>
+  <g fill="none" stroke="#87939a" stroke-width="2" stroke-linejoin="round">
+    <path d="M160 70H360V270L300 325V125L160 70Z" opacity=".6"/>
+    <path d="M160 70V270L100 325M160 270H360" opacity=".38"/>
+  </g>
+  <path d="M135 98V298C135 314 177 326 230 326C283 326 325 314 325 298V98Z" fill="#31b3c2" opacity=".6" stroke="#087e91" stroke-width="2.4"/>
+  <path d="M135 98V298C135 314 177 326 230 326V98Z" fill="#91d8de" opacity=".34"/>
+  <path d="M302 110V291C302 305 278 315 255 320C300 316 325 308 325 298V98Z" fill="#087e91" opacity=".18"/>
+  <ellipse cx="230" cy="298" rx="95" ry="28" fill="#b9e3e6" opacity=".58" stroke="#087e91" stroke-width="2.2"/>
+  <path d="M135 298C135 314 177 326 230 326C283 326 325 314 325 298" fill="none" stroke="#087e91" stroke-width="2.4"/>
+  <ellipse cx="230" cy="98" rx="95" ry="28" fill="#d7eff1" opacity=".9" stroke="#087e91" stroke-width="2.4"/>
+  <path d="M148 91C170 72 258 65 306 88" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <g fill="none" stroke="#465760" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M100 125L160 70H360L300 125Z"/>
+    <path d="M100 125H300V325L360 270V70"/>
+    <path d="M100 125V325H300"/>
+    <path d="M100 325L160 270" opacity=".55"/>
+  </g>
+  <path d="M230 98L301 80" fill="none" stroke="#304852" stroke-width="2.4"/>
+  <circle cx="230" cy="98" r="3.5" fill="#304852"/>
+  <text x="263" y="61" font-family="Arial, sans-serif" font-size="23" fill="#263b45">5 cm</text>
+  <g fill="none" stroke="#53636b" stroke-width="2" stroke-linecap="round">
+    <path d="M300 325L320 353M360 270L380 298"/>
+    <path d="M320 353L380 298"/>
+    <path d="M320 353L324 337M380 298L364 302"/>
+  </g>
+  <text x="369" y="350" font-family="Arial, sans-serif" font-size="26" font-style="italic" fill="#263b45">a</text>
+</svg>
