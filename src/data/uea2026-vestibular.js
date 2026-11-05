@@ -14,12 +14,15 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a tirinha de Lucas Gehre, publicada no perfil \n@quadradinhas.ltg do Instagram em 04.02.2026.\n\nEm relação à oração do último quadro, a oração do primeiro \nquadro expressa ideia de",
+    "statement": "Considere a tirinha de Lucas Gehre, publicada no perfil @quadradinhas.ltg do Instagram em 04.02.2026.\n\nEm relação à oração do último quadro, a oração do primeiro quadro expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2026-cg/q01-1.png",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -31,15 +34,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 01."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -61,7 +63,21 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de \nAndrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve.\nDispôs os manos nas esperas, botou fogo no bosque e \nficou também amoitado esperando que saísse algum viado \nmateiro pra ele caçar. Porém não tinha nenhum viado lá e \nquando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e \nsem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs \ndatilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que \ntinha ido caçar na feira do Arouche e matara dois...\n\n5 — ...mateiros, não eram viados mateiros não, dois viados \ncatingueiros que comi com os manos. Até vinha trazendo um \nnaco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos \nforam perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram \nmuito enquizilados1 porque não sabiam mentir e exclamaram \nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou \nviado! Não tinha nenhum viado na caçada não! Gato miador, \npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” (7o parágrafo) \nrefere-se ao fato de que Macunaíma",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” ($7^{o}$ parágrafo) refere-se ao fato de que Macunaíma",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "movia-se com agilidade.",
@@ -72,15 +88,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 02."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -102,7 +117,21 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de \nAndrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve.\nDispôs os manos nas esperas, botou fogo no bosque e \nficou também amoitado esperando que saísse algum viado \nmateiro pra ele caçar. Porém não tinha nenhum viado lá e \nquando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e \nsem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs \ndatilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que \ntinha ido caçar na feira do Arouche e matara dois...\n\n5 — ...mateiros, não eram viados mateiros não, dois viados \ncatingueiros que comi com os manos. Até vinha trazendo um \nnaco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos \nforam perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram \nmuito enquizilados1 porque não sabiam mentir e exclamaram \nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou \nviado! Não tinha nenhum viado na caçada não! Gato miador, \npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\n“o herói murmurou:\n— Aqui serve.” (1o e 2o parágrafos).\n\nAo ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\n“o herói murmurou: — Aqui serve.” ($1^{o}$ e $2^{o}$ parágrafos). Ao ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o herói murmurou que ali servia.",
@@ -113,15 +142,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -143,7 +171,21 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de \nAndrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve.\nDispôs os manos nas esperas, botou fogo no bosque e \nficou também amoitado esperando que saísse algum viado \nmateiro pra ele caçar. Porém não tinha nenhum viado lá e \nquando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e \nsem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs \ndatilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que \ntinha ido caçar na feira do Arouche e matara dois...\n\n5 — ...mateiros, não eram viados mateiros não, dois viados \ncatingueiros que comi com os manos. Até vinha trazendo um \nnaco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos \nforam perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram \nmuito enquizilados1 porque não sabiam mentir e exclamaram \nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou \nviado! Não tinha nenhum viado na caçada não! Gato miador, \npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após \no verbo. Ocorre sujeito posposto na seguinte oração:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após o verbo. Ocorre sujeito posposto na seguinte oração:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Dispôs os manos nas esperas” (3o parágrafo).",
@@ -154,15 +196,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -184,7 +225,21 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de \nAndrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve.\nDispôs os manos nas esperas, botou fogo no bosque e \nficou também amoitado esperando que saísse algum viado \nmateiro pra ele caçar. Porém não tinha nenhum viado lá e \nquando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e \nsem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs \ndatilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que \ntinha ido caçar na feira do Arouche e matara dois...\n\n5 — ...mateiros, não eram viados mateiros não, dois viados \ncatingueiros que comi com os manos. Até vinha trazendo um \nnaco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos \nforam perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram \nmuito enquizilados1 porque não sabiam mentir e exclamaram \nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou \nviado! Não tinha nenhum viado na caçada não! Gato miador, \npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, \nsobretudo,",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela cidade de Manaus.",
@@ -195,15 +250,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -225,37 +279,69 @@ export const uea2026Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia um trecho do \nlivro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não \nimitam ou mesmo tentam representar um objeto físico, como \numa casa ou um cão. Fazê-lo seria um fracasso aos olhos \ndo artista abstrato, que visa produzir uma obra de arte que \nseja uma façanha da imaginação, em que sejamos incapazes \nde reconhecer alguma coisa de nosso mundo conhecido. Por \nvezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e \nquadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que \npoderia ser o caso, mas na realidade é muito improvável. É \nalgo surpreendentemente difícil definir com clareza o que é \nque torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma \ncoisa. Há algo relacionado à sua fluidez, ou composição, ou \nforma, que leva milhões de nós às galerias de arte moderna \n[...]. De alguma maneira, os artistas abstratos conseguiram \narranjar suas formas e pinceladas em desenhos capazes de \nestabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata \nencerra certo mistério; algo que confunde nossos cérebros \nracionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa \nque é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nConforme a definição proposta pelo autor, é um exemplo de \n“arte abstrata” o seguinte quadro:",
-    "images": [
-      {
-        "src": "/images/uea/vestibular-2026-cg/q06-alternativas.jpg",
-        "alt": "Alternativas em imagem da questão 06.",
-        "caption": "Alternativas reproduzidas do caderno original."
-      }
+    "statement": "Para responder às questões de 06 a 08, leia um trecho do livro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não imitam ou mesmo tentam representar um objeto físico, como uma casa ou um cão. Fazê-lo seria um fracasso aos olhos do artista abstrato, que visa produzir uma obra de arte que seja uma façanha da imaginação, em que sejamos incapazes de reconhecer alguma coisa de nosso mundo conhecido. Por vezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e quadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que poderia ser o caso, mas na realidade é muito improvável. É algo surpreendentemente difícil definir com clareza o que é que torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma coisa. Há algo relacionado à sua fluidez, ou composição, ou forma, que leva milhões de nós às galerias de arte moderna [...]. De alguma maneira, os artistas abstratos conseguiram arranjar suas formas e pinceladas em desenhos capazes de estabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata encerra certo mistério; algo que confunde nossos cérebros racionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa que é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nConforme a definição proposta pelo autor, é um exemplo de “arte abstrata” o seguinte quadro:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
     ],
+    "images": [],
     "alternatives": [
-      "(A)",
-      "(B)",
-      "(C)",
-      "(D)",
-      "(E)"
+      "Lyubov Popova. Modelo de um vestido, 1923-1924.",
+      "Claude Monet. Impressão, sol nascente, 1872-1873.",
+      "Mark Rothko. O ocre, 1954.",
+      "Vincent van Gogh. A noite estrelada, 1889.",
+      "Andy Warhol. Díptico de Marilyn, 1962."
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
     "officialAnswerOnly": true,
-    "entryYear": 2027
+    "entryYear": 2027,
+    "alternativeImages": [
+      [
+        {
+          "src": "/images/uea/vestibular-2026-cg/q06-a.png",
+          "alt": "Lyubov Popova. Modelo de um vestido, 1923-1924."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/vestibular-2026-cg/q06-b.png",
+          "alt": "Claude Monet. Impressão, sol nascente, 1872-1873."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/vestibular-2026-cg/q06-c.png",
+          "alt": "Mark Rothko. O ocre, 1954."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/vestibular-2026-cg/q06-d.png",
+          "alt": "Vincent van Gogh. A noite estrelada, 1889."
+        }
+      ],
+      [
+        {
+          "src": "/images/uea/vestibular-2026-cg/q06-e.png",
+          "alt": "Andy Warhol. Díptico de Marilyn, 1962."
+        }
+      ]
+    ]
   },
   {
     "id": "uea-vestibular-2026-cg-q07",
@@ -272,7 +358,14 @@ export const uea2026Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia um trecho do \nlivro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não \nimitam ou mesmo tentam representar um objeto físico, como \numa casa ou um cão. Fazê-lo seria um fracasso aos olhos \ndo artista abstrato, que visa produzir uma obra de arte que \nseja uma façanha da imaginação, em que sejamos incapazes \nde reconhecer alguma coisa de nosso mundo conhecido. Por \nvezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e \nquadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que \npoderia ser o caso, mas na realidade é muito improvável. É \nalgo surpreendentemente difícil definir com clareza o que é \nque torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma \ncoisa. Há algo relacionado à sua fluidez, ou composição, ou \nforma, que leva milhões de nós às galerias de arte moderna \n[...]. De alguma maneira, os artistas abstratos conseguiram \narranjar suas formas e pinceladas em desenhos capazes de \nestabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata \nencerra certo mistério; algo que confunde nossos cérebros \nracionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa \nque é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm “A verdade é que a arte abstrata encerra certo mistério” \n(2o parágrafo), o verbo sublinhado pode ser substituído, sem \nprejuízo para o sentido da frase, por:",
+    "statement": "Para responder às questões de 06 a 08, leia um trecho do livro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não imitam ou mesmo tentam representar um objeto físico, como uma casa ou um cão. Fazê-lo seria um fracasso aos olhos do artista abstrato, que visa produzir uma obra de arte que seja uma façanha da imaginação, em que sejamos incapazes de reconhecer alguma coisa de nosso mundo conhecido. Por vezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e quadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que poderia ser o caso, mas na realidade é muito improvável. É algo surpreendentemente difícil definir com clareza o que é que torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma coisa. Há algo relacionado à sua fluidez, ou composição, ou forma, que leva milhões de nós às galerias de arte moderna [...]. De alguma maneira, os artistas abstratos conseguiram arranjar suas formas e pinceladas em desenhos capazes de estabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata encerra certo mistério; algo que confunde nossos cérebros racionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa que é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm “A verdade é que a arte abstrata encerra certo mistério” ($2^{o}$ parágrafo), o verbo sublinhado pode ser substituído, sem prejuízo para o sentido da frase, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "nega.",
@@ -283,15 +376,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -313,7 +405,14 @@ export const uea2026Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia um trecho do \nlivro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não \nimitam ou mesmo tentam representar um objeto físico, como \numa casa ou um cão. Fazê-lo seria um fracasso aos olhos \ndo artista abstrato, que visa produzir uma obra de arte que \nseja uma façanha da imaginação, em que sejamos incapazes \nde reconhecer alguma coisa de nosso mundo conhecido. Por \nvezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e \nquadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que \npoderia ser o caso, mas na realidade é muito improvável. É \nalgo surpreendentemente difícil definir com clareza o que é \nque torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma \ncoisa. Há algo relacionado à sua fluidez, ou composição, ou \nforma, que leva milhões de nós às galerias de arte moderna \n[...]. De alguma maneira, os artistas abstratos conseguiram \narranjar suas formas e pinceladas em desenhos capazes de \nestabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata \nencerra certo mistério; algo que confunde nossos cérebros \nracionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa \nque é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm relação às possibilidades de a arte abstrata estabelecer \num canal de comunicação com o público, o autor do texto é",
+    "statement": "Para responder às questões de 06 a 08, leia um trecho do livro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não imitam ou mesmo tentam representar um objeto físico, como uma casa ou um cão. Fazê-lo seria um fracasso aos olhos do artista abstrato, que visa produzir uma obra de arte que seja uma façanha da imaginação, em que sejamos incapazes de reconhecer alguma coisa de nosso mundo conhecido. Por vezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e quadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que poderia ser o caso, mas na realidade é muito improvável. É algo surpreendentemente difícil definir com clareza o que é que torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma coisa. Há algo relacionado à sua fluidez, ou composição, ou forma, que leva milhões de nós às galerias de arte moderna [...]. De alguma maneira, os artistas abstratos conseguiram arranjar suas formas e pinceladas em desenhos capazes de estabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata encerra certo mistério; algo que confunde nossos cérebros racionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa que é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm relação às possibilidades de a arte abstrata estabelecer um canal de comunicação com o público, o autor do texto é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "positivo: ele defende que esse tipo de arte tem seus méritos.",
@@ -324,15 +423,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 08."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -354,7 +452,14 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O item do texto que apresenta os perigos do desmatamento \nde florestas é o de número:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nO item do texto que apresenta os perigos do desmatamento de florestas é o de número:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -365,15 +470,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -395,7 +499,14 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "In item 3 “By generating moisture and rainfall, rainforests \ncontribute to the water cycle, which supports ecosystems \nboth locally and far away”, the underlined word refers to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nIn item 3 “By generating moisture and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away”, the underlined word refers to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“moisture”.",
@@ -406,15 +517,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 10."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -437,7 +547,14 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No contexto do item 5 “Restoring rainforests supports critical \necosystem services, like clean air, soil stability, and cultural \nheritage”, o termo sublinhado tem como função",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nInteresting facts about rainforests\n\n1. \u0007Rainforests are home to more than half of the world’s plant and animal species, making them critical for global biodiversity. 2. \u0007Rainforests play a major role in regulating the global climate by absorbing carbon dioxide and helping stabilize weather patterns. 3. \u0007By generating moisture¹ and rainfall, rainforests contribute to the water cycle, which supports ecosystems both locally and far away. 4. \u0007Deforestation puts rainforests at risk, leading to habitat loss, species declines, and negative impacts on the climate and indigenous communities. 5. \u0007Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage.\n\n(Meaghan Weeden. https://onetreeplanted.org, 22.06.2026. Adaptado.) 1 \u0007moisture: very small drops of water.\n\nNo contexto do item 5 “Restoring rainforests supports critical ecosystem services, like clean air, soil stability, and cultural heritage”, o termo sublinhado tem como função",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "estabelecer comparações entre os serviços ecossistêmicos.",
@@ -448,15 +565,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 11."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -478,7 +594,12 @@ export const uea2026Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "How do beauty standards affect mental health?\n\nExposure to unrealistic beauty ideals through social \nmedia, television, and film can lead to body dissatisfaction. \nResearch shows that 40% of teenagers in the United Kingdom \nworry about their bodies because of social media images.\n\n(Mandy French. www.medicalnewstoday.com, 15.06.2026. Adaptado.)\n\nNo trecho do texto “Exposure to unrealistic beauty ideals \nthrough social media, television, and film can lead to body \ndissatisfaction”, o termo sublinhado expressa",
+    "statement": "How do beauty standards affect mental health? Exposure to unrealistic beauty ideals through social media, television, and film can lead to body dissatisfaction. Research shows that 40% of teenagers in the United Kingdom worry about their bodies because of social media images.\n\n(Mandy French. www.medicalnewstoday.com, 15.06.2026. Adaptado.)\n\nNo trecho do texto “Exposure to unrealistic beauty ideals through social media, television, and film can lead to body dissatisfaction”, o termo sublinhado expressa",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "obrigação.",
@@ -489,15 +610,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 12."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -520,7 +640,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O Império Romano não foi apenas um sistema político, \nimposto de cima para baixo. Sua fundação exigiu a criação \nde uma identidade romana, que pudesse ser assumida por \nseus habitantes. Um dos elementos foi a propagação, nas \nprovíncias, do culto à família imperial e ao imperador. Na Gália e na Anatólia, por exemplo, as elites se reuniam em um \nsantuário comum, uma vez por ano, para celebrar o culto imperial. No sistema social romano, regido por honras públicas, \nos libertos (ex-escravizados) podiam se tornar sacerdotes do \nimperador.\n\n(Norberto Luiz Guarinello. História Antiga, 2020. Adaptado.)\n\nDe acordo com o excerto, um dos mecanismos para legitimar \no domínio romano sobre as províncias era",
+    "statement": "O Império Romano não foi apenas um sistema político, imposto de cima para baixo. Sua fundação exigiu a criação de uma identidade romana, que pudesse ser assumida por seus habitantes. Um dos elementos foi a propagação, nas províncias, do culto à família imperial e ao imperador. Na Gália e na Anatólia, por exemplo, as elites se reuniam em um santuário comum, uma vez por ano, para celebrar o culto imperial. No sistema social romano, regido por honras públicas, os libertos (ex-escravizados) podiam se tornar sacerdotes do imperador.\n\n(Norberto Luiz Guarinello. História Antiga, 2020. Adaptado.)\n\nDe acordo com o excerto, um dos mecanismos para legitimar o domínio romano sobre as províncias era",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a atribuição de um caráter divino ao imperador.",
@@ -531,15 +656,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 13."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -561,7 +685,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine o documento histórico, escrito pelo bispo Adalberon \nde Laon entre 1025 e 1027.\n\nA lei humana impõe duas condições: o nobre e o servo \nnão estão submetidos ao mesmo regime. Os guerreiros são \nprotetores das igrejas. Eles defendem os poderosos e os fracos, protegem todo mundo, inclusive a si próprios. Os servos, \npor sua vez, têm outra condição. Esta raça de infelizes não \ntem nada sem sofrimento. Fornecer a todos alimentos e vestimenta: eis a função do servo. A casa de Deus, que parece \numa, é portanto tripla: uns rezam, outros combatem e outros \ntrabalham.\n\n(Apud Hilário Franco Júnior. A Idade Média: nascimento do Ocidente, 1995.)\n\nO excerto representa o discurso religioso que, na Alta Idade \nMédia europeia, justificava a",
+    "statement": "Examine o documento histórico, escrito pelo bispo Adalberon de Laon entre 1025 e 1027.\n\nA lei humana impõe duas condições: o nobre e o servo não estão submetidos ao mesmo regime. Os guerreiros são protetores das igrejas. Eles defendem os poderosos e os fracos, protegem todo mundo, inclusive a si próprios. Os servos, por sua vez, têm outra condição. Esta raça de infelizes não tem nada sem sofrimento. Fornecer a todos alimentos e vestimenta: eis a função do servo. A casa de Deus, que parece uma, é portanto tripla: uns rezam, outros combatem e outros trabalham.\n\n(Apud Hilário Franco Júnior. A Idade Média: nascimento do Ocidente, 1995.)\n\nO excerto representa o discurso religioso que, na Alta Idade Média europeia, justificava a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "superioridade do trabalho manual sobre o intelectual na sociedade feudal.",
@@ -572,15 +702,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 14."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -602,7 +731,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A monarquia portuguesa consolidou-se por meio de uma \nhistória que teve um dos seus pontos mais significativos na \nrevolução de 1383-1385, que reforçou e centralizou o poder \nmonárquico, a partir da política posta em prática pelo Mestre \nde Avis. Em torno dele, foram se reagrupando os vários setores sociais influentes da sociedade portuguesa: a nobreza, \nos comerciantes, a burocracia nascente. Lembremos que, no \ninício do século XV, a expansão marítima correspondia aos \ninteresses diversos das classes, grupos sociais e instituições \nque compunham a sociedade portuguesa.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nO excerto aponta condições favoráveis à expansão marítima \nportuguesa, tal como a",
+    "statement": "A monarquia portuguesa consolidou-se por meio de uma história que teve um dos seus pontos mais significativos na revolução de 1383-1385, que reforçou e centralizou o poder monárquico, a partir da política posta em prática pelo Mestre de Avis. Em torno dele, foram se reagrupando os vários setores sociais influentes da sociedade portuguesa: a nobreza, os comerciantes, a burocracia nascente. Lembremos que, no início do século XV, a expansão marítima correspondia aos interesses diversos das classes, grupos sociais e instituições que compunham a sociedade portuguesa.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nO excerto aponta condições favoráveis à expansão marítima portuguesa, tal como a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ausência de conflitos no processo de formação do reino português.",
@@ -613,15 +747,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 15."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -643,7 +776,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A eficácia crescente dos traficantes do Atlântico na suplementação de mão de obra, a segurança no suprimento \nde cativos vindos da África e o declínio dos preços levaram \nos africanos a se converterem, para a Europa do século XVI, \nem sinônimo de mão de obra escravizada e a rumarem forçadamente em direção às colônias americanas. O sucesso do \nsistema de plantation brasileiro influenciaria todos os regimes \nde agricultura escravistas, ao passo que franceses, ingleses \ne espanhóis adotariam o sistema português, com propriedades menores.\n\n(Lilia M. Schwarcz e Heloisa M. Starling.\n\nBrasil: uma biografia, 2015. Adaptado.)\n\nAlém dos regimes de agricultura escravistas, o sistema \nplantation caracterizava-se, na América da Idade Moderna, \npor",
+    "statement": "A eficácia crescente dos traficantes do Atlântico na suplementação de mão de obra, a segurança no suprimento de cativos vindos da África e o declínio dos preços levaram os africanos a se converterem, para a Europa do século XVI, em sinônimo de mão de obra escravizada e a rumarem forçadamente em direção às colônias americanas. O sucesso do sistema de plantation brasileiro influenciaria todos os regimes de agricultura escravistas, ao passo que franceses, ingleses e espanhóis adotariam o sistema português, com propriedades menores.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2015. Adaptado.)\n\nAlém dos regimes de agricultura escravistas, o sistema plantation caracterizava-se, na América da Idade Moderna, por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "economia de subsistência e minifúndios.",
@@ -654,15 +792,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 16."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -684,7 +821,14 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Quando, na mesma pessoa ou no mesmo corpo de magistratura, o poder legislativo está reunido ao poder executivo, não existe liberdade; porque se pode temer que o mesmo \nmonarca ou o mesmo senado crie leis tirânicas para executá-\n-las tiranicamente.\n\nTampouco existe liberdade se o poder de julgar não for \nseparado do poder legislativo e do executivo. Se estivesse \nunido ao poder legislativo, o poder sobre a vida e a liberdade \ndos cidadãos seria arbitrário, pois o juiz seria legislador. Se \nestivesse unido ao poder executivo, o juiz poderia ter a força \nde um opressor.\n\n(Charles de Secondat, Barão de Montesquieu.\n\nO espírito das leis, 1996.)\n\nSegundo o pensador iluminista Montesquieu, a liberdade do \ncidadão depende",
+    "statement": "Quando, na mesma pessoa ou no mesmo corpo de magistratura, o poder legislativo está reunido ao poder executivo, não existe liberdade; porque se pode temer que o mesmo monarca ou o mesmo senado crie leis tirânicas para executá-las tiranicamente.\n\nTampouco existe liberdade se o poder de julgar não for separado do poder legislativo e do executivo. Se estivesse unido ao poder legislativo, o poder sobre a vida e a liberdade dos cidadãos seria arbitrário, pois o juiz seria legislador. Se estivesse unido ao poder executivo, o juiz poderia ter a força de um opressor.\n\n(Charles de Secondat, Barão de Montesquieu.\n\nO espírito das leis, 1996.)\n\nSegundo o pensador iluminista Montesquieu, a liberdade do cidadão depende",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da forma de governo republicana pautada na democracia direta.",
@@ -695,15 +839,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 17."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -725,12 +868,16 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a obra A Tomada da Bastilha, de Charles Thévenin, \nproduzida em 1793.\n\n(https://artvee.com)\n\nO evento representado na obra ocorreu em 14 de julho de \n1789 e tornou-se o principal símbolo da Revolução Francesa, \nsobretudo porque",
+    "statement": "Analise a obra A Tomada da Bastilha, de Charles Thévenin, produzida em 1793.\n\n(https://artvee.com)\n\nO evento representado na obra ocorreu em 14 de julho de 1789 e tornou-se o principal símbolo da Revolução Francesa, sobretudo porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q18-1.jpg",
-        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2026-cg/q18-1.png",
+        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -742,15 +889,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -772,7 +918,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No campo simbólico, os heróis nacionais das independências nas Américas só foram consagrados depois de lutas de representação, que determinaram escolhas e exclusões particulares a cada país. Na Venezuela, a trajetória de \nentronização de Simón Bolívar como herói máximo é exemplar. Ainda que tivesse dedicado a vida à causa da independência de vastas extensões da América do Sul, Bolívar \nmorreu no exílio, criticado e desprezado por seus antigos \naliados. Porém, na década de 1840, quando a Venezuela \nvivia um período de intensas lutas políticas que ameaçavam \nsua coesão interna, as visões sobre Simón Bolívar sofreram \nalterações radicais que o conduziram da condição de traidor da pátria ao altar dos heróis consolidadores da unidade \nnacional.\n\n(Maria Ligia Coelho Prado. América Latina no século XIX:\n\ntramas, telas e textos, 2014. Adaptado.)\n\nConsiderando o excerto, a construção histórica dos heróis \ndas independências nas Américas fez parte do processo de",
+    "statement": "No campo simbólico, os heróis nacionais das independências nas Américas só foram consagrados depois de lutas de representação, que determinaram escolhas e exclusões particulares a cada país. Na Venezuela, a trajetória de entronização de Simón Bolívar como herói máximo é exemplar. Ainda que tivesse dedicado a vida à causa da independência de vastas extensões da América do Sul, Bolívar morreu no exílio, criticado e desprezado por seus antigos aliados. Porém, na década de 1840, quando a Venezuela vivia um período de intensas lutas políticas que ameaçavam sua coesão interna, as visões sobre Simón Bolívar sofreram alterações radicais que o conduziram da condição de traidor da pátria ao altar dos heróis consolidadores da unidade nacional.\n\n(Maria Ligia Coelho Prado. América Latina no século XIX:\n\ntramas, telas e textos, 2014. Adaptado.)\n\nConsiderando o excerto, a construção histórica dos heróis das independências nas Américas fez parte do processo de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fortalecimento da unidade política e da identidade nacional.",
@@ -783,15 +935,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -813,7 +964,14 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine o artigo 1o da Lei Eusébio de Queirós, aprovada em \n4 de setembro de 1850.\n\nArt. 1o — As embarcações brasileiras encontradas em \nqualquer parte, e as estrangeiras encontradas nos portos, \nenseadas, ancoradouros, ou mares territoriais do Brasil, \ntendo a seu bordo escravizados, cuja importação é proibida \npela lei de 7 de novembro de 1831, ou havendo-os desembarcado, serão apreendidas pelas autoridades, ou pelos navios de guerra brasileiros e consideradas importadoras de \nescravizados.\n\n(Apud Clóvis Moura. Dicionário da Escravidão negra no Brasil,\n\n2013. Adaptado.)\n\nO artigo da lei tinha como principal objetivo",
+    "statement": "Examine o artigo $1^{o}$ da Lei Eusébio de Queirós, aprovada em 4 de setembro de 1850.\n\nArt. $1^{o}$ — As embarcações brasileiras encontradas em qualquer parte, e as estrangeiras encontradas nos portos, enseadas, ancoradouros, ou mares territoriais do Brasil, tendo a seu bordo escravizados, cuja importação é proibida pela lei de 7 de novembro de 1831, ou havendo-os desembarcado, serão apreendidas pelas autoridades, ou pelos navios de guerra brasileiros e consideradas importadoras de escravizados.\n\n(Apud Clóvis Moura. Dicionário da Escravidão negra no Brasil,\n\n2013. Adaptado.)\n\nO artigo da lei tinha como principal objetivo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "regulamentar o tráfico interprovincial para substituir a importação de escravizados.",
@@ -824,15 +982,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 20."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -854,7 +1011,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Exemplos de uma época de intenso intercâmbio cultural \ne de transformações significativas na história do Brasil e do \nmundo, o Theatro da Paz (Belém - PA) e o Teatro Amazonas \n(Manaus - AM) foram inaugurados em 1878 e 1896, respectivamente. Representam um projeto de urbanização e modernização da região Amazônica em pleno apogeu econômico \nda época, graças à exploração da borracha. [...]\n\nEspaços culturais monumentais inseridos nos dois maiores centros urbanos da Amazônia, os teatros mesclam, em \nsua arquitetura e espaços públicos associados, as influências \nartísticas, urbanísticas e tecnológicas europeias do final do \nséculo XIX, com elementos da paisagem amazônica e o uso \nde materiais locais.\n\n(www.gov.br)\n\nO excerto apresenta exemplos característicos",
+    "statement": "Exemplos de uma época de intenso intercâmbio cultural e de transformações significativas na história do Brasil e do mundo, o Theatro da Paz (Belém - PA) e o Teatro Amazonas (Manaus - AM) foram inaugurados em 1878 e 1896, respectivamente. Representam um projeto de urbanização e modernização da região Amazônica em pleno apogeu econômico da época, graças à exploração da borracha. [...]\n\nEspaços culturais monumentais inseridos nos dois maiores centros urbanos da Amazônia, os teatros mesclam, em sua arquitetura e espaços públicos associados, as influências artísticas, urbanísticas e tecnológicas europeias do final do século XIX, com elementos da paisagem amazônica e o uso de materiais locais.\n\n(www.gov.br)\n\nO excerto apresenta exemplos característicos",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do legado cultural do Iluminismo na Amazônia.",
@@ -865,15 +1028,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 21."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -895,7 +1057,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise um trecho do Manifesto dos Mineiros, escrito em 24 \nde outubro de 1943.\n\nSe lutamos contra o fascismo, ao lado das Nações Unidas, para que a liberdade e a democracia sejam restituídas \na todos os povos, certamente não pedimos demais reclamando para nós mesmos os direitos e as garantias que as \ncaracterizam.\n\n(www.dhnet.org.br)\n\nConsiderando o excerto, esse manifesto",
+    "statement": "Analise um trecho do Manifesto dos Mineiros, escrito em 24 de outubro de 1943.\n\nSe lutamos contra o fascismo, ao lado das Nações Unidas, para que a liberdade e a democracia sejam restituídas a todos os povos, certamente não pedimos demais reclamando para nós mesmos os direitos e as garantias que as caracterizam.\n\n(www.dhnet.org.br)\n\nConsiderando o excerto, esse manifesto",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "advogava a elaboração de uma nova Constituição para o país que tivesse como modelo a legislação italiana da época, mas com ajustes à realidade brasileira.",
@@ -906,15 +1074,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -936,7 +1103,14 @@ export const uea2026Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O racismo estrutural configura desde sistemas de apreciação moral e estética às políticas institucionais, passando \npelo acesso diferenciado à saúde e à educação. Dito de outro \nmodo, o racismo estrutura a sociedade brasileira, assentada, historicamente, em quase 400 anos de relações escravocratas. O racismo estrutural manifesta-se na esfera pública \ne privada, em discursos e práticas sociais, de forma praticamente invisível porque naturalizada: está incorporado na \nmaterialidade de nossos corpos e em nossos esquemas de \npercepção, pensamento e ação — constituindo o que o sociólogo Pierre Bourdieu chamaria de habitus, isto é, uma relação \nsocial somatizada, efeito da inscrição das estruturas sociais e \nsimbólicas no corpo; um habitus racializado.\n\n(Gerusa Faria Rodrigues e Debora Breder. “‘Raça’ e racismo estrutural:\n\n(re)pensando a formação de professores na educação básica”.\n\nRevista Brasileira de Política e Administração da Educação,\n\nvol. 39, no 1, 2024. Adaptado.)\n\nNo excerto, relaciona-se o conceito de habitus ao fenômeno \ndo racismo estrutural porque",
+    "statement": "O racismo estrutural configura desde sistemas de apreciação moral e estética às políticas institucionais, passando pelo acesso diferenciado à saúde e à educação. Dito de outro modo, o racismo estrutura a sociedade brasileira, assentada, historicamente, em quase 400 anos de relações escravocratas. O racismo estrutural manifesta-se na esfera pública e privada, em discursos e práticas sociais, de forma praticamente invisível porque naturalizada: está incorporado na materialidade de nossos corpos e em nossos esquemas de percepção, pensamento e ação — constituindo o que o sociólogo Pierre Bourdieu chamaria de habitus, isto é, uma relação social somatizada, efeito da inscrição das estruturas sociais e simbólicas no corpo; um habitus racializado.\n\n(Gerusa Faria Rodrigues e Debora Breder. “‘Raça’ e racismo estrutural:\n\n(re)pensando a formação de professores na educação básica”. Revista Brasileira de Política e Administração da Educação,\n\nvol. 39, $n^{o}$ 1, 2024. Adaptado.)\n\nNo excerto, relaciona-se o conceito de habitus ao fenômeno do racismo estrutural porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o racismo se manifesta estritamente na desigualdade de renda e de representatividade social e política entre brancos e negros no Brasil.",
@@ -947,15 +1121,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 23."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -977,7 +1150,12 @@ export const uea2026Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em instante algum Kant admite que a realidade, em si \nmesma, é espacial, temporal, qualitativa, quantitativa, causal \netc. [...] O que Kant afirma é que a razão e o sujeito do conhecimento possuem essas estruturas para poder conhecer \ne que, por serem elas universais e necessárias, o conhecimento é racional e verdadeiro para os seres humanos.\n\n(Marilena Chauí. Convite à Filosofia, 1995.)\n\nPara Kant, o conhecimento racional e verdadeiro é alcançado \nporque",
+    "statement": "Em instante algum Kant admite que a realidade, em si mesma, é espacial, temporal, qualitativa, quantitativa, causal etc. [...] O que Kant afirma é que a razão e o sujeito do conhecimento possuem essas estruturas para poder conhecer e que, por serem elas universais e necessárias, o conhecimento é racional e verdadeiro para os seres humanos.\n\n(Marilena Chauí. Convite à Filosofia, 1995.)\n\nPara Kant, o conhecimento racional e verdadeiro é alcançado porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o conhecimento resulta da razão pura, independentemente das experiências do mundo externo.",
@@ -988,15 +1166,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 24."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1018,12 +1195,19 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o excerto e analise a imagem, publicada pelo perfil \n@diariodegeografo em 30.03.2026.\n\nÉ uma importante categoria de análise no contexto \ngeográfico, pois retrata as relações de poder no viés da atualidade e as formas de reprodução socioespacial em que o homem foi e é o principal protagonista. Corresponde ao conceito que envolve em seu escopo a responsabilidade de explicar \na realidade, com isso se tornou uma importante categoria de \nestudo e pesquisa para entender a dinâmica de produção e \nreprodução social e espacial a que estava submetida.\n\n(Juliana Santos de Souza Cunha e Silvio Simione da Silva. \n“O ensino de geografia: e as principais categorias espaciais”.\n\nRevista Presença Geográfica, 2022. Adaptado.)\n\n(www.instagram.com, 30.03.2026.)\n\nAs informações apresentadas referem-se à categoria espacial de análise da geografia denominada",
+    "statement": "Leia o excerto e analise a imagem, publicada pelo perfil @diariodegeografo em 30.03.2026.\n\nÉ uma importante categoria de análise no contexto geográfico, pois retrata as relações de poder no viés da atualidade e as formas de reprodução socioespacial em que o homem foi e é o principal protagonista. Corresponde ao conceito que envolve em seu escopo a responsabilidade de explicar a realidade, com isso se tornou uma importante categoria de estudo e pesquisa para entender a dinâmica de produção e reprodução social e espacial a que estava submetida.\n\n(Juliana Santos de Souza Cunha e Silvio Simione da Silva. “O ensino de geografia: e as principais categorias espaciais”.\n\nRevista Presença Geográfica, 2022. Adaptado.)\n\n(www.instagram.com, 30.03.2026.)\n\nAs informações apresentadas referem-se à categoria espacial de análise da geografia denominada",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2026-cg/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1035,15 +1219,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1065,7 +1248,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O presidente dos EUA, Donald Trump, comemorou o \navanço de um projeto de lei que pretende tornar o horário de \nverão permanente nos Estado Unidos. Nesse país, o horário \nde verão costuma começar no segundo domingo de março, \nquando os relógios são adiantados das 2h da manhã para \nas 3h da manhã, e se encerra no primeiro domingo de novembro. Dessa forma, o país já costuma permanecer cerca \nde 65%, ou quase dois terços do ano, em horário de verão. \n“Optamos pela alternativa muito mais popular, que proporciona dias mais longos e iluminados — e quem pode ser contra \nisso? Essa é fácil!”, disse o presidente Trump.\n\n(https://g1.globo.com, 21.05.2026. Adaptado.)\n\nO equívoco na fala do presidente Donald Trump, mencionada \nno excerto, está relacionado à ideia de que",
+    "statement": "O presidente dos EUA, Donald Trump, comemorou o avanço de um projeto de lei que pretende tornar o horário de verão permanente nos Estado Unidos. Nesse país, o horário de verão costuma começar no segundo domingo de março, quando os relógios são adiantados das 2h da manhã para as 3h da manhã, e se encerra no primeiro domingo de novembro. Dessa forma, o país já costuma permanecer cerca de 65%, ou quase dois terços do ano, em horário de verão. “Optamos pela alternativa muito mais popular, que proporciona dias mais longos e iluminados — e quem pode ser contra isso? Essa é fácil!”, disse o presidente Trump.\n\n(https://g1.globo.com, 21.05.2026. Adaptado.)\n\nO equívoco na fala do presidente Donald Trump, mencionada no excerto, está relacionado à ideia de que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o período de verão ocorre entre os meses de novembro e março.",
@@ -1076,15 +1264,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1106,12 +1293,17 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o mapa que mostra a distribuição de diferentes tipos \nde rocha na Amazônia.\n\n(Roseane Ribeiro Sarges et al. Geosciences and Humanities\n\nresearch medium, 2010. Adaptado.)\n\nNo mapa, a estrutura geológica formada por rochas ígneas e \nmetamórficas corresponde",
+    "statement": "Analise o mapa que mostra a distribuição de diferentes tipos de rocha na Amazônia.\n\n(Roseane Ribeiro Sarges et al. Geosciences and Humanities\n\nresearch medium, 2010. Adaptado.)\n\nNo mapa, a estrutura geológica formada por rochas ígneas e metamórficas corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q27-1.jpg",
-        "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2026-cg/q27-1.png",
+        "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1123,15 +1315,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1153,7 +1344,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O El Niño pode provocar impactos marcantes nos padrões de precipitação e na temperatura do ar em grande parte do território brasileiro. Para esse cenário são esperadas \nalterações nos padrões climáticos em diferentes regiões do \nBrasil. Na região Sul poderá haver aumento dos volumes de \nprecipitação. Em contrapartida, observa-se uma tendência de \nredução das chuvas na Região Norte, especialmente entre \nos meses de junho e março, e no norte da Região Nordeste, \nentre abril e junho. Adicionalmente, durante a primavera (setembro a dezembro), há indicativos de condições mais secas \nem áreas do Sudeste e do Centro-Oeste, abrangendo os estados de Minas Gerais, Espírito Santo, Rio de Janeiro, Goiás \ne Bahia.\n\n(Nota Técnica – El Niño 2026. www.gov.br, abril de 2026. Adaptado.)\n\nNo território brasileiro, a mudança temporária nos padrões \nmeteorológicos provocados pelo El Niño tem como consequência, na região",
+    "statement": "O El Niño pode provocar impactos marcantes nos padrões de precipitação e na temperatura do ar em grande parte do território brasileiro. Para esse cenário são esperadas alterações nos padrões climáticos em diferentes regiões do Brasil. Na região Sul poderá haver aumento dos volumes de precipitação. Em contrapartida, observa-se uma tendência de redução das chuvas na Região Norte, especialmente entre os meses de junho e março, e no norte da Região Nordeste, entre abril e junho. Adicionalmente, durante a primavera (setembro a dezembro), há indicativos de condições mais secas em áreas do Sudeste e do Centro-Oeste, abrangendo os estados de Minas Gerais, Espírito Santo, Rio de Janeiro, Goiás e Bahia.\n\n(Nota Técnica – El Niño 2026. www.gov.br, abril de 2026. Adaptado.)\n\nNo território brasileiro, a mudança temporária nos padrões meteorológicos provocados pelo El Niño tem como consequência, na região",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Norte, uma estação seca mais prolongada, o que favorece maior vulnerabilidade do bioma amazônico à ocorrência e propagação de incêndios florestais.",
@@ -1164,15 +1360,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 28."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1194,7 +1389,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O 3o Encontro das Partes (MOP-3), realizado em Curitiba (PR), definiu a posição de alguns países em relação a \nvários pontos sobre um determinado pacto internacional. O \nBrasil, embora signatário desse pacto, chega ao evento com \nalgumas divergências, principalmente no que diz respeito à \nidentificação dos alimentos geneticamente modificados. Esse \npacto internacional, que faz parte da Convenção sobre Diversidade Biológica (CDB), foi aprovado em janeiro de 2000 e \nentrou em vigor em setembro do ano seguinte. Atualmente, \nmais de 130 países fazem parte desse pacto. O Brasil confirmou sua adesão em novembro de 2003.\n\n(www12.senado.leg.br, 13.03.2026. Adaptado.)\n\nO objetivo central da Convenção sobre Diversidade Biológica \ne o nome do pacto internacional vigente para implementar \nesse objetivo são, respectivamente,",
+    "statement": "O $3^{o}$ Encontro das Partes (MOP-3), realizado em Curitiba (PR), definiu a posição de alguns países em relação a vários pontos sobre um determinado pacto internacional. O Brasil, embora signatário desse pacto, chega ao evento com algumas divergências, principalmente no que diz respeito à identificação dos alimentos geneticamente modificados. Esse pacto internacional, que faz parte da Convenção sobre Diversidade Biológica (CDB), foi aprovado em janeiro de 2000 e entrou em vigor em setembro do ano seguinte. Atualmente, mais de 130 países fazem parte desse pacto. O Brasil confirmou sua adesão em novembro de 2003.\n\n(www12.senado.leg.br, 13.03.2026. Adaptado.)\n\nO objetivo central da Convenção sobre Diversidade Biológica e o nome do pacto internacional vigente para implementar esse objetivo são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "adotar medidas protecionistas sobre os países alheios ao desenvolvimento de pesquisas científicas sobre as práticas de bem-estar animal – Acordo de Genebra.",
@@ -1205,15 +1405,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 29."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1235,7 +1434,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O número de veículos registrados no Amazonas cresceu \nem 2025 e chegou a 1 317 699 unidades, segundo dados do \nDepartamento Estadual de Trânsito do Amazonas (Detran-\n-AM). Desse total, Manaus concentra quase 80% da frota, \ncom mais de 1 milhão de veículos em circulação, em uma \ncidade com a população estimada em 2,303 milhões de habitantes, resultando em uma média de 2,21 habitantes por \nveículo. A concentração de veículos também é elevada na \nRegião Metropolitana de Manaus, o equivalente a 87% da \nfrota estadual. As motocicletas somam 430 540 unidades, representando 75% das motos do Amazonas e 62% dos veículos de duas rodas da região metropolitana.\n\n(Caio Silva. www.riosdenoticias.com.br, 13.01.2026. Adaptado.)\n\nConsiderando conhecimentos sobre a mobilidade nas cidades brasileiras e os dados sobre a frota de veículos mencionado no excerto, em Manaus,",
+    "statement": "O número de veículos registrados no Amazonas cresceu em 2025 e chegou a 1 317 699 unidades, segundo dados do Departamento Estadual de Trânsito do Amazonas (Detran-AM). Desse total, Manaus concentra quase 80% da frota, com mais de 1 milhão de veículos em circulação, em uma cidade com a população estimada em 2,303 milhões de habitantes, resultando em uma média de 2,21 habitantes por veículo. A concentração de veículos também é elevada na Região Metropolitana de Manaus, o equivalente a 87% da frota estadual. As motocicletas somam 430 540 unidades, representando 75% das motos do Amazonas e 62% dos veículos de duas rodas da região metropolitana.\n\n(Caio Silva. www.riosdenoticias.com.br, 13.01.2026. Adaptado.)\n\nConsiderando conhecimentos sobre a mobilidade nas cidades brasileiras e os dados sobre a frota de veículos mencionado no excerto, em Manaus,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a concentração de indústrias automobilísticas na Zona Franca, vinculada aos incentivos fiscais, beneficia a aquisição de veículos pela população local.",
@@ -1246,15 +1450,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 30."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1276,12 +1479,16 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a propaganda da Superintendência de Desenvolvimento da Amazônia (Sudam), publicada na edição especial \n“Amazônia” da Revista Realidade, em 1972.\n\n(Fernanda Wenzel. www.ihu.unisinos.br, 04.10.2020. Adaptado.)\n\nCom base na análise da propaganda, a iniciativa da Sudam \nestava vinculada à política pública do Estado brasileiro, \ncaracterizada",
+    "statement": "Analise a propaganda da Superintendência de Desenvolvimento da Amazônia (Sudam), publicada na edição especial “Amazônia” da Revista Realidade, em 1972.\n\n(Fernanda Wenzel. www.ihu.unisinos.br, 04.10.2020. Adaptado.)\n\nCom base na análise da propaganda, a iniciativa da Sudam estava vinculada à política pública do Estado brasileiro, caracterizada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q31-1.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2026-cg/q31-1.png",
+        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1293,15 +1500,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1323,12 +1529,16 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Após quase duas décadas de esforços técnicos, o Brasil \nconquistou uma das maiores vitórias geopolíticas recentes. A \nMarinha, com apoio da Petrobras, garantiu ao país o direito \nsoberano de explorar uma área marítima de 360 mil km2, \nlocalizada além das 200 milhas náuticas da costa do Amapá e Pará. A decisão da Organização das Nações Unidas \n(ONU) fortalece a soberania brasileira sobre recursos naturais no Atlântico Norte. Para conquistar essa extensão além \ndas 200 milhas náuticas, o Brasil precisou comprovar que o \nrelevo submarino é uma extensão natural do seu território \ncontinental.\n\n(Marcelo Barros. www.defesaemfoco.com.br, 27.03.2025. Adaptado.)\n\nA região em que a área marítima incorporada ao espaço soberano do Brasil está localizada e o principal recurso natural \na ser explorado nessa área são, respectivamente,",
+    "statement": "Após quase duas décadas de esforços técnicos, o Brasil conquistou uma das maiores vitórias geopolíticas recentes. A Marinha, com apoio da Petrobras, garantiu ao país o direito soberano de explorar uma área marítima de 360 mil $km^{2}$, localizada além das 200 milhas náuticas da costa do Amapá e Pará. A decisão da Organização das Nações Unidas (ONU) fortalece a soberania brasileira sobre recursos naturais no Atlântico Norte. Para conquistar essa extensão além das 200 milhas náuticas, o Brasil precisou comprovar que o relevo submarino é uma extensão natural do seu território continental.\n\n(Marcelo Barros. www.defesaemfoco.com.br, 27.03.2025. Adaptado.)\n\nA região em que a área marítima incorporada ao espaço soberano do Brasil está localizada e o principal recurso natural a ser explorado nessa área são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q32-1.jpg",
-        "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2026-cg/q32-1.png",
+        "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1340,15 +1550,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1370,7 +1579,13 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O gráfico apresenta o percentual de imigrantes no Brasil, \nde acordo com o território de origem desses imigrantes, nos \nperíodos 2005-2010 e 2017-2022.\n\n(Christina Queiroz. A nova posição do Brasil no mapa das \nmigrações internacionais. https://revistapesquisa.fapesp.br, 29.09.2025.)\n\nConsiderando conhecimentos sobre o processo de imigração \nque ocorre no Brasil e a análise dos dados do gráfico,",
+    "statement": "O gráfico apresenta o percentual de imigrantes no Brasil, de acordo com o território de origem desses imigrantes, nos períodos 2005-2010 e 2017-2022.\n\n(Christina Queiroz. A nova posição do Brasil no mapa das\n\nmigrações internacionais. https://revistapesquisa.fapesp.br, 29.09.2025.)\n\nConsiderando conhecimentos sobre o processo de imigração que ocorre no Brasil e a análise dos dados do gráfico,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "no período de 2017 a 2022, houve redução no percentual de imigrantes oriundos dos países desenvolvidos em razão da emigração de retorno.",
@@ -1381,15 +1596,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 33."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1411,7 +1625,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A China é o único país do mundo em que uma urbanização em ritmo nunca visto antes na história se processou sem \ngerar informalidade e periferias urbanas empobrecidas como \nem outros países urbanizados. A bem-sucedida urbanização \nchinesa, que aconteceu muito mais ordenada do que em outros países, mesmo na velocidade e nas dimensões populacionais em que se deu, atesta que economias capitalistas de \norientação neoliberal não são capazes de produzir planejamento urbano que seja efetivo, mesmo com boa intenção técnica. O planejamento urbano chinês é de longo prazo e não \nestá sujeito à descontinuidade administrativa de governos.\n\n(Sérgio Jatobá. https://outraspalavras.net, 26.12.2025. Adaptado.)\n\nO processo de urbanização da China retratado no excerto é \ndeterminado",
+    "statement": "A China é o único país do mundo em que uma urbanização em ritmo nunca visto antes na história se processou sem gerar informalidade e periferias urbanas empobrecidas como em outros países urbanizados. A bem-sucedida urbanização chinesa, que aconteceu muito mais ordenada do que em outros países, mesmo na velocidade e nas dimensões populacionais em que se deu, atesta que economias capitalistas de orientação neoliberal não são capazes de produzir planejamento urbano que seja efetivo, mesmo com boa intenção técnica. O planejamento urbano chinês é de longo prazo e não está sujeito à descontinuidade administrativa de governos.\n\n(Sérgio Jatobá. https://outraspalavras.net, 26.12.2025. Adaptado.)\n\nO processo de urbanização da China retratado no excerto é determinado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pelas ações ao êxodo urbano acelerado.",
@@ -1422,15 +1641,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1452,12 +1670,17 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine os mapas que mostram o domínio do mercado de \ncarros elétricos no mundo, em 2020 e 2025.\n\nTesla – Indústria estadunidense\nBYD – Indústria chinesa\n\n(Eric Napoli. www.poder360.com.br, 09.03.2026. Adaptado.)\n\nA mudança no cenário da disputa de poder industrial de \ncarros elétricos em escala global, retratada nos mapas, é \nconsequência",
+    "statement": "Examine os mapas que mostram o domínio do mercado de carros elétricos no mundo, em 2020 e 2025.\n\nTesla – Indústria estadunidense BYD – Indústria chinesa\n\n(Eric Napoli. www.poder360.com.br, 09.03.2026. Adaptado.)\n\nA mudança no cenário da disputa de poder industrial de carros elétricos em escala global, retratada nos mapas, é consequência",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q35-1.jpg",
-        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 13."
+        "src": "/images/uea/vestibular-2026-cg/q35-1.png",
+        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1469,15 +1692,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1499,7 +1721,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Esse grupo armado libanês rejeitou enfaticamente os \ntermos do cessar-fogo, apoiado pelos Estados Unidos, entre \nIsrael e o Líbano. Esse grupo armado, uma milícia muçulmana xiita, é um partido político e um movimento social. Com \no apoio do Irã, construiu uma força armada mais formidável \nque o exército libanês, tendo travado uma série de conflitos \ncom Israel. É considerado uma organização terrorista por \nIsrael e muitos outros países, incluindo o Reino Unido e os \nEstados Unidos.\n\n(John Sudworth et al. www.bbc.com, 05.06.2026. Adaptado.)\n\nO excerto refere-se ao grupo armado",
+    "statement": "Esse grupo armado libanês rejeitou enfaticamente os termos do cessar-fogo, apoiado pelos Estados Unidos, entre Israel e o Líbano. Esse grupo armado, uma milícia muçulmana xiita, é um partido político e um movimento social. Com o apoio do Irã, construiu uma força armada mais formidável que o exército libanês, tendo travado uma série de conflitos com Israel. É considerado uma organização terrorista por Israel e muitos outros países, incluindo o Reino Unido e os Estados Unidos.\n\n(John Sudworth et al. www.bbc.com, 05.06.2026. Adaptado.)\n\nO excerto refere-se ao grupo armado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Hamas.",
@@ -1510,15 +1737,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1540,7 +1766,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em um de seus experimentos, Louis Pasteur demonstrou que o caldo de carne poderia ser esterilizado fervendo-o \nem um frasco de “pescoço de cisne”, vidraria que possui um \nlongo gargalo curvado que retém partículas de poeira e outros contaminantes antes que cheguem ao corpo do frasco. \nContudo, se esse caldo fosse fervido e o gargalo do frasco \nfosse quebrado após a fervura, o caldo, ao ser reexposto ao \nar, eventualmente se tornaria turvo, indicando contaminação \nmicrobiana.\n\n(www.britannica.com. Adaptado.)\n\nPor meio do experimento descrito no excerto, Louis Pasteur \nrefutou a ideia",
+    "statement": "Em um de seus experimentos, Louis Pasteur demonstrou que o caldo de carne poderia ser esterilizado fervendo-o em um frasco de “pescoço de cisne”, vidraria que possui um longo gargalo curvado que retém partículas de poeira e outros contaminantes antes que cheguem ao corpo do frasco. Contudo, se esse caldo fosse fervido e o gargalo do frasco fosse quebrado após a fervura, o caldo, ao ser reexposto ao ar, eventualmente se tornaria turvo, indicando contaminação microbiana.\n\n(www.britannica.com. Adaptado.)\n\nPor meio do experimento descrito no excerto, Louis Pasteur refutou a ideia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da abiogênese.",
@@ -1551,15 +1782,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 37."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1581,7 +1811,11 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a teia alimentar.\n\nNessa teia alimentar, considerando todas as suas possíveis interações alimentares, o jacaré-açu atua apenas como \nconsumidor",
+    "statement": "Analise a teia alimentar.\n\nNessa teia alimentar, considerando todas as suas possíveis interações alimentares, o jacaré-açu atua apenas como consumidor",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "primário, secundário e terciário.",
@@ -1592,15 +1826,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 38."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1622,7 +1855,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O envenenamento causado pela picada de serpentes \npeçonhentas exige uma intervenção rápida, com a administração de antiveneno, preferencialmente nas primeiras seis \nhoras após a picada. No entanto, muitos grupos vulneráveis \npodem levar dias para alcançar a assistência médica, no momento em que o antiveneno já não é capaz de neutralizar os \nefeitos do envenenamento.\n\n(www.amazoniamaisdez.org.br)\n\nO antiveneno referido no excerto é constituído por",
+    "statement": "O envenenamento causado pela picada de serpentes peçonhentas exige uma intervenção rápida, com a administração de antiveneno, preferencialmente nas primeiras seis horas após a picada. No entanto, muitos grupos vulneráveis podem levar dias para alcançar a assistência médica, no momento em que o antiveneno já não é capaz de neutralizar os efeitos do envenenamento.\n\n(www.amazoniamaisdez.org.br)\n\nO antiveneno referido no excerto é constituído por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "antibióticos.",
@@ -1633,15 +1871,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 39."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1663,7 +1900,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em um experimento, uma célula vegetal inicialmente em \nsolução isotônica foi transferida, no instante T1, para a \nsolução A. Posteriormente, no instante T2, a célula vegetal foi retirada dessa solução e colocada na solução B. O \ngráfico apresenta a variação do volume celular ao longo do \ntempo durante o experimento.\n\nDe acordo com a análise do gráfico, a solução A é , \ne a solução B é . A plasmólise sofrida pela célula \nvegetal ocorreu .\n\nAs lacunas no texto são preenchidas, respectivamente, por:",
+    "statement": "Em um experimento, uma célula vegetal inicialmente em\n\ntal foi retirada dessa solução e colocada na solução B. O solução isotônica foi transferida, no instante Tsolução A. Posteriormente, no instante $T_{2}$ 1, para a gráfico apresenta a variação do volume celular ao longo do tempo durante o experimento.\n\nDe acordo com a análise do gráfico, a solução A é, e a solução B é. A plasmólise sofrida pela célula vegetal ocorreu. As lacunas no texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "hipotônica – hipertônica – após o instante T2",
@@ -1674,15 +1916,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 40."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1704,7 +1945,10 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em galináceos, o genótipo pp determina pernas de comprimento normal, enquanto o genótipo heterozigoto Pp resulta \nem aves com pernas curtas. O cruzamento entre duas aves \nde pernas curtas produz, entre os descendentes, uma proporção fenotípica de 2 aves de pernas curtas para 1 ave de \npernas normais. Essa proporção fenotípica é explicada por",
+    "statement": "Em galináceos, o genótipo pp determina pernas de comprimento normal, enquanto o genótipo heterozigoto Pp resulta em aves com pernas curtas. O cruzamento entre duas aves de pernas curtas produz, entre os descendentes, uma proporção fenotípica de 2 aves de pernas curtas para 1 ave de pernas normais. Essa proporção fenotípica é explicada por",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "codominância.",
@@ -1715,15 +1959,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 41."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1745,7 +1988,11 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra a distribuição dos genes A, B e D em diferentes pares de cromossomos homólogos em uma célula animal \nsomática.\n\nNo período G2 da interfase, essa célula animal apresentará \nos alelos dominantes distribuídos em",
+    "statement": "A figura mostra a distribuição dos genes A, B e D em diferentes pares de cromossomos homólogos em uma célula animal somática.\n\nNo período G2 da interfase, essa célula animal apresentará os alelos dominantes distribuídos em",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "seis cromossomos simples.",
@@ -1756,15 +2003,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 42."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1786,17 +2032,17 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As figuras 1 e 2 mostram, respectivamente, um ouriço-do-mar \n(Sphaerechinus granularis) e um cacto-barril (Echinocactus \ngrusonii).\n\nFigura 1\nFigura 2\n\n(https://super.abril.com.br)\n(https://pt.wikipedia.org)\n\nA semelhança morfológica observada entre essas espécies \nconstitui uma evidência de",
+    "statement": "As figuras 1 e 2 mostram, respectivamente, um ouriço-do-mar (Sphaerechinus granularis) e um cacto-barril (Echinocactus grusonii).\n\nFigura 1 Figura 2\n\n(https://super.abril.com.br) (https://pt.wikipedia.org)\n\nA semelhança morfológica observada entre essas espécies constitui uma evidência de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q43-1.jpg",
-        "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 15."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-cg/q43-2.jpg",
-        "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/vestibular-2026-cg/q43-1.png",
+        "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1808,15 +2054,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 43."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1838,12 +2083,16 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a figura que mostra a estrutura de um néfron que \ncompõe os rins humanos.\n\n(https://sanarmed.com. Adaptado.)\n\nNo néfron,",
+    "statement": "Analise a figura que mostra a estrutura de um néfron que compõe os rins humanos.\n\n(https://sanarmed.com. Adaptado.)\n\nNo néfron,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q44-1.jpg",
-        "alt": "Imagem de apoio da questão 44 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/vestibular-2026-cg/q44-1.png",
+        "alt": "Imagem de apoio da questão 44 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1855,15 +2104,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 44."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -1885,12 +2133,15 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um dos cônjuges passou a ter dúvidas sobre a paternidade \nbiológica de um dos três filhos do casal. Para investigar essa \nsuspeita, foram realizados testes de paternidade envolvendo \no casal (esposa e marido), os três filhos e um suposto pai. \nA figura apresenta os perfis de DNA obtidos nesse exame.\n\nA análise do teste de paternidade permite concluir que",
+    "statement": "Um dos cônjuges passou a ter dúvidas sobre a paternidade biológica de um dos três filhos do casal. Para investigar essa suspeita, foram realizados testes de paternidade envolvendo o casal (esposa e marido), os três filhos e um suposto pai. A figura apresenta os perfis de DNA obtidos nesse exame.\n\nA análise do teste de paternidade permite concluir que",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q45-1.jpg",
-        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/vestibular-2026-cg/q45-1.png",
+        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -1902,15 +2153,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 45."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -1932,7 +2182,10 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Com o avanço das análises moleculares, especialmente a \ncomparação de sequências de RNA ribossômico, novas relações evolutivas entre os seres vivos foram identificadas. \nNa década de 1990, Carl Woese sugeriu uma nova proposta \ntaxonômica, reorganizando a classificação dos seres vivos.\n\nNesse contexto, os seres vivos passaram a ser classificados \nem",
+    "statement": "Com o avanço das análises moleculares, especialmente a comparação de sequências de RNA ribossômico, novas relações evolutivas entre os seres vivos foram identificadas. Na década de 1990, Carl Woese sugeriu uma nova proposta taxonômica, reorganizando a classificação dos seres vivos. Nesse contexto, os seres vivos passaram a ser classificados em",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "três domínios: Bacteria, Archaea e Eukarya.",
@@ -1943,15 +2196,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 46."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -1973,7 +2225,11 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a sequência de aminoácidos de uma proteína associada a uma alteração na sequência de bases nitrogenadas \nda fita molde do DNA, decorrente de mutação gênica.\n\nEssa mutação gênica demonstra que o código genético é",
+    "statement": "Analise a sequência de aminoácidos de uma proteína associada a uma alteração na sequência de bases nitrogenadas da fita molde do DNA, decorrente de mutação gênica.\n\nEssa mutação gênica demonstra que o código genético é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "replicativo.",
@@ -1984,15 +2240,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 47."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2014,7 +2269,13 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na produção do leite zero lactose, a enzima lactase \né adicionada ao leite na quantidade de 65 mU para cada \n100 µL de leite, que é mantido a 37 ºC por três horas. O \ntratamento enzimático é finalizado pelo aquecimento do \nleite a 60 ºC durante 10 minutos, inativando, desse modo, \na enzima.\n\n(Adriana Dantas et al. Ciência e tecnologia de leite\n\ne produtos lácteos sem lactose. Adaptado.)\n\nNa produção do leite zero lactose, a lactase torna-se inativa \nem 60 ºC porque esse processo",
+    "statement": "Na produção do leite zero lactose, a enzima lactase é adicionada ao leite na quantidade de 65 mU para cada 100 µL de leite, que é mantido a 37 ºC por três horas. O tratamento enzimático é finalizado pelo aquecimento do leite a 60 ºC durante 10 minutos, inativando, desse modo, a enzima.\n\n(Adriana Dantas et al. Ciência e tecnologia de leite\n\ne produtos lácteos sem lactose. Adaptado.)\n\nNa produção do leite zero lactose, a lactase torna-se inativa em 60 ºC porque esse processo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "rompe as ligações peptídicas da enzima.",
@@ -2025,15 +2286,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 48."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2055,7 +2315,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma escola de idiomas, há 2 turmas para o curso de ale-\n\nmão, uma no período da manhã e outra no período da noite,\n\nde modo que a razão entre o número de alunos do período\n\nda manhã e o número de alunos do período da noite é 2\n\n3\n.\n\nApós a transferência de 2 alunos da turma da manhã para a\n\nturma da noite, a razão citada passou a ser 1\n\n2\n.\n\nO número de alunos da turma da manhã, após as transferências, passou a ser igual a",
+    "statement": "Em uma escola de idiomas, há 2 turmas para o curso de alemão, uma no período da manhã e outra no período da noite, de modo que a razão entre o número de alunos do período da manhã e o número de alunos do período da noite é $\\frac{2}{3}$. Após a transferência de 2 alunos da turma da manhã para a turma da noite, a razão citada passou a ser $\\frac{1}{2}$. O número de alunos da turma da manhã, após as transferências, passou a ser igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "18.",
@@ -2066,15 +2329,17 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 49."
+      "Sejam $M$ e $N$ os alunos da manhã e da noite: $\\frac{M}{N}=\\frac{2}{3} \\Rightarrow M=\\frac{2N}{3}$.",
+      "Após a transferência: $\\frac{M-2}{N+2}=\\frac{1}{2} \\Rightarrow 2(M-2)=N+2$.",
+      "Substituindo: $2(\\frac{2N}{3}-2)=N+2 \\Rightarrow \\frac{4N}{3}-4=N+2 \\Rightarrow \\frac{N}{3}=6 \\Rightarrow N=18$.",
+      "$M=\\frac{2\\cdot18}{3}=12$; após a transferência: $M-2=10$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A turma da manhã ficou com $10$ alunos."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2096,7 +2361,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um estudante comprou um livro, uma calculadora e um pen \ndrive, gastando no total R$ 294,00. O preço do pen drive foi \nigual a 70% do preço do livro, e a calculadora custou R$ 6,00 \na mais do que o pen drive. A diferença entre o preço do livro \ne o preço do pen drive foi",
+    "statement": "Um estudante comprou um livro, uma calculadora e um pen drive, gastando no total R$ 294,00. O preço do pen drive foi igual a 70% do preço do livro, e a calculadora custou R$ 6,00 a mais do que o pen drive. A diferença entre o preço do livro e o preço do pen drive foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 40,00.",
@@ -2107,15 +2375,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 50."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2137,7 +2404,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para bordar um pano, uma artesã dispõe de 7 cores diferentes de linha. Sabendo que ela utilizará somente 3 cores de \nlinha nesse bordado, o número de maneiras distintas de a \nartesã escolher essas 3 cores é",
+    "statement": "Para bordar um pano, uma artesã dispõe de 7 cores diferentes de linha. Sabendo que ela utilizará somente 3 cores de linha nesse bordado, o número de maneiras distintas de a artesã escolher essas 3 cores é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "42.",
@@ -2148,15 +2418,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 51."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2178,7 +2447,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa colocou um capital de R$ 850,00 em uma aplicação financeira que rende, mensalmente, uma taxa de 0,8% \napenas sobre o capital inicialmente aplicado, mas não sobre os rendimentos obtidos, que vão sendo acumulados sem \nacréscimos de juros. Ao término de determinado número de \nmeses, essa pessoa resgatou o capital aplicado mais os rendimentos obtidos, o que totalizou R$ 884,00. O número de \nmeses que esse capital ficou nessa aplicação foi",
+    "statement": "Uma pessoa colocou um capital de R$ 850,00 em uma aplicação financeira que rende, mensalmente, uma taxa de 0,8% apenas sobre o capital inicialmente aplicado, mas não sobre os rendimentos obtidos, que vão sendo acumulados sem acréscimos de juros. Ao término de determinado número de meses, essa pessoa resgatou o capital aplicado mais os rendimentos obtidos, o que totalizou R$ 884,00. O número de meses que esse capital ficou nessa aplicação foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5.",
@@ -2189,15 +2461,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 52."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2219,7 +2490,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Quatro amigos, Bia, Carol, Pedro e Rui, colecionaram as \nfigurinhas do álbum da Copa do Mundo de futebol, e as \nquantidades de figurinhas que faltaram para cada um deles \ncompletar seu próprio álbum formam, respectivamente, uma \nprogressão aritmética (PA) de razão 14. Sabendo que soma \nda quantidade de figurinhas que faltaram aos quatro amigos \né igual a 212, a quantidade de figurinhas que faltou para \nPedro completar seu álbum é igual a",
+    "statement": "Quatro amigos, Bia, Carol, Pedro e Rui, colecionaram as figurinhas do álbum da Copa do Mundo de futebol, e as quantidades de figurinhas que faltaram para cada um deles completar seu próprio álbum formam, respectivamente, uma progressão aritmética (PA) de razão 14. Sabendo que soma da quantidade de figurinhas que faltaram aos quatro amigos é igual a 212, a quantidade de figurinhas que faltou para Pedro completar seu álbum é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "46.",
@@ -2230,15 +2504,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 53."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2260,7 +2533,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma exposição sobre manifestações culturais regionais \noferece aos participantes oficinas de artesanato. Cada participante paga uma taxa fixa de R$ 25,00 para entrar na \nexposição e mais R$ 18,00 a cada oficina realizada, de maneira que o valor v(n) que um participante pagará nessa exposição, em reais, obedece à função polinomial do 1o grau: \nv(n) = 25 + 18n, em que n é o número de oficinas realizadas \npelo participante. Se um participante desse evento pretende \ngastar, no máximo, R$ 133,00, o maior número de oficinas \nque ele poderá fazer será",
+    "statement": "Uma exposição sobre manifestações culturais regionais oferece aos participantes oficinas de artesanato. Cada participante paga uma taxa fixa de R$ 25,00 para entrar na exposição e mais R$ 18,00 a cada oficina realizada, de maneira que o valor v(n) que um participante pagará nessa exposição, em reais, obedece à função polinomial do $1^{o}$ grau: v(n) = 25 + 18n, em que n é o número de oficinas realizadas pelo participante. Se um participante desse evento pretende gastar, no máximo, R$ 133,00, o maior número de oficinas que ele poderá fazer será",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.",
@@ -2271,15 +2547,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 54."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2301,7 +2576,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma empresa lançou 4 sabores diferentes de sucos, S1, S2, \nS3 e S4, e ofereceu a degustação desses sucos aos clientes \nde um supermercado. Cada cliente que participou dessa degustação escolheu o sabor de sua preferência. As informações obtidas foram sistematizadas no seguinte gráfico:\n\nNessa degustação, o número de clientes que escolheram o \nsabor S1 foi",
+    "statement": "Sde um supermercado. Cada cliente que participou dessa de-Uma empresa lançou 4 sabores diferentes de sucos, $S_{3}$ e $S_{4}$, e ofereceu a degustação desses sucos aos clientes₁, $S_{2}$,\n\ngustação escolheu o sabor de sua preferência. As informações obtidas foram sistematizadas no seguinte gráfico:\n\nNessa degustação, o número de clientes que escolheram o sabor $S_{1}$ foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "135.",
@@ -2312,15 +2592,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 55."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2342,7 +2621,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma jarra, no formato de um prisma reto de base quadrada, \ntem suas medidas internas indicadas na figura.\n\nfora de escala\n\nSe esta jarra estiver completamente cheia de água, será possível encher 14 copos, cada um deles contendo 300 mL de \nágua, e ainda restarão 120 mL de água dentro da jarra. A medida, em centímetros, da aresta interna da base dessa jarra, \nindicada na figura pela letra x, é igual a",
+    "statement": "Uma jarra, no formato de um prisma reto de base quadrada, tem suas medidas internas indicadas na figura.\n\nfora de escala\n\nSe esta jarra estiver completamente cheia de água, será possível encher 14 copos, cada um deles contendo 300 mL de água, e ainda restarão 120 mL de água dentro da jarra. A medida, em centímetros, da aresta interna da base dessa jarra, indicada na figura pela letra x, é igual a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "12.",
@@ -2353,15 +2637,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 56."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2383,7 +2666,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em um plano cartesiano, a parábola que representa a \nfunção f(x) = – x2 + bx + c, em que b e c são constantes \nreais, tem vértice V(3, 4), intersecta o eixo das ordenadas \nno ponto (0, – 5) e intersecta o eixo das abscissas nos pontos A e B.\n\nfora de escala\n\nA abscissa do ponto B é",
+    "statement": "Em um plano cartesiano, a parábola que representa a função f(x) = – $x^{2}$ + bx + c, em que b e c são constantes reais, tem vértice V(3, 4), intersecta o eixo das ordenadas no ponto (0, – 5) e intersecta o eixo das abscissas nos pontos A e B.\n\nfora de escala\n\nA abscissa do ponto B é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.",
@@ -2394,15 +2682,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 57."
+      "Vértice $(3,4)$ e $f(0)=-5$: $f(x)=-(x-3)^2+4$; $f(0)=-9+4=-5$ ✓.",
+      "Raízes: $-(x-3)^2+4=0 \\Rightarrow (x-3)^2=4 \\Rightarrow x=1$ ou $x=5$.",
+      "Pelo gráfico, B é a raiz maior: $x=5$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A abscissa de B é $5$.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2424,7 +2713,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um terreno retangular ABCD, com 30 m de comprimento, \nserá utilizado como espaço comunitário para aulas de artesanato. Nesse terreno, serão construídos um galpão, uma \ncozinha e banheiros (W). Os banheiros ocuparão uma área \nde 12 m2 e a cozinha terá 24 m2 de área.\n\nfora de escala\n\nA área destinada ao galpão será de",
+    "statement": "Um terreno retangular ABCD, com 30 m de comprimento, será utilizado como espaço comunitário para aulas de artesanato. Nesse terreno, serão construídos um galpão, uma cozinha e banheiros (W). Os banheiros ocuparão uma área de 12 $m^{2}$ e a cozinha terá 24 $m^{2}$ de área.\n\nfora de escala\n\nA área destinada ao galpão será de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "333 m2.",
@@ -2435,15 +2729,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 58."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2465,12 +2758,16 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para sustentar uma prateleira, foi fixada na parede uma estrutura de metal no formato de um triângulo retângulo ABC, \nreto em A, com BC = 20 cm, AB = x cm e AC = 12 cm. A figura \nmostra o perfil dessa estrutura.\n\nfora de escala\n\nSabendo que a largura da prateleira, que ficará apoiada \nsobre o lado AB da estrutura de metal, tem 14 cm a mais \ndo que o próprio lado AB, a medida da largura dessa prateleira é",
+    "statement": "Para sustentar uma prateleira, foi fixada na parede uma estrutura de metal no formato de um triângulo retângulo ABC, reto em A, com BC = 20 cm, AB = x cm e AC = 12 cm. A figura mostra o perfil dessa estrutura.\n\nfora de escala\n\nSabendo que a largura da prateleira, que ficará apoiada sobre o lado AB da estrutura de metal, tem 14 cm a mais do que o próprio lado AB, a medida da largura dessa prateleira é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q59-1.jpg",
-        "alt": "Imagem de apoio da questão 59 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 19."
+        "src": "/images/uea/vestibular-2026-cg/q59-1.png",
+        "alt": "Imagem de apoio da questão 59 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -2482,15 +2779,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 59."
+      "Triângulo reto em A: $AB=\\sqrt{BC^2-AC^2}=\\sqrt{400-144}=\\sqrt{256}=16$.",
+      "Largura da prateleira: $16+14=30$ cm."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A largura é $30$ cm."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2512,7 +2809,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O número de acidentes com bicicletas ocorridos em determinada cidade, em 5 dias de uma semana, foram registrados no \ngráfico a seguir, no qual o número de acidentes ocorridos na \nsexta-feira está representado por x.\n\nNúmero de acidentes com bicicletas\n\nSabendo que o número de acidentes ocorridos na sexta-feira \nsuperou em 5 acidentes a média aritmética do número de acidentes ocorridos nesses 5 dias, a diferença entre o número \nde acidentes ocorridos na sexta-feira e o número de acidentes ocorridos na terça-feira foi",
+    "statement": "O número de acidentes com bicicletas ocorridos em determinada cidade, em 5 dias de uma semana, foram registrados no gráfico a seguir, no qual o número de acidentes ocorridos na sexta-feira está representado por x.\n\nNúmero de acidentes com bicicletas\n\nSabendo que o número de acidentes ocorridos na sexta-feira superou em 5 acidentes a média aritmética do número de acidentes ocorridos nesses 5 dias, a diferença entre o número de acidentes ocorridos na sexta-feira e o número de acidentes ocorridos na terça-feira foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "12.",
@@ -2523,15 +2825,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 60."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2553,7 +2854,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um avião decolou da cidade do Rio de Janeiro para um \nvoo sem escala até Manaus. Sabe-se que a velocidade \nescalar média e o tempo de voo foram, aproximadamente, \nde 700 km/h e 4 h.\n\nNessas condições, a distância percorrida pelo avião foi de, \naproximadamente,",
+    "statement": "Um avião decolou da cidade do Rio de Janeiro para um voo sem escala até Manaus. Sabe-se que a velocidade escalar média e o tempo de voo foram, aproximadamente, de 700 km/h e 4 h. Nessas condições, a distância percorrida pelo avião foi de, aproximadamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3 600 km.",
@@ -2564,15 +2868,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 61."
+      "Distância $=$ velocidade $\\times$ tempo: $700 \\times 4 = 2800$ km."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A distância é $2800$ km.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2594,12 +2897,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma usina hidrelétrica, a fonte primária de energia é \na energia potencial gravitacional da água armazenada no \nreservatório. Considere que em uma dessas usinas, no \ndecorrer de um segundo, a água que alimenta uma das \nunidades geradoras de energia elétrica desça por uma \ntubulação, passando por grades de proteção que causam \numa perda de 55 MJ de energia. Essa água, ao chegar à \nturbina, girando-a, perde, devido a atritos, mais 35 MJ. \nPor fim, a turbina aciona o gerador de energia elétrica, \nque, por sua vez, perde, também devido a atritos, 25 MJ. \nA figura mostra um esquema dessa usina hidrelétrica e o \ntrajeto percorrido pela água.\n\n(https://earthsci.org. Adaptado.)\n\nSabendo que cada unidade geradora dessa usina produz \n700 MJ de energia elétrica a cada segundo, a quantidade \ntotal de energia potencial gravitacional dedicada à geração \nde energia elétrica em uma unidade geradora dessa usina, \npor segundo, é de",
+    "statement": "Em uma usina hidrelétrica, a fonte primária de energia é a energia potencial gravitacional da água armazenada no reservatório. Considere que em uma dessas usinas, no decorrer de um segundo, a água que alimenta uma das unidades geradoras de energia elétrica desça por uma tubulação, passando por grades de proteção que causam uma perda de 55 MJ de energia. Essa água, ao chegar à turbina, girando-a, perde, devido a atritos, mais 35 MJ. Por fim, a turbina aciona o gerador de energia elétrica, que, por sua vez, perde, também devido a atritos, 25 MJ. A figura mostra um esquema dessa usina hidrelétrica e o trajeto percorrido pela água.\n\n(https://earthsci.org. Adaptado.)\n\nSabendo que cada unidade geradora dessa usina produz 700 MJ de energia elétrica a cada segundo, a quantidade total de energia potencial gravitacional dedicada à geração de energia elétrica em uma unidade geradora dessa usina, por segundo, é de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q62-1.jpg",
-        "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 20."
+        "src": "/images/uea/vestibular-2026-cg/q62-1.png",
+        "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -2611,15 +2918,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 62."
+      "A energia elétrica total corresponde à soma das parcelas de energia apresentadas no diagrama.",
+      "$E = 700 + 55 + 35 + 25 = 815$ MJ."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta. A energia total é $815$ MJ.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2641,12 +2948,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A fotografia mostra um barco de massa 140 kg conduzido, em \num rio, por um pescador de massa 80 kg.\n\n(https://canoadetolda.org.br)\n\nConsidere que, no instante em que a fotografia foi tirada, o \nbarco estava com aceleração de 0,50 m/s2. Nesse instante, a \nintensidade da resultante das forças que atuavam sobre esse \nbarco era de",
+    "statement": "A fotografia mostra um barco de massa 140 kg conduzido, em um rio, por um pescador de massa 80 kg.\n\n(https://canoadetolda.org.br)\n\nConsidere que, no instante em que a fotografia foi tirada, o barco estava com aceleração de 0,50 m/$s^{2}$. Nesse instante, a intensidade da resultante das forças que atuavam sobre esse barco era de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q63-1.jpg",
-        "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 20."
+        "src": "/images/uea/vestibular-2026-cg/q63-1.png",
+        "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -2658,15 +2969,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 63."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2688,7 +2998,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Ao se analisar um incêndio natural em uma floresta, pode-se \nperceber as três modalidades de transferência de energia \ntérmica. A pode ser exemplificada quando uma \nfolha em brasa, sobre o solo da mata, toca outra folha seca, \nincendiando-a. Já a movimentação do ar aquecido que leva \no calor para o alto da copa das árvores configura um exemplo de transferência de calor por . De modo geral, \ntoda a propagação de calor, próxima ou a distância, ocorre \npor ondas eletromagnéticas, configurando um exemplo de \ntroca de calor por .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Ao se analisar um incêndio natural em uma floresta, pode-se perceber as três modalidades de transferência de energia térmica. A pode ser exemplificada quando uma folha em brasa, sobre o solo da mata, toca outra folha seca, incendiando-a. Já a movimentação do ar aquecido que leva o calor para o alto da copa das árvores configura um exemplo de transferência de calor por. De modo geral, toda a propagação de calor, próxima ou a distância, ocorre por ondas eletromagnéticas, configurando um exemplo de troca de calor por. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "condução — convecção — irradiação.",
@@ -2699,15 +3012,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 64."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2729,7 +3041,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Reduzir o tempo de uso do aparelho de ar condicionado é um \nexemplo de ação que contribui para o consumo consciente de \nenergia elétrica. Como comparação ao consumo de energia \nde um aparelho de ar condicionado, considere uma lâmpada \nde 15 W que fica acesa durante 6 h. Nesse intervalo de tempo, essa lâmpada consome tanta energia elétrica quanto um \naparelho de ar condicionado de 900 W funcionando durante",
+    "statement": "Reduzir o tempo de uso do aparelho de ar condicionado é um exemplo de ação que contribui para o consumo consciente de energia elétrica. Como comparação ao consumo de energia de um aparelho de ar condicionado, considere uma lâmpada de 15 W que fica acesa durante 6 h. Nesse intervalo de tempo, essa lâmpada consome tanta energia elétrica quanto um aparelho de ar condicionado de 900 W funcionando durante",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "10 min.",
@@ -2740,15 +3055,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 65."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2770,7 +3084,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Existe um fluxo contínuo de cargas elétricas entre a ionosfera \ne a superfície da Terra, denominado corrente de bom tempo, \nque ocorre em regiões em que não há tempestade. Considerando toda a Terra, esse deslocamento de cargas elétricas \ncorresponde a uma corrente elétrica de 1000 A.\n\nNessas condições, a cada minuto, a quantidade de carga elétrica transportada entre a ionosfera e a superfície da Terra é \nigual a",
+    "statement": "Existe um fluxo contínuo de cargas elétricas entre a ionosfera e a superfície da Terra, denominado corrente de bom tempo, que ocorre em regiões em que não há tempestade. Considerando toda a Terra, esse deslocamento de cargas elétricas corresponde a uma corrente elétrica de 1000 A. Nessas condições, a cada minuto, a quantidade de carga elétrica transportada entre a ionosfera e a superfície da Terra é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "360 000 C.",
@@ -2781,15 +3098,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 66."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2811,7 +3127,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A exposição às radiações eletromagnéticas, dependendo da \nintensidade, do tipo e da duração da exposição, traz riscos à \nsaúde. As radiações que apresentam maior risco são as de \nalta energia, denominadas radiações ionizantes. Dois exemplos de radiações ionizantes são",
+    "statement": "A exposição às radiações eletromagnéticas, dependendo da intensidade, do tipo e da duração da exposição, traz riscos à saúde. As radiações que apresentam maior risco são as de alta energia, denominadas radiações ionizantes. Dois exemplos de radiações ionizantes são",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "os raios gama e a radiação infravermelha.",
@@ -2822,15 +3141,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 67."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2852,7 +3170,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A produção de energia elétrica em grande escala é feita, na \nmaioria das usinas, por meio de um dispositivo denominado \ndínamo, que transforma energia mecânica em energia elétrica. A usina em que o processo de produção de energia elétrica ocorre sem o uso desse dispositivo é a",
+    "statement": "A produção de energia elétrica em grande escala é feita, na maioria das usinas, por meio de um dispositivo denominado dínamo, que transforma energia mecânica em energia elétrica. A usina em que o processo de produção de energia elétrica ocorre sem o uso desse dispositivo é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "termelétrica.",
@@ -2863,15 +3184,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 68."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2893,7 +3213,13 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A matriz elétrica brasileira passou por transformações \nsignificativas na última década.\n\nHá dez anos, as hidrelétricas dominavam a matriz elétrica, respondendo por mais de 70% da energia gerada no \nBrasil. Atualmente, essa participação caiu para 50%, embora ainda seja uma fonte importante. Em contrapartida, dois \nnovos tipos de usinas de energia elétrica, que são limpas e \nrenováveis, e que eram praticamente inexistentes há uma década, têm se tornado significativas, e hoje, juntas, representam mais de 20% da matriz elétrica do Brasil.\n\n(www.cnnbrasil.com.br, 12.09.2024. Adaptado.)\n\nOs dois tipos de usinas que usam fontes renováveis e que se \ntornaram significativas na matriz elétrica brasileira na última \ndécada são as",
+    "statement": "A matriz elétrica brasileira passou por transformações significativas na última década.\n\nHá dez anos, as hidrelétricas dominavam a matriz elétrica, respondendo por mais de 70% da energia gerada no Brasil. Atualmente, essa participação caiu para 50%, embora ainda seja uma fonte importante. Em contrapartida, dois novos tipos de usinas de energia elétrica, que são limpas e renováveis, e que eram praticamente inexistentes há uma década, têm se tornado significativas, e hoje, juntas, representam mais de 20% da matriz elétrica do Brasil.\n\n(www.cnnbrasil.com.br, 12.09.2024. Adaptado.)\n\nOs dois tipos de usinas que usam fontes renováveis e que se tornaram significativas na matriz elétrica brasileira na última década são as",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "térmicas e eólicas.",
@@ -2904,15 +3230,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 69."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2934,12 +3259,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura ilustra as perturbações que dois tipos de ondas produzidas em um terremoto provocam no solo. As ondas P, primárias, são mais velozes e as primeiras a atingir o local afetado pelo terremoto. As ondas S, secundárias, chegam pouco \ntempo depois.\n\n(https://sites.northwestern.edu. Adaptado.)\n\nEssas ondas são",
+    "statement": "A figura ilustra as perturbações que dois tipos de ondas produzidas em um terremoto provocam no solo. As ondas P, primárias, são mais velozes e as primeiras a atingir o local afetado pelo terremoto. As ondas S, secundárias, chegam pouco tempo depois.\n\n(https://sites.northwestern.edu. Adaptado.)\n\nEssas ondas são",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q70-1.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 22."
+        "src": "/images/uea/vestibular-2026-cg/q70-1.png",
+        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -2951,15 +3280,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 70."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -2981,12 +3309,22 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A parte estaiada da ponte sobre o Rio Negro tem 400 m de \nextensão, sendo construída com dois blocos de concreto de \n200 m de comprimento cada um. A fotografia mostra esses \ndois blocos já suspensos pelos estais.\n\n(www.locabens.com.br. Adaptado.)\n\nAdmita que o gráfico que segue é um estudo da variação do \ncomprimento de um dos blocos desse trecho da ponte em \nfunção da variação da temperatura.\n\nSabe-se que coeficiente de dilatação linear de um material é \ndado pela equação:\n\nL \n L · T\n\nΔ\nα =\nΔ\n\nNessa equação, α representa o coeficiente de dilatação \nlinear, ΔL a variação de comprimento, L0 o comprimento inicial e ΔT a variação de temperatura. Considerando que o \ncomprimento de um dos blocos do vão central dessa ponte \né igual a 200 m, o coeficiente de dilatação linear do concreto \nque constitui esse bloco é igual a",
+    "statement": "A parte estaiada da ponte sobre o Rio Negro tem 400 m de extensão, sendo construída com dois blocos de concreto de 200 m de comprimento cada um. A fotografia mostra esses dois blocos já suspensos pelos estais.\n\n(www.locabens.com.br. Adaptado.)\n\nAdmita que o gráfico que segue é um estudo da variação do comprimento de um dos blocos desse trecho da ponte em função da variação da temperatura.\n\nSabe-se que coeficiente de dilatação linear de um material é dado pela equação:\n\nα = L · TΔL\n\n0 Δ\n\nNessa equação, α representa o coeficiente de dilatação\n\ncial e linear, ΔΔT a variação de temperatura. Considerando que o L a variação de comprimento, $L_{0}$ o comprimento inicomprimento de um dos blocos do vão central dessa ponte é igual a 200 m, o coeficiente de dilatação linear do concreto que constitui esse bloco é igual a\n\n$5^{o}$ 1.\n$3^{o}$ 1.\n$4^{o}$ 1.\n$2^{o}$ 1.\n$6^{o}$ 1.",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q71-1.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 22."
+        "src": "/images/uea/vestibular-2026-cg/q71-1.png",
+        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -2998,15 +3336,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 71."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3028,7 +3365,11 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra uma pessoa em repouso, postada à margem \nde um lago de águas calmas, e observando um peixe, também em repouso, dentro da água. Essa pessoa vê a imagem \ndesse peixe um pouco acima da real profundidade em que o \npeixe está parado.\n\nEssa diferença entre a real profundidade do peixe e a profundidade vista pela pessoa se deve ao fenômeno da",
+    "statement": "A figura mostra uma pessoa em repouso, postada à margem de um lago de águas calmas, e observando um peixe, também em repouso, dentro da água. Essa pessoa vê a imagem desse peixe um pouco acima da real profundidade em que o peixe está parado.\n\nEssa diferença entre a real profundidade do peixe e a profundidade vista pela pessoa se deve ao fenômeno da",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "difração.",
@@ -3039,15 +3380,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 72."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3069,12 +3409,15 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa um experimento de química no qual coletou-se vapor de iodo a 120 oC em um balão de vidro fechado \ncom uma rolha. Esse balão foi resfriado em um banho de \ngelo, e o iodo passou para o estado sólido.\n\nNesse experimento, ocorreu uma transformação",
+    "statement": "A figura representa um experimento de química no qual coletou-se vapor de iodo a $120^{o}$C em um balão de vidro fechado com uma rolha. Esse balão foi resfriado em um banho de gelo, e o iodo passou para o estado sólido.\n\nNesse experimento, ocorreu uma transformação",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q73-1.jpg",
-        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 23."
+        "src": "/images/uea/vestibular-2026-cg/q73-1.png",
+        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -3086,15 +3429,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 73."
+      "A $120\\,^\\circ\\mathrm{C}$ o iodo está no estado sólido; ao ser resfriado, o vapor de iodo passa diretamente ao sólido.",
+      "Essa passagem gás $\\to$ sólido é a ressublimação (deposição), uma mudança de estado físico.",
+      "Como não há formação de nova substância, trata-se de um fenômeno físico."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. É ressublimação, um fenômeno físico."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3116,7 +3460,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A radiação gama é emitida quando núcleos atômicos em \nestado excitado passam para estados de menor energia, \npodendo ocorrer após processos de desintegração nuclear.\n\nQuando o núcleo de um radioisótopo emite radiação gama, o \nnúmero atômico desse radioisótopo",
+    "statement": "A radiação gama é emitida quando núcleos atômicos em estado excitado passam para estados de menor energia, podendo ocorrer após processos de desintegração nuclear. Quando o núcleo de um radioisótopo emite radiação gama, o número atômico desse radioisótopo",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "não se altera, e o número de massa diminui uma unidade.",
@@ -3127,15 +3474,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 74."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3157,7 +3503,12 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A tabela apresenta informações a respeito de dois isótopos \nde metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nIsótopo\nNúmero\natômico (Z)\n\nNúmero de\n\nQuantidade\nde nêutrons\n\nmassa (A)\n\nNd\n60\nx\n86\n\nEu \n63\n152\ny\n\nO número de massa x do isótopo do neodímio e a quantidade \nde nêutrons y do isótopo do európio são, respectivamente,",
+    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nIsótopo atômico (Z)Número Número demassa (A) de nêutronsQuantidade\nNd 60 x 86\nEu 63 152 y\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "140 e 86.",
@@ -3168,15 +3519,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 75."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3198,7 +3548,15 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Lixo eletrônico é o termo utilizado para designar qualquer \nequipamento eletrônico descartado e que não tem mais utilidade. O quadro apresenta características de alguns metais \nempregados na fabricação de equipamentos eletrônicos.\n\nQuantidade\ndo metal no\nequipamento\n\nValor\neconômico\n\nMetal\nAplicação\n\nrelativo\n\neletrônico\n\nAlumínio\ndissipação\n\nde calor\nalta\nbaixo\n\nChumbo\nsoldas\nbaixa\nbaixo\n\nOuro\ncontato\nelétrico\nbaixa\nalto\n\nFerro\nestrutura\nalta\nbaixo\n\nCobre\ncircuitos\neletrônicos \nmédia\nalto\n\nConsiderando as informações descritas na tabela, os metais \ncuja recuperação apresenta relevância econômica são:",
+    "statement": "Lixo eletrônico é o termo utilizado para designar qualquer equipamento eletrônico descartado e que não tem mais utilidade. O quadro apresenta características de alguns metais empregados na fabricação de equipamentos eletrônicos.\n\nMetal Aplicação equipamentodo metal noQuantidadeeletrônico econômicorelativoValor\n\nAlumínio dissipaçãode calor alta baixo Chumbo soldas baixa baixo\n\nOuro contatoelétrico baixa alto Ferro estrutura alta baixo\n\nCobre eletrônicos circuitos média alto\n\nConsiderando as informações descritas na tabela, os metais cuja recuperação apresenta relevância econômica são:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ouro e cobre.",
@@ -3209,15 +3567,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 76."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3239,7 +3596,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A atmosfera primitiva da Terra passou por bilhões de anos de \ntransformações até atingir a composição atual. Gases que, \nno início das transformações do planeta Terra, foram essenciais para o surgimento das moléculas da vida tornaram-se, \nna atualidade, perigosos poluentes atmosféricos. Esses gases eram compostos de carbono e de nitrogênio e não continham oxigênio em suas estruturas moleculares.\n\nOs gases da atmosfera primitiva do planeta Terra mencionados no texto são:",
+    "statement": "A atmosfera primitiva da Terra passou por bilhões de anos de transformações até atingir a composição atual. Gases que, no início das transformações do planeta Terra, foram essenciais para o surgimento das moléculas da vida tornaram-se, na atualidade, perigosos poluentes atmosféricos. Esses gases eram compostos de carbono e de nitrogênio e não continham oxigênio em suas estruturas moleculares. Os gases da atmosfera primitiva do planeta Terra mencionados no texto são:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "dióxido de carbono e hélio.",
@@ -3250,15 +3610,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 77."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3280,7 +3639,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A biomassa é constituída por matéria orgânica de origem vegetal ou animal, podendo ser utilizada na produção de combustíveis. Por ser continuamente renovada por processos \nnaturais ou atividades agropecuárias, representa uma alternativa ao uso de combustíveis fósseis.\n\nEntre os combustíveis produzidos a partir de biomassa \ndestacam-se:",
+    "statement": "A biomassa é constituída por matéria orgânica de origem vegetal ou animal, podendo ser utilizada na produção de combustíveis. Por ser continuamente renovada por processos naturais ou atividades agropecuárias, representa uma alternativa ao uso de combustíveis fósseis. Entre os combustíveis produzidos a partir de biomassa destacam-se:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "óleo diesel e metanol.",
@@ -3291,15 +3653,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 78."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3321,7 +3682,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os ciclos biogeoquímicos correspondem aos processos naturais responsáveis pela circulação e pela reciclagem dos elementos químicos entre a atmosfera, a hidrosfera, a litosfera \ne os seres vivos. Em um desses ciclos ocorre a transferência \nde um gás de efeito estufa da atmosfera para os vegetais, \nque o transformam em compostos orgânicos.\n\nEsse processo de transformação ocorre no ciclo biogeoquímico",
+    "statement": "Os ciclos biogeoquímicos correspondem aos processos naturais responsáveis pela circulação e pela reciclagem dos elementos químicos entre a atmosfera, a hidrosfera, a litosfera e os seres vivos. Em um desses ciclos ocorre a transferência de um gás de efeito estufa da atmosfera para os vegetais, que o transformam em compostos orgânicos. Esse processo de transformação ocorre no ciclo biogeoquímico",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do fósforo.",
@@ -3332,15 +3696,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 79."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3362,17 +3725,17 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma aula de química, foi investigada a influência de diferentes condições experimentais na rapidez da reação entre o \nmagnésio metálico (Mg) e o ácido clorídrico (HCl), representada na equação:\n\n2HCl (aq) + Mg (s) \n MgCl2 (aq) + H2 (g)\n\nPara isso, foram realizados cinco experimentos utilizando as \nmesmas massas de magnésio, na forma de barra e de pó, e \nos mesmos volumes de soluções de ácido clorídrico.\n\nA tabela esquematiza as condições dos reagentes nos experimentos.\n\nO experimento no qual toda a quantidade de magnésio reagiu \nde forma mais rápida foi o de número",
+    "statement": "Em uma aula de química, foi investigada a influência de diferentes condições experimentais na rapidez da reação entre o magnésio metálico (Mg) e o ácido clorídrico (HCl), representada na equação:\n\n2HCl (aq) + Mg (s) $MgCl_{2}$ (aq) + $H_{2}$ (g)\n\nPara isso, foram realizados cinco experimentos utilizando as mesmas massas de magnésio, na forma de barra e de pó, e os mesmos volumes de soluções de ácido clorídrico. A tabela esquematiza as condições dos reagentes nos experimentos.\n\nO experimento no qual toda a quantidade de magnésio reagiu de forma mais rápida foi o de número",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q80-1.jpg",
-        "alt": "Imagem de apoio da questão 80 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 25."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-cg/q80-3.jpg",
-        "alt": "Imagem de apoio da questão 80 (UEA Unificado — Conhecimentos Gerais, 2026).",
-        "caption": "Caderno original, p. 25."
+        "src": "/images/uea/vestibular-2026-cg/q80-1.png",
+        "alt": "Imagem de apoio da questão 80 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
     "alternatives": [
@@ -3384,15 +3747,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 80."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 25,
@@ -3414,7 +3776,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O tratamento de esgoto envolve diversas etapas destinadas \nà remoção de impurezas e à redução dos riscos à saúde \npública. Na etapa de desinfecção, são utilizados reagentes \nquímicos capazes de eliminar microrganismos patogênicos \nantes do lançamento do efluente no ambiente.\n\nO elemento químico presente no reagente mais empregado \nnessa etapa é o",
+    "statement": "O tratamento de esgoto envolve diversas etapas destinadas à remoção de impurezas e à redução dos riscos à saúde pública. Na etapa de desinfecção, são utilizados reagentes químicos capazes de eliminar microrganismos patogênicos antes do lançamento do efluente no ambiente. O elemento químico presente no reagente mais empregado nessa etapa é o",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "iodo.",
@@ -3425,15 +3790,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 81."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 25,
@@ -3455,7 +3819,11 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O glifosato é um herbicida amplamente utilizado no controle de plantas invasoras em diversas culturas agrícolas. Para \nque seja aplicado por pulverização, esse composto é preparado na forma de solução aquosa, o que depende de características estruturais da molécula. A figura apresenta a fórmula \nestrutural do glifosato.\n\nA molécula do glifosato apresenta uma cadeia carbônica \nque contém dois elementos do grupo 15 da Classificação \nPeriódica, o nitrogênio e o . Por ser uma molécula , ela apresenta na água.\n\nAs lacunas são preenchidas, respectivamente, por:",
+    "statement": "O glifosato é um herbicida amplamente utilizado no controle de plantas invasoras em diversas culturas agrícolas. Para que seja aplicado por pulverização, esse composto é preparado na forma de solução aquosa, o que depende de características estruturais da molécula. A figura apresenta a fórmula estrutural do glifosato.\n\nA molécula do glifosato apresenta uma cadeia carbônica que contém dois elementos do grupo 15 da Classificação Periódica, o nitrogênio e o. Por ser uma molécula, ela apresenta na água. As lacunas são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fósforo – apolar – baixa solubilidade.",
@@ -3466,15 +3834,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 82."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 25,
@@ -3496,7 +3863,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A planta Montrichardia linifera, populamente conhecida como \naninga, é empregada pela população ribeirinha como repelente de insetos. Interessados em verificar se esse conhecimento popular possui fundamento científico, pesquisadores \nprepararam extratos dessa planta para avaliar sua ação sobre as larvas do mosquito transmissor da dengue.\n\nA etapa do método científico à qual corresponde a atividade \ndos pesquisadores relatada no texto é a",
+    "statement": "A planta Montrichardia linifera, populamente conhecida como aninga, é empregada pela população ribeirinha como repelente de insetos. Interessados em verificar se esse conhecimento popular possui fundamento científico, pesquisadores prepararam extratos dessa planta para avaliar sua ação sobre as larvas do mosquito transmissor da dengue. A etapa do método científico à qual corresponde a atividade dos pesquisadores relatada no texto é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "realização de experimentos.",
@@ -3507,15 +3877,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 83."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 26,
@@ -3537,7 +3906,11 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para garantir a segurança de profissionais e estudantes \ndurante o manuseio de produtos químicos, as embalagens \ndesses produtos devem apresentar pictogramas que identifiquem os riscos associados ao seu uso. A aguarrás, solvente \nempregado na limpeza pesada e na remoção de respingos \nde tinta, apresenta o seguinte pictograma de risco:\n\nConsiderando o risco representado pelo pictograma, o equipamento de proteção coletiva (EPC) que deve ser disponibilizado durante o uso da aguarrás é",
+    "statement": "Para garantir a segurança de profissionais e estudantes durante o manuseio de produtos químicos, as embalagens desses produtos devem apresentar pictogramas que identifiquem os riscos associados ao seu uso. A aguarrás, solvente empregado na limpeza pesada e na remoção de respingos de tinta, apresenta o seguinte pictograma de risco:\n\nConsiderando o risco representado pelo pictograma, o equipamento de proteção coletiva (EPC) que deve ser disponibilizado durante o uso da aguarrás é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a máscara para gases.",
@@ -3548,15 +3921,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf, questão 84."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 26,
@@ -3578,7 +3950,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em meio ao arco do desmatamento no sudeste paraense, um conjunto de áreas protegidas, conhecido como Mosaico de Carajás, exemplifica bem o processo de isolamento florestal. Hoje, o maciço de 1,2 milhão de hectares está \ncercado pelo desmatamento. O mosaico se encontra isolado \nde outros grandes fragmentos florestais da Amazônia, e, em \ndecorrência desse fato, o conjunto de áreas protegidas vem \nsendo transformado em uma ilha, que ainda resiste em meio \nà degradação ambiental.\n\n(Wendelo Costa et al. Sumário executivo Bà Kré. Adaptado.)\n\nUma forma de minimizar os efeitos ambientais negativos da \nação antrópica no Mosaico do Carajás é",
+    "statement": "Em meio ao arco do desmatamento no sudeste paraense, um conjunto de áreas protegidas, conhecido como Mosaico de Carajás, exemplifica bem o processo de isolamento florestal. Hoje, o maciço de 1,2 milhão de hectares está cercado pelo desmatamento. O mosaico se encontra isolado de outros grandes fragmentos florestais da Amazônia, e, em decorrência desse fato, o conjunto de áreas protegidas vem sendo transformado em uma ilha, que ainda resiste em meio à degradação ambiental.\n\n(Wendelo Costa et al. Sumário executivo Bà Kré. Adaptado.)\n\nUma forma de minimizar os efeitos ambientais negativos da ação antrópica no Mosaico do Carajás é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "construir corredores ecológicos, que conectam áreas isoladas e favorecem o fluxo gênico entre populações.",
@@ -3589,15 +3966,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3621,11 +3997,15 @@ export const uea2026Vestibular = [
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
     "statement": "Leia o cartaz sobre a campanha do março lilás.\n\n(www.gov.br)\n\nUm dos principais objetivos dessa campanha é o estímulo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q02-1.jpg",
-        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2026).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2026-g1/q02-1.png",
+        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
     "alternatives": [
@@ -3637,15 +4017,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3668,7 +4047,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A Orobanche cumana é uma angiosperma que, ao entrar \nem contato com a raiz de outra planta, forma um haustório \ne células intrusivas penetram o córtex até o feixe vascular, \nestabelecendo uma conexão com vasos condutores de onde \nextrai água e nutrientes minerais e orgânicos, pois não possui \nclorofila para a realizar a fotossíntese.\n\n(www.sinavimo.gob.ar. Adaptado.)\n\nA relação ecológica que se estabelece entre a Orobanche \ncumana e outras espécies de plantas é denominada",
+    "statement": "A Orobanche cumana é uma angiosperma que, ao entrar em contato com a raiz de outra planta, forma um haustório e células intrusivas penetram o córtex até o feixe vascular, estabelecendo uma conexão com vasos condutores de onde extrai água e nutrientes minerais e orgânicos, pois não possui clorofila para a realizar a fotossíntese.\n\n(www.sinavimo.gob.ar. Adaptado.)\n\nA relação ecológica que se estabelece entre a Orobanche cumana e outras espécies de plantas é denominada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "inquilinismo.",
@@ -3679,15 +4063,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 03."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3710,7 +4093,14 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O experimento AmazonFACE é um programa de pesquisa inédito que vai submeter áreas da floresta Amazônica a \numa concentração atmosférica elevada de dióxido de carbono (CO2) pelos próximos 10 anos. Serão instaladas, ao todo, \n96 torres de alumínio de 35 metros encarregadas de liberar o \nCO2 em áreas específicas da floresta, próximas à cidade de \nManaus. A ideia é projetar uma situação climática semelhante a que deverá ser encontrada entre 2050 e 2070, quando, \nem teoria, haverá mais CO2 liberado na atmosfera e a Terra \nestará, por conta disso, mais quente.\n\n(https://amazonface.unicamp.br. Adaptado.)\n\nEntre os resultados previstos em plantas submetidas ao \nexperimento AmazonFACE, destaca-se",
+    "statement": "O experimento AmazonFACE é um programa de pesquisa inédito que vai submeter áreas da floresta Amazônica a uma concentração atmosférica elevada de dióxido de carbono (CO96 torres de alumínio de 35 metros encarregadas de liberar $o_{2}$) pelos próximos 10 anos. Serão instaladas, ao todo,\n\nManaus. A ideia é projetar uma situação climática semelhan-$CO_{2}$ em áreas específicas da floresta, próximas à cidade de te a que deverá ser encontrada entre 2050 e 2070, quando,\n\n2 liberado na atmosfera e a Terra\n\n(https://amazonface.unicamp.br. Adaptado.)\n\nEntre os resultados previstos em plantas submetidas ao experimento AmazonFACE, destaca-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a inibição da respiração celular.",
@@ -3721,15 +4111,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 04."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3752,12 +4141,17 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A imagem mostra o cariótipo de uma célula somática humana.\n\n(Elena-Silvia Nadã et al. \nRomanian Journal of Morphol Embryol, 2021. Adaptado.)\n\nO número de cromossomos que integram esse cariótipo é \nresultado de um erro ocorrido durante a meiose. Esse erro \ncorresponde à",
+    "statement": "A imagem mostra o cariótipo de uma célula somática humana.\n\n(Elena-Silvia Nadã et al.\n\nRomanian Journal of Morphol Embryol, 2021. Adaptado.)\n\nO número de cromossomos que integram esse cariótipo é resultado de um erro ocorrido durante a meiose. Esse erro corresponde à",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q05-1.jpg",
-        "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo I, 2026).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2026-g1/q05-1.png",
+        "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
     "alternatives": [
@@ -3769,15 +4163,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 05."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3800,12 +4193,16 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra a estrutura e os componentes do núcleo \ncelular.\n\n(Imagem gerada por IA. https://copilot.microsoft.com. Adaptado.)\n\nOs poros nucleares são importantes estruturas que permitem \na passagem de",
+    "statement": "A figura ilustra a estrutura e os componentes do núcleo celular.\n\n(Imagem gerada por IA. https://copilot.microsoft.com. Adaptado.)\n\nOs poros nucleares são importantes estruturas que permitem a passagem de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q06-1.jpg",
-        "alt": "Imagem de apoio da questão 06 (UEA Unificado — Específicos Grupo I, 2026).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2026-g1/q06-1.png",
+        "alt": "Imagem de apoio da questão 06 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
     "alternatives": [
@@ -3817,15 +4214,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 06."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3848,7 +4244,15 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O gráfico mostra a taxa de secreção de água, bicarbonato \nde sódio (NaHCO3) e enzimas pelo pâncreas em resposta \nao estímulo desencadeado pela presença de ácido clorídrico \n(HCl), lipídios e peptídeos no duodeno.\n\n(Arthur C. Guyton e John E. Hall. Textbook of medical physiology. Adaptado.)\n\nDe acordo com o gráfico, a presença de HCl no duodeno \nestimula a liberação de uma grande quantidade de NaHCO3, \nresponsável por o pH do ambiente intestinal. \nNa presença de nutrientes, observa-se uma liberação mais \nintensa de em comparação à de .\n\nAs lacunas no texto são preenchidas, respectivamente, por:",
+    "statement": "O gráfico mostra a taxa de secreção de água, bicarbonato de sódio (NaHCOao estímulo desencadeado pela presença de ácido clorídrico₃) e enzimas pelo pâncreas em resposta\n\n(HCl), lipídios e peptídeos no duodeno.\n\n(Arthur C. Guyton e John E. Hall. Textbook of medical physiology. Adaptado.)\n\nDe acordo com o gráfico, a presença de HCl no duodeno\n\n3,\n\nNa presença de nutrientes, observa-se uma liberação mais intensa de em comparação à de. As lacunas no texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "diminuir – pepsina – bile",
@@ -3859,15 +4263,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 07."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 5,
@@ -3890,12 +4293,16 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise a imagem que mostra as etapas de uma técnica de \nbiotecnologia aplicável em seres humanos.\n\n(https://oglobo.globo.com. Adaptado.)\n\nEssa técnica de biotecnologia é denominada",
+    "statement": "Analise a imagem que mostra as etapas de uma técnica de biotecnologia aplicável em seres humanos.\n\n(https://oglobo.globo.com. Adaptado.)\n\nEssa técnica de biotecnologia é denominada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2026).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2026-g1/q08-1.png",
+        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
     "alternatives": [
@@ -3907,15 +4314,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 08."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 5,
@@ -3938,7 +4344,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O shoyu amazônico é feito a partir do tucupi preto, um extrato derivado da mandioca, obtido após um longo processo \nde fermentação e redução. Para chegar nele, é necessário \ncozinhar o tucupi amarelo por até 72 horas. A redução é tão \nextrema que 40 litros de tucupi amarelo rendem entre 2 e 4 \nlitros de tucupi preto, uma pasta densa e de sabor intenso.\n\n(www.paraterraboa.com, 09.04.2026. Adaptado.)\n\nO shoyu amazônico é obtido pela ação de microrganismos \nque",
+    "statement": "O shoyu amazônico é feito a partir do tucupi preto, um extrato derivado da mandioca, obtido após um longo processo de fermentação e redução. Para chegar nele, é necessário cozinhar o tucupi amarelo por até 72 horas. A redução é tão extrema que 40 litros de tucupi amarelo rendem entre 2 e 4 litros de tucupi preto, uma pasta densa e de sabor intenso.\n\n(www.paraterraboa.com, 09.04.2026. Adaptado.)\n\nO shoyu amazônico é obtido pela ação de microrganismos que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "produzem ácidos orgânicos a partir de açúcares.",
@@ -3949,15 +4360,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 09."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -3980,7 +4390,10 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma espécie de planta, a altura do colmo é uma herança quantitativa determinada pelos genes A, B e C que \nsegregam de forma independente. Os alelos aditivos contribuem igualmente para o aumento da altura. A menor altura observada nessa espécie é de 1,10 m e a maior altura \né de 1,46 m. Considerando o cruzamento entre plantas de \ngenótipos AaBBcc e AabbCc, a probabilidade de serem \nformadas plantas com 1,34 m é:",
+    "statement": "Em uma espécie de planta, a altura do colmo é uma herança quantitativa determinada pelos genes A, B e C que segregam de forma independente. Os alelos aditivos contribuem igualmente para o aumento da altura. A menor altura observada nessa espécie é de 1,10 m e a maior altura é de 1,46 m. Considerando o cruzamento entre plantas de genótipos AaBBcc e AabbCc, a probabilidade de serem formadas plantas com 1,34 m é:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1/6",
@@ -3991,15 +4404,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 10."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4022,7 +4434,12 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O curare é uma substância obtida de várias plantas tropicais americanas. Preparações brutas de curare têm sido utilizadas há muito tempo em flechas usadas pelos povos indígenas da América do Sul para auxiliar na captura de animais \nselvagens. Na medicina moderna, o curare é classificado \ncomo um agente bloqueador neuromuscular que produz flacidez nos músculos esqueléticos, pois atua competindo com o \nneurotransmissor acetilcolina na junção neuromuscular.\n\n(www.britannica.com. Adaptado.)\n\nA ação do curare na junção neuromuscular",
+    "statement": "O curare é uma substância obtida de várias plantas tropicais americanas. Preparações brutas de curare têm sido utilizadas há muito tempo em flechas usadas pelos povos indígenas da América do Sul para auxiliar na captura de animais selvagens. Na medicina moderna, o curare é classificado como um agente bloqueador neuromuscular que produz flacidez nos músculos esqueléticos, pois atua competindo com o neurotransmissor acetilcolina na junção neuromuscular.\n\n(www.britannica.com. Adaptado.)\n\nA ação do curare na junção neuromuscular",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "danifica a estrutura dos canais de Na+ e K+ na membrana dos miócitos.",
@@ -4033,15 +4450,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 11."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4064,7 +4480,15 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma espécie de caramujos, a cor da concha pode ser \nbranca, amarelo-clara, amarelo-escura, marrom-clara ou \nmarrom-escura. A ilha original que abrigava esta espécie foi \nfragmentada em três ilhas menores denominadas ilhas Norte, \nSul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos \nnas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das \ncores das conchas nas populações consideradas.\n\nBranca\nAmarelo-\n\nAmarelo-\n\nMarrom-\n\nMarrom-\n\nclara\n\nescura\n\nclara\n\nescura\n\nIlha\n original\n2%\n18%\n62%\n12%\n6%\n\nIlha\nNorte\n1%\n12%\n76%\n8%\n3%\n\nIlha\n\nSul\n36%\n12%\n8%\n11%\n33%\n\nIlha\nLeste\n3%\n10%\n17%\n19%\n51%\n\nA explicação mais adequada para os resultados observados \nna tabela é que",
+    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\nBranca Amarelo-clara Amarelo-escura Marrom-clara Marrom-escura\n\noriginalIlha 2% 18% 62% 12% 6%\n\nNorteIlha 1% 12% 76% 8% 3% IlhaSul 36% 12% 8% 11% 33%\n\nLesteIlha 3% 10% 17% 19% 51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a seleção natural alterou as frequências dos fenótipos dos caramujos.",
@@ -4075,15 +4499,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 12."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4106,7 +4529,13 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, \nsob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\nSubstância\nTemperatura\nde fusão (oC)\n\nTemperatura\nde ebulição (oC)\n\n1\n144\n191\n\n2\n28\n671\n\n3\n–220\n–188\n\n4\n–7,2\n59\n\n5\n–10\n102\n\nSob pressão de 1 atm e temperatura de 25 oC, a substância \nque se apresentará em estado gasoso é a de número",
+    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\nSubstância oC) oC)\n\n1 144 191\n2 28 671\n3 –220 –188\n4 –7,2 59\n5 –10 102\n\nSob pressão de 1 atm e temperatura de $25^{o}$C, a substância que se apresentará em estado gasoso é a de número",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -4117,15 +4546,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 13."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4148,7 +4576,12 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em um experimento em laboratório de química, um gás, sob \npressão de 3 atm, está contido em um compartimento de volume 2 L. Esse compartimento está separado de um compartimento vazio, de volume 1 L, fechado por uma válvula, \nconforme mostra a figura.\n\nQuando a válvula é aberta, sem variação da temperatura, o \ngás passa a ocupar os dois compartimentos.\n\nConsiderando que o gás apresenta comportamento ideal, a \ntransformação ocorrida no gás e a nova pressão no sistema \napós a abertura da válvula são:",
+    "statement": "Em um experimento em laboratório de química, um gás, sob pressão de 3 atm, está contido em um compartimento de volume 2 L. Esse compartimento está separado de um compartimento vazio, de volume 1 L, fechado por uma válvula, conforme mostra a figura.\n\nQuando a válvula é aberta, sem variação da temperatura, o gás passa a ocupar os dois compartimentos.\n\nConsiderando que o gás apresenta comportamento ideal, a transformação ocorrida no gás e a nova pressão no sistema após a abertura da válvula são:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "expansão e 4 atm.",
@@ -4159,15 +4592,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4190,7 +4622,12 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A queima de diesel e certos processos industriais liberam \npara o meio ambiente o dióxido de enxofre (SO2). Na atmosfera, esse gás reage com o oxigênio (O2) e com a umidade (H2O), formando substâncias que prejudicam o ambiente. Para evitar essas emissões, algumas indústrias instalam \nnas chaminés filtros contendo compostos químicos, como o \ncarbonato de cálcio (CaCO3). Esse composto reage com o \nSO2 e com o oxigênio em várias etapas, transformando o gás \npoluente em sulfato de cálcio sólido (CaSO4), popularmente \nconhecido como gesso.\n\nA instalação desses filtros nas chaminés das indústrias é importante para",
+    "statement": "A queima de diesel e certos processos industriais liberam\n\nte. Para evitar essas emissões, algumas indústrias instalam de (Hpara o meio ambiente o dióxido de enxofre (SOfera, esse gás reage com o oxigênio ($O_{2}$ 2 2). Na atmosnas chaminés filtros contendo compostos químicos, como o carbonato de cálcio (CaCOconhecido como gesso.poluente em sulfato de cálcio sólido ($CaSOSO_{2}$ e com o oxigênio em várias etapas, transformando o gá$s_{3}$). Esse composto reage com $o_{4}$), popularmente\n\nA instalação desses filtros nas chaminés das indústrias é importante para",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "diminuir a concentração atmosférica de dióxido de carbono.",
@@ -4201,15 +4638,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 15."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4232,7 +4668,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O petróleo é uma mistura complexa de hidrocarbonetos. \nApós sua extração na natureza, o petróleo segue para uma \nrefinaria, onde seus componentes são separados de acordo \ncom suas propriedades físicas, por um processo denominado . Parte dos componentes obtidos é encaminhada para a indústria petroquímica, onde são produzidas as \nmatérias-primas utilizadas principalmente para a fabricação \nde .\n\nAs lacunas são preenchidas, respectivamente, por:",
+    "statement": "O petróleo é uma mistura complexa de hidrocarbonetos. Após sua extração na natureza, o petróleo segue para uma refinaria, onde seus componentes são separados de acordo com suas propriedades físicas, por um processo denominado. Parte dos componentes obtidos é encaminhada para a indústria petroquímica, onde são produzidas as matérias-primas utilizadas principalmente para a fabricação de. As lacunas são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "filtração – combustíveis.",
@@ -4243,15 +4682,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4274,7 +4712,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A utilização de microrganismos na fabricação de alimentos e \nbebidas, como pão, iogurte e vinho, é uma das práticas biotecnológicas mais antigas da história da humanidade.\n\nDurante esse processo, ocorre principalmente",
+    "statement": "A utilização de microrganismos na fabricação de alimentos e bebidas, como pão, iogurte e vinho, é uma das práticas biotecnológicas mais antigas da história da humanidade. Durante esse processo, ocorre principalmente",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "transformação de lipídios a partir de reações com ácidos.",
@@ -4285,15 +4726,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4316,7 +4756,11 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A classificação de uma biomolécula pode ser realizada a \npartir da análise de sua estrutura química. A figura apresenta a fórmula estrutural de uma dessas moléculas:\n\nA análise da estrutura permite concluir que essa molécula \npertence ao grupo dos",
+    "statement": "A classificação de uma biomolécula pode ser realizada a partir da análise de sua estrutura química. A figura apresenta a fórmula estrutural de uma dessas moléculas:\n\nA análise da estrutura permite concluir que essa molécula pertence ao grupo dos",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aminoácidos, precursores de proteínas.",
@@ -4327,15 +4771,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 18."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4358,7 +4801,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As estações de tratamento de água (ETA) captam a água \nde rios e represas e combinam etapas de separação física \ncom etapas que envolvem reações químicas para tornar essa \nágua potável. Dentre os procedimentos realizados durante o \ntratamento da água está o ajuste do pH, que pode envolver a \nneutralização de sua acidez. Uma das substâncias utilizadas \nnesse procedimento é o:",
+    "statement": "As estações de tratamento de água (ETA) captam a água de rios e represas e combinam etapas de separação física com etapas que envolvem reações químicas para tornar essa água potável. Dentre os procedimentos realizados durante o tratamento da água está o ajuste do pH, que pode envolver a neutralização de sua acidez. Uma das substâncias utilizadas nesse procedimento é o:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "CaO",
@@ -4369,15 +4815,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 19."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4400,7 +4845,14 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O peróxido de hidrogênio (H2O2) e a hidrazina (N2H4) são \nempregados como combustíveis para a propulsão no sistema \nde lançamento de foguetes. Ao interagirem, o peróxido de hidrogênio e a hidrazina podem formar ácido nítrico (HNO3) e \nágua (H2O), de acordo com a equação:\n\n7H2O2 (l) + N2H4 (l) \n 2HNO3 (l) + 8H2O (g)\n\nNessa reação, quando 5,6 mol de peróxido de hidrogênio reagem completamente, a quantidade de HNO3 que se \nforma é igual a",
+    "statement": "empregados como combustíveis para a propulsão no sistema O peróxido de hidrogênio ($H_{2}$ $O_{2}$) e a hidrazina ($N_{2}$$H_{4}$) são de lançamento de foguetes. Ao interagirem, o peróxido de hi-\n\nágua (Hdrogênio e a hidrazina podem formar ácido nítrico ($HNO_{2}$ 3) e\n\n$7H_{2}$ $O_{2}$ (l) + $N_{2}$$H_{4}$ (l) $2HNO_{3}$ (l) + $8H_{2}$O (g)\n\nNessa reação, quando 5,6 mol de peróxido de hidrogê-\n\nforma é igual anio reagem completamente, a quantidade de $HNO_{3}$ que se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1,6 mol.",
@@ -4411,15 +4863,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 20."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4442,7 +4893,16 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A obtenção do ferro metálico (Fe) pode ser feita a partir da \nreação de seu óxido (FeO) com o monóxido de carbono \n(CO), formando dióxido de carbono (CO2), de acordo com \na equação:\n\nFeO (s) + CO (g) \n Fe (s) + CO2 (g)\n\nA seguir, são apresentadas as equações termoquímicas 1, 2 \ne 3, que envolvem óxidos de ferro.\n\nEquação 1:\n\n6FeO (s) + 2CO2 (s) \n 2Fe3O4 (s) + 2CO (g) ΔH0 = – 76 kJ\n\nEquação 2:\n\n3Fe2O3 (s) + 9CO (g) \n 6Fe (s) + 9CO2 (g) ΔH0 = – 84 kJ\n\nEquação 3:\n\n2Fe3O4 (s) + CO2 (g) \n 3Fe2O3 (s) + CO (g) ΔH0 = + 58 kJ\n\nA variação de entalpia relacionada à reação entre o FeO e o \nCO para a formação de 1 mol de Fe e a classificação termoquímica dessa reação são",
+    "statement": "A obtenção do ferro metálico (Fe) pode ser feita a partir da reação de seu óxido (FeO) com o monóxido de carbono\n\n2), de acordo com\n\nFeO (s) + CO (g) Fe (s) + $CO_{2}$ (g)\n\nA seguir, são apresentadas as equações termoquímicas 1, 2 e 3, que envolvem óxidos de ferro. Equação 1: 6FeO (s) + $2CO_{2}$ (s) $2Fe_{3}$ $O_{4}$ (s) + 2CO (g) Δ $H^{0}$ = – 76 kJ\n\nEquação 2: $3Fe_{2}$ $O_{3}$ (s) + 9CO (g) 6Fe (s) + $9CO_{2}$ (g) Δ$H^{0}$ = – 84 kJ\n\nEquação 3: $2Fe_{3}$$O_{4}$ (s) + $CO_{2}$ (g) $3Fe_{2}$$O_{3}$ (s) + CO (g) Δ$H^{0}$ = + 58 kJ\n\nA variação de entalpia relacionada à reação entre o FeO e o CO para a formação de 1 mol de Fe e a classificação termoquímica dessa reação são",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "+ 17 kJ e endotérmica.",
@@ -4453,15 +4913,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 21."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4484,12 +4943,17 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma pilha foi construída empregando-se eletrodos dos metais gálio (Ga) e prata (Ag) imersos, separadamente, em soluções de seus íons, Ga3+ e Ag+, com concentração 1 mol/L, \nconforme representado na figura.\n\nOs potenciais padrão de redução das espécies químicas que \nconstituem essa pilha estão apresentados a seguir.\n\nGa3+ (aq) + 3e– \n Ga (s) E0 = – 0,56 V\n\nAg+ (aq) + e– \n Ag (s) E0 = + 0,80 V\n\nEm condições padrão, o valor da ddp da pilha representada \nna figura e o metal que constitui o eletrodo que fornece elétrons para o circuito externo são",
+    "statement": "Uma pilha foi construída empregando-se eletrodos dos metais gálio (Ga) e prata (Ag) imersos, separadamente, em soluções de seus íons, Ga3+ e $Ag^{+}$, com concentração 1 mol/L, conforme representado na figura.\n\nOs potenciais padrão de redução das espécies químicas que constituem essa pilha estão apresentados a seguir.\n\nGa3+ (aq) + 3e– Ga (s) $E^{0}$ = – 0,56 V\n$Ag^{+}$(aq) + e– Ag (s) $E^{0}$ = + 0,80 V\n\nEm condições padrão, o valor da ddp da pilha representada na figura e o metal que constitui o eletrodo que fornece elétrons para o circuito externo são",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q22-1.jpg",
-        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Específicos Grupo I, 2026).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2026-g1/q22-1.png",
+        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
     "alternatives": [
@@ -4501,15 +4965,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 22."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -4532,7 +4995,13 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As antocianinas são compostos químicos coloridos encontrados em frutas como jabuticaba, ameixa e uva. Em solução \naquosa, as antocianinas representadas na figura estabelecem o equilíbrio químico esquematizado a seguir:\n\n(Daniela Brotto Lopes Terci e Adriana Vitorino Rossi.\n\nQuim. Nova, 2002. Adaptado.)\n\nPara que a solução aquosa de antocianina vermelha se torne \nvioleta, deve-se adicionar a ela:",
+    "statement": "As antocianinas são compostos químicos coloridos encontrados em frutas como jabuticaba, ameixa e uva. Em solução aquosa, as antocianinas representadas na figura estabelecem o equilíbrio químico esquematizado a seguir:\n\n(Daniela Brotto Lopes Terci e Adriana Vitorino Rossi.\n\nQuim. Nova, 2002. Adaptado.)\n\nPara que a solução aquosa de antocianina vermelha se torne violeta, deve-se adicionar a ela:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "KNO3",
@@ -4543,15 +5012,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 23."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -4574,7 +5042,11 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise a fórmula estrutural representada, que corresponde \nà molécula de um composto utilizado em medicamentos para \ntratamento de hipertensão arterial.\n\nOs grupos funcionais indicados pelas setas vermelhas 1 e 2 \ncorrespondem, respectivamente, às funções orgânicas",
+    "statement": "Analise a fórmula estrutural representada, que corresponde à molécula de um composto utilizado em medicamentos para tratamento de hipertensão arterial.\n\nOs grupos funcionais indicados pelas setas vermelhas 1 e 2 correspondem, respectivamente, às funções orgânicas",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "amina e cetona.",
@@ -4585,15 +5057,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 24."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -4617,6 +5088,13 @@ export const uea2026Vestibular = [
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
     "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nNa estrutura estabelecida pelo eu lírico, “poema” é comparado a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“jardineiro”.",
@@ -4627,15 +5105,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 25."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -4658,7 +5135,10 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nO poema de Ana Martins Marques caracteriza-se, sobretudo, \npor seu teor",
+    "statement": "O poema de Ana Martins Marques caracteriza-se, sobretudo, por seu teor",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "metalinguístico.",
@@ -4669,15 +5149,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 26."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -4700,7 +5179,10 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nEm “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do \nelemento sublinhado em:",
+    "statement": "Em “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do elemento sublinhado em:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Se o jardineiro abandonasse no meio a tarefa”.",
@@ -4711,15 +5193,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 27."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -4742,7 +5223,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5o parágrafo)\n\nNo contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "sua tendência a falar muito.",
@@ -4753,15 +5245,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -4784,7 +5275,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Está empregada em sentido figurado a palavra a sublinhada \nem:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nEstá empregada em sentido figurado a palavra a sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Era um velho desejo seu” (3o parágrafo).",
@@ -4795,15 +5297,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -4826,7 +5327,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” \n(3o parágrafo)\n\nMantendo o sentido original da frase, a oração sublinhada \npode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Como se ele estivesse tão taciturno.",
@@ -4837,15 +5349,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 30."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 12,
@@ -4868,7 +5379,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Transposta para a voz passiva, a oração “tirar da terra o alimento” (3o parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o alimento é tirado da terra.",
@@ -4879,15 +5401,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 12,
@@ -4910,7 +5431,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Não fora ele, porém, quem se lembrara; fora a afilhada que \nlhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-\n-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” \n(1o parágrafo).\n\nOs pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "todos a Policarpo.",
@@ -4921,15 +5453,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 12,
@@ -4952,7 +5483,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No trecho “Cinquenta/cinquenta, não é? Não.” (2o parágrafo), \na autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o ônus da reprodução humana pode ser dividido simetricamente entre o casal.",
@@ -4963,15 +5504,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 33."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 12,
@@ -4994,7 +5534,17 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Um tipo de homem que já foi inimaginável e tão fácil de \nencontrar quanto um unicórnio passa a ser cada vez mais \ncomum, cultuado e exigido. Talvez você seja a sortuda que se \ncasou com um.” (1o parágrafo)\n\nSem alterar o sentido do texto, a palavra sublinhada pode ser \nsubstituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "simples.",
@@ -5005,15 +5555,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 13,
@@ -5036,7 +5585,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A autora dirige-se explicitamente a seu leitor em:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nA autora dirige-se explicitamente a seu leitor em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão” (5o parágrafo).",
@@ -5047,15 +5606,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 35."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 13,
@@ -5078,7 +5636,13 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma \n—, a preocupação em evitar excessos, bem como os clichês, \nas imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a \nrealidade social. Segundo tal conceito, o mais importante \npara um artista era a busca da perfeição estética, do verso \ne da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto\n\nde Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma —, a preocupação em evitar excessos, bem como os clichês, as imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a realidade social. Segundo tal conceito, o mais importante para um artista era a busca da perfeição estética, do verso e da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto de Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Naturalismo.",
@@ -5089,15 +5653,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf, questão 36."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 13,
@@ -5120,7 +5683,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A escrita surgiu pela primeira vez na Mesopotâmia por \nvolta de 3300 a.C. No começo, a escrita serviu para controlar \na circulação de produtos, os recebimentos e os pagamentos \nfeitos pelos templos e palácios. Com o tempo, o sistema foi \nmodificado e transformou-se na escrita chamada cuneiforme, \nque foi utilizada para registrar textos religiosos, mitos, poemas, cartas, decisões dos reis, contratos etc. A utilização da \nescrita demonstra que a sociedade estava ficando bem mais \ncomplexa: agora, apenas o uso da palavra falada já não era \nsuficiente para regular as relações entre as pessoas.\n\n(Marcelo Rede. A Mesopotâmia, 2011. Adaptado.)\n\nDe acordo com o excerto, um exemplo da contribuição da escrita cuneiforme para regular as relações entre as pessoas foi",
+    "statement": "A escrita surgiu pela primeira vez na Mesopotâmia por volta de 3300 a.C. No começo, a escrita serviu para controlar a circulação de produtos, os recebimentos e os pagamentos feitos pelos templos e palácios. Com o tempo, o sistema foi modificado e transformou-se na escrita chamada cuneiforme, que foi utilizada para registrar textos religiosos, mitos, poemas, cartas, decisões dos reis, contratos etc. A utilização da escrita demonstra que a sociedade estava ficando bem mais complexa: agora, apenas o uso da palavra falada já não era suficiente para regular as relações entre as pessoas.\n\n(Marcelo Rede. A Mesopotâmia, 2011. Adaptado.)\n\nDe acordo com o excerto, um exemplo da contribuição da escrita cuneiforme para regular as relações entre as pessoas foi",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a consolidação de códigos de leis, como o Código de Hamurábi.",
@@ -5131,15 +5699,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5162,7 +5729,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o excerto da obra “O Tesouro da Inglaterra pelo comércio exterior”, do inglês Thomas Mun, escrita em 1664.\n\nO meio ordinário de aumentar nossa riqueza e tesouro \né pelo comércio exterior, no qual devemos sempre observar \nesta regra: vender mais aos estrangeiros anualmente do que \nconsumimos do que é deles em valor.\n\n(https://history.hanover.edu. Adaptado.)\n\nNo excerto, Thomas Mun defende o princípio mercantilista",
+    "statement": "Analise o excerto da obra “O Tesouro da Inglaterra pelo comércio exterior”, do inglês Thomas Mun, escrita em 1664.\n\nO meio ordinário de aumentar nossa riqueza e tesouro é pelo comércio exterior, no qual devemos sempre observar esta regra: vender mais aos estrangeiros anualmente do que consumimos do que é deles em valor.\n\n(https://history.hanover.edu. Adaptado.)\n\nNo excerto, Thomas Mun defende o princípio mercantilista",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da exploração de metais preciosos nas colônias.",
@@ -5173,15 +5746,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 02."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5204,7 +5776,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A família patriarcal teve grande importância, mas ela foi característica da classe dominante, mais exatamente da classe \ndominante do Nordeste. Entre a gente de condição social inferior, as mulheres tenderam a ter maior independência, quando não tinham marido ou companheiro. Mesmo em relação às \nfamílias de elite, o quadro de submissão das mulheres tinha \nexceções. Em determinadas circunstâncias, elas desempenharam um relevante papel nas atividades econômicas. Isso \nocorreu na região de São Paulo, onde as mulheres assumiram \na administração da casa e dos bens quando os homens se \nlançavam por vários anos às expedições no sertão.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nDe acordo com o excerto, a condição social da mulher no \nBrasil colonial era",
+    "statement": "A família patriarcal teve grande importância, mas ela foi característica da classe dominante, mais exatamente da classe dominante do Nordeste. Entre a gente de condição social inferior, as mulheres tenderam a ter maior independência, quando não tinham marido ou companheiro. Mesmo em relação às famílias de elite, o quadro de submissão das mulheres tinha exceções. Em determinadas circunstâncias, elas desempenharam um relevante papel nas atividades econômicas. Isso ocorreu na região de São Paulo, onde as mulheres assumiram a administração da casa e dos bens quando os homens se lançavam por vários anos às expedições no sertão.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nDe acordo com o excerto, a condição social da mulher no Brasil colonial era",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "restrita aos padrões de dominação da família patriarcal.",
@@ -5215,15 +5792,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 03."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5246,7 +5822,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No terreno das relações entre os países europeus, o \nfinal do século XIX viu o otimismo de um mundo estável e \nsem guerras ser solapado por um ambiente cada vez mais \nimpregnado pelo nacionalismo e marcado pela concorrência \nimperialista. Além disso, ocorreram mudanças decisivas nos \nmecanismos que estruturavam até então as relações entre \nas potências.\n\n(Luís Edmundo Moraes. História contemporânea: \nda Revolução Francesa à Primeira Guerra Mundial, 2025.)\n\nO excerto apresenta características do contexto europeu antes \nda Primeira Guerra Mundial. Nesse contexto, houve também",
+    "statement": "No terreno das relações entre os países europeus, o final do século XIX viu o otimismo de um mundo estável e sem guerras ser solapado por um ambiente cada vez mais impregnado pelo nacionalismo e marcado pela concorrência imperialista. Além disso, ocorreram mudanças decisivas nos mecanismos que estruturavam até então as relações entre as potências.\n\n(Luís Edmundo Moraes. História contemporânea:\n\nda Revolução Francesa à Primeira Guerra Mundial, 2025.)\n\nO excerto apresenta características do contexto europeu antes da Primeira Guerra Mundial. Nesse contexto, houve também",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a divisão do território polonês por meio do pacto de não agressão russo-germânico.",
@@ -5257,15 +5839,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 04."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5288,7 +5869,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Além de Bahia, Piauí e Maranhão, a independência do \nBrasil também provocou conflitos armados no atual estado do \nPará. Muito vinculadas à Lisboa, as elites dirigentes da província viram com maus olhos a desobediência de Dom Pedro. \nA situação só começou a mudar no Pará em janeiro de 1823, \nquando as médias e baixas patentes se revoltaram contra a \nmanutenção do vínculo com Portugal. Os militares tentavam \nassumir o controle das armas e montavam emboscadas para \nforçar uma mudança política na província do Grão-Pará.\n\nEm maio de 1823, explodiu uma revolta no município de \nMuaná, na Ilha de Marajó, quando grupos se rebelaram contra os recrutamentos forçados e tomaram o controle da vila. \nMas os portugueses venceram. Os revoltosos foram presos \ne mandados para Lisboa. Mas não demoraria até o militar \nJohn Greenfeld, a mando de Dom Pedro I, ameaçar invadir \nBelém. Acossado pela esquadra do Império brasileiro e sem \nperspectiva de um apoio de Portugal, o governo local aderiu \nà independência em 15 de agosto de 1823.\n\n(https://agenciabrasil.ebc.com.br. Adaptado.)\n\nOs eventos narrados no excerto",
+    "statement": "Além de Bahia, Piauí e Maranhão, a independência do Brasil também provocou conflitos armados no atual estado do Pará. Muito vinculadas à Lisboa, as elites dirigentes da província viram com maus olhos a desobediência de Dom Pedro. A situação só começou a mudar no Pará em janeiro de 1823, quando as médias e baixas patentes se revoltaram contra a manutenção do vínculo com Portugal. Os militares tentavam assumir o controle das armas e montavam emboscadas para forçar uma mudança política na província do Grão-Pará.\n\nEm maio de 1823, explodiu uma revolta no município de Muaná, na Ilha de Marajó, quando grupos se rebelaram contra os recrutamentos forçados e tomaram o controle da vila. Mas os portugueses venceram. Os revoltosos foram presos e mandados para Lisboa. Mas não demoraria até o militar John Greenfeld, a mando de Dom Pedro I, ameaçar invadir Belém. Acossado pela esquadra do Império brasileiro e sem perspectiva de um apoio de Portugal, o governo local aderiu à independência em 15 de agosto de 1823.\n\n(https://agenciabrasil.ebc.com.br. Adaptado.)\n\nOs eventos narrados no excerto",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "enaltecem o grito do Ipiranga como marco da independência nacional.",
@@ -5299,15 +5886,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 05."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 3,
@@ -5330,7 +5916,13 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O aparecimento do cangaço, no Nordeste brasileiro, está \nrelacionado à decadência e reveses da cadeia produtiva ligada à agricultura e pecuária, à vida de penúria da população \nsertaneja, às penosas secas, à ausência do poder público, às \ninjustiças advindas dos “coronéis” e seus jagunços, às rivalidades e brigas fratricidas entre clãs familiares, aos abusos e \ntruculência da polícia, aos códigos de honra, vingança e violência do sertão, à fragilidade das instituições responsáveis \npela lei, ordem e justiça, à falta de perspectivas e esperanças \nde dias melhores.\n\n(Petrônio Domingues. “O ‘Corisco preto’: cangaço, raça e banditismo no\n\nNordeste brasileiro”. Revista de História, no 176, 2017. Adaptado.)\n\nSegundo o excerto, o aparecimento do cangaço, na região \nNordeste do Brasil, relaciona-se, sobretudo,",
+    "statement": "O aparecimento do cangaço, no Nordeste brasileiro, está relacionado à decadência e reveses da cadeia produtiva ligada à agricultura e pecuária, à vida de penúria da população sertaneja, às penosas secas, à ausência do poder público, às injustiças advindas dos “coronéis” e seus jagunços, às rivalidades e brigas fratricidas entre clãs familiares, aos abusos e truculência da polícia, aos códigos de honra, vingança e violência do sertão, à fragilidade das instituições responsáveis pela lei, ordem e justiça, à falta de perspectivas e esperanças de dias melhores.\n\n(Petrônio Domingues. “O ‘Corisco preto’: cangaço, raça e banditismo no\n\nNordeste brasileiro”. Revista de História, $n^{o}$ 176, 2017. Adaptado.)\n\nSegundo o excerto, o aparecimento do cangaço, na região Nordeste do Brasil, relaciona-se, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a um conjunto de fatores sociais, políticos, econômicos e jurídicos.",
@@ -5341,15 +5933,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 06."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 3,
@@ -5372,7 +5963,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Grande Depressão transformou o fascismo num movimento mundial, e, mais objetivamente, num perigo mundial. O fascismo em sua versão alemã (nacional-socialismo) \nbeneficiou-se tanto da tradição intelectual alemã, quanto de \num governo implacável, decidido a livrar-se do desemprego \na qualquer custo. À medida que crescia a maré do fascismo \ncom a Grande Depressão não apenas a paz, a estabilidade \nsocial e a economia, como também as instituições políticas e \nos valores intelectuais da sociedade burguesa do século XIX \nentraram em decadência ou colapso.\n\n(Eric J. Hobsbawm. Era dos extremos, 1995. Adaptado.)\n\nConsiderando o excerto e o período entreguerras (19191939), o crescimento do nazifascismo com a Grande Depressão contribuiu para a decadência",
+    "statement": "A Grande Depressão transformou o fascismo num movimento mundial, e, mais objetivamente, num perigo mundial. O fascismo em sua versão alemã (nacional-socialismo) beneficiou-se tanto da tradição intelectual alemã, quanto de um governo implacável, decidido a livrar-se do desemprego a qualquer custo. À medida que crescia a maré do fascismo com a Grande Depressão não apenas a paz, a estabilidade social e a economia, como também as instituições políticas e os valores intelectuais da sociedade burguesa do século XIX entraram em decadência ou colapso.\n\n(Eric J. Hobsbawm. Era dos extremos, 1995. Adaptado.)\n\nConsiderando o excerto e o período entreguerras (19191939), o crescimento do nazifascismo com a Grande Depressão contribuiu para a decadência",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do socialismo de mercado soviético.",
@@ -5383,15 +5979,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 3,
@@ -5414,7 +6009,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O meio acadêmico — então impactado pelo novo movimento estudantil e pela Contracultura — assumiu como \npauta de pesquisa científica a defesa do meio ambiente. \nEm 1967, engenheiros da Universidade de Berkeley criaram \na organização Ecology Action (Ação Ecológica), lançando \ncomo princípios básicos de sua luta ecológica: 1) Suprimir \no consumo desmedido; 2) Aprimorar as práticas industriais \npotencialmente perigosas para o ambiente, como a produção \ne distribuição de energia; 3) Eliminar as práticas ambientais \ndestruidoras, como o despejo de lixo humano sem controle; \n4) Lutar contra as guerras, vistas como desastres ambientais.\n\n(Marcos Napolitano. Juventude e contracultura, 2023. Adaptado.)\n\nEntre os debates impulsionados pela Contracultura na segunda metade do século XX, o excerto ressalta",
+    "statement": "O meio acadêmico — então impactado pelo novo movimento estudantil e pela Contracultura — assumiu como pauta de pesquisa científica a defesa do meio ambiente. Em 1967, engenheiros da Universidade de Berkeley criaram a organização Ecology Action (Ação Ecológica), lançando como princípios básicos de sua luta ecológica: 1) Suprimir o consumo desmedido; 2) Aprimorar as práticas industriais potencialmente perigosas para o ambiente, como a produção e distribuição de energia; 3) Eliminar as práticas ambientais destruidoras, como o despejo de lixo humano sem controle; 4) Lutar contra as guerras, vistas como desastres ambientais.\n\n(Marcos Napolitano. Juventude e contracultura, 2023. Adaptado.)\n\nEntre os debates impulsionados pela Contracultura na segunda metade do século XX, o excerto ressalta",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a ideia de retorno a atividades econômicas pré-industriais para a proteção do meio ambiente.",
@@ -5425,15 +6025,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 08."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5456,7 +6055,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Os consumidores procuravam fontes brasileiras para \nos produtos que, anteriormente, compravam no exterior. Ao \nmesmo tempo, os investimentos, desviados para o setor de \nexportação, eram atraídos pelos lucros mais altos advindos \nda produção industrial. O surto de industrialização “espontânea” foi auxiliado, em fins da década de 1930, por uma política consciente, à medida que o repúdio do Estado Novo \nao liberalismo político trazia consigo a determinação de se \nafastar do liberalismo econômico.\n\n(Thomas Skidmore. Brasil: de Getúlio Vargas \na Castelo Branco (1930-1964), 1975. Adaptado.)\n\nO excerto menciona características da política industrial da \nEra Vargas (1930-1945), dentre as quais destacam-se:",
+    "statement": "Os consumidores procuravam fontes brasileiras para os produtos que, anteriormente, compravam no exterior. Ao mesmo tempo, os investimentos, desviados para o setor de exportação, eram atraídos pelos lucros mais altos advindos da produção industrial. O surto de industrialização “espontânea” foi auxiliado, em fins da década de 1930, por uma política consciente, à medida que o repúdio do Estado Novo ao liberalismo político trazia consigo a determinação de se afastar do liberalismo econômico.\n\n(Thomas Skidmore. Brasil: de Getúlio Vargas a Castelo Branco (1930-1964), 1975. Adaptado.)\n\nO excerto menciona características da política industrial da Era Vargas (1930-1945), dentre as quais destacam-se:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o controle dos gastos públicos e o aumento das exportações.",
@@ -5467,15 +6071,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5498,7 +6101,14 @@ export const uea2026Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise um trecho do relato de defesa de Sócrates, julgado \nna cidade de Atenas em 399 a.C. Esse relato foi escrito pelo \nseu discípulo Platão na obra Apologia de Sócrates.\n\n— Cálias, se os teus filhinhos fossem potrinhos ou bezerros, deveríamos escolher e pagar para eles um guardião, \no qual os deveria aperfeiçoar nas suas qualidades inerentes: \nseria uma pessoa que entendesse de cavalos e de pecuária. \nMas, como são homens, qual é o mestre que deves tomar \npara eles? Qual é o que sabe ensinar tais virtudes, a humana \ne a civil? Creio bem que tens pensado nisso uma vez que \ntens dois filhos. Haverá alguém ou não?\n\n— Certamente!\nE eu perguntei:\n— Quem é, de onde é, e por quanto ensina?\n— Eveno, de Paros, por cinco minas.\nE eu suponho Eveno muito feliz se verdadeiramente possui essa arte e a ensina com tal garbo. Mas o que é certo é \nque também eu me sentiria altivo e orgulhoso, se soubesse \ntais coisas; entretanto, o fato é, cidadãos atenienses, que eu \nnão sei.\n\n(www.virtualbooks.com.br.)\n\nO método filosófico de Sócrates apresentado no excerto \ncaracteriza-se",
+    "statement": "Analise um trecho do relato de defesa de Sócrates, julgado na cidade de Atenas em 399 a.C. Esse relato foi escrito pelo seu discípulo Platão na obra Apologia de Sócrates.\n\n— Cálias, se os teus filhinhos fossem potrinhos ou bezerros, deveríamos escolher e pagar para eles um guardião, o qual os deveria aperfeiçoar nas suas qualidades inerentes: seria uma pessoa que entendesse de cavalos e de pecuária. Mas, como são homens, qual é o mestre que deves tomar para eles? Qual é o que sabe ensinar tais virtudes, a humana e a civil? Creio bem que tens pensado nisso uma vez que tens dois filhos. Haverá alguém ou não?\n\n— Certamente! E eu perguntei: — Quem é, de onde é, e por quanto ensina? — Eveno, de Paros, por cinco minas. E eu suponho Eveno muito feliz se verdadeiramente possui essa arte e a ensina com tal garbo. Mas o que é certo é que também eu me sentiria altivo e orgulhoso, se soubesse tais coisas; entretanto, o fato é, cidadãos atenienses, que eu não sei.\n\n(www.virtualbooks.com.br.)\n\nO método filosófico de Sócrates apresentado no excerto caracteriza-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela transmissão do conhecimento por um mestre aos seus discípulos.",
@@ -5509,15 +6119,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 10."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5540,7 +6149,12 @@ export const uea2026Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Chamamos de transição democrática o período que se \ninicia com a revogação das leis de exceção, os Atos Institucionais, em 1979, e termina com a aprovação de uma nova \nConstituição, em 1988.\n\n(Daniel Aarão Reis Filho. Ditadura e democracia no Brasil, 2014.)\n\nNo período mencionado no excerto, dentre os eventos marcantes da transição democrática brasileira, ocorreu",
+    "statement": "Chamamos de transição democrática o período que se inicia com a revogação das leis de exceção, os Atos Institucionais, em 1979, e termina com a aprovação de uma nova Constituição, em 1988.\n\n(Daniel Aarão Reis Filho. Ditadura e democracia no Brasil, 2014.)\n\nNo período mencionado no excerto, dentre os eventos marcantes da transição democrática brasileira, ocorreu",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a eleição direta para presidente.",
@@ -5551,15 +6165,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 11."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5582,7 +6195,14 @@ export const uea2026Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Este é um grande dilema dos meios de comunicação de \nmassa. Embora sua recepção seja mais democrática, pois \npretende-se que seus conteúdos atinjam o maior número de \npessoas, a escolha dos conteúdos é limitada a interesses \neconômicos e ao aumento da audiência. Por isso, o acesso \nàs decisões do que deve ser transmitido por esses meios é \nmenos democrático. Afinal, o que acaba sendo transmitido são \naqueles conteúdos que agradam ao gosto da massa, estatisticamente determinados por pesquisas. Esse processo é o que \nleva à massificação dos conteúdos e à uniformização das informações, características comuns da comunicação de massa.\n\nEsse efeito massificante dos conteúdos, que esperava-\n-se eliminar com o surgimento dos meios digitais, a internet e \nas redes sociais, parece cada vez mais revigorado na atualidade. O funcionamento dos meios digitais, pelo uso de algoritmos (e outros sistemas), parece cada vez mais vinculado à \nvelha fórmula dos meios de comunicação de massa, em que \na informação é vista mais como mercadoria, um mero produto, do que um conteúdo capaz de desenvolver a autonomia e \na emancipação humana. O uso dos algoritmos é um jogo de \ncartas marcadas, cada vez mais similar às estratégias usadas pelos meios de comunicação de massa, pois possibilitam que empresas, instituições e governos possam interferir, \nmanipular e regular a distribuição da informação, criando, de \ncerta forma, territórios e governos virtuais.\n\n(Patrício Dugnani. “Meios de Comunicação de Massa e \nMeios Digitais: Remassificação e internetilização”. Revista Anagramas \nRumbos y Sentidos de la Comunicación, vol. 22, no 44, 2024. Adaptado.)\n\nDe acordo com o excerto, os meios digitais promovem a massificação da informação, porque",
+    "statement": "Este é um grande dilema dos meios de comunicação de massa. Embora sua recepção seja mais democrática, pois pretende-se que seus conteúdos atinjam o maior número de pessoas, a escolha dos conteúdos é limitada a interesses econômicos e ao aumento da audiência. Por isso, o acesso às decisões do que deve ser transmitido por esses meios é menos democrático. Afinal, o que acaba sendo transmitido são aqueles conteúdos que agradam ao gosto da massa, estatisticamente determinados por pesquisas. Esse processo é o que leva à massificação dos conteúdos e à uniformização das informações, características comuns da comunicação de massa.\n\nEsse efeito massificante dos conteúdos, que esperava-se eliminar com o surgimento dos meios digitais, a internet e as redes sociais, parece cada vez mais revigorado na atualidade. O funcionamento dos meios digitais, pelo uso de algoritmos (e outros sistemas), parece cada vez mais vinculado à velha fórmula dos meios de comunicação de massa, em que a informação é vista mais como mercadoria, um mero produto, do que um conteúdo capaz de desenvolver a autonomia e a emancipação humana. O uso dos algoritmos é um jogo de cartas marcadas, cada vez mais similar às estratégias usadas pelos meios de comunicação de massa, pois possibilitam que empresas, instituições e governos possam interferir, manipular e regular a distribuição da informação, criando, de certa forma, territórios e governos virtuais.\n\n(Patrício Dugnani. “Meios de Comunicação de Massa e\n\nMeios Digitais: Remassificação e internetilização”. Revista Anagramas Rumbos y Sentidos de la Comunicación, vol. 22, $n^{o}$ 44, 2024. Adaptado.)\n\nDe acordo com o excerto, os meios digitais promovem a massificação da informação, porque",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a escolha das publicações é mais democrática do que nos meios de comunicação tradicionais.",
@@ -5593,15 +6213,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5624,7 +6243,12 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Um estudo conduzido por pesquisadores brasileiros mostrou que a terra preta da Amazônia (TPA) pode acelerar o \ncrescimento de árvores. Segundo o pesquisador Anderson \nSantos de Freitas, microrganismos como bactérias, fungos e \narqueias, que permitem o crescimento das plantas, se desenvolveram-se nesse solo ao longo dos anos. O papel desses \norganismos é tornar os nutrientes mais disponíveis e solúveis para as plantas. O objetivo do estudo é entender como \nesse processo funciona para, no futuro, replicar a técnica em \noutros locais.\n\n(Ana Elisa Desiderá. https://g1.globo.com, 12.04.2026. Adaptado.)\n\nA coloração escura da terra preta da Amazônia está relacionada à grande concentração de",
+    "statement": "Um estudo conduzido por pesquisadores brasileiros mostrou que a terra preta da Amazônia (TPA) pode acelerar o crescimento de árvores. Segundo o pesquisador Anderson Santos de Freitas, microrganismos como bactérias, fungos e arqueias, que permitem o crescimento das plantas, se desenvolveram-se nesse solo ao longo dos anos. O papel desses organismos é tornar os nutrientes mais disponíveis e solúveis para as plantas. O objetivo do estudo é entender como esse processo funciona para, no futuro, replicar a técnica em outros locais.\n\n(Ana Elisa Desiderá. https://g1.globo.com, 12.04.2026. Adaptado.)\n\nA coloração escura da terra preta da Amazônia está relacionada à grande concentração de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "substrato inorgânico depositado no horizonte C.",
@@ -5635,15 +6259,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 13."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5666,12 +6289,16 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge publicada no perfil @cartoonmovement do \nInstagram, em 16.07.2025.\n\n(www.instagram.com. Adaptado.)\n\nA transformação do espaço geográfico decorrente da relação \nhistórica entre sociedade e natureza, ilustrada na charge, resulta na",
+    "statement": "Analise a charge publicada no perfil @cartoonmovement do Instagram, em 16.07.2025.\n\n(www.instagram.com. Adaptado.)\n\nA transformação do espaço geográfico decorrente da relação histórica entre sociedade e natureza, ilustrada na charge, resulta na",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q14-1.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2026).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2026-g2/q14-1.png",
+        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
     "alternatives": [
@@ -5683,15 +6310,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 14."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5714,12 +6340,16 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O trajeto do rio São Francisco já foi 250 quilômetros mais \nextenso, antes de seu trecho inicial ser tomado pelo rio Grande, o principal formador do rio Paraná. Por meio da chamada captura fluvial, os rios agem como canibais, incorporando \npartes de outros, que encolherão ou desaparecerão. O ritmo \ndas mudanças superficiais ou subterrâneas do fluxo da água \ndepende do tipo de solo, da natureza das rochas e da inclinação do terreno, já que a água tende a fluir para as áreas \nmais baixas.\n\n(Carlos Fioravanti. https://revistapesquisa.fapesp.br, 11.12.2025. Adaptado.)\n\nConsiderando o excerto e os mapas sobre as mudanças na \nbacia hidrográfica do rio São Francisco, o processo responsável por essas mudanças corresponde",
+    "statement": "O trajeto do rio São Francisco já foi 250 quilômetros mais extenso, antes de seu trecho inicial ser tomado pelo rio Grande, o principal formador do rio Paraná. Por meio da chamada captura fluvial, os rios agem como canibais, incorporando partes de outros, que encolherão ou desaparecerão. O ritmo das mudanças superficiais ou subterrâneas do fluxo da água depende do tipo de solo, da natureza das rochas e da inclinação do terreno, já que a água tende a fluir para as áreas mais baixas.\n\n(Carlos Fioravanti. https://revistapesquisa.fapesp.br, 11.12.2025. Adaptado.)\n\nConsiderando o excerto e os mapas sobre as mudanças na\nbacia hidrográfica do rio São Francisco, o processo respon-\nsável por essas mudanças corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "poem"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q15-1.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo II, 2026).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/vestibular-2026-g2/q15-1.png",
+        "alt": "Mapa da bacia do rio São Francisco."
       }
     ],
     "alternatives": [
@@ -5731,15 +6361,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 6,
@@ -5763,11 +6392,15 @@ export const uea2026Vestibular = [
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
     "statement": "Analise o infográfico.\n\n(https://g1.globo.com, 12.09.2025. Adaptado.)\n\nA dinâmica atmosférica apresentada no infográfico evidencia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q16-1.jpg",
-        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2026).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2026-g2/q16-1.png",
+        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
     "alternatives": [
@@ -5779,15 +6412,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 16."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 7,
@@ -5810,7 +6442,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A matriz impacta diretamente a economia \ndo Brasil ao abastecer a produção, o transporte e os serviços. Já a matriz afeta principalmente os setores industrial, comercial e residencial, com reflexos diretos na \ncompetitividade das empresas, na inflação e no custo de vida \ndas famílias brasileiras. Ambas as matrizes são fundamentais para reduzir as emissões de carbono e alinhar o país às \nmetas climáticas estabelecidas em acordos internacionais, \ncomo o .\n\n(https://solucoes.edp.com.br, 18.11.2025. Adaptado.)\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A matriz impacta diretamente a economia do Brasil ao abastecer a produção, o transporte e os serviços. Já a matriz afeta principalmente os setores industrial, comercial e residencial, com reflexos diretos na competitividade das empresas, na inflação e no custo de vida das famílias brasileiras. Ambas as matrizes são fundamentais para reduzir as emissões de carbono e alinhar o país às metas climáticas estabelecidas em acordos internacionais, como o.\n\n(https://solucoes.edp.com.br, 18.11.2025. Adaptado.)\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "elétrica – energética – Tratado de Tibilisi",
@@ -5821,15 +6458,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 7,
@@ -5852,7 +6488,13 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Estudo divulgado pelo instituto de pesquisa WRI Brasil \nmostra que o volume de imóveis construídos nas principais \ncidades do país cresceu mais do que a população urbana \nnum período de quase 30 anos, entre 1993 e 2020. Cerca \nde metade das cidades grandes analisadas e um terço das \nmédias registraram crescimento das edificações pelo menos \nduas vezes mais rápido que o populacional. Esses dados \nmostram um descompasso nas relações entre densidade \nconstruída e densidade demográfica. Para os autores do estudo, esse padrão pode ser um reflexo das formas de ocupação do território adotadas nos últimos anos, influenciadas por \nfatores como a legislação urbana e os produtos criados pelos \nmercados imobiliário e da construção civil.\n\n(Mariana Vick. “Como as cidades cresceram mais que a população urbana”.\n\nwww.nexojornal.com.br, 23.10.2025. Adaptado.)\n\nCom base no excerto, a discrepância entre a densidade \nconstruída e a densidade demográfica no Brasil relaciona-se",
+    "statement": "Estudo divulgado pelo instituto de pesquisa WRI Brasil mostra que o volume de imóveis construídos nas principais cidades do país cresceu mais do que a população urbana num período de quase 30 anos, entre 1993 e 2020. Cerca de metade das cidades grandes analisadas e um terço das médias registraram crescimento das edificações pelo menos duas vezes mais rápido que o populacional. Esses dados mostram um descompasso nas relações entre densidade construída e densidade demográfica. Para os autores do estudo, esse padrão pode ser um reflexo das formas de ocupação do território adotadas nos últimos anos, influenciadas por fatores como a legislação urbana e os produtos criados pelos mercados imobiliário e da construção civil.\n\n(Mariana Vick. “Como as cidades cresceram mais que a população urbana”.\n\nwww.nexojornal.com.br, 23.10.2025. Adaptado.)\n\nCom base no excerto, a discrepância entre a densidade construída e a densidade demográfica no Brasil relaciona-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à migração de jovens das cidades pequenas para os centros metropolitanos, por meio da qual o consumo por moradias temporárias de aplicativos estimula a segregação socioespacial urbana.",
@@ -5863,15 +6505,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 18."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 7,
@@ -5894,7 +6535,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Segundo dados do MapBiomas, entre 1985 e 2024, a \ntemperatura média deste bioma subiu 0,47 ºC por década. Já \no volume de chuvas, entre 1979 e 2024, reduziu 10,45 milímetros a cada década. Este bioma é frequentemente apontado como sendo o mais bem protegido do país, com cerca \nde 85% de sua paisagem original preservada. No entanto, há \npressões crescentes e uma vulnerabilidade climática que se \ntornou evidente nos últimos anos. Além da questão do aquecimento global, que empurra os termômetros para cima em \ntodas as latitudes do planeta, alterações dentro dos limites \ngeográficos deste bioma e nos dois grandes biomas vizinhos \ncontribuem para esquentar e tornar mais seca esta região.\n\n(Marcos Pivetta. https://revistapesquisa.fapesp.br, 09.03.2026. Adaptado.)\n\nO bioma a que se refere o excerto e uma das causas da sua \nvulnerabilidade são, respectivamente,",
+    "statement": "Segundo dados do MapBiomas, entre 1985 e 2024, a temperatura média deste bioma subiu 0,47 ºC por década. Já o volume de chuvas, entre 1979 e 2024, reduziu 10,45 milímetros a cada década. Este bioma é frequentemente apontado como sendo o mais bem protegido do país, com cerca de 85% de sua paisagem original preservada. No entanto, há pressões crescentes e uma vulnerabilidade climática que se tornou evidente nos últimos anos. Além da questão do aquecimento global, que empurra os termômetros para cima em todas as latitudes do planeta, alterações dentro dos limites geográficos deste bioma e nos dois grandes biomas vizinhos contribuem para esquentar e tornar mais seca esta região.\n\n(Marcos Pivetta. https://revistapesquisa.fapesp.br, 09.03.2026. Adaptado.)\n\nO bioma a que se refere o excerto e uma das causas da sua vulnerabilidade são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Pampas e produção de trigo.",
@@ -5905,15 +6551,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 19."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 8,
@@ -5936,12 +6581,16 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o mapa, publicado no perfil @espacialidade do \nInstagram em 13.04.2026, que apresenta o sistema hidrelétrico e a articulação das redes de transmissão de energia \nno Brasil em 2026.\n\n(www.instagram.com. Adaptado.)\n\nDe acordo com a análise do mapa e conhecimentos sobre \na regionalização do espaço produtivo brasileiro, o sistema \nhidrelétrico",
+    "statement": "Analise o mapa, publicado no perfil @espacialidade do Instagram em 13.04.2026, que apresenta o sistema hidrelétrico e a articulação das redes de transmissão de energia no Brasil em 2026.\n\n(www.instagram.com. Adaptado.)\n\nDe acordo com a análise do mapa e conhecimentos sobre a regionalização do espaço produtivo brasileiro, o sistema hidrelétrico",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2026).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2026-g2/q20-1.png",
+        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
     "alternatives": [
@@ -5953,15 +6602,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 20."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 8,
@@ -5984,7 +6632,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A ascensão da China recolocou no centro do debate uma \nvelha questão da economia política brasileira: como transformar vínculos externos em desenvolvimento interno? Para o \nBrasil, o comércio com o gigante asiático trouxe ganhos cambiais, superávits comerciais e algum alívio externo, mas também reforçou a especialização em commodities. O Brasil se \ninsere nessa relação comercial exportando soja, minério de \nferro e petróleo, enquanto importa máquinas, componentes e \nbens de maior conteúdo tecnológico. A parceria sino-brasileira \ntende a reproduzir dependência, e não autonomia produtiva.\n\n(https://outraspalavras.net, 10.06.2026. Adaptado.)\n\nO excerto evidencia um cenário para a economia brasileira de",
+    "statement": "A ascensão da China recolocou no centro do debate uma velha questão da economia política brasileira: como transformar vínculos externos em desenvolvimento interno? Para o Brasil, o comércio com o gigante asiático trouxe ganhos cambiais, superávits comerciais e algum alívio externo, mas também reforçou a especialização em commodities. O Brasil se insere nessa relação comercial exportando soja, minério de ferro e petróleo, enquanto importa máquinas, componentes e bens de maior conteúdo tecnológico. A parceria sino-brasileira tende a reproduzir dependência, e não autonomia produtiva.\n\n(https://outraspalavras.net, 10.06.2026. Adaptado.)\n\nO excerto evidencia um cenário para a economia brasileira de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "reprimarização.",
@@ -5995,15 +6648,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 21."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 9,
@@ -6026,7 +6678,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o gráfico, publicado no perfil @brasilemmapas do \nInstagram em 04.05.2026, sobre a evolução do Produto Interno Bruto (PIB) per capita do Brasil, em dólar, no período \nde 1960 a 2030.\n\n(www.instagram.com. Adaptado.)\n\nConsiderando o gráfico e conhecimentos sobre a inserção do \nBrasil na economia mundial, tem-se que a evolução do PIB \nper capita do país apresenta",
+    "statement": "Analise o gráfico, publicado no perfil @brasilemmapas do Instagram em 04.05.2026, sobre a evolução do Produto Interno Bruto (PIB) per capita do Brasil, em dólar, no período de 1960 a 2030.\n\n(www.instagram.com. Adaptado.)\n\nConsiderando o gráfico e conhecimentos sobre a inserção do Brasil na economia mundial, tem-se que a evolução do PIB per capita do país apresenta",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "constância, já que as décadas de 1960 a 1980 foram marcadas pela política do pleno emprego instituída pelo governo cívico-militar.",
@@ -6037,15 +6694,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 22."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 9,
@@ -6068,7 +6724,13 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A transformação digital da indústria vem ampliando o papel da tecnologia para além do ganho de produtividade. Conceitos ligados à Inteligência Artificial (IA) passaram a ocupar \nposição estratégica na busca por operações mais sustentáveis, eficientes e energeticamente inteligentes. A combinação \nentre sensores, automação e análise de dados em tempo real \npermite reduzir desperdícios, otimizar recursos e melhorar o \ndesempenho das fábricas em diferentes etapas da produção.\n\n(Luiz Eduardo dos S. Pimentel Junior. \nwww.segs.com.br, 08.05.2026. Adaptado.)\n\nO nome atribuído ao modelo industrial descrito no excerto \ne a função desse modelo no mundo contemporâneo são, \nrespectivamente:",
+    "statement": "A transformação digital da indústria vem ampliando o papel da tecnologia para além do ganho de produtividade. Conceitos ligados à Inteligência Artificial (IA) passaram a ocupar posição estratégica na busca por operações mais sustentáveis, eficientes e energeticamente inteligentes. A combinação entre sensores, automação e análise de dados em tempo real permite reduzir desperdícios, otimizar recursos e melhorar o desempenho das fábricas em diferentes etapas da produção.\n\n(Luiz Eduardo dos S. Pimentel Junior.\n\nwww.segs.com.br, 08.05.2026. Adaptado.)\n\nO nome atribuído ao modelo industrial descrito no excerto e a função desse modelo no mundo contemporâneo são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.0 — estar presente em diferentes locais vinculados à alta tecnologia.",
@@ -6079,15 +6741,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 10,
@@ -6110,7 +6771,12 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Os governos de Argentina, Brasil, Paraguai e Uruguai, \npaíses-membros do Mercado Comum do Sul (Mercosul), \nconcordaram com o início das negociações de um acordo comercial com o Japão, como o que foi realizado com a \nUnião Europeia. O anúncio foi feito em comunicado conjunto \ndo bloco, no dia 30.06.2026, durante a 68a Cúpula de Chefes de Estado do Mercosul. O Japão é a quarta maior economia do mundo e já está entre os dez maiores parceiros \ncomerciais do Mercosul, com uma corrente de comércio de \nUS$ 13,7 bilhões em 2025.\n\n(https://oglobo.globo.com, 30.06.2026. Adaptado.)\n\nO modelo de integração regional ente o Mercosul e Japão e o \ncontexto internacional para essa integração entre países são, \nrespectivamente,",
+    "statement": "Os governos de Argentina, Brasil, Paraguai e Uruguai, países-membros do Mercado Comum do Sul (Mercosul), concordaram com o início das negociações de um acordo comercial com o Japão, como o que foi realizado com a União Europeia. O anúncio foi feito em comunicado conjunto do bloco, no dia 30.06.2026, durante a $68^{a}$ Cúpula de Chefes de Estado do Mercosul. O Japão é a quarta maior economia do mundo e já está entre os dez maiores parceiros comerciais do Mercosul, com uma corrente de comércio de US$ 13,7 bilhões em 2025.\n\n(https://oglobo.globo.com, 30.06.2026. Adaptado.)\n\nO modelo de integração regional ente o Mercosul e Japão e o contexto internacional para essa integração entre países são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a união aduaneira e a fragilidade do sistema multilateral.",
@@ -6121,15 +6787,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 24."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 10,
@@ -6153,6 +6818,13 @@ export const uea2026Vestibular = [
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
     "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nNa estrutura estabelecida pelo eu lírico, “poema” é comparado a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“jardineiro”.",
@@ -6163,15 +6835,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6194,7 +6865,10 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nO poema de Ana Martins Marques caracteriza-se, sobretudo, \npor seu teor",
+    "statement": "O poema de Ana Martins Marques caracteriza-se, sobretudo, por seu teor",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "político-social.",
@@ -6205,15 +6879,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 26."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6236,7 +6909,10 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nEm “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do \nelemento sublinhado em:",
+    "statement": "Em “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do elemento sublinhado em:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Se o jardineiro abandonasse no meio a tarefa”.",
@@ -6247,15 +6923,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 27."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6278,7 +6953,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5o parágrafo)\n\nNo contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "sua tendência a falar muito.",
@@ -6289,15 +6975,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 28."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6320,7 +7005,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Está empregada em sentido figurado a palavra a sublinhada \nem:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nEstá empregada em sentido figurado a palavra a sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“aquele doce acabar para a sua vida” (1o parágrafo).",
@@ -6331,15 +7027,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 29."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6362,7 +7057,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” \n(3o parágrafo)\n\nMantendo o sentido original da frase, a oração sublinhada \npode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Desde que ele estava tão taciturno.",
@@ -6373,15 +7079,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 30."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6404,7 +7109,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Transposta para a voz passiva, a oração “tirar da terra o alimento” (3o parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o alimento será tirado da terra.",
@@ -6415,15 +7131,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6446,7 +7161,18 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Não fora ele, porém, quem se lembrara; fora a afilhada que \nlhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-\n-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” \n(1o parágrafo).\n\nOs pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "todos a Olga.",
@@ -6457,15 +7183,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6488,7 +7213,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No trecho “Cinquenta/cinquenta, não é? Não.” (2o parágrafo), \na autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a maternidade inevitavelmente afasta as mulheres de suas atividades profissionais.",
@@ -6499,15 +7234,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 33."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6530,7 +7264,17 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Um tipo de homem que já foi inimaginável e tão fácil de \nencontrar quanto um unicórnio passa a ser cada vez mais \ncomum, cultuado e exigido. Talvez você seja a sortuda que se \ncasou com um.” (1o parágrafo)\n\nSem alterar o sentido do texto, a palavra sublinhada pode ser \nsubstituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "simples.",
@@ -6541,15 +7285,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 34."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6572,7 +7315,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A autora dirige-se explicitamente a seu leitor em:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nA autora dirige-se explicitamente a seu leitor em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando” (3o parágrafo).",
@@ -6583,15 +7336,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 35."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6614,7 +7366,13 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma \n—, a preocupação em evitar excessos, bem como os clichês, \nas imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a \nrealidade social. Segundo tal conceito, o mais importante \npara um artista era a busca da perfeição estética, do verso \ne da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto\n\nde Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma —, a preocupação em evitar excessos, bem como os clichês, as imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a realidade social. Segundo tal conceito, o mais importante para um artista era a busca da perfeição estética, do verso e da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto de Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Parnasianismo.",
@@ -6625,15 +7383,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf, questão 36."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6656,7 +7413,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um bônus de R$ 24.300,00 foi dividido entre os corretores \nRui, Vera e Jairo de maneira diretamente proporcional ao número de unidades vendidas por eles em um empreendimento imobiliário. A soma do número de apartamentos vendidos \npor esses corretores totalizou 108 unidades, sendo que Jairo \nvendeu 8 apartamentos a menos do que Vera e Rui vendeu 4 \napartamentos a mais do que Jairo. A parte do bônus recebido \npor Jairo foi",
+    "statement": "Um bônus de R$ 24.300,00 foi dividido entre os corretores Rui, Vera e Jairo de maneira diretamente proporcional ao número de unidades vendidas por eles em um empreendimento imobiliário. A soma do número de apartamentos vendidos por esses corretores totalizou 108 unidades, sendo que Jairo vendeu 8 apartamentos a menos do que Vera e Rui vendeu 4 apartamentos a mais do que Jairo. A parte do bônus recebido por Jairo foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 8.100,00.",
@@ -6667,15 +7427,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 01."
+      "Sejam $V$ vendas de Vera; Jairo $=V-8$; Rui $=V-4$. Soma $3V-12=108 \\Rightarrow V=40$.",
+      "Jairo vendeu $32$; fração $\\frac{32}{108}$.",
+      "Bônus de Jairo: $24300 \\times \\frac{32}{108}=7200$ reais."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. Jairo recebeu R$ 7.200,00.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6698,7 +7459,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "José colocou um capital de R$ 800,00 em uma aplicação financeira com taxa de rendimento de 1% ao mês durante um \nmês. Ao término desse mês retirou o capital aplicado mais o \nrendimento obtido e colocou todo esse valor em uma outra \naplicação financeira, com taxa mensal de rendimento maior \nque a da aplicação anterior, durante mais um mês. Ao final \ndesse período, o valor total obtido, incluindo o capital e os \nrendimentos, era de R$ 820,12. A taxa mensal de rendimento \nda segunda aplicação foi de",
+    "statement": "José colocou um capital de R$ 800,00 em uma aplicação financeira com taxa de rendimento de 1% ao mês durante um mês. Ao término desse mês retirou o capital aplicado mais o rendimento obtido e colocou todo esse valor em uma outra aplicação financeira, com taxa mensal de rendimento maior que a da aplicação anterior, durante mais um mês. Ao final desse período, o valor total obtido, incluindo o capital e os rendimentos, era de R$ 820,12. A taxa mensal de rendimento da segunda aplicação foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1,15%.",
@@ -6709,15 +7473,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 02."
+      "1º mês: $800\\times1{,}01=808$.",
+      "2º mês: $808\\times(1+i)=820{,}12 \\Rightarrow 1+i=\\frac{820{,}12}{808}=1{,}015$.",
+      "$i=1{,}5\\%$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A taxa foi $1{,}5\\%$."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6740,7 +7505,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma empresa há 60 funcionários, sendo que 80% deles \ntêm algum curso de especialização. Entre os que possuem \ncurso de especialização, 12,5% já possuem curso superior, \ne 50% dos demais possuem curso técnico. Considerando \nsomente os que não têm curso de especialização, 25% também possuem curso superior e, entre os demais, somente 4 \nfuncionários têm curso técnico. Nessa empresa, o número de \nfuncionários que possuem curso técnico supera o número de \nfuncionários que possuem curso superior em",
+    "statement": "Em uma empresa há 60 funcionários, sendo que 80% deles têm algum curso de especialização. Entre os que possuem curso de especialização, 12,5% já possuem curso superior, e 50% dos demais possuem curso técnico. Considerando somente os que não têm curso de especialização, 25% também possuem curso superior e, entre os demais, somente 4 funcionários têm curso técnico. Nessa empresa, o número de funcionários que possuem curso técnico supera o número de funcionários que possuem curso superior em",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "18.",
@@ -6751,15 +7519,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 03."
+      "Com especialização: $60\\times0{,}8=48$; superior $48\\times0{,}125=6$; demais $42$, técnico $21$.",
+      "Sem especialização: $12$; superior $12\\times0{,}25=3$; demais $9$, técnico $4$.",
+      "Técnico $=21+4=25$; superior $=6+3=9$; diferença $25-9=16$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A diferença é $16$.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6782,7 +7551,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma sala retangular há 4 janelas, sendo 2 delas em uma \nparede e as outras 2 na parede oposta. Para que ocorra uma \nventilação adequada nessa sala é necessário que pelo menos uma janela de cada uma dessas duas paredes esteja \naberta. O número de maneiras distintas de as janelas dessa \nsala estarem abertas para que ocorra ventilação adequada é",
+    "statement": "Em uma sala retangular há 4 janelas, sendo 2 delas em uma parede e as outras 2 na parede oposta. Para que ocorra uma ventilação adequada nessa sala é necessário que pelo menos uma janela de cada uma dessas duas paredes esteja aberta. O número de maneiras distintas de as janelas dessa sala estarem abertas para que ocorra ventilação adequada é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4.",
@@ -6793,15 +7565,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 04."
+      "Cada parede precisa de ao menos 1 janela aberta: $3$ estados por parede (1 ou 2 abertas).",
+      "Total: $3\\times3=9$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta. São $9$ maneiras.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6824,7 +7596,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a função f(x) = 2 ⋅ sen b x\n\n3\n⋅\n\n\n\n\n\n\n\n, em que b é uma\n\nconstante real, com 0 ≤ x ≤ 2π. Sabendo que f 3\n\n4\nπ\n\n\n\n\n\n\n\n= 2,\n\no valor de b é",
+    "statement": "Considere a função f(x) = 2 ⋅ sen  b3⋅ x , em que b é uma constante real, com 0 ≤ x ≤ 2π. Sabendo que f  $\\frac{3}{4}$π  = 2, o valor de b é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0.",
@@ -6835,15 +7610,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 05."
+      "$f(x)=2\\,\\mathrm{sen}\\!\\left(\\frac{bx}{3}\\right)$ e $f\\!\\left(\\frac{3\\pi}{4}\\right)=2$.",
+      "$2\\,\\mathrm{sen}\\!\\left(\\frac{b}{3}\\cdot\\frac{3\\pi}{4}\\right)=2 \\Rightarrow \\mathrm{sen}\\!\\left(\\frac{b\\pi}{4}\\right)=1$.",
+      "$\\frac{b\\pi}{4}=\\frac{\\pi}{2} \\Rightarrow b=2$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. $b=2$.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6866,7 +7642,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Três amigos, José, Luiz e Mário, fizeram um simulado de \nmatemática. O número de questões que José, Luiz e Mário \nacertaram, nessa ordem, formava uma progressão geométrica \n(PG) de razão 1,2. Sabendo que Luiz acertou 5 questões a \nmais do que José, o número de questões que Mário acertou foi",
+    "statement": "Três amigos, José, Luiz e Mário, fizeram um simulado de matemática. O número de questões que José, Luiz e Mário acertaram, nessa ordem, formava uma progressão geométrica (PG) de razão 1,2. Sabendo que Luiz acertou 5 questões a mais do que José, o número de questões que Mário acertou foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "35.",
@@ -6877,15 +7656,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 06."
+      "PG razão $1{,}2$: Luiz $=1{,}2\\,$José; Luiz $-$ José $=0{,}2\\,$José $=5 \\Rightarrow$ José $=25$.",
+      "Mário $=25\\times1{,}2^2=25\\times1{,}44=36$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. Mário acertou $36$.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -6908,7 +7687,11 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Para calcular a massa corporal ideal do corpo humano, em \nfunção da altura e do sexo biológico, alguns pesquisadores\n\nutilizam a função linear M(H) = (H - 100) - H 1 50\n\nk\n-\n\n\n\n\n\n\n\n, em que\n\nM(H) é a massa corporal ideal, em quilogramas (kg), H é altura em centímetros, com 60 < H < 190, e k é uma constante, \nsendo k = 2 para o sexo feminino e k = 4 para o sexo masculino. Uma pessoa do sexo feminino, que apresenta 60 kg de \nmassa corporal, utilizou essa função e constatou que estava \n4 kg acima do valor de massa corporal ideal. A altura dessa \npessoa, em metros, é",
+    "statement": "Para calcular a massa corporal ideal do corpo humano, em função da altura e do sexo biológico, alguns pesquisadores\n\nutilizam a função linear M(H) = (H - 100) -  H 1 50-k , em que M(H) é a massa corporal ideal, em quilogramas (kg), H é altura em centímetros, com 60 < H < 190, e k é uma constante, sendo k = 2 para o sexo feminino e k = 4 para o sexo masculino. Uma pessoa do sexo feminino, que apresenta 60 kg de massa corporal, utilizou essa função e constatou que estava 4 kg acima do valor de massa corporal ideal. A altura dessa pessoa, em metros, é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1,78.",
@@ -6919,15 +7702,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -6950,7 +7732,11 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em um plano cartesiano de origem O(0, 0), o gráfico da função exponencial f(x) = 2x + 2 intersecta o eixo das ordenadas no \nponto P, e o gráfico da função do 2o grau g(x) = - x2 + 6x - 9 \ntem seu ponto de máximo (V) sobre o eixo das abscissas.\n\nA área do triângulo POV é",
+    "statement": "Em um plano cartesiano de origem O(0, 0), o gráfico da função exponencial f(x) = 2x + 2 intersecta o eixo das ordenadas no ponto P, e o gráfico da função do $2^{o}$ grau g(x) =- $x^{2}$ + 6x - 9 tem seu ponto de máximo (V) sobre o eixo das abscissas.\n\nA área do triângulo POV é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "6.",
@@ -6961,15 +7747,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 08."
+      "$f(x)=2^{x+2}$: $f(0)=2^2=4 \\Rightarrow P(0,4)$.",
+      "$g(x)=-x^2+6x-9=-(x-3)^2$ tem máximo $V(3,0)$.",
+      "Triângulo $POV$ com catetos $OP=4$ e $OV=3$: área $=\\frac{4\\times3}{2}=6$."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta. A área é $6$.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -6992,7 +7779,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O lucro de uma gráfica ao imprimir folhetos é calculado pela \nfunção do 2o grau L(x) = - x2 + 6x - 2, em que L(x) é o lucro \nem milhares de reais e x é a quantidade, em milhares, de folhetos impressos. Nessas condições, o lucro máximo obtido \ne a quantidade de folhetos impressos, para que esse lucro \nmáximo ocorra, são, respectivamente,",
+    "statement": "O lucro de uma gráfica ao imprimir folhetos é calculado pela função do $2^{o}$ grau L(x) =- $x^{2}$ + 6x - 2, em que L(x) é o lucro em milhares de reais e x é a quantidade, em milhares, de folhetos impressos. Nessas condições, o lucro máximo obtido e a quantidade de folhetos impressos, para que esse lucro máximo ocorra, são, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 7.000,00 e 3 000 folhetos.",
@@ -7003,15 +7793,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 09."
+      "$L(x)=-x^2+6x-2$; máximo em $x=\\frac{-6}{-2}=3$ (mil folhetos).",
+      "$L(3)=-9+18-2=7$ (mil reais) $=$ R$ 7.000,00."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta. Lucro máximo R$ 7.000,00 com 3 000 folhetos.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7034,7 +7824,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma caixa há 21 canetas de mesmo modelo, sendo \n10 azuis, 4 pretas e as demais vermelhas. Retirando-se \naleatoriamente 2 canetas dessa caixa, uma após a outra e \nsem reposição, a probabilidade de que a primeira seja vermelha e a segunda seja azul é de:",
+    "statement": "Em uma caixa há 21 canetas de mesmo modelo, sendo 10 azuis, 4 pretas e as demais vermelhas. Retirando-se aleatoriamente 2 canetas dessa caixa, uma após a outra e sem reposição, a probabilidade de que a primeira seja vermelha e a segunda seja azul é de:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 3",
@@ -7045,15 +7838,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 10."
+      "Vermelhas $=21-10-4=7$.",
+      "$P=\\frac{7}{21}\\times\\frac{10}{20}=\\frac{1}{3}\\times\\frac{1}{2}=\\frac{1}{6}$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta. Probabilidade $\\frac{1}{6}$.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7076,7 +7869,12 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma indústria comercializa alimentos em dois tipos de latas, \nL1 e L2, ambas com formato de um cilindro circular reto. Na \nlata L1, a medida da altura (H1) é igual à medida do diâmetro \nde sua base, e na lata L2, a medida do raio da base (R2) é \nigual a 4 cm, o que corresponde a 1 cm a menos do que a \nmedida do raio da base (R1) da lata L1. A medida da altura \n(H2) da lata L2 é 4 cm maior do que a medida da altura (H1) \nda lata L1.\n\nA diferença entre os volumes dessas duas latas é",
+    "statement": "Uma indústria comercializa alimentos em dois tipos de latas, $L_{1}$Ligual a 4 cm, o que corresponde a 1 cm a menos do que a de sua base, e na lata Llata 2, a medida da altura (H, ambas com formato de um cilindro circular reto. $Na_{2}$, a medida do raio da base ($R_{1}$) é igual à medida do diâmetro₂) é\n\nda lata Lmedida do raio da base (R($H_{2}$) da lata $L_{1}$ 2 é 4 cm maior do que a medida da altura ($H_{1}$) da lata $L_{1}$.A medida da altura₁)\n\nA diferença entre os volumes dessas duas latas é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "24π cm3.",
@@ -7087,15 +7885,16 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 11."
+      "$R_1=5$, $H_1=2R_1=10$; $V_1=\\pi\\cdot25\\cdot10=250\\pi$.",
+      "$R_2=4$, $H_2=10+4=14$; $V_2=\\pi\\cdot16\\cdot14=224\\pi$.",
+      "Diferença $250\\pi-224\\pi=26\\pi$ cm³."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. A diferença é $26\\pi$ cm³.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7118,7 +7917,10 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa comprou um pen drive com capacidade de armazenamento de 4 GB e quer colocar nele 900 fotos, que \nocupam, em média, 3 MB cada uma. Usando a aproximação \nde que 1 GB = 1 000 MB, e sabendo que todas as fotos foram \ncolocadas nesse pen drive, o número máximo de arquivos, \ncada um deles ocupando em média 3,2 MB, que ainda poderão ser colocados nesse pen drive é de",
+    "statement": "Uma pessoa comprou um pen drive com capacidade de armazenamento de 4 GB e quer colocar nele 900 fotos, que ocupam, em média, 3 MB cada uma. Usando a aproximação de que 1 GB = 1 000 MB, e sabendo que todas as fotos foram colocadas nesse pen drive, o número máximo de arquivos, cada um deles ocupando em média 3,2 MB, que ainda poderão ser colocados nesse pen drive é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "442.",
@@ -7129,15 +7931,15 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 12."
+      "Fotos: $900\\times3=2700$ MB; capacidade $4000$ MB; livre $1300$ MB.",
+      "Arquivos: $\\lfloor1300/3{,}2\\rfloor=\\lfloor406{,}25\\rfloor=406$."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta. Cabem $406$ arquivos.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7160,7 +7962,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa que está em repouso sobre um ponto da superfície da Terra, na cidade de Vitória, no Espírito Santo, gira em \ntorno do eixo de rotação do planeta em um movimento circular de 6 000 km de raio, completando uma volta a cada 24 h. \nSabendo que o comprimento C de uma circunferência é dado \npela expressão C = 2 ⋅ π ⋅ R, o valor absoluto da velocidade \nescalar com que essa pessoa está se movendo relativamente \nao eixo de rotação da Terra é igual a",
+    "statement": "Uma pessoa que está em repouso sobre um ponto da superfície da Terra, na cidade de Vitória, no Espírito Santo, gira em torno do eixo de rotação do planeta em um movimento circular de 6 000 km de raio, completando uma volta a cada 24 h. Sabendo que o comprimento C de uma circunferência é dado pela expressão C = 2 ⋅ π ⋅ R, o valor absoluto da velocidade escalar com que essa pessoa está se movendo relativamente ao eixo de rotação da Terra é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 500π km/h.",
@@ -7171,15 +7976,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7202,17 +8006,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um pêndulo simples, constituído por um fio de massa desprezível de comprimento 2L e por uma pequena esfera, é colocado para oscilar a partir de uma altura L, medida em relação ao \nponto mais baixo da trajetória, como mostra a figura 1.\n\nQuando a esfera do pêndulo passa pelo ponto mais baixo da \nsua trajetória, uma haste horizontal, perpendicular ao plano \nde oscilação desse pêndulo, intercepta o fio do pêndulo na \nmetade do seu comprimento e a esfera segue seu movimento, como mostra a figura 2.\n\nConsiderando que não haja perda de energia mecânica nesse processo, e tendo como referência o ponto mais baixo da \ntrajetória da esfera, a altura máxima que essa esfera atinge \ndo lado direito de quem olha a figura, após a interceptação, \né igual a",
+    "statement": "Um pêndulo simples, constituído por um fio de massa desprezível de comprimento 2L e por uma pequena esfera, é colocado para oscilar a partir de uma altura L, medida em relação ao ponto mais baixo da trajetória, como mostra a figura 1.\n\nQuando a esfera do pêndulo passa pelo ponto mais baixo da sua trajetória, uma haste horizontal, perpendicular ao plano de oscilação desse pêndulo, intercepta o fio do pêndulo na metade do seu comprimento e a esfera segue seu movimento, como mostra a figura 2.\n\nConsiderando que não haja perda de energia mecânica nesse processo, e tendo como referência o ponto mais baixo da trajetória da esfera, a altura máxima que essa esfera atinge do lado direito de quem olha a figura, após a interceptação, é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q14-2.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q14-4.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/vestibular-2026-g3/q14-1.png",
+        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
     "alternatives": [
@@ -7224,15 +8027,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7255,7 +8057,12 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura 1 mostra dois automóveis, X e Y, que se deslocam \ncom velocidades constantes de mesma direção e mesmo \nsentido por um trecho retilíneo de uma estrada. O módulo \nda velocidade do automóvel Y é maior do que o módulo da \nvelocidade do automóvel X.\n\nEm dado instante, o automóvel Y colidiu com a traseira do \nautomóvel X e, imediatamente após essa colisão, os dois automóveis permaneceram unidos e se deslocaram na mesma \ndireção em que se deslocavam antes da colisão, com velocidade de módulo vZ, como mostra a figura 2.\n\nDespreze as ações dos motores dos automóveis e das forças externas ao sistema formado pelos dois automóveis no \nintervalo de tempo em que ocorreu a colisão, e considere \nque vZ seja maior do que vX e menor do que vY. Nessa colisão, houve conservação da",
+    "statement": "A figura 1 mostra dois automóveis, X e Y, que se deslocam com velocidades constantes de mesma direção e mesmo sentido por um trecho retilíneo de uma estrada. O módulo da velocidade do automóvel Y é maior do que o módulo da velocidade do automóvel X.\n\nEm dado instante, o automóvel Y colidiu com a traseira do automóvel X e, imediatamente após essa colisão, os dois automóveis permaneceram unidos e se deslocaram na mesma direção em que se deslocavam antes da colisão, com velocidade de módulo $v_{Z}$, como mostra a figura 2.\n\nDespreze as ações dos motores dos automóveis e das forças externas ao sistema formado pelos dois automóveis no intervalo de tempo em que ocorreu a colisão, e considere que vsão, houve conservação $da_{Z}$ seja maior do que $v_{X}$ e menor do que $v_{Y}$. Nessa coli-",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "quantidade de movimento do sistema formado pelos dois automóveis.",
@@ -7266,15 +8073,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7298,6 +8104,9 @@ export const uea2026Vestibular = [
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
     "statement": "As propriedades térmicas da matéria caracterizam o comportamento de diferentes materiais ao absorverem ou ao perderem calor. São propriedades térmicas dos materiais,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "capacidade térmica e calor latente.",
@@ -7308,15 +8117,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 16."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7339,7 +8147,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Parte da energia irradiada pelo Sol atravessa a atmosfera \nterrestre e é absorvida na superfície do planeta. Uma fração \ndessa energia absorvida pela superfície é reemitida na forma de radiação infravermelha, que não é devolvida diretamente para o espaço porque os gases do efeito estufa atuam \ncomo uma barreira que absorve essa radiação e a reemite \nem todas as direções. Esse ciclo contínuo de absorção e reemissão pelos gases do efeito estufa impede que o calor seja \ndevolvido de forma direta e rápida para o espaço, mantendo \no planeta aquecido. Esse comportamento da radiação, que \nconsegue atravessar a atmosfera quando se propaga do Sol \npara a superfície terrestre, mas não a atravessa quando se \npropaga da superfície terrestre para o espaço, está relacionado a uma diferença entre a radiação emitida pelo Sol e a \nradiação emitida pela superfície da Terra. Essa diferença é a",
+    "statement": "Parte da energia irradiada pelo Sol atravessa a atmosfera terrestre e é absorvida na superfície do planeta. Uma fração dessa energia absorvida pela superfície é reemitida na forma de radiação infravermelha, que não é devolvida diretamente para o espaço porque os gases do efeito estufa atuam como uma barreira que absorve essa radiação e a reemite em todas as direções. Esse ciclo contínuo de absorção e reemissão pelos gases do efeito estufa impede que o calor seja devolvido de forma direta e rápida para o espaço, mantendo o planeta aquecido. Esse comportamento da radiação, que consegue atravessar a atmosfera quando se propaga do Sol para a superfície terrestre, mas não a atravessa quando se propaga da superfície terrestre para o espaço, está relacionado a uma diferença entre a radiação emitida pelo Sol e a radiação emitida pela superfície da Terra. Essa diferença é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "frequência.",
@@ -7350,15 +8161,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 17."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7381,7 +8191,11 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O diagrama P × V mostra o ciclo ABCDA realizado por uma \nmáquina térmica durante o seu funcionamento.\n\nEm cada ciclo, o trabalho útil realizado por essa máquina é \nigual a",
+    "statement": "O diagrama P × V mostra o ciclo ABCDA realizado por uma máquina térmica durante o seu funcionamento.\n\nEm cada ciclo, o trabalho útil realizado por essa máquina é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "30 J.",
@@ -7392,15 +8206,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7423,7 +8236,12 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Nas telecomunicações, o processo de modulação consiste \nem codificar um sinal a ser transmitido por meio da alteração \nde uma característica de uma onda eletromagnética, denominada portadora, que transportará esse sinal. A figura mostra \num sinal a ser transmitido, a onda portadora e dois processos de modulação, que alteram características diferentes da \nonda portadora.\n\n(www.studyforfe.com. Adaptado.)\n\nAs características da onda portadora que foram modificadas \nnos processos de modulação 1 e 2 são, respectivamente,",
+    "statement": "Nas telecomunicações, o processo de modulação consiste em codificar um sinal a ser transmitido por meio da alteração de uma característica de uma onda eletromagnética, denominada portadora, que transportará esse sinal. A figura mostra um sinal a ser transmitido, a onda portadora e dois processos de modulação, que alteram características diferentes da onda portadora.\n\n(www.studyforfe.com. Adaptado.)\n\nAs características da onda portadora que foram modificadas nos processos de modulação 1 e 2 são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "frequência e período.",
@@ -7434,15 +8252,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 19."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7465,17 +8282,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura 1 mostra uma lente plano-convexa, de distância focal \nigual a f, e um feixe de raios de luz paralelos que incidem na \nsuperfície convexa dessa lente. Esses raios de luz paralelos \natravessam essa lente e convergem para o ponto F.\n\nEssa lente é reposicionada, de modo que o feixe de raios de \nluz paralelos passe a incidir na sua face plana, como mostra \na figura 2.\n\nNesse caso, ao emergirem da lente, os raios são",
+    "statement": "A figura 1 mostra uma lente plano-convexa, de distância focal igual a f, e um feixe de raios de luz paralelos que incidem na superfície convexa dessa lente. Esses raios de luz paralelos atravessam essa lente e convergem para o ponto F.\n\nEssa lente é reposicionada, de modo que o feixe de raios de luz paralelos passe a incidir na sua face plana, como mostra a figura 2.\n\nNesse caso, ao emergirem da lente, os raios são",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q20-2.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2026-g3/q20-1.png",
+        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
     "alternatives": [
@@ -7487,15 +8303,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 20."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7518,17 +8333,15 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura mostra um bastão positivamente eletrizado próximo \nde uma pequena esfera metálica suspensa por um fio isolante, que é atraída pelo bastão, sem tocá-lo.\n\nEssa situação ocorre apenas se a esfera estiver",
+    "statement": "A figura mostra um bastão positivamente eletrizado próximo de uma pequena esfera metálica suspensa por um fio isolante, que é atraída pelo bastão, sem tocá-lo.\n\nEssa situação ocorre apenas se a esfera estiver",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q21-2.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2026-g3/q21-1.png",
+        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
     "alternatives": [
@@ -7540,15 +8353,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7571,7 +8383,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos \nmodelos de chuveiro elétrico.\n\nModelo\nDiferença de potencial (V)\nCorrente (A)\n\nP\n127 V\n20\n\nQ\n127 V\n40\n\nR\n220 V\n15\n\nS\n220 V\n20\n\nT\n220 V\n30\n\nConsiderando banhos que demorem o mesmo tempo, os \ntrês modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
+    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo Diferença de potencial (V) Corrente (A) $\\frac{P}{Q}$ 127 V 20\n\n127 V 40\n\n$\\frac{R}{S}$ 220 V 15\n\n220 V 20\n\nT 220 V 30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Q, S e R.",
@@ -7582,15 +8403,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 9,
@@ -7613,22 +8433,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura mostra um exemplo do processo natural no qual um \nnúcleo atômico instável, o plutônio-240, emite uma partícula \nalfa, transformando-se em um núcleo menor, o urânio-236, e \ndiminuindo seu nível de energia.\n\n(www.nuceng.ca. Adaptado.)\n\nEsse processo é denominado",
+    "statement": "A figura mostra um exemplo do processo natural no qual um núcleo atômico instável, o plutônio-240, emite uma partícula alfa, transformando-se em um núcleo menor, o urânio-236, e diminuindo seu nível de energia.\n\n(www.nuceng.ca. Adaptado.)\n\nEsse processo é denominado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 9."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q23-2.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 9."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q23-3.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2026-g3/q23-1.png",
+        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
     "alternatives": [
@@ -7640,15 +8454,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 9,
@@ -7671,217 +8484,16 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura mostra o ciclo próton-próton, no qual quatro átomos \nde hidrogênio se unem para formar um átomo de hélio.\n\n(www.espacotempo.com.br. Adaptado.)\n\nO processo representado por esse ciclo está presente na",
+    "statement": "A figura mostra o ciclo próton-próton, no qual quatro átomos de hidrogênio se unem para formar um átomo de hélio.\n\n(www.espacotempo.com.br. Adaptado.)\n\nO processo representado por esse ciclo está presente na",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q24-1.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-2.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-3.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-4.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-5.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-6.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-7.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-8.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-9.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-10.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-11.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-12.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-13.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-14.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-15.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-16.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-17.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-18.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-19.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-20.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-21.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-22.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-23.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-24.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-25.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-26.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-27.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-28.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-29.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-30.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-31.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-32.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-33.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-34.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-35.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-36.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-37.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-38.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-39.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-40.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-41.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2026-g3/q24-42.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2026-g3/q24-1.png",
+        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
     "alternatives": [
@@ -7893,15 +8505,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -7924,7 +8535,14 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Na estrutura estabelecida pelo eu lírico, “poema” é comparado a",
+    "statement": "Leia o poema de Ana Martins Marques para responder às questões de 25 a 27.\n\nJardim\n\nSe o jardineiro abandonasse no meio a tarefa\ne cansado se sentasse numa cadeira\ne gastasse toda a tarde\nsob rosas gordas que são apenas rosas\ne cegam de alegria\nenquanto o jardim\nnele mesmo\nse contorce\ntirando de dentro de si\no sexo intrincado das camélias\ne a morte e a loucura dos lírios\ne o tédio suburbano das goiabas\nsob comoções antigas\ntalvez se sentisse um poeta\nolhando o poema\nque não sabe terminar.\n\n(A vida submarina, 2021.)\n\nNa estrutura estabelecida pelo eu lírico, “poema” é comparado a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“jardineiro”.",
@@ -7935,15 +8553,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -7966,7 +8583,10 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O poema de Ana Martins Marques caracteriza-se, sobretudo, \npor seu teor",
+    "statement": "O poema de Ana Martins Marques caracteriza-se, sobretudo, por seu teor",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "nostálgico.",
@@ -7977,15 +8597,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 26."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8008,7 +8627,10 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do \nelemento sublinhado em:",
+    "statement": "Em “sob rosas gordas que são apenas rosas”, o trecho sublinhado é uma oração que exerce a mesma função sintática do elemento sublinhado em:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“o sexo intrincado das camélias”.",
@@ -8019,15 +8641,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 27."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8050,7 +8671,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada \nque lhe trouxe à ideia aquele doce acabar para a sua vida. \nVendo-o naquele estado de abatimento, triste e taciturno, sem \ncoragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão \nbom fazer as suas culturas, ter o seu pomar, a sua horta... \nnão acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. \nEra um velho desejo seu, esse de tirar da terra o alimento, a \nalegria e a fortuna; e foi lembrando dos seus antigos projetos \nque respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! \nHá por aí tantas terras férteis sem emprego... A nossa terra \ntem os terrenos mais férteis do mundo... O milho pode dar até \nduas colheitas e quatrocentos por um...\n\n5 A moça esteve quase arrependida da sua lembrança. \nPareceu-lhe que ia atear no espírito do padrinho manias já \nextintas.\n\n— Em toda a parte — não acha, meu padrinho? — há \nterras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5o parágrafo)\n\nNo contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "seu apego excessivo ao dinheiro.",
@@ -8061,15 +8693,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 28."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8092,7 +8723,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada \nque lhe trouxe à ideia aquele doce acabar para a sua vida. \nVendo-o naquele estado de abatimento, triste e taciturno, sem \ncoragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão \nbom fazer as suas culturas, ter o seu pomar, a sua horta... \nnão acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. \nEra um velho desejo seu, esse de tirar da terra o alimento, a \nalegria e a fortuna; e foi lembrando dos seus antigos projetos \nque respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! \nHá por aí tantas terras férteis sem emprego... A nossa terra \ntem os terrenos mais férteis do mundo... O milho pode dar até \nduas colheitas e quatrocentos por um...\n\n5 A moça esteve quase arrependida da sua lembrança. \nPareceu-lhe que ia atear no espírito do padrinho manias já \nextintas.\n\n— Em toda a parte — não acha, meu padrinho? — há \nterras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nEstá empregada em sentido figurado a palavra a sublinhada \nem:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nEstá empregada em sentido figurado a palavra a sublinhada em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“estado de abatimento, triste e taciturno” (1o parágrafo).",
@@ -8103,15 +8745,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 29."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8134,7 +8775,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada \nque lhe trouxe à ideia aquele doce acabar para a sua vida. \nVendo-o naquele estado de abatimento, triste e taciturno, sem \ncoragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão \nbom fazer as suas culturas, ter o seu pomar, a sua horta... \nnão acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. \nEra um velho desejo seu, esse de tirar da terra o alimento, a \nalegria e a fortuna; e foi lembrando dos seus antigos projetos \nque respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! \nHá por aí tantas terras férteis sem emprego... A nossa terra \ntem os terrenos mais férteis do mundo... O milho pode dar até \nduas colheitas e quatrocentos por um...\n\n5 A moça esteve quase arrependida da sua lembrança. \nPareceu-lhe que ia atear no espírito do padrinho manias já \nextintas.\n\n— Em toda a parte — não acha, meu padrinho? — há \nterras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” \n(3o parágrafo)\n\nMantendo o sentido original da frase, a oração sublinhada \npode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Uma vez que ele estava tão taciturno.",
@@ -8145,15 +8797,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 30."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8176,7 +8827,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada \nque lhe trouxe à ideia aquele doce acabar para a sua vida. \nVendo-o naquele estado de abatimento, triste e taciturno, sem \ncoragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão \nbom fazer as suas culturas, ter o seu pomar, a sua horta... \nnão acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. \nEra um velho desejo seu, esse de tirar da terra o alimento, a \nalegria e a fortuna; e foi lembrando dos seus antigos projetos \nque respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! \nHá por aí tantas terras férteis sem emprego... A nossa terra \ntem os terrenos mais férteis do mundo... O milho pode dar até \nduas colheitas e quatrocentos por um...\n\n5 A moça esteve quase arrependida da sua lembrança. \nPareceu-lhe que ia atear no espírito do padrinho manias já \nextintas.\n\n— Em toda a parte — não acha, meu padrinho? — há \nterras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” (3o parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o alimento será tirado da terra.",
@@ -8187,15 +8849,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 31."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 12,
@@ -8218,7 +8879,18 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada \nque lhe trouxe à ideia aquele doce acabar para a sua vida. \nVendo-o naquele estado de abatimento, triste e taciturno, sem \ncoragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão \nbom fazer as suas culturas, ter o seu pomar, a sua horta... \nnão acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. \nEra um velho desejo seu, esse de tirar da terra o alimento, a \nalegria e a fortuna; e foi lembrando dos seus antigos projetos \nque respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! \nHá por aí tantas terras férteis sem emprego... A nossa terra \ntem os terrenos mais férteis do mundo... O milho pode dar até \nduas colheitas e quatrocentos por um...\n\n5 A moça esteve quase arrependida da sua lembrança. \nPareceu-lhe que ia atear no espírito do padrinho manias já \nextintas.\n\n— Em toda a parte — não acha, meu padrinho? — há \nterras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que \nlhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-\n-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” \n(1o parágrafo).\n\nOs pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a Olga, a Policarpo e a Policarpo, respectivamente.",
@@ -8229,15 +8901,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 32."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 12,
@@ -8260,7 +8931,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No trecho “Cinquenta/cinquenta, não é? Não.” (2o parágrafo), \na autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o ônus da reprodução humana pode ser dividido simetricamente entre o casal.",
@@ -8271,15 +8952,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 33."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 12,
@@ -8302,7 +8982,17 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "“Um tipo de homem que já foi inimaginável e tão fácil de \nencontrar quanto um unicórnio passa a ser cada vez mais \ncomum, cultuado e exigido. Talvez você seja a sortuda que se \ncasou com um.” (1o parágrafo)\n\nSem alterar o sentido do texto, a palavra sublinhada pode ser \nsubstituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "simples.",
@@ -8313,15 +9003,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 34."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 13,
@@ -8344,7 +9033,17 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A autora dirige-se explicitamente a seu leitor em:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nA autora dirige-se explicitamente a seu leitor em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Na reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente” (4o parágrafo).",
@@ -8355,15 +9054,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 35."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 13,
@@ -8386,7 +9084,13 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma \n—, a preocupação em evitar excessos, bem como os clichês, \nas imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a \nrealidade social. Segundo tal conceito, o mais importante \npara um artista era a busca da perfeição estética, do verso \ne da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto\n\nde Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "statement": "“Entre esses valores, está a escolha de poemas com versos fechados, como o soneto — em virtude do culto à forma —, a preocupação em evitar excessos, bem como os clichês, as imagens vulgarizadas, os hiatos nos versos, as rimas óbvias (-ão, -ar, -oso).\n\nO ideário poético desse movimento era a busca da perfeição formal, a ‘arte pela arte’, sem preocupação com a realidade social. Segundo tal conceito, o mais importante para um artista era a busca da perfeição estética, do verso e da palavra com precisão.”\n\n(Celso Leopoldo Pagnan. Manual compacto de Literatura Brasileira, 2010. Adaptado.)\n\nEsse excerto refere-se ao seguinte movimento literário:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Romantismo.",
@@ -8397,15 +9101,14 @@ export const uea2026Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf, questão 36."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2026_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 13,

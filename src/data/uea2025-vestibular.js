@@ -14,12 +14,15 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a tirinha a seguir, publicada no perfil \n@devaneioshq do Instagram em 11.06.2025, para responder às questões 01 e 02.\n\nPara a produção do efeito humorístico, o autor recorre, no \nquarto quadrinho,",
+    "statement": "Considere a tirinha a seguir, publicada no perfil @devaneioshq do Instagram em 11.06.2025, para responder às questões 01 e 02.\n\nPara a produção do efeito humorístico, o autor recorre, no quarto quadrinho,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2025-cg/q01-1.png",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -31,15 +34,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 01."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -61,7 +63,11 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em relação ao momento em que o narrador conta a história, \nos fatos narrados acontecem",
+    "statement": "Considere a tirinha a seguir, publicada no perfil @devaneioshq do Instagram em 11.06.2025, para responder às questões 01 e 02.\n\nEm relação ao momento em que o narrador conta a história, os fatos narrados acontecem",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "em um passado hipotético.",
@@ -72,15 +78,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -102,7 +107,19 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Dentro da perspectiva apresentada pelo autor, a Inteligência \nArtificial vai",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\nDentro da perspectiva apresentada pelo autor, a Inteligência Artificial vai",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "potencializar a criatividade humana nas novas produções.",
@@ -113,15 +130,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -143,7 +159,19 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "“Para salvar a experiência do cinema diante da televisão, a \nindústria apostou na inovação técnica e estética.” (2o parágrafo)\n\nNo contexto em que se encontra, a palavra sublinhada deve \nser entendida como:",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Para salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética.” ($2^{o}$ parágrafo) No contexto em que se encontra, a palavra sublinhada deve ser entendida como:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "especulou sobre o futuro sem considerar os riscos envolvidos.",
@@ -154,15 +182,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 04."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -184,7 +211,19 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O sujeito oracional ocorre quando uma oração exerce a função de sujeito de outra oração.\n\nNesse sentido, ocorre sujeito oracional em:",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\nO sujeito oracional ocorre quando uma oração exerce a função de sujeito de outra oração. Nesse sentido, ocorre sujeito oracional em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“As produções também aceleraram a adoção do filme colorido” (2o parágrafo).",
@@ -195,15 +234,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -225,7 +263,19 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "“Em vez de temer o que a tecnologia pode fazer, a chave está \nem usá-la para ampliar o que só os humanos conseguem \ntransmitir” (6o parágrafo)\n\nSem modificar o sentido da frase, a expressão sublinhada \npode ser substituída por",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir” ($6^{o}$ parágrafo) Sem modificar o sentido da frase, a expressão sublinhada pode ser substituída por",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "A fim de.",
@@ -236,15 +286,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 06."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -266,7 +315,15 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O episódio narrado neste trecho exemplifica uma característica marcante da personagem Macunaíma:",
+    "statement": "Leia o trecho a seguir, retirado do romance Macunaíma, de Mário de Andrade, para responder às questões 07 e 08.\n\nUma feita a Sol cobrira os três manos duma escaminha de suor e Macunaíma se lembrou de tomar banho. Porém no rio era impossível por causa das piranhas tão vorazes que de quando em quando, na luta pra pegar um naco de irmã espedaçada, pulavam aos cachos pra fora d’água metro e mais. Então Macunaíma enxergou numa lapa bem no meio do rio uma cova cheia d’água. E a cova era que nem a marca dum pé gigante. Abicaram. O herói depois de muitos gritos por causa do frio da água entrou na cova e se lavou inteirinho. Mas a água era encantada porque aquele buraco na lapa era marca do pezão do Sumé, do tempo em que andava pregando o evangelho de Jesus pra indiada brasileira. Quando o herói saiu do banho estava branco loiro e de olhos azuizinhos, água lavara o pretume dele. E ninguém não seria capaz mais de indicar nele um filho da tribo retinta dos Tapanhumas.\n\nNem bem Jiguê percebeu o milagre, se atirou na marca do pezão do Sumé. Porém a água já estava muito suja da negrura do herói e por mais que Jiguê esfregasse feito maluco atirando água pra todos os lados só conseguiu ficar da cor do bronze novo. Macunaíma teve dó e consolou:\n\n— Olhe, mano Jiguê, branco você ficou não, porém pretume foi-se e antes fanhoso que sem nariz.\n\n(Macunaíma, 2013.)\n\nO episódio narrado neste trecho exemplifica uma característica marcante da personagem Macunaíma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a possibilidade de se transformar magicamente.",
@@ -277,15 +334,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 07."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -307,7 +363,15 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "De acordo com o texto, o banho não produziu em Jiguê o \nresultado que ele esperava porque",
+    "statement": "Leia o trecho a seguir, retirado do romance Macunaíma, de Mário de Andrade, para responder às questões 07 e 08.\n\nUma feita a Sol cobrira os três manos duma escaminha de suor e Macunaíma se lembrou de tomar banho. Porém no rio era impossível por causa das piranhas tão vorazes que de quando em quando, na luta pra pegar um naco de irmã espedaçada, pulavam aos cachos pra fora d’água metro e mais. Então Macunaíma enxergou numa lapa bem no meio do rio uma cova cheia d’água. E a cova era que nem a marca dum pé gigante. Abicaram. O herói depois de muitos gritos por causa do frio da água entrou na cova e se lavou inteirinho. Mas a água era encantada porque aquele buraco na lapa era marca do pezão do Sumé, do tempo em que andava pregando o evangelho de Jesus pra indiada brasileira. Quando o herói saiu do banho estava branco loiro e de olhos azuizinhos, água lavara o pretume dele. E ninguém não seria capaz mais de indicar nele um filho da tribo retinta dos Tapanhumas.\n\nNem bem Jiguê percebeu o milagre, se atirou na marca do pezão do Sumé. Porém a água já estava muito suja da negrura do herói e por mais que Jiguê esfregasse feito maluco atirando água pra todos os lados só conseguiu ficar da cor do bronze novo. Macunaíma teve dó e consolou:\n\n— Olhe, mano Jiguê, branco você ficou não, porém pretume foi-se e antes fanhoso que sem nariz.\n\n(Macunaíma, 2013.)\n\nDe acordo com o texto, o banho não produziu em Jiguê o resultado que ele esperava porque",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ele era irmão de Macunaíma.",
@@ -318,15 +382,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 08."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -348,12 +411,19 @@ export const uea2025Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were \nadopted by all United Nations Member States in 2015 to \nend poverty, reduce inequality and build more peaceful, \nprosperous societies by 2030.\n\nThe widespread destruction of the natural world is \nweakening the achievement of the SDGs and exposing \nhumanity’s future to danger. A human-induced triple planetary \ncrisis of climate change, nature and biodiversity loss, and \npollution and waste is pushing nature to the breaking point. \nThat is putting at risk the food we eat, the air we breathe, the \nwater we drink and the materials and resources upon which \nour societies are built.\n\nThe triple planetary crisis is stressing most heavily the \nvulnerable, including the poor, women and indigenous \npeoples. Unless humanity reverses its environmental course, \nit will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nDe acordo com o texto, um dos Objetivos de Desenvolvimento Sustentável adotado pela Organização das Nações Unidas \n(ONU) é",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 to end poverty, reduce inequality and build more peaceful, prosperous societies by 2030.\n\nThe widespread destruction of the natural world is weakening the achievement of the SDGs and exposing humanity’s future to danger. A human-induced triple planetary crisis of climate change, nature and biodiversity loss, and pollution and waste is pushing nature to the breaking point. That is putting at risk the food we eat, the air we breathe, the water we drink and the materials and resources upon which our societies are built.\n\nThe triple planetary crisis is stressing most heavily the vulnerable, including the poor, women and indigenous peoples. Unless humanity reverses its environmental course, it will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nDe acordo com o texto, um dos Objetivos de Desenvolvimento Sustentável adotado pela Organização das Nações Unidas (ONU) é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.jpg",
-        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -365,15 +435,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -396,12 +465,19 @@ export const uea2025Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were \nadopted by all United Nations Member States in 2015 to \nend poverty, reduce inequality and build more peaceful, \nprosperous societies by 2030.\n\nThe widespread destruction of the natural world is \nweakening the achievement of the SDGs and exposing \nhumanity’s future to danger. A human-induced triple planetary \ncrisis of climate change, nature and biodiversity loss, and \npollution and waste is pushing nature to the breaking point. \nThat is putting at risk the food we eat, the air we breathe, the \nwater we drink and the materials and resources upon which \nour societies are built.\n\nThe triple planetary crisis is stressing most heavily the \nvulnerable, including the poor, women and indigenous \npeoples. Unless humanity reverses its environmental course, \nit will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nAccording to the text, one problem of the triple planetary crisis \nwhich is induced by human activity is:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 to end poverty, reduce inequality and build more peaceful, prosperous societies by 2030.\n\nThe widespread destruction of the natural world is weakening the achievement of the SDGs and exposing humanity’s future to danger. A human-induced triple planetary crisis of climate change, nature and biodiversity loss, and pollution and waste is pushing nature to the breaking point. That is putting at risk the food we eat, the air we breathe, the water we drink and the materials and resources upon which our societies are built.\n\nThe triple planetary crisis is stressing most heavily the vulnerable, including the poor, women and indigenous peoples. Unless humanity reverses its environmental course, it will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nAccording to the text, one problem of the triple planetary crisis which is induced by human activity is:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.jpg",
-        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -413,15 +489,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 10."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -444,12 +519,19 @@ export const uea2025Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were \nadopted by all United Nations Member States in 2015 to \nend poverty, reduce inequality and build more peaceful, \nprosperous societies by 2030.\n\nThe widespread destruction of the natural world is \nweakening the achievement of the SDGs and exposing \nhumanity’s future to danger. A human-induced triple planetary \ncrisis of climate change, nature and biodiversity loss, and \npollution and waste is pushing nature to the breaking point. \nThat is putting at risk the food we eat, the air we breathe, the \nwater we drink and the materials and resources upon which \nour societies are built.\n\nThe triple planetary crisis is stressing most heavily the \nvulnerable, including the poor, women and indigenous \npeoples. Unless humanity reverses its environmental course, \nit will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nNo trecho do terceiro parágrafo “Unless humanity reverses \nits environmental course, it will be impossible to achieve the \nSDGs”, o termo sublinhado tem sentido equivalente, em \nportuguês, a:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 to end poverty, reduce inequality and build more peaceful, prosperous societies by 2030.\n\nThe widespread destruction of the natural world is weakening the achievement of the SDGs and exposing humanity’s future to danger. A human-induced triple planetary crisis of climate change, nature and biodiversity loss, and pollution and waste is pushing nature to the breaking point. That is putting at risk the food we eat, the air we breathe, the water we drink and the materials and resources upon which our societies are built.\n\nThe triple planetary crisis is stressing most heavily the vulnerable, including the poor, women and indigenous peoples. Unless humanity reverses its environmental course, it will be impossible to achieve the SDGs.\n\n(www.unep.org. Adaptado.)\n\nNo trecho do terceiro parágrafo “Unless humanity reverses its environmental course, it will be impossible to achieve the SDGs”, o termo sublinhado tem sentido equivalente, em português, a:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.jpg",
-        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -461,15 +543,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 11."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -493,6 +574,11 @@ export const uea2025Vestibular = [
     "detail": "Inglês — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "Leia a citação de Desmond Tutu, teólogo da África do Sul.\n\n(https://antibullyingblog.blogspot.com. Adaptado.)\n\nAccording to the quote,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "the ones who are neutral are wise but dishonest.",
@@ -503,15 +589,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 12."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -534,7 +619,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os principais testemunhos arquitetônicos da grandeza \negípcia, fossem pirâmides, palácios ou templos, reproduzem \nvisualmente o poder sagrado atribuído aos governantes: os \nfaraós.\n\n(José Rivair Macedo. História da África, 2015. Adaptado.)\n\nO “poder sagrado” dos faraós no Egito Antigo constituiu um \nEstado de caráter",
+    "statement": "Os principais testemunhos arquitetônicos da grandeza egípcia, fossem pirâmides, palácios ou templos, reproduzem visualmente o poder sagrado atribuído aos governantes: os faraós.\n\n(José Rivair Macedo. História da África, 2015. Adaptado.)\n\nO “poder sagrado” dos faraós no Egito Antigo constituiu um Estado de caráter",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "oligárquico.",
@@ -545,15 +635,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 13."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -575,7 +664,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sempre que se evoca o tema do Renascimento, a imagem que imediatamente nos vem à mente é a dos grandes \nartistas plásticos e de suas obras mais famosas, amplamente \nreproduzidas e difundidas até nossos dias, como a Monalisa \ne a Última Ceia de Leonardo da Vinci, o Juízo Final, a Pietà e \no Moisés de Michelangelo, assim como as inúmeras e suaves \nMadonas de Rafael que permanecem ainda como o modelo \nmais frequente de representação da mãe de Cristo.\n\n(Nicolau Sevcenko. O Renascimento, 1988.)\n\nAs obras de arte citadas no excerto têm a seguinte característica em comum:",
+    "statement": "Sempre que se evoca o tema do Renascimento, a imagem que imediatamente nos vem à mente é a dos grandes artistas plásticos e de suas obras mais famosas, amplamente reproduzidas e difundidas até nossos dias, como a Monalisa e a Última Ceia de Leonardo da Vinci, o Juízo Final, a Pietà e o Moisés de Michelangelo, assim como as inúmeras e suaves Madonas de Rafael que permanecem ainda como o modelo mais frequente de representação da mãe de Cristo.\n\n(Nicolau Sevcenko. O Renascimento, 1988.)\n\nAs obras de arte citadas no excerto têm a seguinte característica em comum:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a reprodução de personagens sem o uso da perspectiva.",
@@ -586,15 +680,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -616,7 +709,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A revolução foi a filha da guerra no século XX: especificamente a Revolução Russa de 1917 [...].\n\n(Eric J. Hobsbawm. \nEra dos extremos: o breve século XX: 1914-1991, 1995.)\n\nA afirmação do historiador justifica-se, pois a entrada da \nRússia na Primeira Guerra Mundial",
+    "statement": "A revolução foi a filha da guerra no século XX: especificamente a Revolução Russa de 1917 [...].\n\n(Eric J. Hobsbawm.\n\nEra dos extremos: o breve século XX: 1914-1991, 1995.)\n\nA afirmação do historiador justifica-se, pois a entrada da Rússia na Primeira Guerra Mundial",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "favoreceu a organização dos sovietes como conselhos formados por operários e soldados.",
@@ -627,15 +726,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -657,7 +755,14 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O excerto apresenta a atuação do jornal O Exemplo, publicado em Porto Alegre entre os anos de 1892 e 1930.\n\nDurante a primeira década do século XX, O Exemplo \ndenunciou abusos contra as mulheres negras nos transportes públicos, particularmente na Cia. Carris de Ferro Porto-\n-Alegrense; a violência praticada pela polícia administrativa \nespancando negros arbitrariamente; o desrespeito público \naos negros, que eram xingados quando andavam à noite pela \nrua; a invasão dos lares negros em festa, por falta de licença da polícia para dançarem; a recusa de matrícula de um \nmenino no colégio Nossa Senhora do Rosário, por ser muito \nmoreno; [...].\n\n(Maria Angélica Zubaran. “Comemorações da liberdade: lugares de\n\nmemórias negras diaspóricas”. Revista Anos 90, no 27, 2008.)\n\nCom base no excerto e no período pós-abolição da escravidão no Brasil, o jornal O Exemplo",
+    "statement": "O excerto apresenta a atuação do jornal O Exemplo, publicado em Porto Alegre entre os anos de 1892 e 1930.\n\nDurante a primeira década do século XX, O Exemplo denunciou abusos contra as mulheres negras nos transportes públicos, particularmente na Cia. Carris de Ferro Porto-Alegrense; a violência praticada pela polícia administrativa espancando negros arbitrariamente; o desrespeito público aos negros, que eram xingados quando andavam à noite pela rua; a invasão dos lares negros em festa, por falta de licença da polícia para dançarem; a recusa de matrícula de um menino no colégio Nossa Senhora do Rosário, por ser muito moreno; [...].\n\n(Maria Angélica Zubaran. “Comemorações da liberdade: lugares de\n\nmemórias negras diaspóricas”. Revista Anos 90, $n^{o}$ 27, 2008.)\n\nCom base no excerto e no período pós-abolição da escravidão no Brasil, o jornal O Exemplo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tratava do feminicídio de mulheres negras no estado do Rio Grande do Sul.",
@@ -668,15 +773,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -698,12 +802,16 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A fotografia mostra o presidente Getúlio Vargas anunciando a \nConsolidação das Leis Trabalhistas (CLT), em 1o de maio de \n1943, no Rio de Janeiro.\n\n(https://memorialdademocracia.com.br)\n\nA CLT estabeleceu",
+    "statement": "A fotografia mostra o presidente Getúlio Vargas anunciando a Consolidação das Leis Trabalhistas (CLT), em $1^{o}$ de maio de 1943, no Rio de Janeiro.\n\n(https://memorialdademocracia.com.br)\n\nA CLT estabeleceu",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q17-1.jpg",
-        "alt": "Imagem de apoio da questão 17 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2025-cg/q17-1.png",
+        "alt": "Imagem de apoio da questão 17 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -715,15 +823,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 17."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -745,7 +852,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma sociedade democrática será necessariamente \nmulticultural à medida que os muitos grupos e identidades \nque a compõem deverão ter a liberdade de agir como lhes é \npeculiar, sem que isso represente uma ameaça ao todo da \nsociedade. Não, a democracia não é a ditadura da maioria, \ncomo querem alguns totalitários travestidos de democratas. \nÉ antes uma eventual maioria que tem profundo respeito \npelas minorias e não as vê com temor ou suspeita.\n\n(Marcello Fontes. “Democracia, multiculturalismo e reconhecimento”.\n\nhttps://terceiramargemorg.wordpress.com)\n\nDe acordo com o excerto, o multiculturalismo, nas democracias contemporâneas,",
+    "statement": "Uma sociedade democrática será necessariamente multicultural à medida que os muitos grupos e identidades que a compõem deverão ter a liberdade de agir como lhes é peculiar, sem que isso represente uma ameaça ao todo da sociedade. Não, a democracia não é a ditadura da maioria, como querem alguns totalitários travestidos de democratas. É antes uma eventual maioria que tem profundo respeito pelas minorias e não as vê com temor ou suspeita.\n\n(Marcello Fontes. “Democracia, multiculturalismo e reconhecimento”.\n\nhttps://terceiramargemorg.wordpress.com)\n\nDe acordo com o excerto, o multiculturalismo, nas democracias contemporâneas,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "enxerga as tradições culturais das minorias sociais como obstáculo à integração nacional.",
@@ -756,15 +869,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 18."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -786,7 +898,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O termo decolonialismo — ou decolonialidade — significa o conjunto de práticas, conceitos, pesquisas e estudos que \ntentam diminuir, e até reverter, os efeitos da colonização nas \nsociedades em que este processo histórico ocorreu. Decolonialismo é diferente de descolonização. Enquanto a descolonização se refere às lutas das colônias africanas, asiáticas e \nlatino-americanas para se tornarem independentes das respectivas metrópoles, o decolonialismo tem como princípio que a \nindependência política não acabou com instituições, hábitos e \npráticas coloniais, tais como: machismo; racismo; clientelismo; \nuso da violência como método de resolução de conflitos e aplicação do aparato repressivo contra as populações mais pobres \ne não-brancas; a permanência de latifúndios (ou resistência a \nimplantar reforma agrária).\n\n(Alexandre Barbosa. “O que é decolonialismo?”.\n\nwww.eca.usp.br, 07.05.2024. Adaptado.)\n\nDe acordo com o excerto, o decolonialismo",
+    "statement": "O termo decolonialismo — ou decolonialidade — significa o conjunto de práticas, conceitos, pesquisas e estudos que tentam diminuir, e até reverter, os efeitos da colonização nas sociedades em que este processo histórico ocorreu. Decolonialismo é diferente de descolonização. Enquanto a descolonização se refere às lutas das colônias africanas, asiáticas e latino-americanas para se tornarem independentes das respectivas metrópoles, o decolonialismo tem como princípio que a independência política não acabou com instituições, hábitos e práticas coloniais, tais como: machismo; racismo; clientelismo; uso da violência como método de resolução de conflitos e aplicação do aparato repressivo contra as populações mais pobres e não-brancas; a permanência de latifúndios (ou resistência a implantar reforma agrária).\n\n(Alexandre Barbosa. “O que é decolonialismo?”.\n\nwww.eca.usp.br, 07.05.2024. Adaptado.)\n\nDe acordo com o excerto, o decolonialismo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "desvincula do passado colonial as práticas do racismo, já que elas surgem de dinâmicas nacionais contemporâneas.",
@@ -797,15 +915,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 19."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -827,7 +944,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A experiência da escravidão africana também marcou a \ntrajetória da parte Norte da colônia portuguesa na América. Em \ndecorrência disso, hoje a presença negra na Amazônia é inegável, com enorme impacto na vida da região, marcando sua história, suas formas de comer, vestir, amar, dançar, cantar, rezar, \ntrabalhar, juntamente com todas aquelas heranças intangíveis \nque as pessoas levam na pele, nos olhos e na alma.\n\n(Patrícia Melo Sampaio. “Floresta negra: A experiência e os impactos da \nescravidão africana na Região Amazônica”. www.geledes.org.br. Adaptado.)\n\nO excerto demonstra que",
+    "statement": "A experiência da escravidão africana também marcou a trajetória da parte Norte da colônia portuguesa na América. Em decorrência disso, hoje a presença negra na Amazônia é inegável, com enorme impacto na vida da região, marcando sua história, suas formas de comer, vestir, amar, dançar, cantar, rezar, trabalhar, juntamente com todas aquelas heranças intangíveis que as pessoas levam na pele, nos olhos e na alma.\n\n(Patrícia Melo Sampaio. “Floresta negra: A experiência e os impactos da escravidão africana na Região Amazônica”. www.geledes.org.br. Adaptado.)\n\nO excerto demonstra que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a escravização de africanos teve pouca importância na Amazônia devido ao uso do trabalho indígena em larga escala nessa região.",
@@ -838,15 +960,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -868,7 +989,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "José Coelho da Gama e Abreu, o barão de Marajó, \ncolocou em discussão a necessidade de integração da região \namazônica ao território nacional. Esta preocupação remetia ao \nperíodo em que administrou a província do Amazonas, entre \nos anos de 1866 e 1868, e Pará, nos anos de 1879 a 1881. \nNeste aspecto, a integração da Amazônia ao restante do Brasil \npressupunha desvincular as relações que a região estabelecia \ncom o comércio internacional, submetendo a economia local \naos interesses do país. A aproximação da atividade econômica \nda Amazônia aos interesses do governo imperial estaria condicionada ao desenvolvimento da agricultura e da produção \nde gêneros de lavoura regular para comercialização interna, \npermitindo que outras regiões, como o Sudeste do país, se especializassem na produção para atender o mercado externo, \nprincipalmente a cafeicultura.\n\n(Francivaldo Alves Nunes. “A Amazônia e a formação do Estado \nImperial no Brasil: unidade do território e expansão de domínio”.\n\nAlmanack, no 3, 2012. Adaptado.)\n\nSegundo o excerto, a integração da Amazônia ao restante do \nBrasil, no Período Imperial, dependia da",
+    "statement": "José Coelho da Gama e Abreu, o barão de Marajó, colocou em discussão a necessidade de integração da região amazônica ao território nacional. Esta preocupação remetia ao período em que administrou a província do Amazonas, entre os anos de 1866 e 1868, e Pará, nos anos de 1879 a 1881. Neste aspecto, a integração da Amazônia ao restante do Brasil pressupunha desvincular as relações que a região estabelecia com o comércio internacional, submetendo a economia local aos interesses do país. A aproximação da atividade econômica da Amazônia aos interesses do governo imperial estaria condicionada ao desenvolvimento da agricultura e da produção de gêneros de lavoura regular para comercialização interna, permitindo que outras regiões, como o Sudeste do país, se especializassem na produção para atender o mercado externo, principalmente a cafeicultura.\n\n(Francivaldo Alves Nunes. “A Amazônia e a formação do Estado Imperial no Brasil: unidade do território e expansão de domínio”.\n\nAlmanack, $n^{o}$ 3, 2012. Adaptado.)\n\nSegundo o excerto, a integração da Amazônia ao restante do Brasil, no Período Imperial, dependia da",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "adoção do sistema plantation para o progresso da agricultura na região.",
@@ -879,15 +1006,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 21."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -909,12 +1035,16 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a fotografia do prédio da Alfândega, localizado no \ncentro da cidade de Manaus no estado do Amazonas. Ele foi \ninaugurado em 1907 e hoje faz parte do Conjunto Arquitetônico do Porto de Manaus, tombado como patrimônio histórico \nnacional em 1987.\n\n(https://aca.org.br)\n\nO prédio da Alfândega de Manaus é um exemplo de patrimônio",
+    "statement": "Analise a fotografia do prédio da Alfândega, localizado no centro da cidade de Manaus no estado do Amazonas. Ele foi inaugurado em 1907 e hoje faz parte do Conjunto Arquitetônico do Porto de Manaus, tombado como patrimônio histórico nacional em 1987.\n\n(https://aca.org.br)\n\nO prédio da Alfândega de Manaus é um exemplo de patrimônio",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q22-1.jpg",
-        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2025-cg/q22-1.png",
+        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -926,15 +1056,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -956,7 +1085,14 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O projeto de construção da Rodovia Transamazônica representou um dos símbolos emblemáticos do chamado",
+    "statement": "Leia o texto para responder às questões 23 e 24.\n\nA construção da Rodovia Transamazônica serviu de alavanca para um ambicioso programa de colonização que incluía o deslocamento de quase 1 milhão de pessoas com o objetivo de ocupar estrategicamente a região, não deixar despovoado nenhum espaço do território nacional e tamponar a área de fronteiras. A estrada foi inaugurada pelo presidente Emílio Garrastazu Médici em 27 de setembro de 1972 e utilizada para potencializar uma imagem ufanista do Brasil, compartilhar o sentimento de que estava em curso um processo formidável de modernização do país e produzir identidade. Mas não foi bem assim. A construção da Transamazônica massacrou a floresta, consumiu bilhões de dólares e até hoje a estrada tem trechos intransitáveis por conta das chuvas, dos desmoronamentos e das enchentes dos rios.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia,\n\n2015. Adaptado.)\n\nO projeto de construção da Rodovia Transamazônica representou um dos símbolos emblemáticos do chamado",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Plano de Metas.",
@@ -967,15 +1103,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 23."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -997,7 +1132,14 @@ export const uea2025Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Entre as consequências sociais da construção da Rodovia \nTransamazônica encontra-se",
+    "statement": "Leia o texto para responder às questões 23 e 24.\n\nA construção da Rodovia Transamazônica serviu de alavanca para um ambicioso programa de colonização que incluía o deslocamento de quase 1 milhão de pessoas com o objetivo de ocupar estrategicamente a região, não deixar despovoado nenhum espaço do território nacional e tamponar a área de fronteiras. A estrada foi inaugurada pelo presidente Emílio Garrastazu Médici em 27 de setembro de 1972 e utilizada para potencializar uma imagem ufanista do Brasil, compartilhar o sentimento de que estava em curso um processo formidável de modernização do país e produzir identidade. Mas não foi bem assim. A construção da Transamazônica massacrou a floresta, consumiu bilhões de dólares e até hoje a estrada tem trechos intransitáveis por conta das chuvas, dos desmoronamentos e das enchentes dos rios.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia,\n\n2015. Adaptado.)\n\nEntre as consequências sociais da construção da Rodovia Transamazônica encontra-se",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a ampliação de conflitos entre os povos indígenas locais e os colonizadores em torno das disputas territoriais.",
@@ -1008,15 +1150,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 24."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -1039,11 +1180,15 @@ export const uea2025Vestibular = [
     "detail": "Sociologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "O infográfico apresenta o percentual da população em situação de desnutrição nos países do mundo.\n\n(Xico Graziano. https://sna.agr.br, 16.07.2024. Adaptado.)\n\nConsiderando o infográfico, a fome é uma realidade",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2025-cg/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1055,15 +1200,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1085,7 +1229,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A partir de 20.11.2025 as propriedades rurais menores \nde 25 hectares (ha) terão de obter o seu georreferenciamento. O memorial descritivo georreferenciado já é exigido pelos \ncartórios de registro, de todos os imóveis com área igual ou \nsuperior a 100 ha e propriedades com área igual ou superior \na 25 ha. O procedimento é definido pelo Instituto Nacional \nde Colonização e Reforma Agrária (INCRA) para identificar, \nindividualizar e regularizar imóveis rurais no Brasil. O proprietário que não realizar o georreferenciamento, bem como \ncertificar o imóvel no INCRA e atualizar a matrícula no Cartório de Registro de Imóveis, não poderá vender, doar, desmembrar ou parcelar a propriedade.\n\n(https://conafer.org.br, 10.02.2025. Adaptado.)\n\nO procedimento cartográfico mencionado no excerto caracteriza-se",
+    "statement": "A partir de 20.11.2025 as propriedades rurais menores de 25 hectares (ha) terão de obter o seu georreferenciamento. O memorial descritivo georreferenciado já é exigido pelos cartórios de registro, de todos os imóveis com área igual ou superior a 100 ha e propriedades com área igual ou superior a 25 ha. O procedimento é definido pelo Instituto Nacional de Colonização e Reforma Agrária (INCRA) para identificar, individualizar e regularizar imóveis rurais no Brasil. O proprietário que não realizar o georreferenciamento, bem como certificar o imóvel no INCRA e atualizar a matrícula no Cartório de Registro de Imóveis, não poderá vender, doar, desmembrar ou parcelar a propriedade.\n\n(https://conafer.org.br, 10.02.2025. Adaptado.)\n\nO procedimento cartográfico mencionado no excerto caracteriza-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela técnica de mapeamento que define a posição relativa do imóvel rural, por meio da rosa-dos-ventos, e determina o local aparente do Sol.",
@@ -1096,15 +1245,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 26."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1126,7 +1274,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Eles querem conhecê-los, protegê-los, mas sem falar \ncom eles, nem os olhar nos olhos. Eles estão na Amazônia, e entrar em contato com eles não é uma opção. Diante \ndesse desafio, especialistas usaram armadilhas fotográficas \n— câmeras que são ativadas pelo movimento — para obter \numa imagem de um povo indígena que vive no estado de \nRondônia, perto da fronteira com a Bolívia. Eles são chamados de Massaco, mas os pesquisadores não sabem como \neles se identificam. O nome Massaco vem do rio que atravessa suas terras. “A Terra Indígena Massaco foi o primeiro \nterritório indígena demarcado exclusivamente para povos \nisolados”, explicou Janete Carvalho, diretora de Proteção \nTerritorial da Fundação Nacional do Índio (Funai).\n\n(Margarita Rodríguez. www.bbc.com, 07.04.2025. Adaptado.)\n\nCom base no excerto, a ação do Poder Público na terra desse povo amazônico representa",
+    "statement": "Eles querem conhecê-los, protegê-los, mas sem falar com eles, nem os olhar nos olhos. Eles estão na Amazônia, e entrar em contato com eles não é uma opção. Diante desse desafio, especialistas usaram armadilhas fotográficas — câmeras que são ativadas pelo movimento — para obter uma imagem de um povo indígena que vive no estado de Rondônia, perto da fronteira com a Bolívia. Eles são chamados de Massaco, mas os pesquisadores não sabem como eles se identificam. O nome Massaco vem do rio que atravessa suas terras. “A Terra Indígena Massaco foi o primeiro território indígena demarcado exclusivamente para povos isolados”, explicou Janete Carvalho, diretora de Proteção Territorial da Fundação Nacional do Índio (Funai).\n\n(Margarita Rodríguez. www.bbc.com, 07.04.2025. Adaptado.)\n\nCom base no excerto, a ação do Poder Público na terra desse povo amazônico representa",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "proteção à comunidade primitiva para sua inserção na dinâmica demográfica e urbana em Rondônia.",
@@ -1137,15 +1290,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1167,27 +1319,16 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine os mapas que indicam a distribuição espacial da \nproporção de três ancestralidades que compõem a formação \nda população brasileira, por regiões geográficas.\n\n(Maria Guimarães. https://revistapesquisa.fapesp.br, 04.06.2025. Adaptado.)\n\nNos títulos dos mapas, os números 1, 2 e 3 correspondem, \nrespectivamente, às ancestralidades",
+    "statement": "Examine os mapas que indicam a distribuição espacial da proporção de três ancestralidades que compõem a formação da população brasileira, por regiões geográficas.\n\n(Maria Guimarães. https://revistapesquisa.fapesp.br, 04.06.2025. Adaptado.)\n\nNos títulos dos mapas, os números 1, 2 e 3 correspondem, respectivamente, às ancestralidades",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q28-1.jpg",
-        "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q28-2.jpg",
-        "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q28-3.jpg",
-        "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 10."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q28-4.jpg",
-        "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2025-cg/q28-1.png",
+        "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1199,15 +1340,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 28."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1229,22 +1369,19 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise os mapas referentes ao período entre setembro de \n2022 e setembro de 2023.\n\nPerda de água na superfície dos municípios do estado do\n\nAmazonas, por hectare\n\nÁreas dos municípios do estado do Amazonas em \nsituação de emergência pela perda de água na superfície\n\n(https://brasil.mapbiomas.org. Adaptado.)\n\nNo estado do Amazonas, a perda de água na superfície tem \ncomo consequência o impacto",
+    "statement": "Analise os mapas referentes ao período entre setembro de 2022 e setembro de 2023.\n\nPerda de água na superfície dos municípios do estado do\n\nAmazonas, por hectare\n\nÁreas dos municípios do estado do Amazonas em situação de emergência pela perda de água na superfície\n\n(https://brasil.mapbiomas.org. Adaptado.)\n\nNo estado do Amazonas, a perda de água na superfície tem como consequência o impacto",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q29-1.jpg",
-        "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 11."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q29-2.jpg",
-        "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 11."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q29-3.jpg",
-        "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2025-cg/q29-1.png",
+        "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1256,15 +1393,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 29."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1286,7 +1422,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O Fundo Monetário Internacional (FMI) afirmou que viu \nsurpresas positivas para o crescimento das economias emergentes nos primeiros três meses do ano de 2025, relacionadas às possíveis reduções e pausas na guerra tarifária promovida pelo presidente dos Estados Unidos, Donald Trump, \no que pode influenciar uma revisão para cima das projeções \nde desaceleração para o referido ano.\n\n(https://exame.com, 12.06.2025. Adaptado.)\n\nConsiderando o excerto, caracterizam ações para otimizar o \ncenário fiscal de países emergentes",
+    "statement": "O Fundo Monetário Internacional (FMI) afirmou que viu surpresas positivas para o crescimento das economias emergentes nos primeiros três meses do ano de 2025, relacionadas às possíveis reduções e pausas na guerra tarifária promovida pelo presidente dos Estados Unidos, Donald Trump, o que pode influenciar uma revisão para cima das projeções de desaceleração para o referido ano.\n\n(https://exame.com, 12.06.2025. Adaptado.)\n\nConsiderando o excerto, caracterizam ações para otimizar o cenário fiscal de países emergentes",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o aumento do número de trabalhadores desempregados e a redução da inflação.",
@@ -1297,15 +1438,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1327,7 +1467,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O cooperativismo é reconhecido mundialmente pela \ncapacidade de promover o crescimento justo e sustentável \nnos lugares onde atua. Seja em pequenas comunidades \nagrícolas, em grandes centros urbanos ou mesmo em plena \nAmazônia, o cooperativismo faz a diferença para milhões de \npessoas que decidem empreender coletivamente. As cooperativas criam condições socioeconômicas que têm impacto \ntanto para os cooperados quanto para suas comunidades.\n\n(https://somoscooperativismo.coop.br, 12.02.2025. Adaptado.)\n\nA inciativa de fomentar o cooperativismo na região Amazônica, conforme retratado no excerto, tem como consequência \nsocioeconômica para o comércio local",
+    "statement": "O cooperativismo é reconhecido mundialmente pela capacidade de promover o crescimento justo e sustentável nos lugares onde atua. Seja em pequenas comunidades agrícolas, em grandes centros urbanos ou mesmo em plena Amazônia, o cooperativismo faz a diferença para milhões de pessoas que decidem empreender coletivamente. As cooperativas criam condições socioeconômicas que têm impacto tanto para os cooperados quanto para suas comunidades.\n\n(https://somoscooperativismo.coop.br, 12.02.2025. Adaptado.)\n\nA inciativa de fomentar o cooperativismo na região Amazônica, conforme retratado no excerto, tem como consequência socioeconômica para o comércio local",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a criação de empregos qualificados a fim de aumentar produtividade, promovendo monocultura de cultivos.",
@@ -1338,15 +1483,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1368,12 +1512,16 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a charge da cartunista Marian Kamensky, publicada \npelo perfil @cartoonmovement em 30.06.2025.\n\n(www.instagram.com. Adaptado.)\n\nUma consequência do processo de produção do espaço geográfico retratado na charge e uma forma de o Estado intervir \npara a modificação desse cenário são, respectivamente,",
+    "statement": "Analise a charge da cartunista Marian Kamensky, publicada pelo perfil @cartoonmovement em 30.06.2025.\n\n(www.instagram.com. Adaptado.)\n\nUma consequência do processo de produção do espaço geográfico retratado na charge e uma forma de o Estado intervir para a modificação desse cenário são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q32-1.jpg",
-        "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2025-cg/q32-1.png",
+        "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1385,15 +1533,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1415,7 +1562,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Após mais de duas décadas de negociações, o Mercosul \ne a União Europeia anunciaram oficialmente um acordo entre \nos blocos econômicos que visa a redução ou eliminação de \nbarreiras tarifárias e não tarifárias entre os países. Considerado um marco geopolítico e econômico, o acordo integra \ndois dos maiores blocos econômicos do mundo, abrange cerca de 718 milhões de pessoas e um Produto Interno Bruto \n(PIB) combinado de aproximadamente US$ 22 trilhões.\n\n(Dino. https://valor.globo.com, 26.02.2025. Adaptado.)\n\nO acordo entre os blocos econômicos citados no excerto é \ncaracterizado como",
+    "statement": "Após mais de duas décadas de negociações, o Mercosul e a União Europeia anunciaram oficialmente um acordo entre os blocos econômicos que visa a redução ou eliminação de barreiras tarifárias e não tarifárias entre os países. Considerado um marco geopolítico e econômico, o acordo integra dois dos maiores blocos econômicos do mundo, abrange cerca de 718 milhões de pessoas e um Produto Interno Bruto (PIB) combinado de aproximadamente US$ 22 trilhões.\n\n(Dino. https://valor.globo.com, 26.02.2025. Adaptado.)\n\nO acordo entre os blocos econômicos citados no excerto é caracterizado como",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "uma união aduaneira.",
@@ -1426,15 +1578,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 33."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1456,7 +1607,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Agricultores do ramal Rio Branquinho, na zona rural de \nManaus, investiram na pitaya, uma fruta nutritiva cuja produção vai, em grande parte, para a merenda escolar, gerando \nrenda e transformando vidas na comunidade. A pitaya não \nproporciona apenas renda, mas qualidade de vida, como no \ncaso de uma família que, no passado, cultivava limão, banana \ne cupuaçu, mas os custos eram altos. Com o cultivo da pitaya \ntudo mudou: inicialmente essa família plantou setenta mudas, \nhoje são cultivadas cinco mil plantas, em três hectares.\n\n(Francisco Carioca. https://g1.globo.com, 06.04.2025. Adaptado.)\n\nNo estado do Amazonas, o sistema de produção agrícola \nretrato no excerto é caracterizado como",
+    "statement": "Agricultores do ramal Rio Branquinho, na zona rural de Manaus, investiram na pitaya, uma fruta nutritiva cuja produção vai, em grande parte, para a merenda escolar, gerando renda e transformando vidas na comunidade. A pitaya não proporciona apenas renda, mas qualidade de vida, como no caso de uma família que, no passado, cultivava limão, banana e cupuaçu, mas os custos eram altos. Com o cultivo da pitaya tudo mudou: inicialmente essa família plantou setenta mudas, hoje são cultivadas cinco mil plantas, em três hectares.\n\n(Francisco Carioca. https://g1.globo.com, 06.04.2025. Adaptado.)\n\nNo estado do Amazonas, o sistema de produção agrícola retrato no excerto é caracterizado como",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "agroecologia, pois acontece em médias propriedades, por iniciativa empreendedora do agricultor, e atende o mercado nacional.",
@@ -1467,15 +1623,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 34."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1497,7 +1652,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Riscos globais são definidos como a possibilidade de que \num evento ocorra e cause um impacto negativo de proporção \nsignificativa ao PIB, à população ou aos recursos naturais. \nAnalise o gráfico que apresenta, em %, os principais riscos \nglobais em 2025.\n\n(www.publico.pt, 15.05.2025. Adaptado.)\n\nConsiderando conhecimentos sobre os riscos globais que \ninfluenciam na organização do espaço mundial, os dados do \ngráfico permitem constatar",
+    "statement": "Riscos globais são definidos como a possibilidade de que um evento ocorra e cause um impacto negativo de proporção significativa ao PIB, à população ou aos recursos naturais. Analise o gráfico que apresenta, em%, os principais riscos globais em 2025.\n\n(www.publico.pt, 15.05.2025. Adaptado.)\n\nConsiderando conhecimentos sobre os riscos globais que influenciam na organização do espaço mundial, os dados do gráfico permitem constatar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um descrédito da pesquisa científica sobre o aumento de fenômenos meteorológicos extremos, considerados como algo específico das forças da natureza.",
@@ -1508,15 +1668,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1538,7 +1697,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A crise de 2008 revelou as fragilidades do sistema financeiro global. Nesse contexto, uma instituição financeira foi \nfundada oficialmente em 2014 na reestruturação da ordem \neconômica global, defendendo maior representatividade dos \npaíses para promover alternativas ao financiamento global. \nEssa instituição tem o propósito de impulsionar o crescimento \neconômico e o desenvolvimento sustentável entre os países \ndo Sul Global.\n\n(Leonardo Molina. https://agenciagov.ebc.com.br, 07.03.2025. Adaptado.)\n\nO excerto caracteriza",
+    "statement": "A crise de 2008 revelou as fragilidades do sistema financeiro global. Nesse contexto, uma instituição financeira foi fundada oficialmente em 2014 na reestruturação da ordem econômica global, defendendo maior representatividade dos países para promover alternativas ao financiamento global. Essa instituição tem o propósito de impulsionar o crescimento econômico e o desenvolvimento sustentável entre os países do Sul Global.\n\n(Leonardo Molina. https://agenciagov.ebc.com.br, 07.03.2025. Adaptado.)\n\nO excerto caracteriza",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o Banco Interamericano de Desenvolvimento (BID).",
@@ -1549,15 +1713,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 36."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1579,12 +1742,17 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a fotografia de uma célula acinosa pancreática, \nobtida por microscopia eletrônica, para responder às questões 37 e 38.\n\nCinco componentes celulares internos, 1, 2, 3, 4 e 5, estão \ndevidamente indicados e numerados.\n\n(https://sites.icb.ufmg.br. Adaptado.)\n\nAs células acinosas pancreáticas são unidades funcionais do \npâncreas exócrino responsáveis pela produção e secreção de \nsubstâncias. Essas células formam estruturas com aparência \nde cacho, chamadas ácinos, que liberam seu conteúdo em \num sistema de ductos que se conecta ao intestino delgado.\n\nA fotografia eletrônica da célula acinosa pancreática revela \nque a estrutura",
+    "statement": "Analise a fotografia de uma célula acinosa pancreática, obtida por microscopia eletrônica, para responder às questões 37 e 38.\n\nCinco componentes celulares internos, 1, 2, 3, 4 e 5, estão devidamente indicados e numerados.\n\n(https://sites.icb.ufmg.br. Adaptado.)\n\nAs células acinosas pancreáticas são unidades funcionais do pâncreas exócrino responsáveis pela produção e secreção de substâncias. Essas células formam estruturas com aparência de cacho, chamadas ácinos, que liberam seu conteúdo em um sistema de ductos que se conecta ao intestino delgado. A fotografia eletrônica da célula acinosa pancreática revela que a estrutura",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q37-1.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 14."
+        "src": "/images/uea/vestibular-2025-cg/q37-1.png",
+        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1596,15 +1764,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 37."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1626,12 +1793,14 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a fotografia de uma célula acinosa pancreática, \nobtida por microscopia eletrônica, para responder às questões 37 e 38.\n\nCinco componentes celulares internos, 1, 2, 3, 4 e 5, estão \ndevidamente indicados e numerados.\n\n(https://sites.icb.ufmg.br. Adaptado.)\n\nO pâncreas é uma glândula localizada próxima ao estômago \ne atua tanto na regulação da glicose do sangue como no processo digestivo.\n\nCom funções endócrina e exócrina, o pâncreas é uma glândula mista cuja função",
+    "statement": "O pâncreas é uma glândula localizada próxima ao estômago e atua tanto na regulação da glicose do sangue como no processo digestivo. Com funções endócrina e exócrina, o pâncreas é uma glândula mista cuja função",
+    "blockTypes": [
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q37-1.jpg",
-        "alt": "Imagem de apoio da questão 38 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 14."
+        "src": "/images/uea/vestibular-2025-cg/q37-1.png",
+        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1643,15 +1812,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 38."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1673,7 +1841,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No início do século XX, os cientistas Aleksandr Oparin e John \nHaldane propuseram uma hipótese para explicar a origem da \nvida na Terra com base nas condições do planeta primitivo.\n\nEssa teoria, conhecida como hipótese da evolução química, \nsugere que",
+    "statement": "No início do século XX, os cientistas Aleksandr Oparin e John Haldane propuseram uma hipótese para explicar a origem da vida na Terra com base nas condições do planeta primitivo. Essa teoria, conhecida como hipótese da evolução química, sugere que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a vida sempre existiu no planeta, e sua origem não está relacionada às transformações químicas da matéria inanimada.",
@@ -1684,15 +1855,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 39."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1714,7 +1884,11 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O nitrogênio é um elemento essencial para os seres vivos, \npois participa da formação de proteínas e ácidos nucleicos. \nA maior parte do nitrogênio encontra-se na atmosfera (78%) \nem sua forma gasosa (N2) e só pode ser utilizada diretamente \npor apenas uma pequena parcela dos organismos vivos.\n\nNo ciclo do nitrogênio que ocorre nos ecossistemas,",
+    "statement": "O nitrogênio é um elemento essencial para os seres vivos, pois participa da formação de proteínas e ácidos nucleicos. A maior parte do nitrogênio encontra-se na atmosfera (78%)\n\npor apenas uma pequena parcela dos organismos vivos.em sua forma gasosa ($N_{2}$) e só pode ser utilizada diretamente No ciclo do nitrogênio que ocorre nos ecossistemas,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as leguminosas (feijão e soja) associam-se a bactérias fixadoras de nitrogênio em suas raízes.",
@@ -1725,15 +1899,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 40."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1755,12 +1928,16 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra uma planta que, a partir da assimilação da \nenergia luminosa do Sol, realiza o processo de fotossíntese. \nEsse processo depende da absorção de gás carbônico e \nde água, para que ocorra a liberação de gás oxigênio e a \nprodução de compostos orgânicos que formam os tecidos e \nórgãos da planta.\n\n(https://flores.culturamix.com)\n\nTendo por base os reagentes e os produtos da fotossíntese, \nafirma-se que",
+    "statement": "A figura mostra uma planta que, a partir da assimilação da energia luminosa do Sol, realiza o processo de fotossíntese. Esse processo depende da absorção de gás carbônico e de água, para que ocorra a liberação de gás oxigênio e a produção de compostos orgânicos que formam os tecidos e órgãos da planta.\n\n(https://flores.culturamix.com)\n\nTendo por base os reagentes e os produtos da fotossíntese, afirma-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q41-1.jpg",
-        "alt": "Imagem de apoio da questão 41 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/vestibular-2025-cg/q41-1.png",
+        "alt": "Imagem de apoio da questão 41 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1772,15 +1949,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 41."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1802,7 +1978,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma floresta tropical, existem diferentes espécies de \nsapos. Alguns sapos vivem entre as folhas acumuladas no \nchão úmido, enquanto outros passam a maior parte do tempo sobre galhos de árvores. Certas espécies se alimentam \nprincipalmente de insetos voadores ao entardecer, enquanto \noutras preferem se alimentar de pequenos artrópodes terrestres durante a madrugada. Essa diversidade permite que \nvárias espécies coexistam no mesmo ambiente.\n\nConsiderando as descrições do texto sobre o ambiente e os \nhábitos das espécies de sapos, afirma-se que",
+    "statement": "Em uma floresta tropical, existem diferentes espécies de sapos. Alguns sapos vivem entre as folhas acumuladas no chão úmido, enquanto outros passam a maior parte do tempo sobre galhos de árvores. Certas espécies se alimentam principalmente de insetos voadores ao entardecer, enquanto outras preferem se alimentar de pequenos artrópodes terrestres durante a madrugada. Essa diversidade permite que várias espécies coexistam no mesmo ambiente. Considerando as descrições do texto sobre o ambiente e os hábitos das espécies de sapos, afirma-se que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o ambiente físico, como o solo e os galhos, caracteriza o nicho ecológico de cada espécie de sapo.",
@@ -1813,15 +1992,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 42."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1843,7 +2021,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Cães domésticos da raça pug, pastor alemão, labrador e \ndálmata apresentam grande diversidade de tamanhos, formatos corporais e comportamentos. Apesar dessas diferenças, todos os cães domésticos são classificados como \nCanis lupus familiaris. Esse exemplo ajuda a compreender \ncomo os critérios taxonômicos são aplicados na classificação dos seres vivos.\n\nAs diferentes raças de cães domésticos são assim classificadas porque pertencem",
+    "statement": "Cães domésticos da raça pug, pastor alemão, labrador e dálmata apresentam grande diversidade de tamanhos, formatos corporais e comportamentos. Apesar dessas diferenças, todos os cães domésticos são classificados como Canis lupus familiaris. Esse exemplo ajuda a compreender como os critérios taxonômicos são aplicados na classificação dos seres vivos. As diferentes raças de cães domésticos são assim classificadas porque pertencem",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a famílias taxonômicas distintas, pois não convivem no mesmo hábitat.",
@@ -1854,15 +2035,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 43."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -1884,7 +2064,12 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Existem muitos métodos contraceptivos diferentes, cada \num com suas próprias vantagens e eficácia. Alguns, como \ndispositivos intrauterinos (DIUs) e laqueadura, são altamente \neficazes e duradouros. Outros, como pílulas, injeções, adesivos e anéis vaginais, são usados regularmente e funcionam \nbem quando administrados corretamente. Métodos de barreira são eficazes na prevenção da gravidez, se usados de \nforma correta.\n\n(www.who.int. Adaptado.)\n\nConsiderando os mecanismos de ação dos diferentes \nmétodos, tem-se que",
+    "statement": "Existem muitos métodos contraceptivos diferentes, cada um com suas próprias vantagens e eficácia. Alguns, como dispositivos intrauterinos (DIUs) e laqueadura, são altamente eficazes e duradouros. Outros, como pílulas, injeções, adesivos e anéis vaginais, são usados regularmente e funcionam bem quando administrados corretamente. Métodos de barreira são eficazes na prevenção da gravidez, se usados de forma correta.\n\n(www.who.int. Adaptado.)\n\nConsiderando os mecanismos de ação dos diferentes métodos, tem-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o preservativo é um método de barreira que impede o encontro dos gametas.",
@@ -1895,15 +2080,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 44."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -1925,12 +2109,16 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa simplificadamente um procedimento \nbiotecnológico utilizado para a produção de medicamentos.\n\n(https://pt.khanacademy.org. Adaptado.)\n\nO tipo de procedimento biotecnológico representado \né e uma das medicações produzidas há décadas, após o desenvolvimento desse procedimento biotecnológico, é .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A figura representa simplificadamente um procedimento biotecnológico utilizado para a produção de medicamentos.\n\n(https://pt.khanacademy.org. Adaptado.)\n\nO tipo de procedimento biotecnológico representado é e uma das medicações produzidas há décadas, após o desenvolvimento desse procedimento biotecnológico, é. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q45-1.jpg",
-        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/vestibular-2025-cg/q45-1.png",
+        "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1942,15 +2130,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 45."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -1972,12 +2159,16 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine os três tipos de RNA (ácido ribonucleico): o RNAm, \nRNAr e o RNAt.\n\n(www.yourgenome.org)\n\nOs três diferentes tipos de RNA atuam de forma coordenada \ndurante o processo metabólico de tradução, no qual",
+    "statement": "Examine os três tipos de RNA (ácido ribonucleico): o RNAm, RNAr e o RNAt.\n\n(www.yourgenome.org)\n\nOs três diferentes tipos de RNA atuam de forma coordenada durante o processo metabólico de tradução, no qual",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q46-1.jpg",
-        "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/vestibular-2025-cg/q46-1.png",
+        "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -1989,15 +2180,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 46."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2019,7 +2209,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Algumas vacinas, como as aplicadas contra a gripe, são produzidas usando ovos embrionados de galinha. Nesse processo, o vírus é injetado no interior do ovo, onde ocorre a replicação. Após um período, os vírus são coletados, inativados ou \natenuados e transformados em vacina.\n\nA produção de vacinas em ovos embrionados de galinha é \npossível, pois",
+    "statement": "Algumas vacinas, como as aplicadas contra a gripe, são produzidas usando ovos embrionados de galinha. Nesse processo, o vírus é injetado no interior do ovo, onde ocorre a replicação. Após um período, os vírus são coletados, inativados ou atenuados e transformados em vacina. A produção de vacinas em ovos embrionados de galinha é possível, pois",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o vírus cresce no ovo ao encontrar ali um ambiente estéril.",
@@ -2030,15 +2223,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 47."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2060,7 +2252,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Lucas percebeu certo dia que tinha dificuldade para distinguir \nalgumas cores, especialmente os tons de vermelho e verde. \nApós consulta médica, foi diagnosticado com daltonismo, \numa condição mais comum entre os homens. A médica explicou que essa característica é herdada por meio de um alelo \nlocalizado em um cromossomo sexual, o que explica a maior \nfrequência no sexo masculino.\n\nO alelo que determina o tipo de daltonismo de Lucas",
+    "statement": "Lucas percebeu certo dia que tinha dificuldade para distinguir algumas cores, especialmente os tons de vermelho e verde. Após consulta médica, foi diagnosticado com daltonismo, uma condição mais comum entre os homens. A médica explicou que essa característica é herdada por meio de um alelo localizado em um cromossomo sexual, o que explica a maior frequência no sexo masculino. O alelo que determina o tipo de daltonismo de Lucas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "é autossômico dominante, herdado do pai ou da mãe.",
@@ -2071,15 +2266,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 48."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2101,7 +2295,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma papelaria colocou em promoção canetas, borrachas e \nlápis, no total de 216 unidades e vendeu todas essas unidades. O número de unidades vendidas de cada um desses \nitens, na ordem apresentada, foi diretamente proporcional \naos números 5, 3 e 4. Sabendo que todas as canetas foram \nvendidas por R$ 2,50 cada uma, o valor arrecadado com a \nvenda dessas canetas foi",
+    "statement": "Uma papelaria colocou em promoção canetas, borrachas e lápis, no total de 216 unidades e vendeu todas essas unidades. O número de unidades vendidas de cada um desses itens, na ordem apresentada, foi diretamente proporcional aos números 5, 3 e 4. Sabendo que todas as canetas foram vendidas por R$ 2,50 cada uma, o valor arrecadado com a venda dessas canetas foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 180,00.",
@@ -2112,15 +2309,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 49."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2142,7 +2338,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No mês de março, determinado produto custava R$ 20,00. \nNo mês de abril, esse preço sofreu um aumento de 20% e, \nno mês de maio, o preço aumentou 25% sobre o valor do mês \nde abril. O valor desse produto no mês de maio, em relação \nao valor de R$ 20,00 de março, apresentou um aumento de",
+    "statement": "No mês de março, determinado produto custava R$ 20,00. No mês de abril, esse preço sofreu um aumento de 20% e, no mês de maio, o preço aumentou 25% sobre o valor do mês de abril. O valor desse produto no mês de maio, em relação ao valor de R$ 20,00 de março, apresentou um aumento de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "50%.",
@@ -2153,15 +2352,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 50."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2183,7 +2381,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um estudante leu, nos últimos anos, livros de poesia, de \nromance, de ficção e de aventura, e notou que o número de \nlivros lidos de cada gênero, na ordem citada, formava uma \nprogressão aritmética (PA). Sabendo que ele leu somente \n1 livro de poesia e que a diferença entre o número de livros \nlidos de aventura e de romance foi 4, o número de livros de \naventura lidos foi",
+    "statement": "Um estudante leu, nos últimos anos, livros de poesia, de romance, de ficção e de aventura, e notou que o número de livros lidos de cada gênero, na ordem citada, formava uma progressão aritmética (PA). Sabendo que ele leu somente 1 livro de poesia e que a diferença entre o número de livros lidos de aventura e de romance foi 4, o número de livros de aventura lidos foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5.",
@@ -2194,15 +2395,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 51."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2224,7 +2424,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a função f(x) = ax + b, em que a e b são números \nreais não nulos. Sabendo que os pontos P (0, – 3) e Q (– 1, – 4) \npertencem a essa função, o valor de f(– 2) + f(8) é igual a",
+    "statement": "Considere a função f(x) = ax + b, em que a e b são números reais não nulos. Sabendo que os pontos P (0, – 3) e Q (– 1, – 4) pertencem a essa função, o valor de f(– 2) + f(8) é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "– 1.",
@@ -2235,15 +2438,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 52."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2265,7 +2467,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O gráfico da função f(x) = x2 + 2x – 3 apresenta um ponto de \nmínimo. As coordenadas desse ponto são",
+    "statement": "O gráfico da função f(x) = $x^{2}$ + 2x – 3 apresenta um ponto de mínimo. As coordenadas desse ponto são",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "(1, – 4).",
@@ -2276,15 +2481,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 53."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2306,7 +2510,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma biblioteca, há 2 caixas, L e P, ambas com livros, sendo que a caixa P contém 3 livros a mais do que a caixa L. Se \nforem retirados 5 livros da caixa L e colocados na caixa P, a \ncaixa P ficará com o dobro de livros da caixa L. O número de \nlivros que há na caixa P é",
+    "statement": "Em uma biblioteca, há 2 caixas, L e P, ambas com livros, sendo que a caixa P contém 3 livros a mais do que a caixa L. Se forem retirados 5 livros da caixa L e colocados na caixa P, a caixa P ficará com o dobro de livros da caixa L. O número de livros que há na caixa P é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "21.",
@@ -2317,15 +2524,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 54."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2347,7 +2553,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em um grupo de jovens, 6 deles estão usando camisas \nxadrez. Sorteando-se um jovem desse grupo, a probabilida-\n\nde de que ele não esteja usando uma camisa xadrez é \n.\n\nO número de jovens desse grupo que não estão usando \ncamisas xadrez é",
+    "statement": "Em um grupo de jovens, 6 deles estão usando camisas xadrez. Sorteando-se um jovem desse grupo, a probabilidade de que ele não esteja usando uma camisa xadrez é. O número de jovens desse grupo que não estão usando camisas xadrez é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15.",
@@ -2358,15 +2567,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 55."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2388,7 +2596,11 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um terreno retangular ABCD, com 20 m de comprimento, \nfoi dividido em duas regiões, R1 e R2, por uma cerca ED de \n25 m de comprimento, sendo E um ponto sobre o lado AB, \ncom EB = 3 m, conforme mostra a figura.\n\nA medida x do lado CD do retângulo é igual a",
+    "statement": "Um terreno retangular ABCD, com 20 m de comprimento, foi dividido em duas regiões, $R_{1}$ e $R_{2}$, por uma cerca ED de 25 m de comprimento, sendo E um ponto sobre o lado AB, com EB = 3 m, conforme mostra a figura.\n\nA medida x do lado CD do retângulo é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "13 m.",
@@ -2399,15 +2611,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 56."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2429,7 +2640,11 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere o triângulo retângulo ABC, reto em A, com\n\nAB = 18 cm, BC = 30 cm e o ângulo \n = α. Sejam E e D \npontos sobre os lados AC e BC, respectivamente, tais que \no triângulo CDE é retângulo em D, com ED = 9 cm, conforme mostra a figura.\n\nSabendo que sen α = \n, a medida do segmento AE é",
+    "statement": "Considere o triângulo retângulo ABC, reto em A, com AB = 18 cm, BC = 30 cm e o ângulo = α. Sejam E e D pontos sobre os lados AC e BC, respectivamente, tais que o triângulo CDE é retângulo em D, com ED = 9 cm, conforme mostra a figura.\n\nSabendo que sen α =, a medida do segmento AE é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "6 cm.",
@@ -2440,15 +2655,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 57."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2470,7 +2684,12 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Foi solicitado a um grupo de 16 alunos que cada um deles \natribuísse, a si mesmo, uma nota de 1 a 5, avaliando o próprio desempenho em uma atividade cultural. A nota que cada \naluno atribuiu a si mesmo está registrada na tabela.\n\n3\n5\n3\n4\n\n4\n2\n4\n3\n\n5\n5\n3\n5\n\n3\n3\n5\n3\n\nA média, a moda e a mediana dessas notas são, respectivamente,",
+    "statement": "Foi solicitado a um grupo de 16 alunos que cada um deles atribuísse, a si mesmo, uma nota de 1 a 5, avaliando o próprio desempenho em uma atividade cultural. A nota que cada aluno atribuiu a si mesmo está registrada na tabela.\n\n$\\frac{3}{4}$ $\\frac{5}{2}$ $\\frac{3}{4}$ $\\frac{4}{3}$\n$\\frac{5}{3}$ $\\frac{5}{3}$ $\\frac{3}{5}$ $\\frac{5}{3}$\n\nA média, a moda e a mediana dessas notas são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3; 3,5 e 3,75.",
@@ -2481,15 +2700,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 58."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2511,7 +2729,11 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um sólido no formato de um prisma reto de base retangular \ntem uma das arestas da base medindo 2 cm a mais do que a \noutra, e a medida de sua altura é 31 cm, conforme mostra a \nfigura, com medidas indicadas em centímetros.\n\nSabendo que a área da face lateral, destacada na figura, é \n217 cm2, o volume desse sólido é",
+    "statement": "Um sólido no formato de um prisma reto de base retangular tem uma das arestas da base medindo 2 cm a mais do que a outra, e a medida de sua altura é 31 cm, conforme mostra a figura, com medidas indicadas em centímetros.\n\nSabendo que a área da face lateral, destacada na figura, é 217 $cm^{2}$, o volume desse sólido é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 953 cm3.",
@@ -2522,15 +2744,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 59."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2552,7 +2773,12 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Como um míssil minúsculo e cintilante, a formiga-prateada-\n-do-saara reluz sobre a areia quente em busca de animais mortos que sucumbiram ao calor. Agora, novo estudo revela que \nessas ágeis forrageiras não apenas são as formigas mais rápidas vivas como também estão entre os insetos mais rápidos do \nplaneta. Em um experimento recente nas dunas ensolaradas \nde Douz, na Tunísia, os insetos atingiram a velocidade escalar \nmáxima de 85 centímetros por segundo.\n\n(www.nationalgeographicbrasil.com. Adaptado.)\n\nMovendo-se em linha reta pelas dunas de Douz, em sua \nvelocidade escalar máxima, uma dessas formigas percorre, \nno intervalo de tempo de dois minutos, a distância de",
+    "statement": "Como um míssil minúsculo e cintilante, a formiga-prateada-do-saara reluz sobre a areia quente em busca de animais mortos que sucumbiram ao calor. Agora, novo estudo revela que essas ágeis forrageiras não apenas são as formigas mais rápidas vivas como também estão entre os insetos mais rápidos do planeta. Em um experimento recente nas dunas ensolaradas de Douz, na Tunísia, os insetos atingiram a velocidade escalar máxima de 85 centímetros por segundo.\n\n(www.nationalgeographicbrasil.com. Adaptado.)\n\nMovendo-se em linha reta pelas dunas de Douz, em sua velocidade escalar máxima, uma dessas formigas percorre, no intervalo de tempo de dois minutos, a distância de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "850 m.",
@@ -2563,15 +2789,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 61."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2593,12 +2818,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para a Física, a energia é uma grandeza que não pode ser \ncriada ou destruída, embora possa ser transformada entre \nsuas diversas modalidades. Essa capacidade de transição \npossibilitou que o ser humano construísse usinas, como a \napresentada na figura.\n\n(www.enelgreenpower.com)\n\nNessa usina eólica, o objetivo é transformar a energia",
+    "statement": "Para a Física, a energia é uma grandeza que não pode ser criada ou destruída, embora possa ser transformada entre suas diversas modalidades. Essa capacidade de transição possibilitou que o ser humano construísse usinas, como a apresentada na figura.\n\n(www.enelgreenpower.com)\n\nNessa usina eólica, o objetivo é transformar a energia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q62-1.jpg",
-        "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 19."
+        "src": "/images/uea/vestibular-2025-cg/q62-1.png",
+        "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -2610,15 +2839,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 62."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2640,7 +2868,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O avião Airbus A320 é impulsionado por dois motores capazes de proporcionar uma força máxima de 98 000 N, cada \num. Desprezando as forças de resistência ao movimento, na \ndecolagem de um Airbus A320 com sua massa máxima permitida, que é de 80 000 kg, a maior aceleração que ele pode \ndesenvolver é de",
+    "statement": "O avião Airbus A320 é impulsionado por dois motores capazes de proporcionar uma força máxima de 98 000 N, cada um. Desprezando as forças de resistência ao movimento, na decolagem de um Airbus A320 com sua massa máxima permitida, que é de 80 000 kg, a maior aceleração que ele pode desenvolver é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0,82 m/s2.",
@@ -2651,15 +2882,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 63."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2681,12 +2911,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra a órbita de alguns planetas do Sistema Solar \ne a órbita de grande excentricidade de um asteroide que \nchega a cruzar a órbita da Terra. O periélio é o ponto mais \npróximo do Sol na órbita de um astro e o afélio é ponto mais \nafastado.\n\n(www.swissinfo.ch. Adaptado.)\n\nSendo FP a intensidade da força gravitacional entre o asteroide e o Sol no periélio, FA a intensidade da força gravitacional \nentre o asteroide e o Sol no afélio, vP a velocidade escalar do \nasteroide, em relação ao Sol, no periélio, e vA a velocidade \nescalar do asteroide, em relação ao Sol, no afélio, afirma-se \nque:",
+    "statement": "A figura mostra a órbita de alguns planetas do Sistema Solar e a órbita de grande excentricidade de um asteroide que chega a cruzar a órbita da Terra. O periélio é o ponto mais próximo do Sol na órbita de um astro e o afélio é ponto mais afastado.\n\n(www.swissinfo.ch. Adaptado.)\n\nSendo $F_{P}$ a intensidade da força gravitacional entre o asteroide e o Sol no periélio, $F_{A}$ a intensidade da força gravitacional entre o asteroide e o Sol no afélio, $v_{P}$ a velocidade escalar do asteroide, em relação ao Sol, no periélio, e $v_{A}$ a velocidade escalar do asteroide, em relação ao Sol, no afélio, afirma-se que:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q64-1.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 20."
+        "src": "/images/uea/vestibular-2025-cg/q64-1.png",
+        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -2698,15 +2932,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 64."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2728,7 +2961,11 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura mostra um circuito elétrico composto por uma fonte \nde energia ideal E e três lâmpadas idênticas, L1, L2 e L3, que \nsão acionadas por três chaves ideais c1, c2 e c3, respectivamente.\n\nQuando as três chaves estão fechadas, a corrente na fonte, \niE, vale 60 mA, as três lâmpadas estão acesas e as correntes \ni1, i2 e i3 são iguais e de valor 20 mA. Abrindo-se a chave c3, \na corrente na lâmpada L3 torna-se nula e a lâmpada se apaga, enquanto as correntes iE, i1 e i2 têm, respectivamente, os \nseguintes valores:",
+    "statement": "A figura mostra um circuito elétrico composto por uma fonte de energia ideal E e três lâmpadas idênticas, $L_{1}$, $L_{2}$ e $L_{3}$, que são acionadas por três chaves ideais $c_{1}$, $c_{2}$ e $c_{3}$, respectivamente.\n\nQuando as três chaves estão fechadas, a corrente na fonte, $i_{E}$, vale 60 mA, as três lâmpadas estão acesas e as correntes $i_{1}$, $i_{2}$ e $i_{3}$ são iguais e de valor 20 mA. Abrindo-se a chave $c_{3}$, a corrente na lâmpada $L_{3}$ torna-se nula e a lâmpada se apaga, enquanto as correntes $i_{E}$, $i_{1}$ e $i_{2}$ têm, respectivamente, os seguintes valores:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "40 mA, 20 mA e 20 mA.",
@@ -2739,15 +2976,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 65."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2769,7 +3005,13 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A escala Celsius atual tem como pontos fixos o valor 0 ºC \npara o ponto de congelamento da água e 100 ºC para o ponto \nde ebulição da água e foi criada em 1742 pelo astrônomo \nsueco Anders Celsius. Originalmente, Celsius usou zero grau \npara o ponto de ebulição da água e cem graus para o ponto \nde fusão da neve. Mais tarde, isso foi invertido para os valores utilizados atualmente e, dessa forma, ganhou amplo uso.\n\n(www.britannica.com. Adaptado.)\n\nRepresentando a unidade de medida na escala original criada pelo astrônomo Celsius por ºCo, a temperatura escrita em \ntermos atuais, de 23 ºC, correspondia na escala original a",
+    "statement": "A escala Celsius atual tem como pontos fixos o valor 0 ºC para o ponto de congelamento da água e 100 ºC para o ponto de ebulição da água e foi criada em 1742 pelo astrônomo sueco Anders Celsius. Originalmente, Celsius usou zero grau para o ponto de ebulição da água e cem graus para o ponto de fusão da neve. Mais tarde, isso foi invertido para os valores utilizados atualmente e, dessa forma, ganhou amplo uso.\n\n(www.britannica.com. Adaptado.)\n\nRepresentando a unidade de medida na escala original cria-\n\ntermos atuais, de 23 ºC, correspondia na escala original ada pelo astrônomo Celsius por º$C_{o}$, a temperatura escrita em",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "27 ºCo.",
@@ -2780,15 +3022,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 66."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -2810,7 +3051,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma observação cuidadosa do céu, numa noite limpa, \nsem luar e longe das luzes das cidades, é possível constatar \nque as estrelas têm cores diferentes. Sirius, por exemplo, \napresenta coloração branco-azulada, Capella é amarelada, \nAntares exibe um tom avermelhado e Rigel se apresenta \nazulada. Exclusivamente por meio da cor de uma estrela, \npode-se estimar",
+    "statement": "Em uma observação cuidadosa do céu, numa noite limpa, sem luar e longe das luzes das cidades, é possível constatar que as estrelas têm cores diferentes. Sirius, por exemplo, apresenta coloração branco-azulada, Capella é amarelada, Antares exibe um tom avermelhado e Rigel se apresenta azulada. Exclusivamente por meio da cor de uma estrela, pode-se estimar",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a intensidade de seu brilho.",
@@ -2821,15 +3065,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 67."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2851,12 +3094,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Motores elétricos são dispositivos que transformam energia \nelétrica em energia mecânica. A foto mostra uma placa com \nos dados técnicos de um desses motores, em que a potência \nmecânica do motor, dada em kW, e o seu rendimento, dado \nem porcentagem, estão com destaque amarelo.\n\n(https://ibob.com.br. Adaptado.)\n\nA potência mecânica do motor indica a quantidade de energia mecânica que é fornecida pelo motor no decorrer do \nseu funcionamento, por unidade de tempo, que, no caso, é \nde 0,750 kJ a cada segundo. O rendimento do motor é a \nrelação entre a energia mecânica fornecida pelo motor e a \nquantidade de energia elétrica que é consumida por ele. O \nmotor, ao qual a placa está associada, funcionando durante \n40 segundos, consome uma quantidade de energia elétrica \nde, aproximadamente,",
+    "statement": "Motores elétricos são dispositivos que transformam energia elétrica em energia mecânica. A foto mostra uma placa com os dados técnicos de um desses motores, em que a potência mecânica do motor, dada em kW, e o seu rendimento, dado em porcentagem, estão com destaque amarelo.\n\n(https://ibob.com.br. Adaptado.)\n\nA potência mecânica do motor indica a quantidade de energia mecânica que é fornecida pelo motor no decorrer do seu funcionamento, por unidade de tempo, que, no caso, é de 0,750 kJ a cada segundo. O rendimento do motor é a relação entre a energia mecânica fornecida pelo motor e a quantidade de energia elétrica que é consumida por ele. O motor, ao qual a placa está associada, funcionando durante 40 segundos, consome uma quantidade de energia elétrica de, aproximadamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q68-1.jpg",
-        "alt": "Imagem de apoio da questão 68 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 21."
+        "src": "/images/uea/vestibular-2025-cg/q68-1.png",
+        "alt": "Imagem de apoio da questão 68 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -2868,15 +3115,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 68."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2898,12 +3144,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O balão de festas mostrado na foto atrai os cabelos de uma \ncriança porque está eletrizado com carga elétrica negativa, \napós ter sido atritado contra um pedaço de lã.\n\n(https://coolscienceexperimentshq.com.)\n\nConsiderando que, inicialmente, o balão estava eletricamente neutro, a sua eletrização a partir do atrito contra o pedaço \nde lã ocorreu devido ao deslocamento de",
+    "statement": "O balão de festas mostrado na foto atrai os cabelos de uma criança porque está eletrizado com carga elétrica negativa, após ter sido atritado contra um pedaço de lã.\n\n(https://coolscienceexperimentshq.com.)\n\nConsiderando que, inicialmente, o balão estava eletricamente neutro, a sua eletrização a partir do atrito contra o pedaço de lã ocorreu devido ao deslocamento de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q69-1.jpg",
-        "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 21."
+        "src": "/images/uea/vestibular-2025-cg/q69-1.png",
+        "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -2915,15 +3165,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 69."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2945,12 +3194,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a foto que mostra um sofá colocado à frente de uma \nestante.\n\n(www.iazamoveisdemadeira.com.br)\n\nNessa foto, não é possível enxergar a parte da estante que \nestá encoberta pelo sofá. Isso ocorre porque, nessa situação,",
+    "statement": "Analise a foto que mostra um sofá colocado à frente de uma estante.\n\n(www.iazamoveisdemadeira.com.br)\n\nNessa foto, não é possível enxergar a parte da estante que está encoberta pelo sofá. Isso ocorre porque, nessa situação,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q70-1.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 21."
+        "src": "/images/uea/vestibular-2025-cg/q70-1.png",
+        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -2962,15 +3215,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 70."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -2992,12 +3244,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na figura, tem-se a representação gráfica de uma onda sonora e a correspondente representação gráfica da variação da \npressão do ar em função da distância.\n\n(www.institutoclaro.org.br. Adaptado.)\n\nA partir da análise das duas representações, é possível \nassociar o valor de",
+    "statement": "Na figura, tem-se a representação gráfica de uma onda sonora e a correspondente representação gráfica da variação da pressão do ar em função da distância.\n\n(www.institutoclaro.org.br. Adaptado.)\n\nA partir da análise das duas representações, é possível associar o valor de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q71-1.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 22."
+        "src": "/images/uea/vestibular-2025-cg/q71-1.png",
+        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3009,15 +3265,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 71."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3039,7 +3294,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A meia-vida de um elemento radioativo é o tempo necessário para que metade dos átomos de uma amostra desse \nelemento decaia, podendo se transformar em outro elemento. O bismuto-210, por exemplo, tem meia-vida de 5 dias \ne, ao decair, transforma-se em polônio-210. Considere uma \namostra contendo, inicialmente, 240 g de bismuto-210. \nApós 15 dias, a massa de bismuto-210 nessa amostra será \nigual a",
+    "statement": "A meia-vida de um elemento radioativo é o tempo necessário para que metade dos átomos de uma amostra desse elemento decaia, podendo se transformar em outro elemento. O bismuto-210, por exemplo, tem meia-vida de 5 dias e, ao decair, transforma-se em polônio-210. Considere uma amostra contendo, inicialmente, 240 g de bismuto-210. Após 15 dias, a massa de bismuto-210 nessa amostra será igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "zero.",
@@ -3050,15 +3308,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 72."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3080,12 +3337,15 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um professor de Química realizou um experimento para \nsimular a separação dos componentes do petróleo. Para isso, \npreparou uma mistura de hidrocarbonetos pertencentes a \numa fração do petróleo (hidrocarbonetos com 6 a 16 átomos \nde carbono) e montou o equipamento representado pela figura a seguir para proceder à separação dos componentes da \nmistura preparada.\n\nA classificação da mistura preparada pelo professor e a \ntécnica utilizada para a separação de seus componentes \nsão, respectivamente:",
+    "statement": "Um professor de Química realizou um experimento para simular a separação dos componentes do petróleo. Para isso, preparou uma mistura de hidrocarbonetos pertencentes a uma fração do petróleo (hidrocarbonetos com 6 a 16 átomos de carbono) e montou o equipamento representado pela figura a seguir para proceder à separação dos componentes da mistura preparada.\n\nA classificação da mistura preparada pelo professor e a técnica utilizada para a separação de seus componentes são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q73-1.jpg",
-        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 22."
+        "src": "/images/uea/vestibular-2025-cg/q73-1.png",
+        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3097,15 +3357,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 73."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3127,12 +3386,16 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sinalizadores de emergência utilizados em embarcações \nfuncionam por meio da combustão de compostos químicos \nque produzem luz intensa ou fumaça colorida, permitindo a visualização a longas distâncias, especialmente em \nsituações de resgate. Esses sinalizadores são essenciais \npara a segurança marítima, sendo obrigatórios por normas \ninternacionais.\n\n(https://pescaecia.com.br. Adaptado.)\n\nA cor da chama que se forma nos sinalizadores de emergência deve-se a transições de partículas subatômicas em níveis \nde energia do átomo. Esse efeito pode ser explicado pelo \nmodelo atômico de",
+    "statement": "Sinalizadores de emergência utilizados em embarcações funcionam por meio da combustão de compostos químicos que produzem luz intensa ou fumaça colorida, permitindo a visualização a longas distâncias, especialmente em situações de resgate. Esses sinalizadores são essenciais para a segurança marítima, sendo obrigatórios por normas internacionais.\n\n(https://pescaecia.com.br. Adaptado.)\n\nA cor da chama que se forma nos sinalizadores de emergência deve-se a transições de partículas subatômicas em níveis de energia do átomo. Esse efeito pode ser explicado pelo modelo atômico de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q74-1.jpg",
-        "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
+        "src": "/images/uea/vestibular-2025-cg/q74-1.png",
+        "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3144,15 +3407,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 74."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3174,7 +3436,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O ciclo biogeoquímico do carbono descreve a movimentação do carbono entre a atmosfera, a hidrosfera (oceanos), \na litosfera (rochas e solo) e a biosfera (seres vivos). Dentre \nas etapas desse ciclo biogeoquímico, a que corresponde à \nfixação de carbono é a",
+    "statement": "O ciclo biogeoquímico do carbono descreve a movimentação do carbono entre a atmosfera, a hidrosfera (oceanos), a litosfera (rochas e solo) e a biosfera (seres vivos). Dentre as etapas desse ciclo biogeoquímico, a que corresponde à fixação de carbono é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "atividade vulcânica.",
@@ -3185,15 +3450,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 75."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3215,37 +3479,17 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa uma pilha eletroquímica construída com \neletrodos de cobre e prata mergulhados em soluções 1,0 mol/L \nde íons Cu2+ e Ag+, respectivamente.\n\nOs potenciais padrão de redução dos seus componentes são:\n\nCu2+ (aq) + 2e–\n Cu (s)\nE0 = + 0,34 V\n\nAg+ (aq)\n+ 1e–\n Ag (s)\nE0 = + 0,80 V\n\nEm condições padrão, a ddp da pilha representada na figura é igual a . Nessa pilha, doa \nelétrons para o circuito externo e os íons são \nreduzidos no compartimento .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A figura representa uma pilha eletroquímica construída com eletrodos de cobre e prata mergulhados em soluções 1,0 mol/L de íons Cu2+ e $Ag^{+}$, respectivamente.\n\nOs potenciais padrão de redução dos seus componentes são:\n\nCu2+ (aq) + 2e– Cu (s) $E^{0}$ = + 0,34 V $Ag^{+}$ (aq) + 1e– Ag (s) $E^{0}$ = + 0,80 V\n\nEm condições padrão, a ddp da pilha representada na figura é igual a. Nessa pilha, doa elétrons para o circuito externo e os íons são reduzidos no compartimento. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q76-1.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q76-2.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q76-3.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q76-4.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q76-5.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-cg/q76-6.jpg",
-        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 23."
+        "src": "/images/uea/vestibular-2025-cg/q76-1.png",
+        "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3257,15 +3501,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 76."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3287,7 +3530,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O efeito estufa é um fenômeno natural em que certos gases \nda atmosfera retêm parte da radiação infravermelha emitida pela Terra, aquecendo a atmosfera. Esse processo é \nessencial para a manutenção da temperatura do planeta \nadequada à vida. No entanto, o aumento da emissão do \ngás , produzido por meio da queima de combustível fóssil, intensifica o efeito estufa e pode contribuir \npara o aquecimento global.\n\nA lacuna do texto é preenchida por:",
+    "statement": "O efeito estufa é um fenômeno natural em que certos gases da atmosfera retêm parte da radiação infravermelha emitida pela Terra, aquecendo a atmosfera. Esse processo é essencial para a manutenção da temperatura do planeta adequada à vida. No entanto, o aumento da emissão do gás, produzido por meio da queima de combustível fóssil, intensifica o efeito estufa e pode contribuir para o aquecimento global. A lacuna do texto é preenchida por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "CO",
@@ -3298,15 +3544,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 77."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3328,12 +3573,16 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As emissões radioativas naturais alfa, beta e gama apresentam características específicas e individuais que determinam, \nentre outras coisas, seu caráter ionizante da matéria e seu \npoder de penetração em determinados materiais. A figura \nmostra um comparativo entre as três emissões radioativas \nnaturais quando atingem o sistema biológico.\n\n(Theodore L. Brown et al. Chemistry: The Central Science, 2009. Adaptado.)\n\nConsiderando a composição das emissões alfa, beta e gama \ne suas energias, afirma-se que:",
+    "statement": "As emissões radioativas naturais alfa, beta e gama apresentam características específicas e individuais que determinam, entre outras coisas, seu caráter ionizante da matéria e seu poder de penetração em determinados materiais. A figura mostra um comparativo entre as três emissões radioativas naturais quando atingem o sistema biológico.\n\n(Theodore L. Brown et al. Chemistry: The Central Science, 2009. Adaptado.)\n\nConsiderando a composição das emissões alfa, beta e gama e suas energias, afirma-se que:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q78-1.jpg",
-        "alt": "Imagem de apoio da questão 78 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 24."
+        "src": "/images/uea/vestibular-2025-cg/q78-1.png",
+        "alt": "Imagem de apoio da questão 78 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3345,15 +3594,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 78."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3375,7 +3623,13 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A reação química entre as moléculas gasosas A2 e B2 que \nforma o gás AB está representada pela equação a seguir. \nA figura ilustra a colisão entre as moléculas dos reagentes \ndessa reação para a formação do produto.\n\nA2 (g) + B2 (g) \n AB (g)\n\nPara que a colisão entre as moléculas A2 e B2 seja efetiva, \né necessário que a energia da colisão seja à \nenergia para formação do complexo ativado. A energia \nrelacionada à formação do complexo ativado recebe o \nnome de .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A reação química entre as moléculas gasosas $A_{2}$ e $B_{2}$ que forma o gás AB está representada pela equação a seguir. A figura ilustra a colisão entre as moléculas dos reagentes dessa reação para a formação do produto.\n\n$A_{2}$ (g) + $B_{2}$ (g) AB (g)\n\nPara que a colisão entre as moléculas $A_{2}$ e $B_{2}$ seja efetiva, é necessário que a energia da colisão seja à energia para formação do complexo ativado. A energia relacionada à formação do complexo ativado recebe o nome de.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "maior ou igual – energia de ligação.",
@@ -3386,15 +3640,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 79."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 24,
@@ -3416,7 +3669,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Biocombustíveis representam uma alternativa aos combustíveis fósseis por serem gerados a partir de fontes biológicas, \nas quais podem ser replantadas ou regeneradas em curtos \nperíodos. Um biocombustível viável para a produção de energia em geradores é o",
+    "statement": "Biocombustíveis representam uma alternativa aos combustíveis fósseis por serem gerados a partir de fontes biológicas, as quais podem ser replantadas ou regeneradas em curtos períodos. Um biocombustível viável para a produção de energia em geradores é o",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "etanol, produzido a partir da fermentação da cana-de-açúcar ou do milho.",
@@ -3427,15 +3683,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 80."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 25,
@@ -3457,7 +3712,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A prevenção da cárie dentária é uma medida essencial de \nsaúde pública, pois contribui para a redução das doenças bucais e melhora a qualidade de vida da população. \nNo Brasil, uma lei federal de 1974 determina que as estações de tratamento de água adicionem à água potável um \ncomposto de determinada classe de substâncias químicas \ncapazes de fortalecer o esmalte dos dentes, ajudando a \nprevenir a cárie. Essas substâncias contêm o elemento",
+    "statement": "A prevenção da cárie dentária é uma medida essencial de saúde pública, pois contribui para a redução das doenças bucais e melhora a qualidade de vida da população. No Brasil, uma lei federal de 1974 determina que as estações de tratamento de água adicionem à água potável um composto de determinada classe de substâncias químicas capazes de fortalecer o esmalte dos dentes, ajudando a prevenir a cárie. Essas substâncias contêm o elemento",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "cloro.",
@@ -3468,15 +3726,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 81."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 25,
@@ -3498,7 +3755,11 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a fórmula estrutural de um composto orgânico obtido \nprincipalmente a partir de fontes animais, como carnes, \novos e laticínios, o qual desempenha um papel essencial na \nnutrição humana.\n\nA cadeia carbônica desse composto orgânico classifica-se \ncomo",
+    "statement": "Analise a fórmula estrutural de um composto orgânico obtido principalmente a partir de fontes animais, como carnes, ovos e laticínios, o qual desempenha um papel essencial na nutrição humana.\n\nA cadeia carbônica desse composto orgânico classifica-se como",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "normal, insaturada e aromática.",
@@ -3509,15 +3770,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 83."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 26,
@@ -3539,12 +3799,16 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A cientista Marie Curie foi pioneira nos estudos a respeito da \nradioatividade e recebeu dois prêmios Nobel por suas contribuições para a ciência.\n\n(https://sbradioterapia.com.br)\n\nUm dos elementos químicos descobertos por ela foi nomeado em homenagem ao seu país natal. Trata-se do elemento",
+    "statement": "A cientista Marie Curie foi pioneira nos estudos a respeito da radioatividade e recebeu dois prêmios Nobel por suas contribuições para a ciência.\n\n(https://sbradioterapia.com.br)\n\nUm dos elementos químicos descobertos por ela foi nomeado em homenagem ao seu país natal. Trata-se do elemento",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q84-1.jpg",
-        "alt": "Imagem de apoio da questão 84 (UEA Unificado — Conhecimentos Gerais, 2025).",
-        "caption": "Caderno original, p. 26."
+        "src": "/images/uea/vestibular-2025-cg/q84-1.png",
+        "alt": "Imagem de apoio da questão 84 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
     "alternatives": [
@@ -3556,15 +3820,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf, questão 84."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 26,
@@ -3586,12 +3849,19 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra uma célula bacteriana e seus componentes \nestruturais.\n\nPilus\n\nRibossomo\nCápsula\n\nFlagelo\n\nParede\ncelular\n\nNucleoide (DNA)\n\nMembrana\nplasmática\n\n(www.mundovestibular.com.br)\n\nTendo em vista os componentes estruturais indicados, a função principal",
+    "statement": "A figura ilustra uma célula bacteriana e seus componentes estruturais.\n\nPilus\n\nRibossomo\nCápsula Flagelo\nParede\ncelular\n\nNucleoide (DNA)\nMembrana\nplasmática\n\n(www.mundovestibular.com.br)\n\nTendo em vista os componentes estruturais indicados, a função principal",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2025-g1/q01-1.png",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -3603,15 +3873,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3634,7 +3903,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma região diversa em ecossistemas, uma população de \nlagartos foi separada por uma barreira natural. Após milhares de anos, os dois grupos passaram a viver em condições \nambientais diferentes, acumulando variações genéticas. \nConstatou-se que, mesmo se a barreira fosse removida, os \nindivíduos dos dois grupos não cruzariam entre si.\n\nEsse processo é um exemplo de",
+    "statement": "Em uma região diversa em ecossistemas, uma população de lagartos foi separada por uma barreira natural. Após milhares de anos, os dois grupos passaram a viver em condições ambientais diferentes, acumulando variações genéticas. Constatou-se que, mesmo se a barreira fosse removida, os indivíduos dos dois grupos não cruzariam entre si. Esse processo é um exemplo de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "variação fenotípica sem base genotípica.",
@@ -3645,15 +3917,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 02."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3676,7 +3947,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Durante uma visita a um museu de ciências, estudantes observaram réplicas de esqueletos de diferentes hominídeos. \nO guia do local explicou que uma das principais características que marcaram a evolução humana foi o desenvolvimento \nda locomoção bípede, ou seja, a capacidade de andar sobre \ndois pés.\n\nA bipedia",
+    "statement": "Durante uma visita a um museu de ciências, estudantes observaram réplicas de esqueletos de diferentes hominídeos. O guia do local explicou que uma das principais características que marcaram a evolução humana foi o desenvolvimento da locomoção bípede, ou seja, a capacidade de andar sobre dois pés. A bipedia",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tornou desnecessária a comunicação entre os indivíduos da população.",
@@ -3687,15 +3961,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 03."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3718,62 +3991,20 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Examine o esquema que ilustra, em um ecossistema, a energia do Sol captada pelas plantas e que, a partir delas, é transformada e transferida aos demais seres vivos por meio das \ncadeias alimentares.\n\nEnergia\ngasta\nEnergia captada\npelas plantas\n\nEnergia\ntransferida\nFluxo energético\n\n(http://educacao.globo.com)\n\nA matéria é transferida entre os organismos e o ambiente, \npassando por processos como alimentação, excreção e \ndecomposição.\n\nDe acordo com o comportamento da energia e da matéria ao \nlongo das cadeias alimentares, espera-se que",
+    "statement": "Examine o esquema que ilustra, em um ecossistema, a energia do Sol captada pelas plantas e que, a partir delas, é transformada e transferida aos demais seres vivos por meio das cadeias alimentares.\n\nEnergia gasta\n\nEnergia captada pelas plantas\n\nEnergia transferida\n\nFluxo energético\n\n(http://educacao.globo.com)\n\nA matéria é transferida entre os organismos e o ambiente, passando por processos como alimentação, excreção e decomposição. De acordo com o comportamento da energia e da matéria ao longo das cadeias alimentares, espera-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q04-1.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-2.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-3.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-4.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-5.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-6.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-7.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-8.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-9.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-10.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q04-11.jpg",
-        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2025-g1/q04-1.png",
+        "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -3785,15 +4016,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 04."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 3,
@@ -3816,7 +4046,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Alguns projetos voltados à proteção ambiental e à sustentabilidade foram apresentados em um seminário de ecologia. \nForam propostas ações como o reflorestamento de áreas \ndegradadas; a utilização de energia renovável nas escolas e \na criação de unidades de proteção.\n\nCom base nas ações propostas no seminário de ecologia, \numa prática sustentável é",
+    "statement": "Alguns projetos voltados à proteção ambiental e à sustentabilidade foram apresentados em um seminário de ecologia. Foram propostas ações como o reflorestamento de áreas degradadas; a utilização de energia renovável nas escolas e a criação de unidades de proteção. Com base nas ações propostas no seminário de ecologia, uma prática sustentável é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a construção de vias de acesso em áreas de proteção.",
@@ -3827,15 +4060,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 05."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3858,7 +4090,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Ao investigar se a luz afeta o crescimento de plantas, estudantes observaram que, quando os vegetais eram colocados perto da janela, cresciam mais do que aqueles mantidos em locais escuros. A partir disso, formularam a seguinte \npergunta: “A intensidade da luz influencia o crescimento das \nplantas?”.\n\nPara responder a essa pergunta, os estudantes planejaram \num experimento em que plantas de mesma espécie foram \ncultivadas sob diferentes intensidades de luz.\n\nCom base no texto, os estudantes realizaram uma etapa do \nmétodo científico caracterizada por",
+    "statement": "Ao investigar se a luz afeta o crescimento de plantas, estudantes observaram que, quando os vegetais eram colocados perto da janela, cresciam mais do que aqueles mantidos em locais escuros. A partir disso, formularam a seguinte pergunta: “A intensidade da luz influencia o crescimento das plantas?”. Para responder a essa pergunta, os estudantes planejaram um experimento em que plantas de mesma espécie foram cultivadas sob diferentes intensidades de luz. Com base no texto, os estudantes realizaram uma etapa do método científico caracterizada por",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "escolher o solo mais fértil para garantir que todas as plantas cresçam homogeneamente.",
@@ -3869,15 +4104,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 06."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3900,7 +4134,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma região de floresta tropical, são encontrados indivíduos de macaco-prego (Sapajus macrocephalus) que \ninteragem entre si, compartilham recursos e ocupam a \nmesma área geográfica. Nessa mesma região, convivem \noutras espécies, como antas, bromélias, aves, serpentes, \ninvertebrados e microrganismos, formando um conjunto \ndiversificado de seres vivos.\n\nUm conceito ecológico abordado no excerto é",
+    "statement": "Em uma região de floresta tropical, são encontrados indivíduos de macaco-prego (Sapajus macrocephalus) que interagem entre si, compartilham recursos e ocupam a mesma área geográfica. Nessa mesma região, convivem outras espécies, como antas, bromélias, aves, serpentes, invertebrados e microrganismos, formando um conjunto diversificado de seres vivos. Um conceito ecológico abordado no excerto é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "população, pois os macacos-prego são seres da mesma espécie.",
@@ -3911,15 +4148,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 07."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3942,7 +4178,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma alimentação equilibrada fornece os nutrientes essenciais para o bom funcionamento do organismo, incluindo as \nvitaminas, que atuam em diferentes processos metabólicos. \nA carência ou o excesso dessas substâncias pode causar \nsérios distúrbios à saúde humana.\n\nEm uma dieta equilibrada nutricionalmente, as vitaminas possuem papel fundamental para o funcionamento do corpo humano. Dentre as principais vitaminas,",
+    "statement": "Uma alimentação equilibrada fornece os nutrientes essenciais para o bom funcionamento do organismo, incluindo as vitaminas, que atuam em diferentes processos metabólicos. A carência ou o excesso dessas substâncias pode causar sérios distúrbios à saúde humana. Em uma dieta equilibrada nutricionalmente, as vitaminas possuem papel fundamental para o funcionamento do corpo humano. Dentre as principais vitaminas,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a vitamina D é essencial para a coagulação sanguínea, e sua deficiência leva ao escorbuto.",
@@ -3953,15 +4192,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 08."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 4,
@@ -3984,12 +4222,19 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A sequência de imagens mostra o movimento peristáltico, \nprocesso responsável pelo transporte do bolo alimentar ao \nlongo do esôfago. Esse processo é fundamental para a digestão, pois garante que o alimento chegue ao estômago \nmesmo quando estamos deitados.\n\nÁrea de\ncontração\n\nEsôfago\n\nBolo\nalimentar\n\nÁrea de\nrelaxamento\n\nCamada\nmuscular\n\n(www.todamateria.com.br)\n\nCom relação ao processo ilustrado, tem-se que o movimento \nperistáltico",
+    "statement": "A sequência de imagens mostra o movimento peristáltico, processo responsável pelo transporte do bolo alimentar ao longo do esôfago. Esse processo é fundamental para a digestão, pois garante que o alimento chegue ao estômago mesmo quando estamos deitados.\n\ncontraçãoÁrea de Esôfago\n\nBolo alimentar\n\nCamada Área de muscular relaxamento\n\n(www.todamateria.com.br)\n\nCom relação ao processo ilustrado, tem-se que o movimento peristáltico",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q09-1.jpg",
-        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-g1/q09-1.png",
+        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -4001,15 +4246,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 09."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 5,
@@ -4032,7 +4276,10 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O genoma das células eucarióticas é composto por ácidos \nnucleicos que codificam, transmitem e expressam a informação genética, para determinação das características \nfenotípicas de um organismo.\n\nAs principais moléculas envolvidas nessas atividades são o \nDNA (ácido desoxirribonucleico) e o RNA (ácido ribonucleico), \nque apresentam diferenças importantes em sua estrutura.\n\nUma dessas diferenças é",
+    "statement": "O genoma das células eucarióticas é composto por ácidos nucleicos que codificam, transmitem e expressam a informação genética, para determinação das características fenotípicas de um organismo. As principais moléculas envolvidas nessas atividades são o DNA (ácido desoxirribonucleico) e o RNA (ácido ribonucleico), que apresentam diferenças importantes em sua estrutura. Uma dessas diferenças é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o DNA ser composto por duas fitas complementares e o RNA ser composto por uma fita simples.",
@@ -4043,15 +4290,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 10."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 5,
@@ -4074,12 +4320,17 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra algumas estruturas formadas durante o desenvolvimento embrionário humano. Durante esse período, \na placenta e o cordão umbilical desempenham papéis essenciais na manutenção da vida fetal.\n\nPlacenta\n\nCordão\numbilical\n\nÚtero\n\n(https://onlinelibrary.wiley.com. Adaptado.)\n\nPara que o feto se desenvolva de forma saudável, é necessário que",
+    "statement": "A figura ilustra algumas estruturas formadas durante o desenvolvimento embrionário humano. Durante esse período, a placenta e o cordão umbilical desempenham papéis essenciais na manutenção da vida fetal.\n\nPlacenta\nCordão\numbilical\nÚtero\n\n(https://onlinelibrary.wiley.com. Adaptado.)\n\nPara que o feto se desenvolva de forma saudável, é necessário que",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q11-1.jpg",
-        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-g1/q11-1.png",
+        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -4091,15 +4342,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 11."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 5,
@@ -4122,7 +4372,12 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O heredograma representa um casal com quatro filhos. Considere que cada filho possui um fenótipo sanguíneo diferente: um \ndo grupo A, um do grupo B, um do grupo AB e um do grupo O.\n\nA\nB\nAB\nO\n\nO sistema ABO de grupos sanguíneos é determinado por \num único gene com três alelos: IA, IB e i. Os alelos IA e IB são \ncodominantes entre si e dominantes sobre o alelo i, que é \nrecessivo.\n\nCom base nessas informações, qual é o único par de genótipos parentais que pode resultar nessa distribuição completa \nde fenótipos entre os filhos?",
+    "statement": "O heredograma representa um casal com quatro filhos. Considere que cada filho possui um fenótipo sanguíneo diferente: um do grupo A, um do grupo B, um do grupo AB e um do grupo O.\n\nA B AB O\n\nO sistema ABO de grupos sanguíneos é determinado por um único gene com três alelos: IA, IB e i. Os alelos IA e IB são codominantes entre si e dominantes sobre o alelo i, que é recessivo. Com base nessas informações, qual é o único par de genótipos parentais que pode resultar nessa distribuição completa de fenótipos entre os filhos?",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "IAIB × IAIB",
@@ -4133,15 +4388,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4164,7 +4418,14 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A formação do elemento oxigênio no universo é explicada \npela teoria do Big Bang e pelo processo de nucleossíntese \nestelar. No interior de estrelas massivas, o oxigênio se forma \nprincipalmente por meio de reações nucleares entre núcleos \ndos elementos carbono-12 (12C) e hélio-4 (4He), conforme a \nreação nuclear equacionada a seguir.\n\n12C + 4He \n16O + emissão radioativa \n6\n2\n8\n\nNesse processo, o elemento oxigênio resulta de uma reação \nde nuclear que tem como produto, além do \noxigênio, , que não tem massa.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A formação do elemento oxigênio no universo é explicada pela teoria do Big Bang e pelo processo de nucleossíntese estelar. No interior de estrelas massivas, o oxigênio se forma principalmente por meio de reações nucleares entre núcleos\n\n12 4He), conforme a\n\nreação nuclear equacionada a seguir.\n\n$12_{6}$ $2^{4}$ 8O + emissão radioativa\n\nNesse processo, o elemento oxigênio resulta de uma reação de nuclear que tem como produto, além do oxigênio,, que não tem massa. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fissão – a radiação gama.",
@@ -4175,15 +4436,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4206,7 +4466,15 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As interações intermoleculares podem ocorrer entre estruturas presentes em uma mesma molécula e desempenham \npapel fundamental em muitas macromoléculas. Na celulose, \nprincipal componente das paredes celulares vegetais, as interações intermoleculares são responsáveis por conferir rigidez \ne estabilidade mecânica aos tecidos vegetais, permitindo, por \nexemplo, que árvores gigantescas da Floresta Amazônica, \nque atingem 70 metros de altura, como as samaúmas (Ceiba \npentandra), sustentem seus próprios pesos e resistam a ventos e intempéries. A figura representa uma fração da molécula de celulose, em que as interações intermoleculares estão \nrepresentadas por linhas hachuradas.\n\nH\nH\n\nH\n\nH\nH\n\nO\n\nCH2\n\nH\n\nO\nO\n\nH\n\nO\n\nH\n\nO\n\nO\n\nO\n\nO\nO\nH\n\nH\n\nO\n\nH\n\nH\n\nO\n\nCH2\n\nH\nH\n\nH\n\nH\n\n(Ígor A. N. Donini. “Biossíntese e recentes avanços na produção de\n\ncelulose bacteriana”. Eclética Química, no 4, 2010.)\n\nAs interações intermoleculares representadas por linhas \nhachuradas na fórmula estrutural da molécula de celulose \ncorrespondem a",
+    "statement": "As interações intermoleculares podem ocorrer entre estruturas presentes em uma mesma molécula e desempenham papel fundamental em muitas macromoléculas. Na celulose, principal componente das paredes celulares vegetais, as interações intermoleculares são responsáveis por conferir rigidez e estabilidade mecânica aos tecidos vegetais, permitindo, por exemplo, que árvores gigantescas da Floresta Amazônica, que atingem 70 metros de altura, como as samaúmas (Ceiba pentandra), sustentem seus próprios pesos e resistam a ventos e intempéries. A figura representa uma fração da molécula de celulose, em que as interações intermoleculares estão representadas por linhas hachuradas.\n\nH H H H\n\nH O H O H O $CH_{2}$ H O\n$\\frac{O}{H}$ O $CH_{2}$ H O HO O H O H $\\frac{O}{H}$\nH H\n\n(Ígor A. N. Donini. “Biossíntese e recentes avanços na produção de\n\ncelulose bacteriana”. Eclética Química, $n^{o}$4, 2010.)\n\nAs interações intermoleculares representadas por linhas hachuradas na fórmula estrutural da molécula de celulose correspondem a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "interações dipolo induzido-dipolo induzido.",
@@ -4217,15 +4485,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4248,7 +4515,12 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Um estudo realizado por uma organização não governamental apontou que, em áreas de garimpo ilegal de ouro, \nas águas de quatro bacias da Amazônia apresentam grande \nrisco de contaminação por um certo metal pesado. As concentrações desse metal seriam mais baixas nas cabeceiras \ndos rios e aumentariam ao longo do curso dos rios, pois esse \nmetal se acumula na cadeia alimentar, especialmente em \npeixes consumidos pela população local.\n\n(https://agenciabrasil.ebc.com.br, 31.10.2024. Adaptado.)\n\nO metal pesado mencionado no excerto é representado pelo \nseguinte símbolo químico:",
+    "statement": "Um estudo realizado por uma organização não governamental apontou que, em áreas de garimpo ilegal de ouro, as águas de quatro bacias da Amazônia apresentam grande risco de contaminação por um certo metal pesado. As concentrações desse metal seriam mais baixas nas cabeceiras dos rios e aumentariam ao longo do curso dos rios, pois esse metal se acumula na cadeia alimentar, especialmente em peixes consumidos pela população local.\n\n(https://agenciabrasil.ebc.com.br, 31.10.2024. Adaptado.)\n\nO metal pesado mencionado no excerto é representado pelo seguinte símbolo químico:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Mo.",
@@ -4259,15 +4531,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 15."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 6,
@@ -4290,7 +4561,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As estações de tratamento de água captam a água de \nmananciais e, utilizando reagentes químicos, realizam as \ndiversas etapas de tratamento necessárias para tornar a \nágua potável. Em uma das etapas iniciais, é feita a floculação das partículas de sujeira, que são sedimentadas \ne separadas por decantação. Em uma das etapas finais, \nadiciona-se um agente desinfetante para que a água seja \ndistribuída à população sem contaminação de bactérias e \nvírus.\n\nAs substâncias químicas que são comumente empregadas \npara que seja feita a floculação e para que ocorra a desinfecção da água são representadas, respectivamente, pelas \nfórmulas:",
+    "statement": "As estações de tratamento de água captam a água de mananciais e, utilizando reagentes químicos, realizam as diversas etapas de tratamento necessárias para tornar a água potável. Em uma das etapas iniciais, é feita a floculação das partículas de sujeira, que são sedimentadas e separadas por decantação. Em uma das etapas finais, adiciona-se um agente desinfetante para que a água seja distribuída à população sem contaminação de bactérias e vírus. As substâncias químicas que são comumente empregadas para que seja feita a floculação e para que ocorra a desinfecção da água são representadas, respectivamente, pelas fórmulas:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "CaO e H2SO4",
@@ -4301,15 +4575,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4332,7 +4605,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No século XIX, o químico russo Dmitri Mendeleev organizou em \numa tabela os elementos químicos conhecidos naquela época, de maneira a permitir, inclusive, a previsão da existência \nde elementos ainda desconhecidos. Inicialmente, Mendeleev \norganizou os elementos em ordem crescente de massa, mas, \nà medida que os conhecimentos nas áreas de química e física \navançaram, essa organização foi ajustada, até chegar à formatação que, hoje, é conhecida como Classificação Periódica dos \nElementos Químicos.\n\nDe acordo com as ideias de Mendeleev, que prevalecem até \nos dias atuais, os elementos de um mesmo grupo da Classificação Periódica",
+    "statement": "No século XIX, o químico russo Dmitri Mendeleev organizou em uma tabela os elementos químicos conhecidos naquela época, de maneira a permitir, inclusive, a previsão da existência de elementos ainda desconhecidos. Inicialmente, Mendeleev organizou os elementos em ordem crescente de massa, mas, à medida que os conhecimentos nas áreas de química e física avançaram, essa organização foi ajustada, até chegar à formatação que, hoje, é conhecida como Classificação Periódica dos Elementos Químicos. De acordo com as ideias de Mendeleev, que prevalecem até os dias atuais, os elementos de um mesmo grupo da Classificação Periódica",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "apresentam o mesmo número de nêutrons.",
@@ -4343,15 +4619,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4374,7 +4649,13 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O metano (CH4), principal componente do gás natural, é utilizado como combustível em geradores de energia elétrica \ninstalados em localidades remotas, onde não há acesso à \nrede elétrica convencional. A reação da combustão completa \ndo metano é representada na equação a seguir.\n\nCH4 (g) + O2 (g) \n CO2 (g) + H2O (l)\n\nPara a reação de combustão completa de 2 mol de gás metano, há o consumo de de gás oxigênio, o que resulta \nna formação de de produtos no total.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "O metano (CHlizado como combustível em geradores de energia elétrica₄), principal componente do gás natural, é uti-\n\ninstalados em localidades remotas, onde não há acesso à rede elétrica convencional. A reação da combustão completa do metano é representada na equação a seguir.\n\n$CH_{4}$(g) + $O_{2}$(g) $CO_{2}$(g) + $H_{2}$O (l)\n\nPara a reação de combustão completa de 2 mol de gás metano, há o consumo de de gás oxigênio, o que resulta na formação de de produtos no total. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4 mol – 6 mol.",
@@ -4385,15 +4666,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 18."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4416,172 +4696,20 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma aula de química, para estudar os fatores que influenciam a rapidez da reação, foram preparados cinco experimentos, 1, 2, 3, 4, 5, contendo uma mistura de carbonato \nde cálcio sólido (CaCO3) e solução de ácido clorídrico (HCl), \nconforme ilustrado nas figuras e descrito na tabela a seguir.\n\n1\n2\n3\n4\n5\n\nCondições experimentais\n\nExperimento\n\nCaCO3\n\n5g\nHCl\n100 mL\nTemperatura\n\n1\nPulverizado \n1,0 mol/L\n65 ºC\n\n2\nPulverizado\n1,0 mol/L\n5 ºC\n\n3\nComprimido \n1,0 mol/L\n5 ºC\n\n4\nPulverizado\n0,5 mol/L\n25 ºC\n\n5\nComprimido\n0,5 mol/L\n25 ºC\n\nFoi monitorado o tempo necessário para a reação completa do \ncarbonato de cálcio, que ocorreu de acordo com a equação:\n\nCaCO3 (s) + 2HCl (aq) \n CaCl2 (aq) + CO2 (g) + H2O (l)\n\nO experimento em que a massa de carbonato de cálcio \nreagiu completamente no menor intervalo de tempo corresponde ao número",
+    "statement": "Em uma aula de química, para estudar os fatores que influenciam a rapidez da reação, foram preparados cinco experimentos, 1, 2, 3, 4, 5, contendo uma mistura de carbonato\n\nconforme ilustrado nas figuras e descrito na tabela a seguir.de cálcio sólido ($CaCO_{3}$) e solução de ácido clorídrico (HCl),\n\n1 2 3 4 5\n\nCondições experimentais\n\nExperimento $CaCO5g_{3}$ 100 mLHCl Temperatura\n\n1 Pulverizado 1,0 mol/L 65 ºC 2 Pulverizado 1,0 mol/L 5 ºC 3 Comprimido 1,0 mol/L 5 ºC 4 Pulverizado 0,5 mol/L 25 ºC 5 Comprimido 0,5 mol/L 25 ºC Foi monitorado o tempo necessário para a reação completa do carbonato de cálcio, que ocorreu de acordo com a equação:\n\n$CaCO_{3}$(s) + 2HCl (aq) $CaCl_{2}$(aq) + $CO_{2}$(g) + $H_{2}$O (l) O experimento em que a massa de carbonato de cálcio reagiu completamente no menor intervalo de tempo corresponde ao número",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q19-1.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-2.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-3.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-4.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-5.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-6.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-7.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-8.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-9.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-10.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-11.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-12.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-13.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-14.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-15.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-16.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-17.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-18.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-19.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-20.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-21.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-22.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-23.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-24.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-25.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-26.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-27.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-28.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-29.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-30.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-31.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-32.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
-      },
-      {
-        "src": "/images/uea/vestibular-2025-g1/q19-33.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2025-g1/q19-1.png",
+        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -4593,15 +4721,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 19."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 7,
@@ -4624,7 +4751,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O metanol (CH3OH) pode ser obtido, em condições específicas, a partir da reação do gás metano (CH4) com vapor de \nágua (H2O), de acordo equação a seguir:\n\nCH4 (g) + H2O (g) → CH3OH (l) + H2 (g) \nΔHº = +78 kJ/mol\n\nConsiderando que 1 caloria equivale a aproximadamente 4 J, \na quantidade de calor, em calorias, envolvido na formação de \n2 mol de metanol é, aproximadamente,",
+    "statement": "água (Hficas, a partir da reação do gás metano (CHO metanol ($CH_{2}$ 3 4) com vapor de $CH_{4}$(g) + $H_{2}$O (g) → $CH_{3}$OH (l) + $H_{2}$(g) ΔHº = +78 kJ/mol Considerando que 1 caloria equivale a aproximadamente 4 J, a quantidade de calor, em calorias, envolvido na formação de 2 mol de metanol é, aproximadamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4 × 103 cal.",
@@ -4635,15 +4765,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4666,7 +4795,19 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O hidrogênio verde é uma fonte energética considerada \nsustentável, pois é obtido a partir da eletrólise da água, \nutilizando-se a eletricidade proveniente de fontes renováveis, como a energia eólica. O equipamento usado para a \neletrólise é o eletrolisador, que converte energia elétrica \nem energia química. O esquema de um eletrolisador é \nmostrado na figura.\n\n+ Ânodo\nCátodo –\n\n1 O2\n2\n\nH2\nO2–\n\nH2O\n\nÂnodo\n\nCátodo\n\nEletrólito\n\n1 O2 + 2e–\n\nO2–\n\nÂnodo\n\nH2O + 2e–\nH2 + O2–\n\nCátodo\n\n(S. Shiva Kumar e V. Himabindu. “Hydrogen production by PEM water \nelectrolysis”. Materials Science for Energy Technologies, no 3, 2019.\n\nAdaptado.)\n\nNa produção de hidrogênio verde em um eletrolisador alimentado por energia eólica,",
+    "statement": "O hidrogênio verde é uma fonte energética considerada sustentável, pois é obtido a partir da eletrólise da água, utilizando-se a eletricidade proveniente de fontes renováveis, como a energia eólica. O equipamento usado para a eletrólise é o eletrolisador, que converte energia elétrica em energia química. O esquema de um eletrolisador é mostrado na figura.\n\nCátodo – + Ânodo\n\n$H_{2}$ O2– 1 $O2_{2}$\n\n$H_{2}$O\n\nCátodo Ânodo\n\nEletrólito\n\nÂnodo O2– 1 $O2_{2}$ + 2e–\nCátodo $H_{2}$O + 2e– $H_{2}$ + O2–\n\n(S. Shiva Kumar e V. Himabindu. “Hydrogen production by PEM water electrolysis”. Materials Science for Energy Technologies, $n^{o}$ 3, 2019.\n\nAdaptado.)\n\nNa produção de hidrogênio verde em um eletrolisador alimentado por energia eólica,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a energia elétrica obtida do vento oxida a água no compartimento catódico.",
@@ -4677,15 +4818,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4708,7 +4848,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Um dos acidentes ambientais considerados mais graves é \no vazamento de petróleo em mares e rios, pois essa ocorrência afeta diretamente a vida aquática e os ecossistemas \ncosteiros. Devido a importantes diferenças entre os aspectos \nfísico-químicos da água e do petróleo, como a polaridade e a \ndensidade, o vazamento de petróleo em ambiente oceânico \ntraz problemas característicos dessas diferenças, como a",
+    "statement": "Um dos acidentes ambientais considerados mais graves é o vazamento de petróleo em mares e rios, pois essa ocorrência afeta diretamente a vida aquática e os ecossistemas costeiros. Devido a importantes diferenças entre os aspectos físico-químicos da água e do petróleo, como a polaridade e a densidade, o vazamento de petróleo em ambiente oceânico traz problemas característicos dessas diferenças, como a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ocorrência de reações químicas entre petróleo e água, elevando a temperatura e o pH da água.",
@@ -4719,15 +4862,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 22."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4750,7 +4892,10 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Os plásticos são materiais amplamente utilizados na vida diária \ne pertencem ao grupo dos polímeros, macromoléculas formadas por unidades repetitivas chamadas monômeros. Um dos \npolímeros mais presentes no cotidiano é o polietileno, usado \nem sacolas plásticas e embalagens.\n\nEssa macromolécula caracteriza-se como",
+    "statement": "Os plásticos são materiais amplamente utilizados na vida diária e pertencem ao grupo dos polímeros, macromoléculas formadas por unidades repetitivas chamadas monômeros. Um dos polímeros mais presentes no cotidiano é o polietileno, usado em sacolas plásticas e embalagens. Essa macromolécula caracteriza-se como",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um polímero de adição, formado pela reação de adição entre moléculas insaturadas.",
@@ -4761,15 +4906,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4792,7 +4936,14 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise a fórmula estrutural da molécula de um princípio ativo \nempregado em medicamentos analgésicos e anti-inflamatórios.\n\nO\n\nN\nOH\n\nO\n\nNessa molécula estão presentes os grupos funcionais oxigenados característicos das funções orgânicas",
+    "statement": "Analise a fórmula estrutural da molécula de um princípio ativo empregado em medicamentos analgésicos e anti-inflamatórios.\n\nO\n\nN OH\n\nO\n\nNessa molécula estão presentes os grupos funcionais oxigenados característicos das funções orgânicas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "cetona e álcool.",
@@ -4803,15 +4954,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 24."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 8,
@@ -4834,12 +4984,15 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” \nrepresenta",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” representa",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2025-g1/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -4851,15 +5004,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4882,12 +5034,15 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a \ntirinha propor uma reflexão sobre",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a tirinha propor uma reflexão sobre",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo I, 2025).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2025-g1/q25-1.png",
+        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
     "alternatives": [
@@ -4899,15 +5054,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 26."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4930,7 +5084,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Uma característica do personagem Policarpo Quaresma \nque o acompanha ao longo de todo o romance e que está \npresente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela pátria.",
@@ -4941,15 +5110,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 27."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 9,
@@ -4972,7 +5140,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O narrador do romance manifesta-se ironicamente, em tom \njocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7o parágrafo).",
@@ -4983,15 +5166,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 28."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -5014,7 +5196,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No contexto em que está inserido, o trecho sublinhado \nexpressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“E o jantar correu assim, nesse tom” (5o parágrafo).",
@@ -5025,15 +5222,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -5056,7 +5252,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4o parágrafo)\n\nMantendo a correção gramatical e o sentido original do texto, \na palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "bem.",
@@ -5067,15 +5278,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 30."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -5098,7 +5308,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“e foi como se todo ele bebesse o licor nacional” (1o parágrafo)\n\nNessa frase, o verbo sublinhado tem um objeto direto — “o \nlicor nacional” —, isto é, o verbo tem um complemento e é \nligado a ele diretamente, sem a presença de uma preposição.\n\nO verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“E o jantar correu assim, nesse tom” (5o parágrafo)",
@@ -5109,15 +5334,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 31."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -5140,7 +5364,13 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio \nSouza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua \nironia que chamava aquilo de bairro. Em dez anos, aquelas \ncolinas suaves cortadas por um igarapé viram desaparecer \nos buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às \nadesões provocadas pela iniciativa particular dos ribeirinhos \nque chegavam com a anual subida das águas. O conjunto \nhabitacional nunca ficaria pronto, e era um inferno de calor \ne poeira ao meio-dia, uma geladeira tropical de umidade e \nbruma durante a noite. Nada mais restava da antiga mata e \no deserto estendia-se pelo lado das casas dos ribeirinhos. \nNos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma \npaisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no \ninício do trecho, colabora no conto para estabelecer",
+    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio Souza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua ironia que chamava aquilo de bairro. Em dez anos, aquelas colinas suaves cortadas por um igarapé viram desaparecer os buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às adesões provocadas pela iniciativa particular dos ribeirinhos que chegavam com a anual subida das águas. O conjunto habitacional nunca ficaria pronto, e era um inferno de calor e poeira ao meio-dia, uma geladeira tropical de umidade e bruma durante a noite. Nada mais restava da antiga mata e o deserto estendia-se pelo lado das casas dos ribeirinhos. Nos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma paisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no início do trecho, colabora no conto para estabelecer",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um posicionamento favorável à integração dos povos originários ao espaço urbano da cidade de Manaus.",
@@ -5151,15 +5381,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 32."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 10,
@@ -5182,7 +5411,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa\nparecimento de grande quantia de dinheiro das lojas era:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa parecimento de grande quantia de dinheiro das lojas era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o administrador das lojas tinha errado nas contas ao somar o dinheiro.",
@@ -5193,15 +5433,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -5224,7 +5463,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2o parágrafo) era que as \nlojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tinham uma estrutura organizacional precária.",
@@ -5235,15 +5485,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 34."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -5266,7 +5515,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3o parágrafo)\n\nAo se transpor a oração centrada no verbo sublinhado para a \nvoz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "assumir.",
@@ -5277,15 +5537,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -5308,7 +5567,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3o parágrafo)\n\nSuponha que o trecho sublinhado seja substituído por “era \ndestinada a tarefa de levar o dinheiro ao banco”. Para manter \na correção gramatical, na nova frase a palavra “cujo” deve ser \nsubstituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "de quem.",
@@ -5319,15 +5589,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf, questão 36."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo1_prova.pdf",
     "sourcePage": 11,
@@ -5350,7 +5619,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Péricles afirmava que a pobreza não impedia um homem \ncapaz de prestar serviço à cidade, de dedicar-se a ela, ainda \nque apenas participando das decisões tomadas em comum. \nE, por outro lado, visto que a lei era a mesma para todos, \nessa igualdade era real para tudo o que se referisse às desavenças particulares: diante dos juízes do tribunal popular, os \nricos e os pobres gozavam dos mesmos direitos.\n\n(Claude Mossé. Péricles: o inventor da democracia, 2008. Adaptado.)\n\nUma das características da democracia ateniense do século V a.C. destacada no excerto é a",
+    "statement": "Péricles afirmava que a pobreza não impedia um homem capaz de prestar serviço à cidade, de dedicar-se a ela, ainda que apenas participando das decisões tomadas em comum. E, por outro lado, visto que a lei era a mesma para todos, essa igualdade era real para tudo o que se referisse às desavenças particulares: diante dos juízes do tribunal popular, os ricos e os pobres gozavam dos mesmos direitos.\n\n(Claude Mossé. Péricles: o inventor da democracia, 2008. Adaptado.)\n\nUma das características da democracia ateniense do século V a.C. destacada no excerto é a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "alternância de magistrados nas funções públicas da cidade.",
@@ -5361,15 +5635,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 01."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5392,7 +5665,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "[...] as condições adequadas estavam visivelmente \npresentes na Grã-Bretanha, onde mais de um século se \npassara desde que o primeiro rei tinha sido formalmente \njulgado e executado pelo povo e desde que o lucro privado \ne o desenvolvimento econômico tinham sido aceitos como \nos supremos objetivos da política governamental. A solução \nbritânica do problema agrário [...] já tinha sido encontrada \nna prática. Uma relativa quantidade de proprietários com \nespírito comercial já quase monopolizava a terra, que era \ncultivada por arrendatários empregando camponeses sem \nterra ou pequenos agricultores.\n\n(Eric J. Hobsbawm. A era das revoluções: Europa 1789-1848, 1988.)\n\nO excerto enfatiza as seguintes razões do pioneirismo britânico na Revolução Industrial:",
+    "statement": "[...] as condições adequadas estavam visivelmente presentes na Grã-Bretanha, onde mais de um século se passara desde que o primeiro rei tinha sido formalmente julgado e executado pelo povo e desde que o lucro privado e o desenvolvimento econômico tinham sido aceitos como os supremos objetivos da política governamental. A solução britânica do problema agrário [...] já tinha sido encontrada na prática. Uma relativa quantidade de proprietários com espírito comercial já quase monopolizava a terra, que era cultivada por arrendatários empregando camponeses sem terra ou pequenos agricultores.\n\n(Eric J. Hobsbawm. A era das revoluções: Europa 1789-1848, 1988.)\n\nO excerto enfatiza as seguintes razões do pioneirismo britânico na Revolução Industrial:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o apoio governamental à burguesia local e os cercamentos das terras comuns.",
@@ -5403,15 +5681,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 02."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5434,7 +5711,10 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "As invasões holandesas no Brasil colônia ocorreram no \nséculo XVII. Em 1630, os holandeses conquistaram a \ncapitania de Pernambuco, grande produtora mundial de \naçúcar. Aí ficaram até 1654, quando foram expulsos por \num movimento de resistência que uniu luso-brasileiros, \nnegros e indígenas locais. Para o Brasil, uma das consequências da expulsão dos holandeses foi",
+    "statement": "As invasões holandesas no Brasil colônia ocorreram no século XVII. Em 1630, os holandeses conquistaram a capitania de Pernambuco, grande produtora mundial de açúcar. Aí ficaram até 1654, quando foram expulsos por um movimento de resistência que uniu luso-brasileiros, negros e indígenas locais. Para o Brasil, uma das consequências da expulsão dos holandeses foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a retomada do poder espanhol devido à restauração da União Ibérica após o fim do conflito com os holandeses.",
@@ -5445,15 +5725,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 03."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5476,7 +5755,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Sucessor do Colonialismo dos reis, mercadores, traficantes de escravos, plantadores tropicais e mineradores, o \nImperialismo do século XIX visou a atender interesses da \nburguesia industrial e financeira [...].\n\n(Adhemar Martins Marques e Luiz Roberto Lopez.\n\nImperialismo: a expansão do capitalismo, 2000.)\n\nOs interesses econômicos da burguesia industrial e financeira \nestavam ligados",
+    "statement": "Sucessor do Colonialismo dos reis, mercadores, traficantes de escravos, plantadores tropicais e mineradores, o Imperialismo do século XIX visou a atender interesses da burguesia industrial e financeira [...].\n\n(Adhemar Martins Marques e Luiz Roberto Lopez. Imperialismo: a expansão do capitalismo, 2000.)\n\nOs interesses econômicos da burguesia industrial e financeira estavam ligados",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à consolidação de uma balança comercial favorável e à prática do metalismo.",
@@ -5487,15 +5771,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 2,
@@ -5518,12 +5801,16 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine a fotografia do Memorial Coluna Prestes, em Palmas \n(Tocantins), criado pelo arquiteto Oscar Niemeyer em homenagem ao movimento tenentista da década de 1920.\n\n(https://portalamazonia.com)\n\nO conjunto arquitetônico dialoga com os movimentos modernista e tenentista iniciados em 1922, que, no contexto da Primeira República,",
+    "statement": "Examine a fotografia do Memorial Coluna Prestes, em Palmas (Tocantins), criado pelo arquiteto Oscar Niemeyer em homenagem ao movimento tenentista da década de 1920.\n\n(https://portalamazonia.com)\n\nO conjunto arquitetônico dialoga com os movimentos modernista e tenentista iniciados em 1922, que, no contexto da Primeira República,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q05-1.jpg",
-        "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2025-g2/q05-1.png",
+        "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -5535,15 +5822,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 05."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 3,
@@ -5566,7 +5852,14 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O preconceito racial criou nos americanos uma atitude \nambivalente para com a Espanha. Os peninsulares (espanhóis) eram sem dúvida brancos puros, mesmo que fossem \nimigrantes pobres. Os americanos eram mais ou menos brancos e mesmo os mais ricos tinham consciência da mistura de \nraças e estavam ansiosos para provar que eram brancos, se \nnecessário por ação judicial. Mas o fator raça se tornou mais \ncomplexo devido a interesses sociais, econômicos e culturais, \ne a supremacia branca não era incontestável; para além de \nsuas defesas havia uma massa de índios, mestiços, negros \nlivres, mulatos e escravos.\n\n(John Lynch. “As origens da independência da América espanhola”.\n\nIn: Leslie Bethell (org.). História da América Latina:\n\nda independência a 1870, 2004. Adaptado.)\n\nDe acordo com o excerto, a sociedade colonial, na América \nespanhola,",
+    "statement": "O preconceito racial criou nos americanos uma atitude ambivalente para com a Espanha. Os peninsulares (espanhóis) eram sem dúvida brancos puros, mesmo que fossem imigrantes pobres. Os americanos eram mais ou menos brancos e mesmo os mais ricos tinham consciência da mistura de raças e estavam ansiosos para provar que eram brancos, se necessário por ação judicial. Mas o fator raça se tornou mais complexo devido a interesses sociais, econômicos e culturais, e a supremacia branca não era incontestável; para além de suas defesas havia uma massa de índios, mestiços, negros livres, mulatos e escravos.\n\n(John Lynch. “As origens da independência da América espanhola”.\n\nIn: Leslie Bethell (org.). História da América Latina:\n\nda independência a 1870, 2004. Adaptado.)\n\nDe acordo com o excerto, a sociedade colonial, na América espanhola,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "caracterizava-se por distinções puramente biológicas, que eram dissociadas de causas sociais, econômicas ou culturais.",
@@ -5577,15 +5870,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 3,
@@ -5608,7 +5900,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Novos estudos sobre os governos denominados populistas permitem afirmar que um traço comum os caracteriza: \na introdução de uma nova cultura política baseada no papel \ninterventor do Estado nas relações sociais. Esse papel representou, ao mesmo tempo, atendimento de reivindicações de \nnatureza social (melhoria salarial, legislação trabalhista, reforma agrária, especificamente no caso mexicano) e política \n(uma cidadania baseada no reconhecimento do trabalhador \ncomo sujeito da história). [...] Por outro lado, apesar de se \nvoltarem para os interesses das classes populares, não pode \nse perder de vista o caráter centralizador e controlador dessas \npolíticas, que introduziram uma estrutura institucional de natureza autoritária, utilizada posteriormente como mecanismo de \ncontrole social e político.\n\n(José Alves de Freitas Neto. “Populismos e democracias”.\n\nwww.unicamp.br, 29.11. 2017.)\n\nDe acordo com o excerto, o populismo",
+    "statement": "Novos estudos sobre os governos denominados populistas permitem afirmar que um traço comum os caracteriza: a introdução de uma nova cultura política baseada no papel interventor do Estado nas relações sociais. Esse papel representou, ao mesmo tempo, atendimento de reivindicações de natureza social (melhoria salarial, legislação trabalhista, reforma agrária, especificamente no caso mexicano) e política (uma cidadania baseada no reconhecimento do trabalhador como sujeito da história). [...] Por outro lado, apesar de se voltarem para os interesses das classes populares, não pode se perder de vista o caráter centralizador e controlador dessas políticas, que introduziram uma estrutura institucional de natureza autoritária, utilizada posteriormente como mecanismo de controle social e político.\n\n(José Alves de Freitas Neto. “Populismos e democracias”.\n\nwww.unicamp.br, 29.11. 2017.)\n\nDe acordo com o excerto, o populismo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "amplia a autonomia das instituições sociais e políticas do país, mas valoriza a figura de líderes carismáticos e populares.",
@@ -5619,15 +5917,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 07."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5650,7 +5947,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Foi, com efeito, em contato com os colonizadores que \nos povos da Ásia e da África se descobriram diferentes e \ntomaram consciência de tudo o que os diferenciava dos europeus: diferença nas condições materiais de vida, diferença \nde cultura, enfim, diferença nas experiências históricas. A \ndescolonização não deixa, pois, de ser o choque de valores \ndo Ocidente na Ásia e na África — valores que atribuíam preeminência à técnica e aos bens materiais — e a revolta da \nÁsia e da África contra o Ocidente que tentava arrancar-lhes \no que o tempo e a História lhes tinham ajudado a produzir \n[...].\n\n(Letícia Bicalho Canêdo. A descolonização da Ásia e da África, 1994.)\n\nSegundo o excerto, os processos de descolonização expressaram a luta dos povos africanos e asiáticos para preservar",
+    "statement": "Foi, com efeito, em contato com os colonizadores que os povos da Ásia e da África se descobriram diferentes e tomaram consciência de tudo o que os diferenciava dos europeus: diferença nas condições materiais de vida, diferença de cultura, enfim, diferença nas experiências históricas. A descolonização não deixa, pois, de ser o choque de valores do Ocidente na Ásia e na África — valores que atribuíam preeminência à técnica e aos bens materiais — e a revolta da Ásia e da África contra o Ocidente que tentava arrancar-lhes o que o tempo e a História lhes tinham ajudado a produzir [...].\n\n(Letícia Bicalho Canêdo. A descolonização da Ásia e da África, 1994.)\n\nSegundo o excerto, os processos de descolonização expressaram a luta dos povos africanos e asiáticos para preservar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a homogeneidade étnica.",
@@ -5661,15 +5963,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 08."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5692,7 +5993,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Guerra Fria é um conflito que veio a reboque da \nSegunda Guerra Mundial, mas cujos protagonistas, os \nEstados Unidos e a União Soviética, souberam contornar, \nantes que se tornasse uma terceira guerra mundial [...].\n\n(Marc Ferro. O século XX explicado aos meus filhos, 2008.)\n\nNo contexto histórico apresentado pelo excerto, os Estados \nUnidos e a União Soviética evitaram uma terceira guerra \nmundial por meio de uma combinação de",
+    "statement": "A Guerra Fria é um conflito que veio a reboque da Segunda Guerra Mundial, mas cujos protagonistas, os Estados Unidos e a União Soviética, souberam contornar, antes que se tornasse uma terceira guerra mundial [...].\n\n(Marc Ferro. O século XX explicado aos meus filhos, 2008.)\n\nNo contexto histórico apresentado pelo excerto, os Estados Unidos e a União Soviética evitaram uma terceira guerra mundial por meio de uma combinação de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "propaganda ideológica e cooperação na corrida espacial.",
@@ -5703,15 +6009,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 09."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5734,12 +6039,16 @@ export const uea2025Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge “O bolo precisa crescer para ser repartido”, \nde Marcella Araújo, cujo título remete a uma frase amplamente divulgada pelo regime militar no contexto do chamado \n“milagre econômico”.\n\n(https://rodabrasil.tumblr.com)\n\nNo contexto do regime militar, a charge",
+    "statement": "Analise a charge “O bolo precisa crescer para ser repartido”, de Marcella Araújo, cujo título remete a uma frase amplamente divulgada pelo regime militar no contexto do chamado “milagre econômico”.\n\n(https://rodabrasil.tumblr.com)\n\nNo contexto do regime militar, a charge",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q10-1.jpg",
-        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2025-g2/q10-1.png",
+        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -5751,15 +6060,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 10."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 4,
@@ -5782,7 +6090,14 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o trecho do artigo “Existe uma Crise da Democracia \nno Brasil?”, escrito pelo sociólogo Florestan Fernandes, em \n1954.\n\n[...] toda a argumentação desenrolada tenta mostrar que \num dos fatores que prejudicam o desenvolvimento da democracia no Brasil é a persistência de uma mentalidade política \narcaica, inadequada para promover ajustamentos dinâmicos \nnão só a situações que se alteram socialmente, mas que \nestão em fluxo contínuo no presente. A contribuição que a \neducação sistemática pode oferecer para alterar semelhante \nmentalidade exprime, naturalmente, as tarefas políticas que \nela pode preencher em uma esfera neutra.\n\n(apud: Enno D. Liedke Filho. “A Sociologia no Brasil: história, teorias e desa-\n\nfios”. Sociologias, no 14, 2005.)\n\nDe acordo com o sociólogo, “um dos fatores que prejudicam \no desenvolvimento da democracia no Brasil” é a",
+    "statement": "Analise o trecho do artigo “Existe uma Crise da Democracia no Brasil?”, escrito pelo sociólogo Florestan Fernandes, em 1954.\n\n[...] toda a argumentação desenrolada tenta mostrar que um dos fatores que prejudicam o desenvolvimento da democracia no Brasil é a persistência de uma mentalidade política arcaica, inadequada para promover ajustamentos dinâmicos não só a situações que se alteram socialmente, mas que estão em fluxo contínuo no presente. A contribuição que a educação sistemática pode oferecer para alterar semelhante mentalidade exprime, naturalmente, as tarefas políticas que ela pode preencher em uma esfera neutra.\n\n(apud: Enno D. Liedke Filho. “A Sociologia no Brasil: história, teorias e desa-\n\nfios”. Sociologias, $n^{o}$ 14, 2005.)\n\nDe acordo com o sociólogo, “um dos fatores que prejudicam o desenvolvimento da democracia no Brasil” é a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "extensão do ensino público às camadas mais pobres, responsável pelo desajuste entre sociedade e política no país.",
@@ -5793,15 +6108,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 11."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5824,7 +6138,12 @@ export const uea2025Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Constituição de 1988 adquiriu forte conotação democrática em consequência da participação popular durante a \nAssembleia Nacional Constituinte. Ela é muito expressiva no \nsentido de revelar a existência de um conflito, com as forças sociais tradicionalmente dominantes conseguindo ainda \nmanter controle sobre a definição constitucional da ordem \neconômica, mas tendo de aceitar que na mesma Constituição \nestejam declarados e protegidos os direitos dos indivíduos e \ndos grupos sociais que só recentemente conseguiram participação efetiva em decisões políticas.\n\n(Dalmo de Abreu Dallari. “Sociedade, Estado e direito: caminhada brasileira \nrumo ao século XXI”. In: Carlos Guilherme Mota (org.). Viagem incompleta. A\n\nexperiência brasileira (1500-2000): a grande transação, 2013. Adaptado.)\n\nDe acordo com o excerto, a Constituição brasileira de 1988 \nestabeleceu",
+    "statement": "A Constituição de 1988 adquiriu forte conotação democrática em consequência da participação popular durante a Assembleia Nacional Constituinte. Ela é muito expressiva no sentido de revelar a existência de um conflito, com as forças sociais tradicionalmente dominantes conseguindo ainda manter controle sobre a definição constitucional da ordem econômica, mas tendo de aceitar que na mesma Constituição estejam declarados e protegidos os direitos dos indivíduos e dos grupos sociais que só recentemente conseguiram participação efetiva em decisões políticas.\n\n(Dalmo de Abreu Dallari. “Sociedade, Estado e direito: caminhada brasileira rumo ao século XXI”. In: Carlos Guilherme Mota (org.). Viagem incompleta. A experiência brasileira (1500-2000): a grande transação, 2013. Adaptado.)\n\nDe acordo com o excerto, a Constituição brasileira de 1988 estabeleceu",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "soluções efetivas para o conflito de interesses entre as diferentes classes sociais.",
@@ -5835,15 +6154,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 12."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5866,12 +6184,16 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a representação cartográfica que apresenta os principais pontos turísticos do estado do Amazonas.\n\n(www.amazonastur.am.gov.br. Adaptado.)\n\nA representação cartográfica sobre os pontos turísticos do \nestado Amazonas é um tipo de mapa",
+    "statement": "Analise a representação cartográfica que apresenta os principais pontos turísticos do estado do Amazonas.\n\n(www.amazonastur.am.gov.br. Adaptado.)\n\nA representação cartográfica sobre os pontos turísticos do estado Amazonas é um tipo de mapa",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q13-1.jpg",
-        "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2025-g2/q13-1.png",
+        "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -5883,15 +6205,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 13."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 5,
@@ -5914,7 +6235,12 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O estado do Amazonas apresenta um conjunto de vulnerabilidades socioeconômicas que o posicionam entre as \nunidades federativas com os indicadores mais preocupantes \ndo país. Dados do Censo Demográfico de 2022, realizado \npelo Instituto Brasileiro de Geografia e Estatística (IBGE), \nevidenciam disparidades significativas em relação ao restante do território nacional, especialmente no que se refere à \nrenda domiciliar per capita, à informalidade nas relações de \ntrabalho e ao acesso a serviços públicos essenciais, como \nsaúde e educação. A realidade socioeconômica amazonense é agravada por uma expressiva taxa de informalidade no \nmercado de trabalho, que atinge mais de 58% da população \nocupada, e pela elevada dependência de políticas de transferência de renda, das quais aproximadamente um quarto da \npopulação é beneficiária.\n\n(Daniel Castro Ferreira. Revista FT, no 146, 2025. Adaptado.)\n\nConsiderando o contexto apresentado pelo excerto, uma \npolítica pública para amenizar a vulnerabilidade socioeconômica do estado do Amazonas seria, dentre outras,",
+    "statement": "O estado do Amazonas apresenta um conjunto de vulnerabilidades socioeconômicas que o posicionam entre as unidades federativas com os indicadores mais preocupantes do país. Dados do Censo Demográfico de 2022, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), evidenciam disparidades significativas em relação ao restante do território nacional, especialmente no que se refere à renda domiciliar per capita, à informalidade nas relações de trabalho e ao acesso a serviços públicos essenciais, como saúde e educação. A realidade socioeconômica amazonense é agravada por uma expressiva taxa de informalidade no mercado de trabalho, que atinge mais de 58% da população ocupada, e pela elevada dependência de políticas de transferência de renda, das quais aproximadamente um quarto da população é beneficiária.\n\n(Daniel Castro Ferreira. Revista FT, $n^{o}$ 146, 2025. Adaptado.)\n\nConsiderando o contexto apresentado pelo excerto, uma política pública para amenizar a vulnerabilidade socioeconômica do estado do Amazonas seria, dentre outras,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a instalação de zonas francas nos municípios que, ao transferir a produção industrial para outras regiões do país, gera empregos com elevada remuneração salarial.",
@@ -5925,15 +6251,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 6,
@@ -5956,12 +6281,22 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Por trás das belas imagens em preto e branco de montanhas, rios e da floresta amazônica, Sebastião Salgado documentou histórias de garimpo ilegal, conflitos com madeireiros, garimpeiros e autoridades locais, mortes por falta de \natendimento médico e episódios de perseguição. O fotógrafo \nbrasileiro faleceu em 23.05.2025, aos 81 anos, na França, \nonde vivia. Salgado dedicou sete anos ao projeto Amazônia, \nque resultou em um livro e em exposições fotográficas internacionais, que passaram por Londres, Roma, Paris e São \nPaulo.\n\nTerras indígenas (TI) fotografadas\npor Sebastião Salgado\n\nMonte\nRoraima TI Raposa\n\nBRASIL\n\nSerra do Sol\n\nTI Yanomami\n\nPico da\nNeblina\n\nTI Vale\ndo Javari\n\nTI Rio\nGregório\n\nOutras Terras Indígenas\nBioma Amazônia\n\n(www.bbc.com, 23.05.2021. Adaptado.)\n\nDe acordo com o excerto e a análise do mapa das terras \nindígenas fotografadas por Sebastião Salgado, o trabalho de \ndocumentação histórica elaborado pelo fotógrafo",
+    "statement": "Por trás das belas imagens em preto e branco de montanhas, rios e da floresta amazônica, Sebastião Salgado documentou histórias de garimpo ilegal, conflitos com madeireiros, garimpeiros e autoridades locais, mortes por falta de atendimento médico e episódios de perseguição. O fotógrafo brasileiro faleceu em 23.05.2025, aos 81 anos, na França, onde vivia. Salgado dedicou sete anos ao projeto Amazônia, que resultou em um livro e em exposições fotográficas internacionais, que passaram por Londres, Roma, Paris e São Paulo.\n\nTerras indígenas (TI) fotografadas por Sebastião Salgado\n\nTI Yanomami MonteRoraima TI RaposaSerra do Sol BRASIL\n\nPico daNeblina\n\nTI Valedo Javari\n\nTI RioGregório\n\nOutras Terras Indígenas Bioma Amazônia\n\n(www.bbc.com, 23.05.2021. Adaptado.)\n\nDe acordo com o excerto e a análise do mapa das terras indígenas fotografadas por Sebastião Salgado, o trabalho de documentação histórica elaborado pelo fotógrafo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q15-1.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/vestibular-2025-g2/q15-1.png",
+        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -5973,15 +6308,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 15."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 6,
@@ -6004,12 +6338,20 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o mapa que apresenta dois corredores logísticos, 1 e \n2, construídos na Amazônia Legal, os quais contribuíram com \no processo de produção do espaço amazônico.\n\nCorredor logístico 2\n\nSantarém (PA)\n\nBelém (PA)\n\nManaus (AM)\n\nLábrea (AM)\n\nCorredor logístico 1\n\nCuiabá (MT)\n\n(Atlas da Amazônia Brasileira, 2025. Adaptado.)\n\nUm impacto decorrente da construção de corredores logísticos no território da Amazônia Legal e a denominação dos \ncorredores logísticos 1 e 2 são, respectivamente:",
+    "statement": "Analise o mapa que apresenta dois corredores logísticos, 1 e 2, construídos na Amazônia Legal, os quais contribuíram com o processo de produção do espaço amazônico.\n\nSantarém (PA) Belém (PA) Corredor logístico 2\n\nManaus (AM)\n\nLábrea (AM)\n\nCorredor logístico 1 Cuiabá (MT)\n\n(Atlas da Amazônia Brasileira, 2025. Adaptado.)\n\nUm impacto decorrente da construção de corredores logísticos no território da Amazônia Legal e a denominação dos corredores logísticos 1 e 2 são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q16-1.jpg",
-        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2025-g2/q16-1.png",
+        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6021,15 +6363,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 16."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 7,
@@ -6052,7 +6393,13 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No período histórico atual, as grandes corporações e \nos investidores financeiros dispõem de meios mais eficazes \ne abrangentes para conhecer e intervir em cada porção da \nsuperfície da Terra, em decorrência da gigantesca concentração e centralização do capital em diversos ramos produtivos. Contam, além disso, com a unicidade das técnicas e \na produção de conhecimento do planeta que caracterizam a \nglobalização, em conjunto com a mobilidade geográfica do \ncapital e as práticas neoliberais. Assim, é muito contundente \no uso seletivo e corporativo do território, no qual as regiões, \nterritórios e lugares são selecionados para serem usados \neficazmente nos diversos circuitos espaciais produtivos, disponibilizando vantagens geográficas fundamentais à competitividade dos agentes econômicos.\n\n(Ricardo Castillo e Henrique Faria dos Santos. “Globalização, Neoliberalismo e competitividade regional: notas para discussão”. Revista Brasileira de\n\nEstudos Urbanos e Regionais, vol. 27, 2025. Adaptado.)\n\nA distribuição da atividade produtiva no mundo globalizado, \nretratada no excerto, está relacionada",
+    "statement": "No período histórico atual, as grandes corporações e os investidores financeiros dispõem de meios mais eficazes e abrangentes para conhecer e intervir em cada porção da superfície da Terra, em decorrência da gigantesca concentração e centralização do capital em diversos ramos produtivos. Contam, além disso, com a unicidade das técnicas e a produção de conhecimento do planeta que caracterizam a globalização, em conjunto com a mobilidade geográfica do capital e as práticas neoliberais. Assim, é muito contundente o uso seletivo e corporativo do território, no qual as regiões, territórios e lugares são selecionados para serem usados eficazmente nos diversos circuitos espaciais produtivos, disponibilizando vantagens geográficas fundamentais à competitividade dos agentes econômicos.\n\n(Ricardo Castillo e Henrique Faria dos Santos. “Globalização, Neoliberalismo e competitividade regional: notas para discussão”. Revista Brasileira de\n\nEstudos Urbanos e Regionais, vol. 27, 2025. Adaptado.)\n\nA distribuição da atividade produtiva no mundo globalizado, retratada no excerto, está relacionada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à estrutura empresarial truste, pois, nos conglomerados produtivos, as multinacionais de diferentes ramos e com sede nos países desenvolvidos detêm a maior parte do mercado consumidor.",
@@ -6063,15 +6410,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 7,
@@ -6094,12 +6440,16 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge publicada no perfil @chappatte_cartoons, em \n22.06.2025.\n\n(www.instagram.com. Adaptado.)\n\nNo cenário geopolítico mundial, a parceria entre os Estados \nUnidos da América (EUA) e Israel, representada na charge, \nbusca",
+    "statement": "Analise a charge publicada no perfil @chappatte_cartoons, em 22.06.2025.\n\n(www.instagram.com. Adaptado.)\n\nNo cenário geopolítico mundial, a parceria entre os Estados Unidos da América (EUA) e Israel, representada na charge, busca",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q18-1.jpg",
-        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2025-g2/q18-1.png",
+        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6111,15 +6461,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 18."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 8,
@@ -6142,7 +6491,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Pela primeira vez desde 1991, a Região Norte do Brasil \nregistrou saldo migratório negativo, ou seja, mais pessoas \ndeixaram os estados da região do que chegaram. O Amazonas aparece como o sétimo estado do país com maior saldo \nmigratório negativo, segundo dados preliminares do Censo \nDemográfico 2022. Apesar dessa situação demográfica, o \nAmazonas segue atraindo moradores. Do total de imigrantes \nque chegaram ao estado entre 2017 e 2022, 22,1% vieram \ndo Pará, seguido por Rondônia (15,7%) e Rio de Janeiro \n(10,4%).\n\n(Sabrina Rocha. https://g1.globo.com, 27.06.2025. Adaptado.)\n\nUma consequência decorrente do saldo migratório negativo \nno Amazonas, mencionado no excerto, e o tipo de migração \ndirecionado para esse estado brasileiro são, respectivamente:",
+    "statement": "Pela primeira vez desde 1991, a Região Norte do Brasil registrou saldo migratório negativo, ou seja, mais pessoas deixaram os estados da região do que chegaram. O Amazonas aparece como o sétimo estado do país com maior saldo migratório negativo, segundo dados preliminares do Censo Demográfico 2022. Apesar dessa situação demográfica, o Amazonas segue atraindo moradores. Do total de imigrantes que chegaram ao estado entre 2017 e 2022, 22,1% vieram do Pará, seguido por Rondônia (15,7%) e Rio de Janeiro (10,4%).\n\n(Sabrina Rocha. https://g1.globo.com, 27.06.2025. Adaptado.)\n\nUma consequência decorrente do saldo migratório negativo no Amazonas, mencionado no excerto, e o tipo de migração direcionado para esse estado brasileiro são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a redução do número de habitantes — intrarregional, a partir do estado do Rio de Janeiro.",
@@ -6153,15 +6507,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 19."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 8,
@@ -6184,12 +6537,20 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Apesar dos alertas científicos, da proposta de transição \necológica e das diretrizes constitucionais, o Estado brasileiro \nainda sustenta, com recursos públicos, setores que aceleram \na crise climática.\n\nEstou subfinanciada!\n\nBancos públicos deveriam redirecionar\n\nrecursos que impulsionam\ndesmatamento e energias fósseis\n\npara atividades sustentáveis\n\n(https://arvoreagua.org, 01.04.2025. Adaptado.)\n\nConsiderando o excerto e a charge, qual modelo produtivo \nsubfinanciado pelo Estado brasileiro deveria ser fomentado pelo \nestado do Amazonas para estimular iniciativas produtivas?",
+    "statement": "Apesar dos alertas científicos, da proposta de transição ecológica e das diretrizes constitucionais, o Estado brasileiro ainda sustenta, com recursos públicos, setores que aceleram a crise climática.\n\nEstou subfinanciada!\n\nBancos públicos deveriam redirecionar\n\nrecursos que impulsionam\n\ndesmatamento e energias fósseis\npara atividades sustentáveis\n\n(https://arvoreagua.org, 01.04.2025. Adaptado.)\n\nConsiderando o excerto e a charge, qual modelo produtivo subfinanciado pelo Estado brasileiro deveria ser fomentado pelo estado do Amazonas para estimular iniciativas produtivas?",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2025-g2/q20-1.png",
+        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6201,15 +6562,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 20."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 8,
@@ -6232,7 +6592,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A diretora-gerente do Fundo Monetário Internacional \n(FMI), Kristalina Georgieva, citou a Argentina como exemplo \nentre países que estão se adaptando aos novos fundamentos, \npolíticas e condições econômicas globais. Georgieva defendeu que acelerar reformas econômicas, regulatórias, fiscais \ne comerciais para remover barreiras ao crescimento é uma \natitude positiva para enfrentar os novos desafios globais e \nacessar empréstimos de sua instituição. Em abril de 2025, o \nConselho Executivo do FMI aprovou um programa de socorro \nà Argentina. O acordo prevê um empréstimo de US$ 20 bilhões. De imediato, US$ 12 bilhões serão desembolsados. As \ndemais parcelas serão pagas mediante revisões periódicas, \ncaso todos os requisitos sejam cumpridos.\n\n(Laís Adriana. www.estadao.com.br, 17.04.2025. Adaptado.)\n\nAs declarações da diretora-gerente do FMI demonstram que \na Argentina está alinhada com os interesses da Instituição \npor meio",
+    "statement": "A diretora-gerente do Fundo Monetário Internacional (FMI), Kristalina Georgieva, citou a Argentina como exemplo entre países que estão se adaptando aos novos fundamentos, políticas e condições econômicas globais. Georgieva defendeu que acelerar reformas econômicas, regulatórias, fiscais e comerciais para remover barreiras ao crescimento é uma atitude positiva para enfrentar os novos desafios globais e acessar empréstimos de sua instituição. Em abril de 2025, o Conselho Executivo do FMI aprovou um programa de socorro à Argentina. O acordo prevê um empréstimo de US$ 20 bilhões. De imediato, US$ 12 bilhões serão desembolsados. As demais parcelas serão pagas mediante revisões periódicas, caso todos os requisitos sejam cumpridos.\n\n(Laís Adriana. www.estadao.com.br, 17.04.2025. Adaptado.)\n\nAs declarações da diretora-gerente do FMI demonstram que a Argentina está alinhada com os interesses da Instituição por meio",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "das ações do poder público para financiar a expansão dos investimentos sociais no país.",
@@ -6243,15 +6608,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 21."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 9,
@@ -6274,7 +6638,12 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Durante a era de ouro da manufatura americana no pós-\n-guerra, que durou até os anos 1970, quase 20 milhões de \npessoas viviam da indústria. Os Estados Unidos eram líderes \nna produção de veículos, aeronaves e aço, e a indústria representava mais de um quarto do emprego total. No fim de 2024, \napós uma reorganização profunda da economia global, o setor \nindustrial empregava cerca de 8% da força de trabalho do país. \nAtualmente, os Estados Unidos são um país mais rico do que \nnunca. Mas a economia é dominada por empregos nos serviços, dos mais bem remunerados aos de baixa renda.\n\n(https://oglobo.globo.com, 04.04.2025. Adaptado.)\n\nCaracteriza uma dificuldade à ampliação de postos de trabalho no setor industrial dos Estados Unidos",
+    "statement": "Durante a era de ouro da manufatura americana no pós-guerra, que durou até os anos 1970, quase 20 milhões de pessoas viviam da indústria. Os Estados Unidos eram líderes na produção de veículos, aeronaves e aço, e a indústria representava mais de um quarto do emprego total. No fim de 2024, após uma reorganização profunda da economia global, o setor industrial empregava cerca de 8% da força de trabalho do país. Atualmente, os Estados Unidos são um país mais rico do que nunca. Mas a economia é dominada por empregos nos serviços, dos mais bem remunerados aos de baixa renda.\n\n(https://oglobo.globo.com, 04.04.2025. Adaptado.)\n\nCaracteriza uma dificuldade à ampliação de postos de trabalho no setor industrial dos Estados Unidos",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a robotização em processo de fabricação e montagem de bens e mercadorias.",
@@ -6285,15 +6654,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 22."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 9,
@@ -6316,7 +6684,17 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o gráfico, divulgado pela Organização das Nações \nUnidas (ONU), sobre os dados da população mundial por \ngrupos etários, no período de 1950 a 2100.\n\n12 000 000\n\n10 000 000\n\nPopulação (milhares)\n\n8 000 000\n\n6 000 000\n\n4 000 000\n\n2 000 000\n\n1950\n1955\n1960\n1965\n1970\n1975\n1980\n1985\n1990\n1995\n2000\n2005\n2010\n2015\n2020\n2025\n2030\n2035\n2040\n2045\n2050\n2055\n2060\n2065\n2070\n2075\n\n2085\n2080\n\n2090\n2095\n2100\n\n0-14 anos\n15-59 anos\n60 anos ou mais\n\n(www.ecodebate.com.br, 12.07.2024.)\n\nDe acordo com a análise do gráfico e conhecimentos sobre a \ndinâmica demográfica mundial, afirma-se que",
+    "statement": "Analise o gráfico, divulgado pela Organização das Nações Unidas (ONU), sobre os dados da população mundial por grupos etários, no período de 1950 a 2100.\n\n12000000\n\n10000000 População (milhares) 8000000 6000000\n\n4000000\n\n2000000\n\n01950195519601965197019751980198519901995200020052010201520202025203020352040204520502055206020652070207520802085209020952100 0-14 anos 15-59 anos 60 anos ou mais\n\n(www.ecodebate.com.br, 12.07.2024.)\n\nDe acordo com a análise do gráfico e conhecimentos sobre a dinâmica demográfica mundial, afirma-se que",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o grupo de adultos (15-59 anos) apresenta crescimento em todo o período, em decorrência da elevada taxa de natalidade.",
@@ -6327,15 +6705,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 23."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 10,
@@ -6358,12 +6735,25 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine o mapa que apresenta uma área em disputa por \ndois países.\n\nChina\n\nCedido pelo Paquistão à China\n\nGeleira\nSiachen\n\nAskai Chin\n(Administrada\npela China)\n\nBalakot\n\nLinha de controle\n\nSrinagar\n\nPulwana\n\nPaquistão\n\nÍndia\n\nÁrea em disputa\n\n(www.bbc.com. Adaptado.)\n\nConsiderando o mapa e o contexto geopolítico asiático, a \nárea que está em disputa corresponde",
+    "statement": "Examine o mapa que apresenta uma área em disputa por dois países.\n\nChina\n\nCedido pelo Paquistão à China\n\nGeleiraSiachen\n\nAskai Chin(Administradapela China)\n\nBalakot Linha de controle\n\nSrinagar\n\nPaquistão Pulwana\n\nÍndia\n\nÁrea em disputa\n\n(www.bbc.com. Adaptado.)\n\nConsiderando o mapa e o contexto geopolítico asiático, a área que está em disputa corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q24-1.jpg",
-        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2025-g2/q24-1.png",
+        "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6375,15 +6765,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 24."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 10,
@@ -6406,12 +6795,15 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” \nrepresenta",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” representa",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2025-g2/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6423,15 +6815,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 25."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6454,12 +6845,15 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a \ntirinha propor uma reflexão sobre",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a tirinha propor uma reflexão sobre",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo II, 2025).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2025-g2/q25-1.png",
+        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
     "alternatives": [
@@ -6471,15 +6865,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6502,7 +6895,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Uma característica do personagem Policarpo Quaresma \nque o acompanha ao longo de todo o romance e que está \npresente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela música.",
@@ -6513,15 +6921,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 27."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 11,
@@ -6544,7 +6951,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O narrador do romance manifesta-se ironicamente, em tom \njocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Ricardo ainda uma vez concordou e os dois entraram na sala” (7o parágrafo).",
@@ -6555,15 +6977,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6586,7 +7007,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No contexto em que está inserido, o trecho sublinhado \nexpressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição” (8o parágrafo).",
@@ -6597,15 +7033,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 29."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6628,7 +7063,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4o parágrafo)\n\nMantendo a correção gramatical e o sentido original do texto, \na palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "bem.",
@@ -6639,15 +7089,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 30."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6670,7 +7119,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“e foi como se todo ele bebesse o licor nacional” (1o parágrafo)\n\nNessa frase, o verbo sublinhado tem um objeto direto — “o \nlicor nacional” —, isto é, o verbo tem um complemento e é \nligado a ele diretamente, sem a presença de uma preposição.\n\nO verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Está bom, hein?” (2o parágrafo)",
@@ -6681,15 +7145,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6712,7 +7175,13 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio \nSouza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua \nironia que chamava aquilo de bairro. Em dez anos, aquelas \ncolinas suaves cortadas por um igarapé viram desaparecer \nos buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às \nadesões provocadas pela iniciativa particular dos ribeirinhos \nque chegavam com a anual subida das águas. O conjunto \nhabitacional nunca ficaria pronto, e era um inferno de calor \ne poeira ao meio-dia, uma geladeira tropical de umidade e \nbruma durante a noite. Nada mais restava da antiga mata e \no deserto estendia-se pelo lado das casas dos ribeirinhos. \nNos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma \npaisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no \ninício do trecho, colabora no conto para estabelecer",
+    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio Souza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua ironia que chamava aquilo de bairro. Em dez anos, aquelas colinas suaves cortadas por um igarapé viram desaparecer os buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às adesões provocadas pela iniciativa particular dos ribeirinhos que chegavam com a anual subida das águas. O conjunto habitacional nunca ficaria pronto, e era um inferno de calor e poeira ao meio-dia, uma geladeira tropical de umidade e bruma durante a noite. Nada mais restava da antiga mata e o deserto estendia-se pelo lado das casas dos ribeirinhos. Nos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma paisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no início do trecho, colabora no conto para estabelecer",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um posicionamento favorável à integração dos povos originários ao espaço urbano da cidade de Manaus.",
@@ -6723,15 +7192,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 12,
@@ -6754,7 +7222,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa\nparecimento de grande quantia de dinheiro das lojas era:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa parecimento de grande quantia de dinheiro das lojas era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o administrador das lojas furtava uma pequena quantia várias vezes no ano.",
@@ -6765,15 +7244,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 33."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6796,7 +7274,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2o parágrafo) era que as \nlojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "vendiam outros produtos além dos suvenires.",
@@ -6807,15 +7296,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6838,7 +7326,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3o parágrafo)\n\nAo se transpor a oração centrada no verbo sublinhado para a \nvoz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "era assumida.",
@@ -6849,15 +7348,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6880,7 +7378,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3o parágrafo)\n\nSuponha que o trecho sublinhado seja substituído por “era \ndestinada a tarefa de levar o dinheiro ao banco”. Para manter \na correção gramatical, na nova frase a palavra “cujo” deve ser \nsubstituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o qual.",
@@ -6891,15 +7400,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo2_prova.pdf",
     "sourcePage": 13,
@@ -6922,7 +7430,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma jarra contém 1 750 mL de água, o que corresponde a\n\nde sua capacidade total. Se essa jarra estiver com a sua\n\ncapacidade total preenchida com água, o número máximo\n\nde copos que podem ser enchidos com 350 mL de água\n\nem cada um é",
+    "statement": "Uma jarra contém 1 750 mL de água, o que corresponde a de sua capacidade total. Se essa jarra estiver com a sua capacidade total preenchida com água, o número máximo de copos que podem ser enchidos com 350 mL de água em cada um é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "7.",
@@ -6933,15 +7444,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 01."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -6964,7 +7474,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma livraria colocou 200 livros em promoção, durante 3 \ndias, e vendeu determinado número deles no primeiro dia. \nNo segundo dia, vendeu 60% dos livros que restaram e, no \nterceiro dia, vendeu os últimos 56 livros. Em relação aos 200 \nlivros colocados em promoção, o número de livros vendidos \nno primeiro dia correspondeu a",
+    "statement": "Uma livraria colocou 200 livros em promoção, durante 3 dias, e vendeu determinado número deles no primeiro dia. No segundo dia, vendeu 60% dos livros que restaram e, no terceiro dia, vendeu os últimos 56 livros. Em relação aos 200 livros colocados em promoção, o número de livros vendidos no primeiro dia correspondeu a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "40%.",
@@ -6975,15 +7488,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -7006,7 +7518,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Estavam presentes em uma festa adultos e crianças, de modo \nque o número de adultos era 8 a mais do que o número de \ncrianças. Após a saída de 29 adultos, e de nenhuma criança, \ne sabendo que ninguém mais chegou para a festa, o número \nde adultos passou a ser a metade do número de crianças. O \nnúmero total de pessoas, adultos mais crianças, que estavam \nnessa festa, antes da saída dos 29 adultos, era",
+    "statement": "Estavam presentes em uma festa adultos e crianças, de modo que o número de adultos era 8 a mais do que o número de crianças. Após a saída de 29 adultos, e de nenhuma criança, e sabendo que ninguém mais chegou para a festa, o número de adultos passou a ser a metade do número de crianças. O número total de pessoas, adultos mais crianças, que estavam nessa festa, antes da saída dos 29 adultos, era",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "100.",
@@ -7017,15 +7532,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 03."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -7048,7 +7562,17 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o triângulo retângulo ABC, reto em C, com BC = 9 cm \ne o ângulo CÂB = α . Considere também o triângulo retângulo \nDAE, reto em E, com os pontos D e E, respectivamente, sobre \nos lados AC e AB, com CD = 7 cm e BE = 11 cm, conforme \nmostra a figura.\n\nA\n\nÜ\n\nE\n\n11 cm\n\nD\n\n7 cm\n\nC\nB\n9 cm\n\nfora de escala\n\nSabendo que sen α = , a área do polígono BCDE, destacado\n\nna figura, é",
+    "statement": "Considere o triângulo retângulo ABC, reto em C, com BC = 9 cm e o ângulo CÂB = α. Considere também o triângulo retângulo DAE, reto em E, com os pontos D e E, respectivamente, sobre os lados AC e AB, com CD = 7 cm e BE = 11 cm, conforme mostra a figura.\n\nA\n\nÜ\n\nE\n\nD 11 cm\n7 cm\nC 9 cm B\n\nfora de escala\n\nSabendo que sen α =, a área do polígono BCDE, destacado\n\nna figura, é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "49 cm2.",
@@ -7059,15 +7583,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -7090,7 +7613,15 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o quadrado ABCD e o triângulo EFG, de modo que \nos pontos F, A, G e B estejam alinhados, o ponto E sobre o \nlado AD e todos os lados do quadrado divididos em 3 segmentos congruentes, conforme mostra a figura.\n\nD \nC\n\nE\n\nA\nF\n\nB\nG\n\nfora de escala\n\nSabendo que a área do triângulo EFG é 16 cm2 e que a medida do segmento AF é igual à medida do lado do quadrado, \no perímetro do quadrado é",
+    "statement": "Considere o quadrado ABCD e o triângulo EFG, de modo que os pontos F, A, G e B estejam alinhados, o ponto E sobre o lado AD e todos os lados do quadrado divididos em 3 segmentos congruentes, conforme mostra a figura.\n\nD C\n\nE\n\nF A G B\n\nfora de escala\n\nSabendo que a área do triângulo EFG é 16 $cm^{2}$ e que a medida do segmento AF é igual à medida do lado do quadrado, o perímetro do quadrado é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "34 cm.",
@@ -7101,15 +7632,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 3,
@@ -7132,7 +7662,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em um plano cartesiano, os pontos P(1, 0) e Q(0, 3) pertencem ao gráfico descrito pela função f(x) = x2 + bx + c, em que \nb e c são números reais. As coordenadas do ponto de mínimo \ndessa função são",
+    "statement": "Em um plano cartesiano, os pontos P(1, 0) e Q(0, 3) pertencem ao gráfico descrito pela função f(x) = $x^{2}$ + bx + c, em que b e c são números reais. As coordenadas do ponto de mínimo dessa função são",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "(2, 3).",
@@ -7143,15 +7676,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -7174,7 +7706,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um estudante resolveu exercícios de Química, Física e \nMatemática, totalizando 36 exercícios. Sabendo que o número de exercícios resolvidos de cada matéria, na ordem \ncitada, formava uma progressão aritmética (PA) de razão 3, \no número de exercícios resolvidos de Matemática foi",
+    "statement": "Um estudante resolveu exercícios de Química, Física e Matemática, totalizando 36 exercícios. Sabendo que o número de exercícios resolvidos de cada matéria, na ordem citada, formava uma progressão aritmética (PA) de razão 3, o número de exercícios resolvidos de Matemática foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15.",
@@ -7185,15 +7720,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 07."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -7216,7 +7750,12 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela \nmostra o número de unidades compradas de canetas e de \nmarca textos e o valor unitário dos itens comprados.\n\nItem\nNo de unidades\n\ncompradas\nValor unitário do item\n\nCaneta\n5\nR$ 4,60\n\nLápis\n?\nR$ 2,00\n\nMarca textos\n2\nR$ 2,50\n\nConsiderando-se o número total de itens comprados, na \nmédia, o valor de cada item saiu por R$ 3,00. O número de \nlápis comprados foi",
+    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nItem $N^{o}$compradas de unidades Valor unitário do item\n\nCaneta 5 R$ 4,60 Lápis? R$ 2,00 Marca textos 2 R$ 2,50 Considerando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "6.",
@@ -7227,15 +7766,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -7258,7 +7796,11 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a função \n. O valor de\n\né igual a",
+    "statement": "Considere a função. O valor de\n\né igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "–1.",
@@ -7269,15 +7811,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 10."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -7300,7 +7841,11 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a seguinte matriz quadrada de ordem 3, em que x \né um número real.\n\nSabendo que o determinante dessa matriz é igual a 1, o valor \nde x é",
+    "statement": "Considere a seguinte matriz quadrada de ordem 3, em que x é um número real.\n\nSabendo que o determinante dessa matriz é igual a 1, o valor de x é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -7311,15 +7856,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 11."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 4,
@@ -7342,7 +7886,19 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um sólido no formato de um cone maciço de metal, com 3 cm \nde raio (R) da base e 12 cm de altura (H), foi totalmente derretido. Com todo esse metal derretido foram fabricados cilindros \nretos maciços, cada um com raio (r) de base igual a 1 cm e \naltura (h) igual a 3 cm, conforme mostra a figura.\n\nCone\nCilindro\n\nh = 3 cm\n\nH = 12 cm\n\nr = 1 cm\n\nR = 3 cm\nfora de escala\n\nO volume de um cone é calculado pela expressão\n\n, em que R é o raio da base do cone e H é\n\nsua altura, e o volume de um cilindro é calculado pela\n\nexpressão \n, em que r é o raio da base do cilindro\n\ne h é sua altura.\n\nSabendo que não ocorreu desperdício de metal, o número de\n\ncilindros que foram feitos, utilizando todo o metal derretido do\n\ncone, foi igual a",
+    "statement": "Um sólido no formato de um cone maciço de metal, com 3 cm de raio (R) da base e 12 cm de altura (H), foi totalmente derretido. Com todo esse metal derretido foram fabricados cilindros retos maciços, cada um com raio (r) de base igual a 1 cm e altura (h) igual a 3 cm, conforme mostra a figura.\n\nCone Cilindro\n\nh = 3 cm\n\nH = 12 cm\n\nr = 1 cm\n\nR = 3 cm fora de escala\n\nO volume de um cone é calculado pela expressão\n\n, em que R é o raio da base do cone e H é\n\nsua altura, e o volume de um cilindro é calculado pela expressão, em que r é o raio da base do cilindro e h é sua altura.\n\nSabendo que não ocorreu desperdício de metal, o número de cilindros que foram feitos, utilizando todo o metal derretido do cone, foi igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "9.",
@@ -7353,15 +7909,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7384,7 +7939,17 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Na disputa final da corrida de revezamento 4 x 400 m misto \nnos Jogos Olímpicos de Paris, a corredora holandesa \nFemke Bol realizou um feito impressionante. Em dado instante, quando estava a 200 m da linha de chegada e ocupava a \nquarta posição, 20 m atrás da primeira colocada, a americana Kaylym Brown, Femke empreendeu uma arrancada que \na levou a cruzar a linha de chegada em primeiro lugar.\n\nFemke\n\nBol\n\nKaylym\n\nBrown\n\n20 m\n\n180 m\n\nLinha de\nchegada\n\n(www.liveworksheets.com. Adaptado.)\n\nConsiderando que, nesse trecho final da prova, Kaylym \ndesenvolveu velocidade média de 7,2 m/s, para vencer a \nprova Femke desenvolveu uma velocidade média superior \na, no mínimo,",
+    "statement": "Na disputa final da corrida de revezamento 4 x 400 m misto nos Jogos Olímpicos de Paris, a corredora holandesa Femke Bol realizou um feito impressionante. Em dado instante, quando estava a 200 m da linha de chegada e ocupava a quarta posição, 20 m atrás da primeira colocada, a americana Kaylym Brown, Femke empreendeu uma arrancada que a levou a cruzar a linha de chegada em primeiro lugar.\n\nFemke\n\nKaylym Bol\nBrown\n\n20 m\n\n180 m\n\nLinha de\nchegada\n\n(www.liveworksheets.com. Adaptado.)\n\nConsiderando que, nesse trecho final da prova, Kaylym desenvolveu velocidade média de 7,2 m/s, para vencer a prova Femke desenvolveu uma velocidade média superior a, no mínimo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "8,2 m/s.",
@@ -7395,15 +7960,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 5,
@@ -7426,7 +7990,13 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a \nmudança da visão humana sobre o Universo: ele encontrou \nquatro satélites orbitando Júpiter, mostrando que nem tudo \ngira ao redor da Terra. Hoje, esses satélites são denominados \nCalisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite\nPeríodo orbital (dias terrestres)\n\nCalisto\n16,7\n\nEuropa\n3,6\n\nGanimedes\n7,2\n\nIo\n1,8\n\nA partir desses dados, conclui-se que, entre esses quatro \nsatélites,",
+    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite Período orbital (dias terrestres)\nCalisto 16,7\nEuropa 3,6\nGanimedes 7,2\n\nIo 1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Ganimedes tem o dobro da massa de Io.",
@@ -7437,15 +8007,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7468,7 +8037,12 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Nos últimos anos, banhos no gelo tornaram-se populares entre esportistas, especialmente corredores, triatletas e \njogadores de futebol. O mergulho em água muito fria (entre \n10 e 15 graus Celsius) por cerca de 5 a 10 minutos ajuda a \nreduzir a inflamação e o inchaço, aliviar dores musculares e, \npor causa disso, acelera a recuperação após um jogo ou uma \nprova de longa distância.\n\n(https://forbes.com.br. Adaptado.)\n\nUm esportista deseja obter água a 10 ºC em uma banheira \nque, inicialmente, contém 3,0 × 105 g de água a 25 ºC e que \nestá em equilíbrio térmico com a banheira. Desprezando perdas de calor para o ambiente e considerando o calor específico \nda água igual a 1,0 cal/(g · ºC), o calor latente de fusão do gelo \nigual a 80 cal/g e a capacidade térmica da banheira igual a \n6,0 × 104 cal/ºC, a quantidade de gelo a 0 ºC que deve ser colocada na água contida na banheira para que o conjunto atinja \no equilíbrio térmico a 10 ºC é",
+    "statement": "Nos últimos anos, banhos no gelo tornaram-se populares entre esportistas, especialmente corredores, triatletas e jogadores de futebol. O mergulho em água muito fria (entre 10 e 15 graus Celsius) por cerca de 5 a 10 minutos ajuda a reduzir a inflamação e o inchaço, aliviar dores musculares e, por causa disso, acelera a recuperação após um jogo ou uma prova de longa distância.\n\n(https://forbes.com.br. Adaptado.)\n\nUm esportista deseja obter água a 10 ºC em uma banheira que, inicialmente, contém 3,0 × $10^{5}$ g de água a 25 ºC e que está em equilíbrio térmico com a banheira. Desprezando perdas de calor para o ambiente e considerando o calor específico da água igual a 1,0 cal/(g · ºC), o calor latente de fusão do gelo igual a 80 cal/g e a capacidade térmica da banheira igual a 6,0 × $10^{4}$ cal/ºC, a quantidade de gelo a 0 ºC que deve ser colocada na água contida na banheira para que o conjunto atinja o equilíbrio térmico a 10 ºC é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "50 kg.",
@@ -7479,15 +8053,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 16."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 6,
@@ -7510,7 +8083,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O ciclo de Otto para um motor ideal de quatro tempos encontra-se representado no diagrama da figura, que mostra o \ncomportamento da pressão do gás em um pistão em função \ndo volume que esse gás ocupa.\n\np\n\n0\n1\n\nV\n\nSabendo que as transformações 1 → 2 e 3 → 4 são adiabáticas, \nque as transformações 2 → 3 e 4 → 1 são isovolumétricas e que \nas transformações 1 → 0 e 0 → 1 são isobáricas, a realização \nde trabalho pelo motor ocorre durante a transformação",
+    "statement": "O ciclo de Otto para um motor ideal de quatro tempos encontra-se representado no diagrama da figura, que mostra o comportamento da pressão do gás em um pistão em função do volume que esse gás ocupa.\n\np\n3\n\n2\n\n4\n\n0 1\n\nV\n\nSabendo que as transformações 1 → 2 e 3 → 4 são adiabáticas, que as transformações 2 → 3 e 4 → 1 são isovolumétricas e que as transformações 1 → 0 e 0 → 1 são isobáricas, a realização de trabalho pelo motor ocorre durante a transformação",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4 → 1.",
@@ -7521,15 +8103,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7552,7 +8133,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "As radiações eletromagnéticas têm ampla aplicação na \nmedicina atual, tanto para fins diagnósticos quanto terapêuticos. As radiações eletromagnéticas utilizadas com \nfinalidades terapêuticas em que se deseja a aplicação de \ncalor local no corpo do paciente correspondem a",
+    "statement": "As radiações eletromagnéticas têm ampla aplicação na medicina atual, tanto para fins diagnósticos quanto terapêuticos. As radiações eletromagnéticas utilizadas com finalidades terapêuticas em que se deseja a aplicação de calor local no corpo do paciente correspondem a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "raios X.",
@@ -7563,15 +8147,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7594,7 +8177,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O final do ciclo evolutivo de estrelas de grande massa é catastrófico. Elas explodem e espalham parte de sua matéria \npelo espaço, restando um núcleo muito denso. Se a massa \ndesse núcleo for maior do que 3 vezes a massa do Sol, ele \ndará origem a uma região do espaço com uma gravidade tão \nintensa que nada que estiver nessa região conseguirá dela \nescapar, nem mesmo a luz.\n\nEssa região é denominada",
+    "statement": "O final do ciclo evolutivo de estrelas de grande massa é catastrófico. Elas explodem e espalham parte de sua matéria pelo espaço, restando um núcleo muito denso. Se a massa desse núcleo for maior do que 3 vezes a massa do Sol, ele dará origem a uma região do espaço com uma gravidade tão intensa que nada que estiver nessa região conseguirá dela escapar, nem mesmo a luz. Essa região é denominada",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "estrela de nêutrons.",
@@ -7605,15 +8191,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 19."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7636,7 +8221,22 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma usina termoelétrica, um combustível é utilizado para \nvaporizar água em uma caldeira e o vapor produzido aciona \numa turbina que, por fim, movimenta um gerador. Nesse processo, cada etapa de transformação de energia apresenta \num rendimento: vaporização de água na caldeira, com rendimento ηC, movimentação da turbina, com rendimento ηT, \ne movimentação do gerador, com rendimento ηG, conforme \nmostra o esquema.\n\nEntrada de\n\nenergia\n\nRendimento ìC\n\nCaldeira\n\nRendimento ìT\n\nTurbina\n\nRendimento ìG\n\nGerador\n\nSaída de\n\nenergia\n\nO rendimento total desse processo, ηP, é dado por",
+    "statement": "Em uma usina termoelétrica, um combustível é utilizado para vaporizar água em uma caldeira e o vapor produzido aciona uma turbina que, por fim, movimenta um gerador. Nesse processo, cada etapa de transformação de energia apresenta um rendimento: vaporização de água na caldeira, com ren-\n\nC G, conformeT,\n\nEntrada de\nenergia\n\nCaldeira Rendimento C\n\nTurbina Rendimento T\n\nGerador Rendimento G\n\nSaída de\nenergia\n\nP, é dado por\n\nP = C T G)\n\nP C T G)\n\nP = C T G)\n\nP C T G\n\nP C T G",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source"
+    ],
     "images": [],
     "alternatives": [
       "ηP = (ηC + ηT + ηG)",
@@ -7647,15 +8247,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 20."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 7,
@@ -7678,7 +8277,20 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O gráfico mostra o conjunto de fontes de energia que compõem a matriz energética brasileira, referente ao ano de 2024.\n\nNuclear: 1,3%\n\nOutras não\nrenováveis: 0,6%\n\nCarvão mineral: 4,5%\n\nEólica e solar: 5,1%\n\nPetróleo e\nderivados: 34,0%\n\nOutras\nrenováveis: 8,1%\n\nLenha e carvão\n\nvegetal: 8,5%\n\nGás natural: 9,6%\n\nHidráulica: 11,6%\nDerivados de\ncana-de-açúcar: 16,7%\n\n(www.epe.gov.br)\n\nAs fontes de energia renováveis que compõem essa matriz \ncorrespondem ao total de",
+    "statement": "O gráfico mostra o conjunto de fontes de energia que compõem a matriz energética brasileira, referente ao ano de 2024.\n\nNuclear: 1,3%\n\nOutras não\nrenováveis: 0,6% Carvão mineral: 4,5%\n\nEólica e solar: 5,1%\n\nderivados: 34,0%Petróleo e renováveis: 8,1%Outras\n\nLenha e carvão\nvegetal: 8,5%\n\nGás natural: 9,6%\n\nDerivados de\n\ncana-de-açúcar: 16,7% Hidráulica: 11,6%\n\n(www.epe.gov.br)\n\nAs fontes de energia renováveis que compõem essa matriz correspondem ao total de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "50,0%.",
@@ -7689,15 +8301,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 21."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7720,7 +8331,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere que uma pessoa míope só consiga enxergar com \nnitidez objetos que estejam entre 0,20 m e 2,50 m distantes \nde seus olhos. Ao se afastar um objeto desde 0,20 m até \n2,50 m dos olhos dessa pessoa, a variação da vergência de \nseu sistema visual é, em módulo, de",
+    "statement": "Considere que uma pessoa míope só consiga enxergar com nitidez objetos que estejam entre 0,20 m e 2,50 m distantes de seus olhos. Ao se afastar um objeto desde 0,20 m até 2,50 m dos olhos dessa pessoa, a variação da vergência de seu sistema visual é, em módulo, de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2,35 di.",
@@ -7731,15 +8345,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 22."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7762,7 +8375,22 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A figura 1 mostra um dispositivo elétrico associado em paralelo \na um resistor de 20 Ω. O comportamento da corrente elétrica \nque se estabelece nesse dispositivo em função da diferença \nde potencial aplicada entre seus terminais está ilustrado na \nfigura 2.\n\nFigura 1\n\nid=10 mA\n\nDispositivo\n\nelétrico\nR=20 u\n\nFigura 2\n\nCorrente (mA)\n\n0,40\n0,50\n\n0,60\n0,70\n0,80\n\nDiferença de potencial (V)\n\nQuando a corrente elétrica nesse dispositivo é igual a 10 mA, \na corrente elétrica que se estabelece no resistor vale",
+    "statement": "A figura 1 mostra um dispositivo elétrico associado em paralelo a um resistor de 20 Ω. O comportamento da corrente elétrica que se estabelece nesse dispositivo em função da diferença de potencial aplicada entre seus terminais está ilustrado na figura 2.\n\nFigura 1\n\n$i_{d}$=10 mA\n\nR=20 u Dispositivo\n\nelétrico\n\nFigura 2\n\n40\n\nCorrente (mA) 30\n\n20\n\n10\n\n0,40 0,50 0,60 0,70 0,80\n\nDiferença de potencial (V)\n\nQuando a corrente elétrica nesse dispositivo é igual a 10 mA, a corrente elétrica que se estabelece no resistor vale",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "10 mA.",
@@ -7773,15 +8401,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 23."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7804,7 +8431,16 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Nos reatores nucleares, a liberação de energia nuclear \nocorre quando o isótopo 235 do urânio (235U) absorve um \nnêutron, torna-se extremamente instável e rompe-se quase \nque instantaneamente em dois outros núcleos, como os de \nbário-141 (141Ba) e criptônio-92 (92Kr). Desse processo, resultam ainda três nêutrons (n) e liberação de 2,70 × 10-11 J de \nenergia, como mostra a equação:\n\n235U + n → 141Ba + 92Kr + 3n + 2,70 × 10–11 J\n\nNesse caso, a liberação de energia nuclear ocorre por meio \nde um processo de",
+    "statement": "Nos reatores nucleares, a liberação de energia nuclear\n\n235U) absorve um\n\nnêutron, torna-se extremamente instável e rompe-se quase que instantaneamente em dois outros núcleos, como os de\n\n141 92Kr). Desse processo, resul-\n\ntam ainda três nêutrons (n) e liberação de 2,70 × 10-11 J de energia, como mostra a equação:\n\n235 141 92Kr + 3n + 2,70 × 10–11 J\n\nNesse caso, a liberação de energia nuclear ocorre por meio de um processo de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fusão nuclear.",
@@ -7815,15 +8451,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 24."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 8,
@@ -7846,12 +8481,15 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” \nrepresenta",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nNa situação exposta na tirinha, a informação “nem começava” representa",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g3/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2025).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2025-g3/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2025)."
       }
     ],
     "alternatives": [
@@ -7863,15 +8501,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 25."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 9,
@@ -7894,12 +8531,15 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil \n@eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a \ntirinha propor uma reflexão sobre",
+    "statement": "Considere a tirinha de Eduardo Arruda, publicada no perfil @eduardobarruda do Instagram em 25.01.2025, para responder às questões 25 e 26.\n\nA tirinha pode ser entendida como uma reflexão metalinguística. Nessa interpretação, a metalinguagem decorreria de a tirinha propor uma reflexão sobre",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g3/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo III, 2025).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2025-g3/q25-1.png",
+        "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo III, 2025)."
       }
     ],
     "alternatives": [
@@ -7911,15 +8551,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 9,
@@ -7942,7 +8581,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma característica do personagem Policarpo Quaresma \nque o acompanha ao longo de todo o romance e que está \npresente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela comida.",
@@ -7953,15 +8607,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 27."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 9,
@@ -7984,7 +8637,22 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O narrador do romance manifesta-se ironicamente, em tom \njocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol” (7o parágrafo).",
@@ -7995,15 +8663,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8026,7 +8693,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No contexto em que está inserido, o trecho sublinhado \nexpressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Mal foi aceso o gás, o mestre de violão empunhou o instrumento” (8o parágrafo).",
@@ -8037,15 +8719,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 29."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8068,7 +8749,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4o parágrafo)\n\nMantendo a correção gramatical e o sentido original do texto, \na palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "vários.",
@@ -8079,15 +8775,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 30."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8110,7 +8805,22 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "“e foi como se todo ele bebesse o licor nacional” (1o parágrafo)\n\nNessa frase, o verbo sublinhado tem um objeto direto — “o \nlicor nacional” —, isto é, o verbo tem um complemento e é \nligado a ele diretamente, sem a presença de uma preposição.\n\nO verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“como aquelas que ele tinha ali” (6o parágrafo)",
@@ -8121,15 +8831,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 31."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8152,7 +8861,13 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio \nSouza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua \nironia que chamava aquilo de bairro. Em dez anos, aquelas \ncolinas suaves cortadas por um igarapé viram desaparecer \nos buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às \nadesões provocadas pela iniciativa particular dos ribeirinhos \nque chegavam com a anual subida das águas. O conjunto \nhabitacional nunca ficaria pronto, e era um inferno de calor \ne poeira ao meio-dia, uma geladeira tropical de umidade e \nbruma durante a noite. Nada mais restava da antiga mata e \no deserto estendia-se pelo lado das casas dos ribeirinhos. \nNos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma \npaisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no \ninício do trecho, colabora no conto para estabelecer",
+    "statement": "Leia o trecho do conto “A caligrafia de Deus”, de Márcio Souza.\n\nNa loucura da Zona Franca, o povo era tão afável na sua ironia que chamava aquilo de bairro. Em dez anos, aquelas colinas suaves cortadas por um igarapé viram desaparecer os buritizais e a mata quase cerrada, as chácaras e os banhos, para dar lugar a um conjunto habitacional do BNH e às adesões provocadas pela iniciativa particular dos ribeirinhos que chegavam com a anual subida das águas. O conjunto habitacional nunca ficaria pronto, e era um inferno de calor e poeira ao meio-dia, uma geladeira tropical de umidade e bruma durante a noite. Nada mais restava da antiga mata e o deserto estendia-se pelo lado das casas dos ribeirinhos. Nos meses de chuva formava-se um atoleiro que era um verdadeiro nirvana para os porcos; nos meses sem chuva, uma paisagem marcada com todo o charme de um barro avermelhado que empoava as crianças e as galinhas.\n\n(Márcio Souza. A caligrafia de Deus, 2007.)\n\nO ambiente apresentado, em que vive o “povo” referido no início do trecho, colabora no conto para estabelecer",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um posicionamento favorável à integração dos povos originários ao espaço urbano da cidade de Manaus.",
@@ -8163,15 +8878,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 10,
@@ -8194,7 +8908,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa\nparecimento de grande quantia de dinheiro das lojas era:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nDe acordo com o texto, a explicação correta para o desa parecimento de grande quantia de dinheiro das lojas era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "os funcionários tinham dificuldade de fazer as contas durante as vendas.",
@@ -8205,15 +8930,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8236,7 +8960,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2o parágrafo) era que as \nlojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "funcionavam como uma instituição de caridade.",
@@ -8247,15 +8982,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8278,7 +9012,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3o parágrafo)\n\nAo se transpor a oração centrada no verbo sublinhado para a \nvoz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "foi assumida.",
@@ -8289,15 +9034,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 35."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,
@@ -8320,7 +9064,18 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para \nresponder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life \napresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes \nCênicas, em Washington. Sua função era cuidar do estoque \ndas lojas de suvenires do centro, onde uma equipe de 300 \nvoluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias \naos visitantes.\n\nAs lojas de suvenires eram administradas como barracas \nde limonada. Não havia caixas registradoras, apenas caixas \nde papel onde os voluntários depositavam o dinheiro e de onde \npegavam o troco. As lojinhas eram um ótimo negócio, com \nmais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns \n150 mil dólares desapareciam a cada ano.\nQuando foi promovido a gerente, Dan assumiu a tarefa \nde capturar o ladrão. Começou a suspeitar de outro jovem \nfuncionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite \nde fevereiro, armaram a cilada. Dan colocou notas marcadas \nna caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo \nsuspeito. Quando acabou o expediente e o membro suspeito \nda equipe foi embora, eles o abordaram e acharam algumas \ndas notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem \nempregado furtou apenas 60 dólares naquela noite, e, \nmesmo após sua demissão, o dinheiro e as mercadorias \ncontinuaram desaparecendo. O próximo passo de Dan foi \ncriar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o \nque era vendido e o que recebiam, e os furtos cessaram. \nO problema não era um único ladrão, mas a multidão de \nvoluntários idosos, bem-intencionados, amantes das artes \nque se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não \nnos pertencem se tivermos uma chance. (...) Muitas pessoas \nprecisam de alguma forma de controle para fazerem a coisa \ncerta.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3o parágrafo)\n\nSuponha que o trecho sublinhado seja substituído por “era \ndestinada a tarefa de levar o dinheiro ao banco”. Para manter \na correção gramatical, na nova frase a palavra “cujo” deve ser \nsubstituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o qual.",
@@ -8331,15 +9086,14 @@ export const uea2025Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf, questão 36."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2025_UEA_especificos_grupo3_prova.pdf",
     "sourcePage": 11,

@@ -14,12 +14,16 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Examine a tira do cartunista André Dahmer para responder \nàs questões 01 e 02.\n\n(www.folha.uol.com.br, 15.07.2022.)\n\nCom sua tira, o cartunista sugere que a confecção diária de \ntiras é uma atividade",
+    "statement": "Examine a tira do cartunista André Dahmer para responder às questões 01 e 02.\n\n(www.folha.uol.com.br, 15.07.2022.)\n\nCom sua tira, o cartunista sugere que a confecção diária de tiras é uma atividade",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/sis-2023-a1/q01-1.png",
+        "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -31,15 +35,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -63,7 +66,12 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Na medida em que se debruça sobre o próprio processo de \nconfecção de tiras, a tira de André Dahmer apresenta um \ncaráter",
+    "statement": "Examine a tira do cartunista André Dahmer para responder às questões 01 e 02.\n\n(www.folha.uol.com.br, 15.07.2022.)\n\nNa medida em que se debruça sobre o próprio processo de confecção de tiras, a tira de André Dahmer apresenta um caráter",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "social.",
@@ -74,15 +82,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -106,7 +113,14 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Segundo Antônio Vieira, Jesus Cristo não prometeu logo a \nsalvação a Zaqueu porque este",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nSegundo Antônio Vieira, Jesus Cristo não prometeu logo a salvação a Zaqueu porque este",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "precisava antes se arrepender verdadeiramente dos roubos praticados.",
@@ -117,15 +131,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -149,7 +162,14 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "De acordo com o sermão, Dimas não teria sido condenado",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nDe acordo com o sermão, Dimas não teria sido condenado",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "se tivesse praticado boas ações.",
@@ -160,15 +180,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -192,7 +211,14 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em “ainda que ele o não dissera, o estado de um e outro ladrão \no declarava assaz”, a locução sublinhada pode ser substituída, \nsem qualquer prejuízo para o sentido da frase, por:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz”, a locução sublinhada pode ser substituída, sem qualquer prejuízo para o sentido da frase, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "caso.",
@@ -203,15 +229,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -235,7 +260,14 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em “Zaqueu como era ladrão rico, e tinha muito com que \nrestituir, não lhe podia Cristo segurar a salvação antes que \nrestituísse, e por isso lhe dilatou a promessa”, o termo sublinhado pode ser substituído, sem prejuízo para o sentido do \ntexto, por:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nEm “Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa”, o termo sublinhado pode ser substituído, sem prejuízo para o sentido do texto, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "negou.",
@@ -246,15 +278,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -278,7 +309,14 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Por razões estilísticas, Antônio Vieira recorre a várias inversões (ou seja, a alterações da ordem direta da frase). Em \nordem direta, o trecho “a Dimas prometeu [...] o Senhor a \nsalvação” assume a seguinte redação:",
+    "statement": "Para responder às questões de 03 a 07, leia o trecho do “Sermão do bom ladrão”, de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655.\n\nAssim como Cristo, Senhor nosso, disse a Dimas¹: “Hoje serás comigo no Paraíso”, assim disse a Zaqueu²: “Hoje entrou a salvação nesta tua casa”. Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\n1 \u0007Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 \u0007Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano.\n\nPor razões estilísticas, Antônio Vieira recorre a várias inversões (ou seja, a alterações da ordem direta da frase). Em ordem direta, o trecho “a Dimas prometeu [...] o Senhor a salvação” assume a seguinte redação:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "O Senhor a Dimas prometeu a salvação.",
@@ -289,15 +327,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -322,11 +359,13 @@ export const uea2023Sis = [
     "detail": "Artes — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "A temática explorada pela obra Vanitas (1625), do pintor holandês Pieter Claesz (1597-1661), remete ao ideário da estética",
+    "blockTypes": [
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/sis-2023-a1/q08-1.png",
+        "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -338,15 +377,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -370,7 +408,15 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and \nacademic consequences. In a perfect world everything \nreported would be based only on facts and you would be \nable to trust that the media you consume is reliable. But \nunfortunately that’s not the case. You should learn to spot \nfalse information because fake news can:\n\n1. Call into question the credibility of your sources. As \na student you are expected to find, evaluate, and reference \ntrustworthy information sources in a variety of formats. If you \ninclude fake news as evidence for your arguments or as part \nof your research it may raise doubts about the integrity of \nthe sources you use as a whole and your ability to identify \nquality information. Maintain the respect of your professors, \npeers, friends, and family by citing only true, credible news \nand information sources.\n\n2. Provide you with false, confusing, or dishonest \ninformation used to make a decision or take action. It can be \ndangerous to do something without having all the facts, but \nit can be just as detrimental to do so based on inaccurate \ninformation. Whether it’s political, medical, academic, \nor personal, you need to be able to recognize when the \ninformation you are taking in can be trusted to help you make \nan intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nThe text is mainly about",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and academic consequences. In a perfect world everything reported would be based only on facts and you would be able to trust that the media you consume is reliable. But unfortunately that’s not the case. You should learn to spot false information because fake news can:\n\n1. Call into question the credibility of your sources. As a student you are expected to find, evaluate, and reference trustworthy information sources in a variety of formats. If you include fake news as evidence for your arguments or as part of your research it may raise doubts about the integrity of the sources you use as a whole and your ability to identify quality information. Maintain the respect of your professors, peers, friends, and family by citing only true, credible news and information sources.\n\n2. Provide you with false, confusing, or dishonest information used to make a decision or take action. It can be dangerous to do something without having all the facts, but it can be just as detrimental to do so based on inaccurate information. Whether it’s political, medical, academic, or personal, you need to be able to recognize when the information you are taking in can be trusted to help you make an intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nThe text is mainly about",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "the difference between fake news and facts.",
@@ -381,15 +427,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -414,7 +459,15 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and \nacademic consequences. In a perfect world everything \nreported would be based only on facts and you would be \nable to trust that the media you consume is reliable. But \nunfortunately that’s not the case. You should learn to spot \nfalse information because fake news can:\n\n1. Call into question the credibility of your sources. As \na student you are expected to find, evaluate, and reference \ntrustworthy information sources in a variety of formats. If you \ninclude fake news as evidence for your arguments or as part \nof your research it may raise doubts about the integrity of \nthe sources you use as a whole and your ability to identify \nquality information. Maintain the respect of your professors, \npeers, friends, and family by citing only true, credible news \nand information sources.\n\n2. Provide you with false, confusing, or dishonest \ninformation used to make a decision or take action. It can be \ndangerous to do something without having all the facts, but \nit can be just as detrimental to do so based on inaccurate \ninformation. Whether it’s political, medical, academic, \nor personal, you need to be able to recognize when the \ninformation you are taking in can be trusted to help you make \nan intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nO trecho do primeiro parágrafo “You should learn to spot false \ninformation” corresponde, em português, a:",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and academic consequences. In a perfect world everything reported would be based only on facts and you would be able to trust that the media you consume is reliable. But unfortunately that’s not the case. You should learn to spot false information because fake news can:\n\n1. Call into question the credibility of your sources. As a student you are expected to find, evaluate, and reference trustworthy information sources in a variety of formats. If you include fake news as evidence for your arguments or as part of your research it may raise doubts about the integrity of the sources you use as a whole and your ability to identify quality information. Maintain the respect of your professors, peers, friends, and family by citing only true, credible news and information sources.\n\n2. Provide you with false, confusing, or dishonest information used to make a decision or take action. It can be dangerous to do something without having all the facts, but it can be just as detrimental to do so based on inaccurate information. Whether it’s political, medical, academic, or personal, you need to be able to recognize when the information you are taking in can be trusted to help you make an intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nO trecho do primeiro parágrafo “You should learn to spot false information” corresponde, em português, a:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Você pode aprender a identificar notícias falsas.",
@@ -425,15 +478,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -458,7 +510,15 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and \nacademic consequences. In a perfect world everything \nreported would be based only on facts and you would be \nable to trust that the media you consume is reliable. But \nunfortunately that’s not the case. You should learn to spot \nfalse information because fake news can:\n\n1. Call into question the credibility of your sources. As \na student you are expected to find, evaluate, and reference \ntrustworthy information sources in a variety of formats. If you \ninclude fake news as evidence for your arguments or as part \nof your research it may raise doubts about the integrity of \nthe sources you use as a whole and your ability to identify \nquality information. Maintain the respect of your professors, \npeers, friends, and family by citing only true, credible news \nand information sources.\n\n2. Provide you with false, confusing, or dishonest \ninformation used to make a decision or take action. It can be \ndangerous to do something without having all the facts, but \nit can be just as detrimental to do so based on inaccurate \ninformation. Whether it’s political, medical, academic, \nor personal, you need to be able to recognize when the \ninformation you are taking in can be trusted to help you make \nan intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nThe expression “false, confusing, or dishonest information” \n(item 2) refers to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe spread of fake news can have both personal and academic consequences. In a perfect world everything reported would be based only on facts and you would be able to trust that the media you consume is reliable. But unfortunately that’s not the case. You should learn to spot false information because fake news can:\n\n1. Call into question the credibility of your sources. As a student you are expected to find, evaluate, and reference trustworthy information sources in a variety of formats. If you include fake news as evidence for your arguments or as part of your research it may raise doubts about the integrity of the sources you use as a whole and your ability to identify quality information. Maintain the respect of your professors, peers, friends, and family by citing only true, credible news and information sources.\n\n2. Provide you with false, confusing, or dishonest information used to make a decision or take action. It can be dangerous to do something without having all the facts, but it can be just as detrimental to do so based on inaccurate information. Whether it’s political, medical, academic, or personal, you need to be able to recognize when the information you are taking in can be trusted to help you make an intelligent, fact-based choice.\n\n(https://libguides.uvic.ca, 26.05.2023. Adaptado.)\n\nThe expression “false, confusing, or dishonest information” (item 2) refers to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“credilble news”.",
@@ -469,15 +529,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -502,12 +561,16 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia a tirinha de Brian Crane.\n\n(www.gocomics.com)\n\nDe acordo com o contexto apresentado pela tirinha, a fala “It’s \njust like you” (2o quadrinho) expressa a ideia de",
+    "statement": "Leia a tirinha de Brian Crane.\n\n(www.gocomics.com)\n\nDe acordo com o contexto apresentado pela tirinha, a fala “It’s just like you” ($2^{o}$ quadrinho) expressa a ideia de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/sis-2023-a1/q12-1.png",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -519,15 +582,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -551,7 +613,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A ideia construída acerca do termo Pré-história foi a de \nrevelar que as tecnologias industriais complexas (do século XIX-XX) tiveram seus primórdios em tempos remotos da \nhumanidade e o próprio paleolítico dava testemunho material desse avanço gradual da capacidade humana, tanto \nde evoluir quanto de dominar o meio ambiente. O “homem \nevoluído” domina a ciência, resta apenas criar mecanismos \nde diferenciação deste homem em relação aos demais.\n\n(Ana L. N. Oliveira et al. “O conceito de Pré-história \nnos livros didáticos de História no Brasil”. PerCursos, 2020.)\n\nO excerto revela que o conceito de Pré-História foi concebido \npara",
+    "statement": "A ideia construída acerca do termo Pré-história foi a de revelar que as tecnologias industriais complexas (do século XIX-XX) tiveram seus primórdios em tempos remotos da humanidade e o próprio paleolítico dava testemunho material desse avanço gradual da capacidade humana, tanto de evoluir quanto de dominar o meio ambiente. O “homem evoluído” domina a ciência, resta apenas criar mecanismos de diferenciação deste homem em relação aos demais.\n\n(Ana L. N. Oliveira et al. “O conceito de Pré-história\n\nnos livros didáticos de História no Brasil”. PerCursos, 2020.)\n\nO excerto revela que o conceito de Pré-História foi concebido para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "valorizar as habilidades humanas na Antiguidade.",
@@ -562,15 +630,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -594,7 +661,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Clístenes é eleito arconte em fins do século VI a.C. e \nempreende as reformas administrativas e políticas que democratizaram Atenas. A abertura política proporcionada pelo \ngoverno de Clístenes à participação direta dos cidadãos conforme cada região geográfica traz relevantes mudanças políticas e também para a educação dos jovens.\n\n(Maria Dulce Reis. “Democracia grega: \na antiga Atenas (séc. V a.C.)”. Sapere aude, 2018. Adaptado.)\n\nNa Grécia Antiga, as transformações citadas no excerto proporcionaram",
+    "statement": "Clístenes é eleito arconte em fins do século VI a.C. e empreende as reformas administrativas e políticas que democratizaram Atenas. A abertura política proporcionada pelo governo de Clístenes à participação direta dos cidadãos conforme cada região geográfica traz relevantes mudanças políticas e também para a educação dos jovens.\n\n(Maria Dulce Reis. “Democracia grega:\n\na antiga Atenas (séc. V a.C.)”. Sapere aude, 2018. Adaptado.)\n\nNa Grécia Antiga, as transformações citadas no excerto proporcionaram",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a unificação grega em torno de uma identidade nacional.",
@@ -605,15 +678,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -638,11 +710,15 @@ export const uea2023Sis = [
     "detail": "Filosofia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "Analise a charge publicada durante a Era Vargas (1930-1945).\n\n(http://culturaretro.blogspot.com)\n\nA charge retrata o populismo, que pode ser definido",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q15-1.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/sis-2023-a1/q15-1.png",
+        "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -654,15 +730,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -686,7 +761,13 @@ export const uea2023Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Os países da Organização dos Estados Americanos \n(OEA) chegaram a um acordo para condenar a crise de direitos humanos na Nicarágua durante uma assembleia anual, na qual os Estados Unidos insistiram em que “os governos autoritários” prestem contas. A comissão geral aprovou \num projeto de resolução sobre a Nicarágua que pede ao \ngoverno desse país que “encerre toda violação dos direitos \nhumanos e respeite os direitos civis e políticos, e que se \nabstenha de toda forma de intimidação” contra a imprensa, \nas comunidades religiosas e as organizações não governamentais.\n\n(“OEA chega a acordo para condenar Nicarágua”.\n\nwww.em.com.br, 23.06.2023. Adaptado.)\n\nUma das finalidades do órgão citado no excerto é",
+    "statement": "Os países da Organização dos Estados Americanos (OEA) chegaram a um acordo para condenar a crise de direitos humanos na Nicarágua durante uma assembleia anual, na qual os Estados Unidos insistiram em que “os governos autoritários” prestem contas. A comissão geral aprovou um projeto de resolução sobre a Nicarágua que pede ao governo desse país que “encerre toda violação dos direitos humanos e respeite os direitos civis e políticos, e que se abstenha de toda forma de intimidação” contra a imprensa, as comunidades religiosas e as organizações não governamentais.\n\n(“OEA chega a acordo para condenar Nicarágua”.\n\nwww.em.com.br, 23.06.2023. Adaptado.)\n\nUma das finalidades do órgão citado no excerto é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "promover a luta contra o imperialismo estadunidense.",
@@ -697,15 +778,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -729,7 +809,12 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Criado em 2003, o Programa Bolsa Família nasceu a \npartir da reorganização de programas já existentes, tais \ncomo Bolsa Escola, Bolsa Alimentação, Cartão Alimentação \ne Auxílio Gás. “Junto ao aumento real do salário mínimo, \no Bolsa Família tirou 45 milhões de brasileiros da miséria \ndesde sua criação, favorecendo um ciclo virtuoso de crescimento na economia”, lembra Renato Meirelles, fundador do \nInstituto Locomotiva e do Data Favela.\n\n(https://exame.com. Adaptado.)\n\nO excerto atesta que, desde a sua criação, o Programa Bolsa \nFamília",
+    "statement": "Criado em 2003, o Programa Bolsa Família nasceu a partir da reorganização de programas já existentes, tais como Bolsa Escola, Bolsa Alimentação, Cartão Alimentação e Auxílio Gás. “Junto ao aumento real do salário mínimo, o Bolsa Família tirou 45 milhões de brasileiros da miséria desde sua criação, favorecendo um ciclo virtuoso de crescimento na economia”, lembra Renato Meirelles, fundador do Instituto Locomotiva e do Data Favela.\n\n(https://exame.com. Adaptado.)\n\nO excerto atesta que, desde a sua criação, o Programa Bolsa Família",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "privilegiou princípios sociais no lugar dos econômicos.",
@@ -740,15 +825,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -772,7 +856,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O que começou como uma curiosidade por parte dos \nobservadores transformou-se em uma pseudociência macabra em meados do século XIX, quando pesquisadores buscavam evidências físicas para teorias raciais. Milhões de \npessoas visitaram os “zoológicos humanos” criados como \nparte de grandes feiras internacionais. Nelas, era possível \nver aldeias inteiras com habitantes levados de lugares distantes e pagos para representar danças de guerra ou rituais \nreligiosos diante de seus senhores coloniais.\n\n(“Os vergonhosos ‘zoológicos humanos’ que existiram \nna Europa até 1958”. www.bbc.com, 26.10.2022. Adaptado.)\n\nNesse contexto, a pseudociência a que o excerto se refere é",
+    "statement": "O que começou como uma curiosidade por parte dos observadores transformou-se em uma pseudociência macabra em meados do século XIX, quando pesquisadores buscavam evidências físicas para teorias raciais. Milhões de pessoas visitaram os “zoológicos humanos” criados como parte de grandes feiras internacionais. Nelas, era possível ver aldeias inteiras com habitantes levados de lugares distantes e pagos para representar danças de guerra ou rituais religiosos diante de seus senhores coloniais.\n\n(“Os vergonhosos ‘zoológicos humanos’ que existiram\n\nna Europa até 1958”. www.bbc.com, 26.10.2022. Adaptado.)\n\nNesse contexto, a pseudociência a que o excerto se refere é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Cientificismo.",
@@ -783,15 +873,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -815,7 +904,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O Brasil tem quase 5 mil comunidades quilombolas, e \ngrande número delas localiza-se na região norte do país. As \ncomunidades quilombolas na Amazônia, em grande parte, \nsurgiram do período das plantações de cacau e criações de \ngado. Normalmente, elas ficam afastadas, em lugares de difícil acesso.\n\n(“Comunidades Quilombolas na Amazônia — \nOnde Vivem, História e +”. https://redda.com.br. Adaptado.)\n\nOriginalmente, os membros que formaram as comunidades \ncitadas no excerto são",
+    "statement": "O Brasil tem quase 5 mil comunidades quilombolas, e grande número delas localiza-se na região norte do país. As comunidades quilombolas na Amazônia, em grande parte, surgiram do período das plantações de cacau e criações de gado. Normalmente, elas ficam afastadas, em lugares de difícil acesso.\n\n(“Comunidades Quilombolas na Amazônia —\n\nOnde Vivem, História e +”. https://redda.com.br. Adaptado.)\n\nOriginalmente, os membros que formaram as comunidades citadas no excerto são",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "refugiados de fronteiras amazônicas.",
@@ -826,15 +921,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -858,7 +952,12 @@ export const uea2023Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Primeira campeã olímpica do vôlei de praia ao lado de \nSandra, em Atlanta (1996), Jaqueline Silva ouviu um pedido \npara que elas, assim como as demais medalhistas, subissem \nao pódio de biquíni, o que acabou acontecendo. “Era fora \ndo padrão porque os atletas sobem ao pódio de agasalho”, \nrelembra a ex-jogadora.\n\n(“Mulheres nas Olimpíadas: uniformes, participação e salários \nem pauta”. https://www.cnnbrasil.com.br, 07.04.2023. Adaptado.)\n\nO episódio narrado no excerto suscita",
+    "statement": "Primeira campeã olímpica do vôlei de praia ao lado de Sandra, em Atlanta (1996), Jaqueline Silva ouviu um pedido para que elas, assim como as demais medalhistas, subissem ao pódio de biquíni, o que acabou acontecendo. “Era fora do padrão porque os atletas sobem ao pódio de agasalho”, relembra a ex-jogadora.\n\n(“Mulheres nas Olimpíadas: uniformes, participação e salários em pauta”. https://www.cnnbrasil.com.br, 07.04.2023. Adaptado.)\n\nO episódio narrado no excerto suscita",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o empoderamento feminino.",
@@ -869,15 +968,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -902,11 +1000,15 @@ export const uea2023Sis = [
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "Examine a projeção cartográfica.\n\n(https://atlasescolar.ibge.gov.br)\n\nA projeção cartográfica representada tem como característica",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2023-a1/q21-1.png",
+        "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -918,15 +1020,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -951,6 +1052,11 @@ export const uea2023Sis = [
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
     "statement": "Analise a pirâmide etária da Amazônia Legal.\n\n(Daniel Santos et al. Fatos da Amazônia 2021, março de 2021.)\n\nA análise da pirâmide etária da Amazônia Legal revela o predomínio da população",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "jovem, o que evidencia uma situação de elevado crescimento vegetativo.",
@@ -961,15 +1067,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -993,7 +1098,17 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Texto 1\n\nPor meio de uma associação de dois irmãos Kaiowá-\n-Guarani da aldeia Jaguapiru, a que se juntaram depois dois \namigos (também irmãos) da mesma etnia mas da aldeia Bororo, nasceu o grupo Brô MC’s, que lançou seu primeiro CD \ndemo em 2009, em Dourados, Mato Grosso do Sul. Os integrantes desse grupo são representantes de um povo que carrega um processo de luta por sobrevivência e de resistência.\n\n(Edmar Fonseca das Neves. “Rap indígena — \numa nova forma de visibilidade e denúncia do indígena\n\nno século XXI”. e-cadernos CES, 2021. Adaptado.)\n\nTexto 2\n\nEm 03.09.2022, dia dedicado ao rap no Palco Sunset \ndo Rock in Rio, a música indígena foi ouvida na Cidade do \nRock pela primeira vez. É que o rapper Xamã recebeu como \nconvidado em seu show o quarteto Brô MC’s, que levou as \nbandeiras dos povos originários para o festival.\n\n(https://vejario.abril.com.br. Adaptado.)\n\nDo ponto de vista geográfico, a atividade musical retratada \nnos textos 1 e 2 relaciona-se à",
+    "statement": "Texto 1\n\nPor meio de uma associação de dois irmãos Kaiowá-Guarani da aldeia Jaguapiru, a que se juntaram depois dois amigos (também irmãos) da mesma etnia mas da aldeia Bororo, nasceu o grupo Brô MC’s, que lançou seu primeiro CD demo em 2009, em Dourados, Mato Grosso do Sul. Os integrantes desse grupo são representantes de um povo que carrega um processo de luta por sobrevivência e de resistência.\n\n(Edmar Fonseca das Neves. “Rap indígena —\n\numa nova forma de visibilidade e denúncia do indígena no século XXI”. e-cadernos CES, 2021. Adaptado.)\n\nTexto 2\n\nEm 03.09.2022, dia dedicado ao rap no Palco Sunset do Rock in Rio, a música indígena foi ouvida na Cidade do Rock pela primeira vez. É que o rapper Xamã recebeu como convidado em seu show o quarteto Brô MC’s, que levou as bandeiras dos povos originários para o festival.\n\n(https://vejario.abril.com.br. Adaptado.)\n\nDo ponto de vista geográfico, a atividade musical retratada nos textos 1 e 2 relaciona-se à",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "conservação da floresta amazônica, em oposição à expansão econômica capitalista que degrada o meio ambiente.",
@@ -1004,15 +1119,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -1036,7 +1150,14 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A Coreia do Sul apresentou alto e rápido crescimento \neconômico entre os anos 1960 e 1980. Essa expansão econômica esteve associada a um aprimoramento em seu parque industrial, assim como uma forte inserção no comércio \ninternacional a partir dos anos 1970.\n\n(Uallace Moreira Lima. “O debate sobre o desenvolvimento \neconômico da Coreia do Sul: uma linha alternativa de interpretação”.\n\nEconomia e Sociedade, dezembro de 2017. Adaptado.)\n\nA inserção da Coreia do Sul no cenário internacional, citada \nno excerto, ocorreu devido à",
+    "statement": "A Coreia do Sul apresentou alto e rápido crescimento econômico entre os anos 1960 e 1980. Essa expansão econômica esteve associada a um aprimoramento em seu parque industrial, assim como uma forte inserção no comércio internacional a partir dos anos 1970.\n\n(Uallace Moreira Lima. “O debate sobre o desenvolvimento\n\neconômico da Coreia do Sul: uma linha alternativa de interpretação”.\n\nEconomia e Sociedade, dezembro de 2017. Adaptado.)\n\nA inserção da Coreia do Sul no cenário internacional, citada no excerto, ocorreu devido à",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "formação de tecnopolos, com o controle de bens de consumo.",
@@ -1047,15 +1168,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -1079,7 +1199,16 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia o trecho do poema “Eu, etiqueta”, de Carlos Drummond \nde Andrade.\n\nEstou, estou na moda.\nÉ duro andar na moda, ainda que a moda\nSeja negar minha identidade,\nTrocá-la por mil, açambarcando1\n\nTodas as marcas registradas,\nTodos os logotipos do mercado.\nCom que inocência demito-me de ser\nEu que antes era e me sabia\nTão diverso de outros, tão mim mesmo,\nSer pensante sentinte e solitário\nCom outros seres diversos e conscientes\nDe sua humana, invencível condição.\nAgora sou anúncio\nOra vulgar ora bizarro.\nEm língua nacional ou em qualquer língua.\n\n(www.sociologia.seed.pr.gov.br)\n\n1 açambarcar: tomar com exclusividade.\n\nO trecho do poema faz uma crítica à",
+    "statement": "Leia o trecho do poema “Eu, etiqueta”, de Carlos Drummond de Andrade.\n\nEstou, estou na moda.\nÉ duro andar na moda, ainda que a moda\nSeja negar minha identidade,\n\n1\n\nTodas as marcas registradas,\nTodos os logotipos do mercado.\nCom que inocência demito-me de ser\nEu que antes era e me sabia\nTão diverso de outros, tão mim mesmo,\nSer pensante sentinte e solitário\nCom outros seres diversos e conscientes\nDe sua humana, invencível condição.\nAgora sou anúncio\nOra vulgar ora bizarro.\nEm língua nacional ou em qualquer língua.\n\n(www.sociologia.seed.pr.gov.br)\n\n1 açambarcar: tomar com exclusividade.\n\nO trecho do poema faz uma crítica à",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "poem",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "padronização da sociedade, intensificada pelo processo de globalização.",
@@ -1090,15 +1219,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1122,7 +1250,13 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A maioria dos países considera ilegais os assentamentos construídos em terras capturadas por Israel na guerra de \n1967, no Oriente Médio. A presença desses assentamentos é \numa das questões fundamentais no conflito entre israelenses \ne palestinos.\n\nOs palestinos buscam estabelecer um Estado independente na Cisjordânia e na Faixa de Gaza, com Jerusalém \nOriental como sua capital. Colonos israelenses citam conexões históricas judaicas com a terra. As negociações \nde paz mediadas pelos Estados Unidos estão suspensas \ndesde 2014.\n\n(https://agenciabrasil.ebc.com.br, 26.06.2023. Adaptado.)\n\nDe acordo com o excerto, a motivação do conflito entre israelenses e palestinos é",
+    "statement": "A maioria dos países considera ilegais os assentamentos construídos em terras capturadas por Israel na guerra de 1967, no Oriente Médio. A presença desses assentamentos é uma das questões fundamentais no conflito entre israelenses e palestinos.\n\nOs palestinos buscam estabelecer um Estado independente na Cisjordânia e na Faixa de Gaza, com Jerusalém Oriental como sua capital. Colonos israelenses citam conexões históricas judaicas com a terra. As negociações de paz mediadas pelos Estados Unidos estão suspensas desde 2014.\n\n(https://agenciabrasil.ebc.com.br, 26.06.2023. Adaptado.)\n\nDe acordo com o excerto, a motivação do conflito entre israelenses e palestinos é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o princípio ideológico.",
@@ -1133,15 +1267,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1165,7 +1298,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Área delimitada no interior de um país e beneficiada \ncom incentivos fiscais e tarifas alfandegárias reduzidas ou \nausentes. Seu objetivo é estimular o comércio e acelerar o \ncrescimento econômico de uma região. Instalada na região \nAmazônica em 1967, atraiu investimentos vinculados ao setor secundário, sobretudo do ramo eletrônico avançado, que \nse beneficia das facilidades de importação de componentes \npara aparelhos eletroeletrônicos.\n\n(www.senado.leg.br. Adaptado.)\n\nO excerto faz menção",
+    "statement": "Área delimitada no interior de um país e beneficiada com incentivos fiscais e tarifas alfandegárias reduzidas ou ausentes. Seu objetivo é estimular o comércio e acelerar o crescimento econômico de uma região. Instalada na região Amazônica em 1967, atraiu investimentos vinculados ao setor secundário, sobretudo do ramo eletrônico avançado, que se beneficia das facilidades de importação de componentes para aparelhos eletroeletrônicos.\n\n(www.senado.leg.br. Adaptado.)\n\nO excerto faz menção",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao polo industrial de Belém.",
@@ -1176,15 +1314,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1208,7 +1345,14 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise o gráfico.\n\nNúmero de solicitantes de reconhecimento da\n\ncondição de refugiado no Brasil, conforme\n\nano de solicitação (2011–2022)\n\n(Gustavo Junger da Silva et al. Refúgio em números 2023, 2023.)\n\nUma justificativa para o aumento da quantidade de solicitações de refúgio, nos períodos de 2016-2019 e 2021-2022, \nestá relacionada à",
+    "statement": "Analise o gráfico.\n\nNúmero de solicitantes de reconhecimento da\ncondição de refugiado no Brasil, conforme\n\nano de solicitação (2011–2022)\n\n(Gustavo Junger da Silva et al. Refúgio em números 2023, 2023.)\n\nUma justificativa para o aumento da quantidade de solicitações de refúgio, nos períodos de 2016-2019 e 2021-2022, está relacionada à",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "facilidade da emissão de documentação de cidadania brasileira.",
@@ -1219,15 +1363,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -1251,7 +1394,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A Biologia considera que todos os seres vivos são formados \npor células, requerem energia, apresentam metabolismo próprio e respondem a estímulos do ambiente. Além dessas características, todos os seres vivos com células possuem",
+    "statement": "A Biologia considera que todos os seres vivos são formados por células, requerem energia, apresentam metabolismo próprio e respondem a estímulos do ambiente. Além dessas características, todos os seres vivos com células possuem",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "DNA envolto por membrana nuclear e são capazes de se adaptar ao meio.",
@@ -1262,15 +1408,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1294,7 +1439,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O glicocálice é uma camada formada, principalmente, por glicídios associados aos lipídios e proteínas componentes da \nporção externa das membranas celulares dos animais e de \nmuitos seres unicelulares eucarióticos. Com relação à função \ndesempenhada, o glicocálice relaciona-se",
+    "statement": "O glicocálice é uma camada formada, principalmente, por glicídios associados aos lipídios e proteínas componentes da porção externa das membranas celulares dos animais e de muitos seres unicelulares eucarióticos. Com relação à função desempenhada, o glicocálice relaciona-se",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à atividade da bomba de sódio e potássio.",
@@ -1305,15 +1453,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1337,7 +1484,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em 1920, o russo Aleksandr Oparin e o inglês John Haldane \npropuseram de forma independente explicações sobre a origem da vida na Terra. Segundo esses cientistas, a vida surgiu \nna Terra por",
+    "statement": "Em 1920, o russo Aleksandr Oparin e o inglês John Haldane propuseram de forma independente explicações sobre a origem da vida na Terra. Segundo esses cientistas, a vida surgiu na Terra por",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "evolução química.",
@@ -1348,15 +1498,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1380,7 +1529,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O conceito biológico de espécie é: grupos de populações naturais reais ou potencialmente intercruzantes, os quais geram \ndescendência fértil e que são reprodutivamente isolados de \noutros grupos de organismos. De acordo com essa definição, \nsão considerados dois seres vivos da mesma espécie",
+    "statement": "O conceito biológico de espécie é: grupos de populações naturais reais ou potencialmente intercruzantes, os quais geram descendência fértil e que são reprodutivamente isolados de outros grupos de organismos. De acordo com essa definição, são considerados dois seres vivos da mesma espécie",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o siri e o caranguejo-ermitão.",
@@ -1391,15 +1543,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1423,7 +1574,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A Amazônia é a maior floresta tropical do mundo, ocupando \n49% do território brasileiro. Uma característica marcante desse bioma é a presença de",
+    "statement": "A Amazônia é a maior floresta tropical do mundo, ocupando 49% do território brasileiro. Uma característica marcante desse bioma é a presença de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "vegetação com características xeromórficas.",
@@ -1434,15 +1588,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1466,12 +1619,16 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A figura ilustra as principais substâncias relacionadas com a \nfotossíntese.\n\n(www.twinkl.com.br. Adaptado.)\n\nA fotossíntese é um processo metabólico autotrófico que \nsintetiza a matéria orgânica pelos seres produtores. Tal produtividade é essencial para sustentar as cadeias tróficas. As \nletras X, Y e Z na figura representam, respectivamente, as \nsubstâncias",
+    "statement": "A figura ilustra as principais substâncias relacionadas com a fotossíntese.\n\n(www.twinkl.com.br. Adaptado.)\n\nA fotossíntese é um processo metabólico autotrófico que sintetiza a matéria orgânica pelos seres produtores. Tal produtividade é essencial para sustentar as cadeias tróficas. As letras X, Y e Z na figura representam, respectivamente, as substâncias",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q34-1.jpg",
-        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/sis-2023-a1/q34-1.png",
+        "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -1483,15 +1640,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -1515,7 +1671,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em um folheto de conscientização sobre dependência química e uso abusivo de drogas, há a seguinte frase: “Um dos \nsintomas do vício é a necessidade de a pessoa usar mais \ndroga ao longo do tempo”. De acordo com conhecimentos \nbiológicos sobre as substâncias químicas psicoativas, essa \nfrase é considerada",
+    "statement": "Em um folheto de conscientização sobre dependência química e uso abusivo de drogas, há a seguinte frase: “Um dos sintomas do vício é a necessidade de a pessoa usar mais droga ao longo do tempo”. De acordo com conhecimentos biológicos sobre as substâncias químicas psicoativas, essa frase é considerada",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "verdadeira, porque o corpo desenvolve uma tolerância à droga.",
@@ -1526,15 +1685,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1558,7 +1716,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Galileu Galilei (1564 – 1642) foi cientista, inventor e um dos \npioneiros a introduzir o método científico nas pesquisas. A \ncuriosidade por compreender as leis que regem os movimentos dos astros o estimulou a construir um telescópio, importante instrumento usado na astronomia. O método científico é um conjunto de procedimentos rigorosos que devem \nser executados para garantir alta qualidade científica. Para \nse realizar uma pesquisa científica é necessário seguir a sequência de etapas:",
+    "statement": "Galileu Galilei (1564 – 1642) foi cientista, inventor e um dos pioneiros a introduzir o método científico nas pesquisas. A curiosidade por compreender as leis que regem os movimentos dos astros o estimulou a construir um telescópio, importante instrumento usado na astronomia. O método científico é um conjunto de procedimentos rigorosos que devem ser executados para garantir alta qualidade científica. Para se realizar uma pesquisa científica é necessário seguir a sequência de etapas:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "hipótese, observação, análise e deduções.",
@@ -1569,15 +1730,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1601,7 +1761,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O cálculo da nota final em certa disciplina é feito pela média aritmética das notas de 5 atividades. A nota final de João \nnessa disciplina foi 7,6 e na última atividade ele tirou nota 10. \nNas 3 primeiras atividades ele tirou notas iguais e na quarta atividade ele tirou 2 a mais do que na segunda atividade. \nA nota de João na primeira atividade foi",
+    "statement": "O cálculo da nota final em certa disciplina é feito pela média aritmética das notas de 5 atividades. A nota final de João nessa disciplina foi 7,6 e na última atividade ele tirou nota 10. Nas 3 primeiras atividades ele tirou notas iguais e na quarta atividade ele tirou 2 a mais do que na segunda atividade. A nota de João na primeira atividade foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5,5.",
@@ -1612,15 +1775,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 38."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -1644,7 +1806,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um triângulo retângulo BCD, cuja hipotenusa BD mede 13 cm, \ntem o lado BC em comum com o triângulo retângulo ABC, conforme a figura, que mostra apenas parte do triângulo BCD.\n\nA área do triângulo BCD é",
+    "statement": "Um triângulo retângulo BCD, cuja hipotenusa BD mede 13 cm, tem o lado BC em comum com o triângulo retângulo ABC, conforme a figura, que mostra apenas parte do triângulo BCD.\n\nA área do triângulo BCD é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "6 cm2.",
@@ -1655,15 +1821,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 40."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1687,7 +1852,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um retângulo ABCD de área 40 cm2 tem o lado CD em comum com o retângulo CFGD, que tem um perímetro de 16 cm. \nUm ponto E sobre o lado AD do retângulo é tal que AE = ED \ne determina, juntamente com os pontos C, F e G, o trapézio \nCFGE, conforme mostra a figura.\n\nObservando que BC = 8 cm, a área do trapézio CFGE é",
+    "statement": "Um retângulo ABCD de área 40 $cm^{2}$ tem o lado CD em comum com o retângulo CFGD, que tem um perímetro de 16 cm. Um ponto E sobre o lado AD do retângulo é tal que AE = ED e determina, juntamente com os pontos C, F e G, o trapézio CFGE, conforme mostra a figura.\n\nObservando que BC = 8 cm, a área do trapézio CFGE é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "20 cm2.",
@@ -1698,15 +1867,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 41."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -1730,7 +1898,15 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Considere que em uma circunferência de raio R está inscrito \num triângulo que tenha um ângulo de medida α oposto a um \nlado do triângulo de medida ℓ, conforme figura 1. A lei dos \nsenos afirma que ℓ = 2R ⋅ sen α.\n\nFigura 1\n\nUm triângulo que tem um lado de medida aproximadamente \nigual a 7,9 cm está inscrito em uma circunferência de raio \n4 cm, conforme mostra a figura 2.\n\nFigura 2\n\nSabendo que sen \n, o perímetro do triângulo da figura 2\n\né, aproximadamente,",
+    "statement": "Considere que em uma circunferência de raio R está inscrito um triângulo que tenha um ângulo de medida α oposto a um lado do triângulo de medida ℓ, conforme figura 1. A lei dos senos afirma que ℓ = 2R ⋅ sen α.\n\nFigura 1\n\nUm triângulo que tem um lado de medida aproximadamente igual a 7,9 cm está inscrito em uma circunferência de raio 4 cm, conforme mostra a figura 2.\n\nFigura 2\n\nSabendo que sen, o perímetro do triângulo da figura 2\n\né, aproximadamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "19 cm.",
@@ -1741,15 +1917,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 42."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1773,7 +1948,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Permutando-se os algarismos do número 15 792, obtemos \n120 números distintos, incluindo o próprio número 15 792. \nO total dessas permutações que são números maiores que \n30 000 e menores que 70 000 é",
+    "statement": "Permutando-se os algarismos do número 15 792, obtemos 120 números distintos, incluindo o próprio número 15 792. O total dessas permutações que são números maiores que 30 000 e menores que 70 000 é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "96.",
@@ -1784,15 +1962,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 43."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1816,7 +1993,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma sorveteria oferece 10 sabores diferentes de sorvete e \n4 tipos diferentes de acompanhamentos. Rogério deve escolher 2 sabores diferentes de sorvete e 2 acompanhamentos diferentes, mas não escolherá sorvete de chocolate, que \né um dos 10 sabores. O número de maneiras distintas de \nRogério fazer essa escolha é",
+    "statement": "Uma sorveteria oferece 10 sabores diferentes de sorvete e 4 tipos diferentes de acompanhamentos. Rogério deve escolher 2 sabores diferentes de sorvete e 2 acompanhamentos diferentes, mas não escolherá sorvete de chocolate, que é um dos 10 sabores. O número de maneiras distintas de Rogério fazer essa escolha é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "72.",
@@ -1827,15 +2007,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 44."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -1859,7 +2038,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em uma viagem de 4 dias, um barco se desloca pelo trajeto \nfluvial entre Manaus e São Gabriel da Cachoeira, percorrendo uma distância de 864 km. Sabendo que um dia possui \n24 horas, a velocidade escalar média desenvolvida por esse \nbarco durante essa viagem é de",
+    "statement": "Em uma viagem de 4 dias, um barco se desloca pelo trajeto fluvial entre Manaus e São Gabriel da Cachoeira, percorrendo uma distância de 864 km. Sabendo que um dia possui 24 horas, a velocidade escalar média desenvolvida por esse barco durante essa viagem é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5 km/h.",
@@ -1870,15 +2052,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 45."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1902,7 +2083,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um escorregador foi encerado como medida de proteção \ncontra intempéries e como consequência sua superfície ficou extremamente lisa. Considere que uma criança, ao brincar nesse escorregador, inicie sua descida com velocidade \nnula a partir do topo do escorregador, a 2,45 m de distância do chão. Admitindo que a aceleração da gravidade seja \n10 m/s2 e que não houve atrito entre a criança e o escorregador, a velocidade escalar de chegada da criança ao chão \nfoi de",
+    "statement": "Um escorregador foi encerado como medida de proteção contra intempéries e como consequência sua superfície ficou extremamente lisa. Considere que uma criança, ao brincar nesse escorregador, inicie sua descida com velocidade nula a partir do topo do escorregador, a 2,45 m de distância do chão. Admitindo que a aceleração da gravidade seja 10 m/$s^{2}$ e que não houve atrito entre a criança e o escorregador, a velocidade escalar de chegada da criança ao chão foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3 m/s.",
@@ -1913,15 +2097,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 46."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1945,7 +2128,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A energia elétrica obtida em uma usina hidrelétrica é resultado da energia que a água dispõe antes de realizar sua queda \naté as turbinas, ou seja, quando a água ainda está represada. Nessa condição, essa energia encontra- se na forma \nde energia",
+    "statement": "A energia elétrica obtida em uma usina hidrelétrica é resultado da energia que a água dispõe antes de realizar sua queda até as turbinas, ou seja, quando a água ainda está represada. Nessa condição, essa energia encontra- se na forma de energia",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "potencial elétrica.",
@@ -1956,15 +2142,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 47."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -1988,12 +2173,16 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em maio de 2017, o Brasil lançou para o espaço o Satélite Geoestacionário de Defesa e Comunicações estratégicas \n(SGDC), que orbita a Terra sempre voltado para o território \nnacional, como mostra a figura.\n\n(www.fab.mil.br)\n\nConsidere que a massa e a força gravitacional à qual esse \nsatélite está submetido são, aproximadamente, 6 000 kg e \n1 200 N. Nessas condições, a aceleração da gravidade na \nregião da órbita desse satélite vale, aproximadamente,",
+    "statement": "Em maio de 2017, o Brasil lançou para o espaço o Satélite Geoestacionário de Defesa e Comunicações estratégicas (SGDC), que orbita a Terra sempre voltado para o território nacional, como mostra a figura.\n\n(www.fab.mil.br)\n\nConsidere que a massa e a força gravitacional à qual esse satélite está submetido são, aproximadamente, 6 000 kg e 1 200 N. Nessas condições, a aceleração da gravidade na região da órbita desse satélite vale, aproximadamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q48-1.jpg",
-        "alt": "Imagem de apoio da questão 48 (UEA SIS — Acompanhamento I, 2023).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/sis-2023-a1/q48-1.png",
+        "alt": "Imagem de apoio da questão 48 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
     "alternatives": [
@@ -2005,15 +2194,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 48."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -2037,7 +2225,12 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A consequência dos estudos planetários de Newton o levou \nà formulação da Lei da Gravitação Universal, que explicava \na interação entre o Sol e um planeta. Não demorou para ficar \nclaro que essa lei era válida para quaisquer dois corpos, podendo ser expressa por\n\nem que FG é a intensidade da força gravitacional entre os \ncorpos 1 e 2, G é a constate de gravitação universal, m1 e \nm2 são as massas dos corpos 1 e 2 e r é a distância entre os \ncorpos 1 e 2.\n\nSe r é a distância original entre os corpos 1 e 2, ao duplicarmos essa distância, a intensidade da força gravitacional entre \nesses corpos se tornará menor",
+    "statement": "A consequência dos estudos planetários de Newton o levou à formulação da Lei da Gravitação Universal, que explicava a interação entre o Sol e um planeta. Não demorou para ficar claro que essa lei era válida para quaisquer dois corpos, podendo ser expressa por\n\n2 são as massas dos corpos 1 e 2 e r é a distância entre $os_{G}$ é a intensidade da força gravitacional entre $os_{1}$ e\n\nSe r é a distância original entre os corpos 1 e 2, ao duplicarmos essa distância, a intensidade da força gravitacional entre esses corpos se tornará menor",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "duas vezes.",
@@ -2048,15 +2241,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 49."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -2080,7 +2272,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma das características que deve ser levada em consideração para a utilização de um material em um produto é a sua \ncondutividade térmica. Um exemplo de material que é classificado como bom condutor de calor é",
+    "statement": "Uma das características que deve ser levada em consideração para a utilização de um material em um produto é a sua condutividade térmica. Um exemplo de material que é classificado como bom condutor de calor é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a lã, utilizada na fabricação de roupas, cobertores e edredons.",
@@ -2091,15 +2286,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 50."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -2123,7 +2317,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um navio em repouso emite um bip de sonar para detectar a \nprofundidade do fundo do oceano e recebe o reflexo desse \nbip 0,4 s após sua emissão, conforme ilustrado na figura.\n\nSabendo que a velocidade de propagação do som na água é \nde 1 450 m/s, o fundo do oceano, no local abaixo do ponto em \nque o navio se encontra, está à profundidade de",
+    "statement": "Um navio em repouso emite um bip de sonar para detectar a profundidade do fundo do oceano e recebe o reflexo desse bip 0,4 s após sua emissão, conforme ilustrado na figura.\n\nSabendo que a velocidade de propagação do som na água é de 1 450 m/s, o fundo do oceano, no local abaixo do ponto em que o navio se encontra, está à profundidade de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "290 m.",
@@ -2134,15 +2332,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 51."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -2166,7 +2363,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma pessoa deixou seu computador ligado ininterruptamente \ndurante 30 dias. Sabendo que a potência média desse computador é de 300 W, a quantidade de energia utilizada por ele \nnesse período, em kWh, foi de",
+    "statement": "Uma pessoa deixou seu computador ligado ininterruptamente durante 30 dias. Sabendo que a potência média desse computador é de 300 W, a quantidade de energia utilizada por ele nesse período, em kWh, foi de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "162.",
@@ -2177,15 +2377,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 52."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -2209,7 +2408,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O garimpo clandestino na região Amazônica causa contaminação ambiental, pois utiliza, em muitos casos, a adição de \num metal pesado para separar o ouro dos resíduos de rocha. \nEsse metal pesado é líquido em temperatura ambiente e forma uma liga com o ouro, denominada amálgama.\n\nO metal pesado a que o texto se refere é",
+    "statement": "O garimpo clandestino na região Amazônica causa contaminação ambiental, pois utiliza, em muitos casos, a adição de um metal pesado para separar o ouro dos resíduos de rocha. Esse metal pesado é líquido em temperatura ambiente e forma uma liga com o ouro, denominada amálgama. O metal pesado a que o texto se refere é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o mercúrio.",
@@ -2220,15 +2422,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 53."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -2252,7 +2453,14 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma cooperativa de reciclagem de resíduos sólidos recebe \ndiversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade.\n\nPlástico\nSigla\nDensidade\n\n(g/mL)\n\nPolietileno de baixa densidade\nPEBD\n0,92\n\nPolietileno de alta densidade\nPEAD\n0,96\n\nPolietileno tereftalato\nPET\n1,36\n\nPolicloreto de vinila\nPVC\n1,40\n\nPara a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses \nresíduos, a mistura de plásticos é colocada em um recipiente \ncontendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do \nmaterial sobrenadante em cada etapa.\n\nConsiderando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) \ne água de torneira (d = 1,05 g/mL) para realizar a sequência \nde operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
+    "statement": "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade.\n\nPlástico Sigla Densidade (g/mL)\n\nPolietileno de baixa densidade PEBD 0,92 Polietileno de alta densidade PEAD 0,96 Polietileno tereftalato PET 1,36 Policloreto de vinila PVC 1,40\n\nPara a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa.\n\nConsiderando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) e água de torneira (d = 1,05 g/mL) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "álcool 45%, salmoura e água de torneira.",
@@ -2263,15 +2471,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 54."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2295,7 +2502,13 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A diferença entre átomo neutro e íon reside na carga total das \npartículas que constituem as espécies químicas. Considere a \ntabela a seguir, que apresenta o número atômico, o número \nde massa e o número de elétrons de três espécies químicas:\n\nEspécie química\nZ\nA\ne–\n\nI\n11\n23\n10\n\nII\n36\n84\n36\n\nIII\n16\n32\n18\n\nAs espécies químicas I, II e III são, respectivamente,",
+    "statement": "A diferença entre átomo neutro e íon reside na carga total das partículas que constituem as espécies químicas. Considere a tabela a seguir, que apresenta o número atômico, o número de massa e o número de elétrons de três espécies químicas:\n\nEspécie química Z A e–\n\nI $\\frac{11}{36}$ $\\frac{23}{84}$ $\\frac{10}{36}$\nII\nIII 16 32 18\n\nAs espécies químicas I, II e III são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ânion monovalente, átomo neutro e cátion bivalente.",
@@ -2306,15 +2519,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 55."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2338,7 +2550,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A boa digestão dos alimentos favorece o melhor aproveitamento dos seus nutrientes e deve ocorrer de forma rápida, \npermitindo o esvaziamento gástrico e o bom funcionamento intestinal. Os médicos recomendam evitar a ingestão de \nágua, ou líquidos de modo geral, durante as refeições e mastigar bem os alimentos antes de os engolir. Considerando-\n-se que, no processo da digestão, ocorrem reações químicas \nenvolvendo o suco gástrico e o bolo alimentar, a ingestão de \nlíquidos causa da velocidade das reações e a \nmastigação causa da velocidade das reações, \nporque, com a mastigação, a superfície de contato dos alimentos para interagir com o suco gástrico .\n\nAs lacunas são preenchidas, respectivamente, por:",
+    "statement": "A boa digestão dos alimentos favorece o melhor aproveitamento dos seus nutrientes e deve ocorrer de forma rápida, permitindo o esvaziamento gástrico e o bom funcionamento intestinal. Os médicos recomendam evitar a ingestão de água, ou líquidos de modo geral, durante as refeições e mastigar bem os alimentos antes de os engolir. Considerando-se que, no processo da digestão, ocorrem reações químicas envolvendo o suco gástrico e o bolo alimentar, a ingestão de líquidos causa da velocidade das reações e a mastigação causa da velocidade das reações, porque, com a mastigação, a superfície de contato dos alimentos para interagir com o suco gástrico. As lacunas são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aumento – aumento – diminui.",
@@ -2349,15 +2564,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 56."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -2381,7 +2595,12 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Os elementos químicos mais abundantes no Universo têm \ndistribuição surpreendentemente semelhante tanto no sistema solar como nas estrelas, nebulosas e galáxias. O gráfico \nrepresenta a abundância relativa dos elementos químicos no \nUniverso em função do número atômico.\n\n(www.astro.iag.usp.br. Adaptado.)\n\nOs elementos químicos mais abundantes no Universo são",
+    "statement": "Os elementos químicos mais abundantes no Universo têm distribuição surpreendentemente semelhante tanto no sistema solar como nas estrelas, nebulosas e galáxias. O gráfico representa a abundância relativa dos elementos químicos no Universo em função do número atômico.\n\n(www.astro.iag.usp.br. Adaptado.)\n\nOs elementos químicos mais abundantes no Universo são",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o hélio e o oxigênio.",
@@ -2392,15 +2611,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 57."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -2424,7 +2642,15 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A temperatura de ebulição de substâncias está relacionada à \nforça de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes \ncomo a massa das moléculas e a interação intermolecular \nexistente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nTemperatura\n\nSubstância\nMassa molar\n\nFórmula \nestrutural\n\nde ebulição\n\n(g/mol)\n\n(ºC)\n\nÉter \ndimetílico\n46\n– 25\n\nEtanol\n46\n78\n\nPropan-1-ol\n60\n97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que \na diferença de temperaturas de ebulição",
+    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância Massa molar (g/mol) estruturalFórmula Temperatura de ebulição (ºC)\n\ndimetílicoÉter 46 – 25\n\nEtanol 46 78\n\nPropan-1-ol 60 97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "das três substâncias deve-se ao aumento progressivo das massas das moléculas.",
@@ -2435,15 +2661,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 58."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -2467,7 +2692,13 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A hidroxiapatita é um composto inorgânico constituinte de \nossos e dentes e sua forma sintética pode ser utilizada no \ndesenvolvimento de materiais bioativos. A obtenção da hidroxiapatita pode ser representada pela equação a seguir.\n\nx(NH4)2HPO4 + 10CaCℓ2 + 8NH4OH\n\nCa10(PO4)6(OH)y + 20NH4Cℓ + 6H2O\n\nOs valores de x e y na equação de obtenção da hidroxiapatita \nsão, respectivamente,",
+    "statement": "A hidroxiapatita é um composto inorgânico constituinte de ossos e dentes e sua forma sintética pode ser utilizada no desenvolvimento de materiais bioativos. A obtenção da hidroxiapatita pode ser representada pela equação a seguir.\n\nx($NH_{4}$ 2 $HPO_{4}$ 2 + $8NH_{4}$OH\n\n$Ca_{10}$($PO_{4}$ 6 y + $20NH_{4}$Cℓ+ $6H_{2}$O\n\nOs valores de x e y na equação de obtenção da hidroxiapatita são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 e 3.",
@@ -2478,15 +2709,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 59."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2510,7 +2740,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A produção de sabão é feita a partir da reação química entre \ngorduras e bases fortes, em especial as bases fortes constituídas por dois metais alcalinos que apresentam, respectivamente, o total de 3 e 4 camadas eletrônicas. Os metais que \nformam as bases utilizadas na produção de sabão e a carga \nadquirida por eles ao estabelecer ligações químicas são, respectivamente,",
+    "statement": "A produção de sabão é feita a partir da reação química entre gorduras e bases fortes, em especial as bases fortes constituídas por dois metais alcalinos que apresentam, respectivamente, o total de 3 e 4 camadas eletrônicas. Os metais que formam as bases utilizadas na produção de sabão e a carga adquirida por eles ao estabelecer ligações químicas são, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Li, Na e +1",
@@ -2521,15 +2754,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf, questão 60."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -2553,7 +2785,25 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, \npara responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; \ntodos curados! [...]\n\nAgora, se imaginais que o alienista1 ficou radiante ao ver \nsair o último hóspede da Casa Verde, mostrais com isso que \nainda não conheceis o nosso homem. Plus ultra! 2 era a sua \ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da \nloucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, \ncogitativo; alguma coisa lhe dizia que a teoria nova tinha, em \nsi mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de \nSua Majestade. [...] Era assim que ele ia, o grande alienista, \nde um cabo a outro da vasta biblioteca, metido em si mesmo, \nestranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de \numa janela, com o cotovelo esquerdo apoiado na mão direita, \naberta, e o queixo na mão esquerda, fechada, perguntou ele \na si:\n\n— Mas deveras estariam eles doidos, e foram curados \npor mim, — ou o que pareceu cura, não foi mais do que a \ndescoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os \ncérebros bem organizados que ele acabava de curar, eram \ntão desequilibrados como os outros. Sim, dizia ele consigo, \neu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam \nno estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas \nsensações contrárias, uma de gozo, outra de abatimento. A \nde gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, \npodia afirmar esta verdade: — não havia loucos em Itaguaí; \nItaguaí não possuía um só mentecapto. Mas tão depressa \nesta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí \nnão possuiria um único cérebro concertado? Esta conclusão \ntão absoluta não seria por isso mesmo errônea, e não vinha, \nportanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos \ncronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as \ntempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a \nfisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele.\nIsso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que \npossuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais.\n2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nAo assinalar que “Plus ultra! era a sua divisa.” (2o parágrafo), \no narrador caracteriza o médico como alguém",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nAo assinalar que “Plus ultra! era a sua divisa.” ($2^{o}$ parágrafo), o narrador caracteriza o médico como alguém",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "insensível.",
@@ -2564,15 +2814,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 3,
@@ -2596,7 +2845,25 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A voz do personagem mescla-se intimamente à voz do narrador, configurando o chamado discurso indireto livre, no seguinte trecho:",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nA voz do personagem mescla-se intimamente à voz do narrador, configurando o chamado discurso indireto livre, no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“— Vejamos, pensava ele; vejamos se chego enfim à última verdade.” (3o parágrafo)",
@@ -2607,15 +2874,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 3,
@@ -2639,7 +2905,25 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O leitor é figura fundamental na prosa machadiana da maturidade. Verifica-se a inclusão do leitor na narrativa no seguinte trecho:",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nO leitor é figura fundamental na prosa machadiana da maturidade. Verifica-se a inclusão do leitor na narrativa no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Agora, se imaginais que o alienista ficou radiante ao ver sair o último hóspede da Casa Verde, mostrais com isso que ainda não conheceis o nosso homem.” (2o parágrafo)",
@@ -2650,15 +2934,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 3,
@@ -2682,7 +2965,25 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em termos gerais, “O alienista” pode ser tomado como uma \nnarrativa",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nEm termos gerais, “O alienista” pode ser tomado como uma narrativa",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "histórica sobre as desventuras do império.",
@@ -2693,15 +2994,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -2725,7 +3025,25 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O termo que qualifica o substantivo na expressão “última verdade” (3o parágrafo) tem sentido oposto ao termo que qualifica o substantivo em",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nO termo que qualifica o substantivo na expressão “última verdade” ($3^{o}$ parágrafo) tem sentido oposto ao termo que qualifica o substantivo em",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“teoria verdadeira” (2o parágrafo).",
@@ -2736,15 +3054,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -2768,7 +3085,25 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "“Chegado a esta conclusão, o ilustre alienista teve duas \nsensações contrárias, uma de gozo, outra de abatimento.” \n(7o parágrafo)\n\nEm relação à oração que a sucede, a oração sublinhada \nexpressa ideia de",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\n“Chegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento.” ($7^{o}$ parágrafo) Em relação à oração que a sucede, a oração sublinhada expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "finalidade.",
@@ -2779,15 +3114,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -2811,7 +3145,25 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O narrador recorre a um enunciado antitético no seguinte trecho:",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nO narrador recorre a um enunciado antitético no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral” (10o parágrafo).",
@@ -2822,15 +3174,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -2854,12 +3205,14 @@ export const uea2023Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A obra O caminhante sobre o mar de névoa, do pintor alemão Caspar David Friedrich (1774-1840), é uma das pinturas \nmais conhecidas do século XIX. A pintura retrata uma figura \nsolitária, situada sobre um pico rochoso, a contemplar uma \nimponente paisagem alpina. Nos arredores, outros picos rochosos emergem em meio ao mar de névoa. O pintor se vale \ndesse mar de névoa para criar uma espécie de atmosfera \nmisteriosa. A contemplação dessa natureza imensa sugere a \nsensação de perda no infinito.\n\nNão se trata, portanto, da mera representação da natureza, \nmas da representação da natureza a partir de um sujeito, situado em primeiro plano no centro da pintura e de costas \npara o espectador do quadro. Nesse sentido, a natureza retratada torna-se altamente expressiva (e não meramente decorativa), podendo ser vista como uma extensão, como um \nprolongamento do sujeito.\n\nNão por acaso, portanto, esta pintura de Caspar David \nFriedrich acabou por se alçada a símbolo do movimento",
+    "statement": "A obra O caminhante sobre o mar de névoa, do pintor alemão Caspar David Friedrich (1774-1840), é uma das pinturas mais conhecidas do século XIX. A pintura retrata uma figura solitária, situada sobre um pico rochoso, a contemplar uma imponente paisagem alpina. Nos arredores, outros picos rochosos emergem em meio ao mar de névoa. O pintor se vale desse mar de névoa para criar uma espécie de atmosfera misteriosa. A contemplação dessa natureza imensa sugere a sensação de perda no infinito. Não se trata, portanto, da mera representação da natureza, mas da representação da natureza a partir de um sujeito, situado em primeiro plano no centro da pintura e de costas para o espectador do quadro. Nesse sentido, a natureza retratada torna-se altamente expressiva (e não meramente decorativa), podendo ser vista como uma extensão, como um prolongamento do sujeito. Não por acaso, portanto, esta pintura de Caspar David Friedrich acabou por se alçada a símbolo do movimento",
+    "blockTypes": [
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/sis-2023-a2/q08-1.png",
+        "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -2871,15 +3224,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -2903,7 +3255,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and \nmusician who gained worldwide fame with The Beatles, a \nrock band formed in Liverpool in 1960. He has collaborated \nwith countless artists over his 60-year career, from Rihanna \nto Michael Jackson. Now, the former Beatle has teamed \nup with artificial intelligence (AI). In a recent interview, the \n80-year-old revealed that AI has made it possible to release \none “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries \n“The Beatles: Get Back”, produced in 2021 by Peter Jackson, \nthey found an old demo tape that John Lennon had recorded. \nThrough the use of artificial intelligence, they were able to \nstart the process of taking the decades-old recording and \nturning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from \nan old cassette tape,” McCartney said. “He could tell the \nmachine ‘That’s the voice. This is the guitar. Lose the guitar.’ \nWe were able to take John’s voice and get it pure through this \nAI,” McCartney continued. “Then we could mix the record as \nyou would normally do.”\n\nThough McCartney called recent uses of AI in music \n“kind of scary” — in April, a rap song featuring AI-generated \nvoices mimicking Drake and The Weeknd was yanked from \nstreaming services — the “Let It Be” singer admitted that the \ntechnology is “exciting, because it’s the future. There’s a good \nside to it, and then a scary side. And we’ll just have to see \nwhere that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nThe text intends to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and musician who gained worldwide fame with The Beatles, a rock band formed in Liverpool in 1960. He has collaborated with countless artists over his 60-year career, from Rihanna to Michael Jackson. Now, the former Beatle has teamed up with artificial intelligence (AI). In a recent interview, the 80-year-old revealed that AI has made it possible to release one “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries “The Beatles: Get Back”, produced in 2021 by Peter Jackson, they found an old demo tape that John Lennon had recorded. Through the use of artificial intelligence, they were able to start the process of taking the decades-old recording and turning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from an old cassette tape,” McCartney said. “He could tell the machine ‘That’s the voice. This is the guitar. Lose the guitar.’ We were able to take John’s voice and get it pure through this AI,” McCartney continued. “Then we could mix the record as you would normally do.”\n\nThough McCartney called recent uses of AI in music “kind of scary” — in April, a rap song featuring AI-generated voices mimicking Drake and The Weeknd was yanked from streaming services — the “Let It Be” singer admitted that the technology is “exciting, because it’s the future. There’s a good side to it, and then a scary side. And we’ll just have to see where that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nThe text intends to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "raise awareness about the risks of artificial intelligence.",
@@ -2914,15 +3275,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -2947,7 +3307,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and \nmusician who gained worldwide fame with The Beatles, a \nrock band formed in Liverpool in 1960. He has collaborated \nwith countless artists over his 60-year career, from Rihanna \nto Michael Jackson. Now, the former Beatle has teamed \nup with artificial intelligence (AI). In a recent interview, the \n80-year-old revealed that AI has made it possible to release \none “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries \n“The Beatles: Get Back”, produced in 2021 by Peter Jackson, \nthey found an old demo tape that John Lennon had recorded. \nThrough the use of artificial intelligence, they were able to \nstart the process of taking the decades-old recording and \nturning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from \nan old cassette tape,” McCartney said. “He could tell the \nmachine ‘That’s the voice. This is the guitar. Lose the guitar.’ \nWe were able to take John’s voice and get it pure through this \nAI,” McCartney continued. “Then we could mix the record as \nyou would normally do.”\n\nThough McCartney called recent uses of AI in music \n“kind of scary” — in April, a rap song featuring AI-generated \nvoices mimicking Drake and The Weeknd was yanked from \nstreaming services — the “Let It Be” singer admitted that the \ntechnology is “exciting, because it’s the future. There’s a good \nside to it, and then a scary side. And we’ll just have to see \nwhere that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nIn the excerpt from the third paragraph “‘We were able to take \nJohn’s voice and get it pure through this AI’”, the word “it” \nrefers to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and musician who gained worldwide fame with The Beatles, a rock band formed in Liverpool in 1960. He has collaborated with countless artists over his 60-year career, from Rihanna to Michael Jackson. Now, the former Beatle has teamed up with artificial intelligence (AI). In a recent interview, the 80-year-old revealed that AI has made it possible to release one “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries “The Beatles: Get Back”, produced in 2021 by Peter Jackson, they found an old demo tape that John Lennon had recorded. Through the use of artificial intelligence, they were able to start the process of taking the decades-old recording and turning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from an old cassette tape,” McCartney said. “He could tell the machine ‘That’s the voice. This is the guitar. Lose the guitar.’ We were able to take John’s voice and get it pure through this AI,” McCartney continued. “Then we could mix the record as you would normally do.”\n\nThough McCartney called recent uses of AI in music “kind of scary” — in April, a rap song featuring AI-generated voices mimicking Drake and The Weeknd was yanked from streaming services — the “Let It Be” singer admitted that the technology is “exciting, because it’s the future. There’s a good side to it, and then a scary side. And we’ll just have to see where that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nIn the excerpt from the third paragraph “‘We were able to take John’s voice and get it pure through this AI’”, the word “it” refers to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“guitar”.",
@@ -2958,15 +3327,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -2991,7 +3359,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and \nmusician who gained worldwide fame with The Beatles, a \nrock band formed in Liverpool in 1960. He has collaborated \nwith countless artists over his 60-year career, from Rihanna \nto Michael Jackson. Now, the former Beatle has teamed \nup with artificial intelligence (AI). In a recent interview, the \n80-year-old revealed that AI has made it possible to release \none “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries \n“The Beatles: Get Back”, produced in 2021 by Peter Jackson, \nthey found an old demo tape that John Lennon had recorded. \nThrough the use of artificial intelligence, they were able to \nstart the process of taking the decades-old recording and \nturning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from \nan old cassette tape,” McCartney said. “He could tell the \nmachine ‘That’s the voice. This is the guitar. Lose the guitar.’ \nWe were able to take John’s voice and get it pure through this \nAI,” McCartney continued. “Then we could mix the record as \nyou would normally do.”\n\nThough McCartney called recent uses of AI in music \n“kind of scary” — in April, a rap song featuring AI-generated \nvoices mimicking Drake and The Weeknd was yanked from \nstreaming services — the “Let It Be” singer admitted that the \ntechnology is “exciting, because it’s the future. There’s a good \nside to it, and then a scary side. And we’ll just have to see \nwhere that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nA expressão “‘kind of scary’”, no início do quarto parágrafo, \nequivale, em português, a",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nPaul McCartney is an English singer, songwriter and musician who gained worldwide fame with The Beatles, a rock band formed in Liverpool in 1960. He has collaborated with countless artists over his 60-year career, from Rihanna to Michael Jackson. Now, the former Beatle has teamed up with artificial intelligence (AI). In a recent interview, the 80-year-old revealed that AI has made it possible to release one “last Beatles record.”\n\nMcCartney said that during the creation of the docuseries “The Beatles: Get Back”, produced in 2021 by Peter Jackson, they found an old demo tape that John Lennon had recorded. Through the use of artificial intelligence, they were able to start the process of taking the decades-old recording and turning it into something usable.\n\n“Peter Jackson was able to extricate John’s voice from an old cassette tape,” McCartney said. “He could tell the machine ‘That’s the voice. This is the guitar. Lose the guitar.’ We were able to take John’s voice and get it pure through this AI,” McCartney continued. “Then we could mix the record as you would normally do.”\n\nThough McCartney called recent uses of AI in music “kind of scary” — in April, a rap song featuring AI-generated voices mimicking Drake and The Weeknd was yanked from streaming services — the “Let It Be” singer admitted that the technology is “exciting, because it’s the future. There’s a good side to it, and then a scary side. And we’ll just have to see where that leads,” he said.\n\n(Nicolas Vega. www.cnbc.com, 14.06.2023. Adaptado.)\n\nA expressão “‘kind of scary’”, no início do quarto parágrafo, equivale, em português, a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um pouco ultrapassados.",
@@ -3002,15 +3379,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -3036,11 +3412,15 @@ export const uea2023Sis = [
     "detail": "Inglês — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
     "statement": "Leia a tirinha de Jim Davis.\n\n(www.gocomics.com)\n\nA fala do homem no primeiro quadrinho apresenta uma",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/sis-2023-a2/q12-1.png",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3052,15 +3432,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -3084,7 +3463,13 @@ export const uea2023Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em 1517, Martinho Lutero declarou:\n\n“Comete-se injustiça contra a palavra de Deus quando, \nno mesmo sermão, se consagra tanto ou mais tempo à indulgência do que à pregação da Palavra”.\n\n(O livro da História, 2017.)\n\nAs críticas centralizam-se no fato de que, para Lutero, a Igreja \nCatólica",
+    "statement": "Em 1517, Martinho Lutero declarou:\n\n“Comete-se injustiça contra a palavra de Deus quando, no mesmo sermão, se consagra tanto ou mais tempo à indulgência do que à pregação da Palavra”.\n\n(O livro da História, 2017.)\n\nAs críticas centralizam-se no fato de que, para Lutero, a Igreja Católica",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "menosprezava a figura papal ao divulgar os princípios religiosos de forma heterogênea.",
@@ -3095,15 +3480,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -3127,7 +3511,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "No dia 8 de setembro de 1664, os ingleses conquistaram \na cidade de Nova Amsterdã e a rebatizaram com o nome de \nNova York, em homenagem ao duque de York e Albany. No final da Segunda Guerra Anglo-Holandesa, os holandeses ganharam o controle do Suriname em troca de que os ingleses \ncontrolassem Nova Amsterdã.\n\n(“Hoje na História: 1664 - Nova York é batizada por ingleses após \nGuerra Anglo-Holandesa”. https://operamundi.uol.com.br, 08.09.2022.)\n\nO excerto retrata",
+    "statement": "No dia 8 de setembro de 1664, os ingleses conquistaram a cidade de Nova Amsterdã e a rebatizaram com o nome de Nova York, em homenagem ao duque de York e Albany. No final da Segunda Guerra Anglo-Holandesa, os holandeses ganharam o controle do Suriname em troca de que os ingleses controlassem Nova Amsterdã.\n\n(“Hoje na História: 1664 - Nova York é batizada por ingleses após\n\nGuerra Anglo-Holandesa”. https://operamundi.uol.com.br, 08.09.2022.)\n\nO excerto retrata",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o desejo dos colonos em romper com as referências metropolitanas.",
@@ -3138,15 +3528,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -3170,7 +3559,13 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise o excerto sobre a lei do Diretório dos Índios, que vigorou de 1758 a 1798 no Brasil.\n\nAo longo dos quarenta anos em que a lei esteve em vigor, \numa parcela relevante da população indígena transferiu-se \ndos locais em que vivia para as mais de cinquenta povoações \nerigidas para abrigá-la. Durante esse período, aquelas populações indígenas, colonos e africanos escravizados, reunidos \nno Vale Amazônico, participaram das relações econômicas \nda colônia e da metrópole que, de várias maneiras, alteraram \nas suas antigas formas de vida.\n\n(Mauro Cezar Coelho. “O Diretório dos Índios e as Chefias\n\nIndígenas: Uma inflexão”. Campos 7, 2006. Adaptado.)\n\nCom base no excerto, a lei do Diretório dos Índios priorizava",
+    "statement": "Analise o excerto sobre a lei do Diretório dos Índios, que vigorou de 1758 a 1798 no Brasil.\n\nAo longo dos quarenta anos em que a lei esteve em vigor, uma parcela relevante da população indígena transferiu-se dos locais em que vivia para as mais de cinquenta povoações erigidas para abrigá-la. Durante esse período, aquelas populações indígenas, colonos e africanos escravizados, reunidos no Vale Amazônico, participaram das relações econômicas da colônia e da metrópole que, de várias maneiras, alteraram as suas antigas formas de vida.\n\n(Mauro Cezar Coelho. “O Diretório dos Índios e as Chefias Indígenas: Uma inflexão”. Campos 7, 2006. Adaptado.)\n\nCom base no excerto, a lei do Diretório dos Índios priorizava",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a assimilação dos indígenas à sociedade colonial.",
@@ -3181,15 +3576,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -3213,7 +3607,14 @@ export const uea2023Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise um trecho da canção “Vacina obrigatória”, interpretada \npor Mario Pinheiro no contexto da Revolta da Vacina (1904).\n\nAnda o povo acelerado com horror à palmatória\n\nPor causa dessa lambança da vacina obrigatória\n\nOs manatas da sabença1 estão teimando desta vez\n\nEm meter o ferro a pulso bem no braço do freguês\n\n(www.bio.fiocruz.br. Adaptado.)\n\n1 manatas da sabença: trapaceiros da sabedoria.\n\nEm relação à obrigatoriedade da vacinação, a atitude do \n“povo”, descrita nos versos da canção, revela",
+    "statement": "Analise um trecho da canção “Vacina obrigatória”, interpretada por Mario Pinheiro no contexto da Revolta da Vacina (1904).\n\nAnda o povo acelerado com horror à palmatória\nPor causa dessa lambança da vacina obrigatória\nOs manatas da sabenç$a^{1}$ estão teimando desta vez\nEm meter o ferro a pulso bem no braço do freguês\n\n(www.bio.fiocruz.br. Adaptado.)\n\n1 manatas da sabença: trapaceiros da sabedoria.\n\nEm relação à obrigatoriedade da vacinação, a atitude do “povo”, descrita nos versos da canção, revela",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "apoio à modernização urbana.",
@@ -3224,15 +3625,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -3256,7 +3656,14 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "No contexto da Primeira Guerra Mundial, as opiniões divergiam entre aqueles que defendiam o alinhamento brasileiro com a causa aliada — chamados de aliadófilos —, os \nque pretendiam uma aliança entre Brasil e o Império Alemão \n— os germanófilos —, e aqueles que afirmavam ser a neutralidade brasileira a decisão mais certa a ser tomada. Todos \nesses grupos, no entanto, tinham a plena consciência que, \nqualquer que fosse o posicionamento brasileiro no conflito, o \npaís encontrava-se em um momento decisivo de sua política \ninternacional. O direcionamento do Brasil seria crucial para \na determinação de seu papel no cenário das relações internacionais do pós-guerra, assim como a alcunha definitiva de \n“nação civilizada”.\n\n(Livia Claro Pires. “A Liga Brasileira pelos Aliados e o Brasil\n\nna Primeira Guerra Mundial”. Anais do XXVI Simpósio\n\nNacional de História – ANPUH, 2011. Adaptado.)\n\nSegundo o excerto, era importante que o Brasil definisse \nsua adesão ou neutralidade na Primeira Guerra Mundial \n(1914-1918), já que a decisão poderia refletir",
+    "statement": "No contexto da Primeira Guerra Mundial, as opiniões divergiam entre aqueles que defendiam o alinhamento brasileiro com a causa aliada — chamados de aliadófilos —, os que pretendiam uma aliança entre Brasil e o Império Alemão — os germanófilos —, e aqueles que afirmavam ser a neutralidade brasileira a decisão mais certa a ser tomada. Todos esses grupos, no entanto, tinham a plena consciência que, qualquer que fosse o posicionamento brasileiro no conflito, o país encontrava-se em um momento decisivo de sua política internacional. O direcionamento do Brasil seria crucial para a determinação de seu papel no cenário das relações internacionais do pós-guerra, assim como a alcunha definitiva de “nação civilizada”.\n\n(Livia Claro Pires. “A Liga Brasileira pelos Aliados e o Brasil\n\nna Primeira Guerra Mundial”. Anais do XXVI Simpósio\n\nNacional de História – ANPUH, 2011. Adaptado.)\n\nSegundo o excerto, era importante que o Brasil definisse sua adesão ou neutralidade na Primeira Guerra Mundial (1914-1918), já que a decisão poderia refletir",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na concordância ou discordância com os ideais totalitários europeus.",
@@ -3267,15 +3674,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -3300,11 +3706,15 @@ export const uea2023Sis = [
     "detail": "Sociologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
     "statement": "Examine a obra do artista polonês Pawla Kuczynskiego.\n\n(http://rodolfopamplonafilho.blogspot.com)\n\nA obra faz uma crítica ao mundo atual, associada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q18-1.jpg",
-        "alt": "Imagem de apoio da questão 18 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/sis-2023-a2/q18-1.png",
+        "alt": "Imagem de apoio da questão 18 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3316,15 +3726,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -3348,7 +3757,12 @@ export const uea2023Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Tem sido frequentemente apontado que os movimentos \ntotalitários usam e abusam das liberdades democráticas com \no objetivo de suprimi-las. [...] As liberdades democráticas podem basear-se na igualdade de todos os cidadãos perante a \nlei; mas só adquirem significado e funcionam organicamente \nquando os cidadãos pertencem a agremiações ou são representados por elas, ou formam uma hierarquia social e política.\n\n(Hannah Arendt. Origens do totalitarismo, 1979.)\n\nNa teoria de Hannah Arendt, os regimes totalitários europeus \nde meados do século XX encontraram espaço para se desenvolverem, sobretudo,",
+    "statement": "Tem sido frequentemente apontado que os movimentos totalitários usam e abusam das liberdades democráticas com o objetivo de suprimi-las. [...] As liberdades democráticas podem basear-se na igualdade de todos os cidadãos perante a lei; mas só adquirem significado e funcionam organicamente quando os cidadãos pertencem a agremiações ou são representados por elas, ou formam uma hierarquia social e política.\n\n(Hannah Arendt. Origens do totalitarismo, 1979.)\n\nNa teoria de Hannah Arendt, os regimes totalitários europeus de meados do século XX encontraram espaço para se desenvolverem, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pelo preparo militar dos líderes que conseguiram governar.",
@@ -3359,15 +3773,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -3391,7 +3804,12 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A Prefeitura de Manaus iniciará as atividades no Parque \nMunicipal do Idoso (PMI) na terça-feira, 07.02.23, para mais \nde mil idosos inscritos. A acolhida terá um espaço com um \ntúnel do tempo, com fotos das atividades e eventos desenvolvidos ao longo dos 20 anos do PMI. Durante o período de \nmatrícula, os idosos passaram por avaliação física e funcional, composta de anamnese, levantamento epidemiológico \n(Covid) e quatro testes funcionais que avaliam força de membros superiores e inferiores, flexibilidade e risco de queda, \nequilíbrio dinâmico e agilidade, a fim de orientá-los para a \natividade física correta.\n\n(“Prefeitura inicia atividades no Parque Municipal do Idoso \nno dia 7/2”. https:// manaus.am.gov.br, 31.01.2023. Adaptado.)\n\nAções públicas, como a retratada no trecho da notícia, proporcionam condicionamento físico aos idosos, mas também \ncolaboram significativamente para",
+    "statement": "A Prefeitura de Manaus iniciará as atividades no Parque Municipal do Idoso (PMI) na terça-feira, 07.02.23, para mais de mil idosos inscritos. A acolhida terá um espaço com um túnel do tempo, com fotos das atividades e eventos desenvolvidos ao longo dos 20 anos do PMI. Durante o período de matrícula, os idosos passaram por avaliação física e funcional, composta de anamnese, levantamento epidemiológico (Covid) e quatro testes funcionais que avaliam força de membros superiores e inferiores, flexibilidade e risco de queda, equilíbrio dinâmico e agilidade, a fim de orientá-los para a atividade física correta.\n\n(“Prefeitura inicia atividades no Parque Municipal do Idoso no dia 7/2”. https:// manaus.am.gov.br, 31.01.2023. Adaptado.)\n\nAções públicas, como a retratada no trecho da notícia, proporcionam condicionamento físico aos idosos, mas também colaboram significativamente para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o individualismo.",
@@ -3402,15 +3820,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -3434,7 +3851,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O ministro das Relações Exteriores do Brasil afirmou, durante reunião de chanceleres da Organização Mundial do Comércio (OMC), que o país teme o avanço de políticas econômicas protecionistas no comércio internacional, e defendeu \num papel mais efetivo de entidades como a OMC. Segundo o \nministro, o Brasil também está atento para o aumento do protecionismo em todo o mundo e para a utilização de preocupações com a sustentabilidade como cobertura para medidas \nprotecionistas.\n\n(https://comexdobrasil.com, 09.06.2023. Adaptado.)\n\nA política econômica exposta no excerto é considerada um \nentrave para o comércio mundial porque",
+    "statement": "O ministro das Relações Exteriores do Brasil afirmou, durante reunião de chanceleres da Organização Mundial do Comércio (OMC), que o país teme o avanço de políticas econômicas protecionistas no comércio internacional, e defendeu um papel mais efetivo de entidades como a OMC. Segundo o ministro, o Brasil também está atento para o aumento do protecionismo em todo o mundo e para a utilização de preocupações com a sustentabilidade como cobertura para medidas protecionistas.\n\n(https://comexdobrasil.com, 09.06.2023. Adaptado.)\n\nA política econômica exposta no excerto é considerada um entrave para o comércio mundial porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "estabelece uma unicidade do mercado internacional.",
@@ -3445,15 +3867,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -3477,12 +3898,16 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise o mapa.\n\n(Maria Elena R. Simielli. Geoatlas, 2013.)\n\nO maior fluxo migratório para a região Nordeste, no primeiro \ndecênio do século XXI, está relacionado com",
+    "statement": "Analise o mapa.\n\n(Maria Elena R. Simielli. Geoatlas, 2013.)\n\nO maior fluxo migratório para a região Nordeste, no primeiro decênio do século XXI, está relacionado com",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q22-1.jpg",
-        "alt": "Imagem de apoio da questão 22 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2023-a2/q22-1.png",
+        "alt": "Imagem de apoio da questão 22 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3494,15 +3919,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -3527,11 +3951,16 @@ export const uea2023Sis = [
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
     "statement": "Examine o mapa.\n\nProjeto Calha Norte\n\n(https://g1.globo.com, 10.12.2013. Adaptado.)\n\nConsiderando a delimitação do Projeto Calha Norte, retratada no mapa, os argumentos do governo brasileiro para justificar a instalação dos pelotões de fronteira são",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2023-a2/q23-1.png",
+        "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3543,15 +3972,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -3575,7 +4003,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "No dia 28.06.2023, cerca de 500 pessoas se reuniram \nno auditório do Museu do Amanhã, no Rio de Janeiro, para a \ndivulgação dos primeiros resultados do Censo Demográfico \n2022. Presencialmente ou via internet, o evento atraiu grande \nnúmero de veículos e repórteres de todo o país, que produziram junto ao Instituto Brasileiro de Geografia e Estatística \n(IBGE) uma cobertura jornalística histórica.\n\n(https://censo2022.ibge.gov.br, 30.06.2023. Adaptado.)\n\nUm aspecto positivo da coleta e divulgação de dados do Censo Demográfico é",
+    "statement": "No dia 28.06.2023, cerca de 500 pessoas se reuniram no auditório do Museu do Amanhã, no Rio de Janeiro, para a divulgação dos primeiros resultados do Censo Demográfico 2022. Presencialmente ou via internet, o evento atraiu grande número de veículos e repórteres de todo o país, que produziram junto ao Instituto Brasileiro de Geografia e Estatística (IBGE) uma cobertura jornalística histórica.\n\n(https://censo2022.ibge.gov.br, 30.06.2023. Adaptado.)\n\nUm aspecto positivo da coleta e divulgação de dados do Censo Demográfico é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a identificação do uso e da ocupação do solo urbano.",
@@ -3586,15 +4019,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -3618,12 +4050,16 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise a charge do cartunista Maurício Pestana.\n\n(Elian Alabi Lucci. Conecte: Território e \nsociedade no mundo globalizado, 2014.)\n\nA charge exemplifica uma situação de preconceito no Brasil \nque envolve a população afrodescendente e que está relacionada",
+    "statement": "Analise a charge do cartunista Maurício Pestana.\n\n(Elian Alabi Lucci. Conecte: Território e sociedade no mundo globalizado, 2014.)\n\nA charge exemplifica uma situação de preconceito no Brasil que envolve a população afrodescendente e que está relacionada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2023-a2/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3635,15 +4071,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -3667,7 +4102,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em meio à mais longa pausa nos combates no Iêmen \n— mais de nove meses — a Arábia Saudita e os rebeldes \nhouthi, apoiados pelo Irã, retomaram negociações indiretas, \nde acordo com autoridades iemenitas, sauditas e da Organização das Nações Unidas (ONU). Os dois lados esperam \nfortalecer o cessar-fogo informal e traçar um caminho para \nnegociar o fim da guerra civil, que começou em 2014.\n\n(https://g1.globo.com, 18.01.2023. Adaptado.)\n\nA guerra civil do Iêmen, que completou oito anos em 2023, \ndecorre da",
+    "statement": "Em meio à mais longa pausa nos combates no Iêmen — mais de nove meses — a Arábia Saudita e os rebeldes houthi, apoiados pelo Irã, retomaram negociações indiretas, de acordo com autoridades iemenitas, sauditas e da Organização das Nações Unidas (ONU). Os dois lados esperam fortalecer o cessar-fogo informal e traçar um caminho para negociar o fim da guerra civil, que começou em 2014.\n\n(https://g1.globo.com, 18.01.2023. Adaptado.)\n\nA guerra civil do Iêmen, que completou oito anos em 2023, decorre da",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "criação do Estado Islâmico.",
@@ -3678,15 +4118,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -3710,12 +4149,16 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise a imagem, que representa a arte Kusiwa, uma pintura \ncorporal e arte gráfica do povo indígena Wajãpi, do Amapá.\n\n(http://portal.iphan.gov.br, 27.04.2017.)\n\nA preservação da arte Kusiwa, considerada patrimônio cultural do Brasil, é importante para",
+    "statement": "Analise a imagem, que representa a arte Kusiwa, uma pintura corporal e arte gráfica do povo indígena Wajãpi, do Amapá.\n\n(http://portal.iphan.gov.br, 27.04.2017.)\n\nA preservação da arte Kusiwa, considerada patrimônio cultural do Brasil, é importante para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q27-1.jpg",
-        "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2023-a2/q27-1.png",
+        "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -3727,15 +4170,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -3759,7 +4201,14 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O excerto retrata a visão do povo Yanomami sobre a floresta \nAmazônica.\n\nOs brancos pensam que a floresta está colocada sem razão sobre o chão, como morta. Não é verdade. Ela só parece \nsilenciosa porque os xapiri pë mantêm afastados os seres \nmaléficos e seguram a raiva do espírito da tempestade que \nderruba suas árvores. A floresta não está morta, do contrário \nas árvores não teriam folhas. E tampouco se veria água ali. \nAs árvores da floresta são belas porque estão vivas. Elas têm \numa só vida. É assim. Nossa floresta está viva e, se os brancos nos fizerem desaparecer e a desmatarem inteiramente, \neles ficarão pobres e acabarão por sofrer fome e sede.\n\n(Bruce Albert e Davi Kopenawa. \nO espírito da floresta: A luta pelo nosso futuro, 2023.)\n\nDe acordo com o excerto, o povo Yanomami acredita que a \nfloresta",
+    "statement": "O excerto retrata a visão do povo Yanomami sobre a floresta Amazônica.\n\nOs brancos pensam que a floresta está colocada sem razão sobre o chão, como morta. Não é verdade. Ela só parece silenciosa porque os xapiri pë mantêm afastados os seres maléficos e seguram a raiva do espírito da tempestade que derruba suas árvores. A floresta não está morta, do contrário as árvores não teriam folhas. E tampouco se veria água ali. As árvores da floresta são belas porque estão vivas. Elas têm uma só vida. É assim. Nossa floresta está viva e, se os brancos nos fizerem desaparecer e a desmatarem inteiramente, eles ficarão pobres e acabarão por sofrer fome e sede.\n\n(Bruce Albert e Davi Kopenawa.\n\nO espírito da floresta: A luta pelo nosso futuro, 2023.)\n\nDe acordo com o excerto, o povo Yanomami acredita que a floresta",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "apresenta um potencial econômico que deve ser explorado.",
@@ -3770,15 +4219,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -3802,7 +4250,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os gráficos mostram as variações de dois gases presentes \nna atmosfera terrestre nos últimos séculos que geram um \nalerta aos órgãos ambientais de vários governos mundiais.\n\n(www.epa.gov. Adaptado.)\n\nOs aumentos dos dois gases atmosféricos indicados nos gráficos originam-se, principalmente,",
+    "statement": "Os gráficos mostram as variações de dois gases presentes na atmosfera terrestre nos últimos séculos que geram um alerta aos órgãos ambientais de vários governos mundiais.\n\n(www.epa.gov. Adaptado.)\n\nOs aumentos dos dois gases atmosféricos indicados nos gráficos originam-se, principalmente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da ruptura das placas tectônicas, que libera gases do magma.",
@@ -3813,15 +4266,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -3845,7 +4297,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Responsável por prejuízos estimados em R$ 5 bilhões a \ncada safra, a maior ameaça à cultura da cana-de-açúcar no \nBrasil é um inseto-praga: a mariposa Diatraea saccharalis em \nsua fase larval, mais conhecida como broca-da-cana. Para \ncombatê-la, uma empresa paulista utiliza organismos ainda \nmenores e ferramentas da engenharia genética. A startup desenvolve variedades de cana transgênica que associam a expressão de duas proteínas bioinseticidas da bactéria Bacillus \nthuringiensis (Bt) com um gene extraído de outro microrganismo, Agrobacterium sp., que confere maior tolerância ao \nherbicida glifosato.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nPara a obtenção de um organismo transgênico em laboratório é necessário",
+    "statement": "Responsável por prejuízos estimados em R$ 5 bilhões a cada safra, a maior ameaça à cultura da cana-de-açúcar no Brasil é um inseto-praga: a mariposa Diatraea saccharalis em sua fase larval, mais conhecida como broca-da-cana. Para combatê-la, uma empresa paulista utiliza organismos ainda menores e ferramentas da engenharia genética. A startup desenvolve variedades de cana transgênica que associam a expressão de duas proteínas bioinseticidas da bactéria Bacillus thuringiensis (Bt) com um gene extraído de outro microrganismo, Agrobacterium sp., que confere maior tolerância ao herbicida glifosato.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nPara a obtenção de um organismo transgênico em laboratório é necessário",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "utilizar uma enzima de restrição para cortar um gene específico.",
@@ -3856,15 +4313,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -3888,7 +4344,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A covid-19 é a doença causada pelo vírus Sars-CoV-2, que \napresenta uma molécula de RNA de fita simples, ou seja, \nseu material genético é composto por um único filamento de \nnucleotídeos. Comparando-se o material genético do Sars-\n-CoV-2 com o material das células humanas, tem-se que \no material genético do vírus se diferencia do humano por \napresentar",
+    "statement": "A covid-19 é a doença causada pelo vírus Sars-CoV-2, que apresenta uma molécula de RNA de fita simples, ou seja, seu material genético é composto por um único filamento de nucleotídeos. Comparando-se o material genético do Sars-CoV-2 com o material das células humanas, tem-se que o material genético do vírus se diferencia do humano por apresentar",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "nucleotídeos com desoxirribose.",
@@ -3899,15 +4358,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -3931,7 +4389,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um relatório aponta que a Índia é o país com os mais \naltos níveis de poluição do ar em todo o mundo e seus residentes podem perder em média 5,9 anos de expectativa \nde vida. Ainda, segundo o documento, no norte do país, cerca de 480 milhões de pessoas respiram níveis de poluição \n10 vezes maiores do que em qualquer outro lugar do planeta. Nesta região, onde se localizam as cidades de Déli e \nCalcutá, os habitantes podem perder até nove anos de vida \nse os níveis de poluição persistirem.\n\n(https://noticias.uol.com.br. Adaptado.)\n\nUma solução para reduzir o problema citado no excerto é \nsubstituir as principais fontes poluentes atuais por fontes de \nenergia",
+    "statement": "Um relatório aponta que a Índia é o país com os mais altos níveis de poluição do ar em todo o mundo e seus residentes podem perder em média 5,9 anos de expectativa de vida. Ainda, segundo o documento, no norte do país, cerca de 480 milhões de pessoas respiram níveis de poluição 10 vezes maiores do que em qualquer outro lugar do planeta. Nesta região, onde se localizam as cidades de Déli e Calcutá, os habitantes podem perder até nove anos de vida se os níveis de poluição persistirem.\n\n(https://noticias.uol.com.br. Adaptado.)\n\nUma solução para reduzir o problema citado no excerto é substituir as principais fontes poluentes atuais por fontes de energia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "não renovável, como o petróleo e o gás natural.",
@@ -3942,15 +4405,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -3974,7 +4436,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "No organismo humano existem bilhões de neurônios responsáveis por gerar e conduzir impulsos nervosos elétricos. São \nesses impulsos que comandam diversas ações sensoriais, \nmotoras, integradoras e que também regulam a homeostase \ndo corpo humano. A geração e a condução do impulso nervoso nos neurônios dependem diretamente dos transportes \ndos íons",
+    "statement": "No organismo humano existem bilhões de neurônios responsáveis por gerar e conduzir impulsos nervosos elétricos. São esses impulsos que comandam diversas ações sensoriais, motoras, integradoras e que também regulam a homeostase do corpo humano. A geração e a condução do impulso nervoso nos neurônios dependem diretamente dos transportes dos íons",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "cálcio e potássio.",
@@ -3985,15 +4450,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -4017,7 +4481,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para o secretário-geral da Organização das Nações \nUnidas (ONU), António Guterres, é urgente que se faça um \nacordo sobre a desmilitarização de um perímetro ao redor da \nmaior usina nuclear da Europa, em Kiev, Ucrânia, de modo \na garantir a segurança. O presidente ucraniano, Volodymyr \nZelensky, afirmou que existe risco de os ataques militares \nprovocarem o pior acidente nuclear do mundo, maior que o \nde Chernobyl”.\n\n(www.bbc.com, 11.08.2022. Adaptado.)\n\nCaso ocorra uma explosão nuclear, o vazamento de material \nradioativo é extremamente perigoso para a saúde de todos \nos seres vivos porque",
+    "statement": "Para o secretário-geral da Organização das Nações Unidas (ONU), António Guterres, é urgente que se faça um acordo sobre a desmilitarização de um perímetro ao redor da maior usina nuclear da Europa, em Kiev, Ucrânia, de modo a garantir a segurança. O presidente ucraniano, Volodymyr Zelensky, afirmou que existe risco de os ataques militares provocarem o pior acidente nuclear do mundo, maior que o de Chernobyl”.\n\n(www.bbc.com, 11.08.2022. Adaptado.)\n\nCaso ocorra uma explosão nuclear, o vazamento de material radioativo é extremamente perigoso para a saúde de todos os seres vivos porque",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "provoca mutações gênicas aleatórias.",
@@ -4028,15 +4497,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -4060,7 +4528,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O elemento carbono é fundamental para a formação dos \ncompostos orgânicos presentes na natureza e em todos os \nseres vivos. Considerando o ciclo do carbono, o processo \nque retira esse elemento químico do ar e o transforma em \ncompostos orgânicos é a",
+    "statement": "O elemento carbono é fundamental para a formação dos compostos orgânicos presentes na natureza e em todos os seres vivos. Considerando o ciclo do carbono, o processo que retira esse elemento químico do ar e o transforma em compostos orgânicos é a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "combustão, que depende do gás oxigênio para ocorrer.",
@@ -4071,15 +4542,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -4103,7 +4573,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O levantamento da Unearthed com a Public Eye apontou que 27% dos agrotóxicos vendidos em países ricos são \nconsiderados altamente perigosos. No Reino Unido, a proporção é de apenas 11%. Por outro lado, 45% dos agroquímicos vendidos pelas cinco empresas em países de renda \nmédia e baixa se encaixam na categoria. Na África do Sul, \na cifra sobe para 65%, na Índia, para 59% e no Brasil, para \n49%. O Brasil é o país que mais compra pesticidas no mundo, diz o levantamento, movimentando um total estimado em \nR$ 14,5 bilhões apenas em 2018.\n\n(www.bbc.com, 23.02.2020. Adaptado.)\n\nO uso excessivo de agrotóxicos, sem a devida segurança e a \ncorreta regulação ambiental, tem relação direta com",
+    "statement": "O levantamento da Unearthed com a Public Eye apontou que 27% dos agrotóxicos vendidos em países ricos são considerados altamente perigosos. No Reino Unido, a proporção é de apenas 11%. Por outro lado, 45% dos agroquímicos vendidos pelas cinco empresas em países de renda média e baixa se encaixam na categoria. Na África do Sul, a cifra sobe para 65%, na Índia, para 59% e no Brasil, para 49%. O Brasil é o país que mais compra pesticidas no mundo, diz o levantamento, movimentando um total estimado em R$ 14,5 bilhões apenas em 2018.\n\n(www.bbc.com, 23.02.2020. Adaptado.)\n\nO uso excessivo de agrotóxicos, sem a devida segurança e a correta regulação ambiental, tem relação direta com",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a extinção de espécies polinizadoras, como abelhas e borboletas.",
@@ -4114,15 +4589,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -4146,7 +4620,12 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere a função \n definida por f(x) = log4 x e o \nesboço de seu gráfico no plano cartesiano, que destaca também, por meio da linha tracejada, os pontos do plano cuja \nordenada é 4.\n\nO valor de x para o qual f(x) = 4 é",
+    "statement": "Considere a função esboço de seu gráfico no plano cartesiano, que destaca tam- definida por f(x) = $log_{4}$ x e o\n\nbém, por meio da linha tracejada, os pontos do plano cuja ordenada é 4.\n\nO valor de x para o qual f(x) = 4 é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "16.",
@@ -4157,15 +4636,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 37."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -4189,7 +4667,12 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere as seguintes funções de uma linguagem de programação e a explicação de seu uso:\n\n• \u0007Resto10(y); essa função recebe uma variável y representando um número real, calcula o resto da divisão de y por \n10 e armazena o resultado na variável y. Por exemplo, se \ny = 23, após a execução de Resto10(y), o valor da variável \ny será 3, pois o resto da divisão de 23 por 10 é 3.\n\n• \u0007Soma(y, q); essa função recebe uma variável y e um número q e executa a soma y + q, armazenando o resultado na \nvariável y. Por exemplo, supondo-se que a variável y esteja \narmazenando o número 12; após a execução de Soma(y, 3), \no valor da variável y passará a ser 15, pois 12 + 3 = 15.\n\nNessa linguagem, a instrução \n executa todos \nos comandos entre chaves n vezes, em que n é uma variável \nque armazena um número inteiro. Considere o seguinte código escrito nessa linguagem:\n\nn = 3;\ny = 24;\nRepete n\n{\n\nResto10(y);\nSoma(y, 12);\n}\n\nAo fim da execução desse código, o valor da variável y será",
+    "statement": "Considere as seguintes funções de uma linguagem de programação e a explicação de seu uso: • \u0007Resto10(y); essa função recebe uma variável y representando um número real, calcula o resto da divisão de y por 10 e armazena o resultado na variável y. Por exemplo, se y = 23, após a execução de Resto10(y), o valor da variável y será 3, pois o resto da divisão de 23 por 10 é 3. • \u0007Soma(y, q); essa função recebe uma variável y e um número q e executa a soma y + q, armazenando o resultado na variável y. Por exemplo, supondo-se que a variável y esteja armazenando o número 12; após a execução de Soma(y, 3), o valor da variável y passará a ser 15, pois 12 + 3 = 15. Nessa linguagem, a instrução executa todos os comandos entre chaves n vezes, em que n é uma variável que armazena um número inteiro. Considere o seguinte código escrito nessa linguagem:\n\nn = 3;\ny = 24;\nRepete n\n{\nResto10(y);\nSoma(y, 12);\n}\n\nAo fim da execução desse código, o valor da variável y será",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "12.",
@@ -4200,15 +4683,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 38."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -4232,7 +4714,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em uma progressão aritmética com 30 termos, a soma dos \n2 maiores termos é 139. Sabendo que a razão dessa progressão é 3, a soma dos seus 2 menores termos é",
+    "statement": "Em uma progressão aritmética com 30 termos, a soma dos 2 maiores termos é 139. Sabendo que a razão dessa progressão é 3, a soma dos seus 2 menores termos é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "-29.",
@@ -4243,15 +4728,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 39."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -4275,7 +4759,14 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Um prisma reto tem por base um pentágono com dois ângulos retos, conforme mostra a figura 1.\n\nFigura 1\n\nO volume desse prisma é igual a 168 cm3 e a figura 2 mostra \numa vista desse prisma quando está apoiado sobre um dos \npentágonos.\n\nFigura 2\n\nA área total desse prisma é",
+    "statement": "Um prisma reto tem por base um pentágono com dois ângulos retos, conforme mostra a figura 1.\n\nFigura 1\n\nO volume desse prisma é igual a 168 $cm^{3}$ e a figura 2 mostra uma vista desse prisma quando está apoiado sobre um dos pentágonos.\n\nFigura 2\n\nA área total desse prisma é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "140 cm2.",
@@ -4286,15 +4777,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 40."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -4318,7 +4808,12 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A distribuição das idades dos 80 alunos de uma escola está \nrepresentada por um gráfico de setores.\n\nIdades dos alunos da escola\n\nA média das idades desses 80 alunos é",
+    "statement": "A distribuição das idades dos 80 alunos de uma escola está representada por um gráfico de setores.\n\nIdades dos alunos da escola\n\nA média das idades desses 80 alunos é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15,5 anos.",
@@ -4329,15 +4824,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 41."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -4361,7 +4855,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere o gráfico da função trigonométrica f(x) = a ⋅ cos x + b, \nem que a e b são constantes reais.\n\nO valor de a + b é igual a",
+    "statement": "Considere o gráfico da função trigonométrica f(x) = a ⋅ cos x + b, em que a e b são constantes reais.\n\nO valor de a + b é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3.",
@@ -4372,15 +4870,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 42."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -4404,7 +4901,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em um cilindro reto, sua secção transversal é um círculo de \nraio 6 cm e sua secção meridiana é um retângulo de área \n96 cm2.\n\nA altura desse cilindro é",
+    "statement": "Em um cilindro reto, sua secção transversal é um círculo de raio 6 cm e sua secção meridiana é um retângulo de área 96 $cm^{2}$.\n\nA altura desse cilindro é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "6π cm.",
@@ -4415,15 +4916,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 43."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -4447,7 +4947,12 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A média dos números de calçados de 20 jogadores de uma \nequipe de boliche é 41 e os números desses 20 calçados \nestão registrados na tabela:\n\n37\n44\n43\n42\n43\n\n39\n40\n42\n41\n40\n\n42\n42\n40\n41\n41\n\n44\n38\n39\n40\n42\n\nSeja M a moda dos números dessa tabela. Se os jogadores \ndessa equipe cujos números de calçados são menores do \nque 40 forem substituídos por jogadores cuja numeração de \ncalçado é M, a nova média dos números dos 20 calçados \nserá",
+    "statement": "A média dos números de calçados de 20 jogadores de uma equipe de boliche é 41 e os números desses 20 calçados estão registrados na tabela:\n\n$\\frac{37}{39}$ $\\frac{44}{40}$ $\\frac{43}{42}$ $\\frac{42}{41}$ $\\frac{43}{40}$\n$\\frac{42}{44}$ $\\frac{42}{38}$ $\\frac{40}{39}$ $\\frac{41}{40}$ $\\frac{41}{42}$\n\nSeja M a moda dos números dessa tabela. Se os jogadores dessa equipe cujos números de calçados são menores do que 40 forem substituídos por jogadores cuja numeração de calçado é M, a nova média dos números dos 20 calçados será",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "41,5.",
@@ -4458,15 +4963,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 44."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -4490,7 +4994,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os números e a escala impressos no corpo de um antigo \ntermômetro apagaram-se com o tempo. Para continuar usando esse termômetro, seu corpo de vidro foi colado ao lado \nde uma régua graduada em centímetros. Mergulhando-se o \ntermômetro em água a 0 ºC, verifica-se que a coluna líquida do termômetro chega até a marca de 1 cm na régua e, \nmergulhando-se o termômetro em água a 100 ºC, verifica-se \nque a coluna líquida chega até a marca dos 9 cm na régua, \ncomo mostram as figuras.\n\nCom essas informações, é possível determinar que a marca \nde 5 cm na régua corresponde à temperatura de",
+    "statement": "Os números e a escala impressos no corpo de um antigo termômetro apagaram-se com o tempo. Para continuar usando esse termômetro, seu corpo de vidro foi colado ao lado de uma régua graduada em centímetros. Mergulhando-se o termômetro em água a 0 ºC, verifica-se que a coluna líquida do termômetro chega até a marca de 1 cm na régua e, mergulhando-se o termômetro em água a 100 ºC, verifica-se que a coluna líquida chega até a marca dos 9 cm na régua, como mostram as figuras.\n\nCom essas informações, é possível determinar que a marca de 5 cm na régua corresponde à temperatura de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "40 ºC.",
@@ -4501,15 +5009,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 45."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -4533,7 +5040,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "No estudo da calorimetria, cada elemento possui calor específico próprio que traduz uma proporção entre energia, massa \ne variação de temperatura. Um exemplo disso é o calor específico do cobre, que tem valor igual a 0,09 cal/(g × ºC). Com \nrelação ao calor específico do cobre, para que a massa de",
+    "statement": "No estudo da calorimetria, cada elemento possui calor específico próprio que traduz uma proporção entre energia, massa e variação de temperatura. Um exemplo disso é o calor específico do cobre, que tem valor igual a 0,09 cal/(g × ºC). Com relação ao calor específico do cobre, para que a massa de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 g de cobre passe pelo processo de fusão, é necessário que essa massa de cobre receba 0,09 cal.",
@@ -4544,15 +5054,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 46."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -4576,12 +5085,16 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A indústria de alimentos utiliza radiação — mais especificamente os raios-X e os raios gama — para a esterilização de \nseus produtos, possibilitando que eles permaneçam conservados por mais tempo do que naturalmente permaneceriam. \nNa figura, estão representadas as faixas de comprimentos de \nonda que compreendem esses dois tipos de raios.\n\n(www.todamateria.com.br)\n\nAdmitindo que a velocidade de propagação das ondas eletromagnéticas no ar vale 3 × 108 m/s e sabendo que a frequência \nde uma onda é determinada pela divisão entre a velocidade \nde propagação dessa onda por seu comprimento de onda, a \nfaixa de frequências coberta pelos dois raios, X e gama, está \ncompreendida entre os valores",
+    "statement": "A indústria de alimentos utiliza radiação — mais especificamente os raios-X e os raios gama — para a esterilização de seus produtos, possibilitando que eles permaneçam conservados por mais tempo do que naturalmente permaneceriam. Na figura, estão representadas as faixas de comprimentos de onda que compreendem esses dois tipos de raios.\n\n(www.todamateria.com.br)\n\nAdmitindo que a velocidade de propagação das ondas eletromagnéticas no ar vale 3 × $10^{8}$ m/s e sabendo que a frequência de uma onda é determinada pela divisão entre a velocidade de propagação dessa onda por seu comprimento de onda, a faixa de frequências coberta pelos dois raios, X e gama, está compreendida entre os valores",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q47-1.jpg",
-        "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/sis-2023-a2/q47-1.png",
+        "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -4593,15 +5106,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 47."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -4625,7 +5137,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O gráfico representa os valores de pressão e volume em uma \ntransformação cíclica.\n\nA ordem de percurso nessa transformação cíclica caracteriza . O ponto A indica o momento em que o \ngás possui a energia. Já o ponto B indica o \nmomento em que o gás possui a temperatura.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "O gráfico representa os valores de pressão e volume em uma transformação cíclica.\n\nA ordem de percurso nessa transformação cíclica caracteriza. O ponto A indica o momento em que o gás possui a energia. Já o ponto B indica o momento em que o gás possui a temperatura. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um refrigerador – maior – maior.",
@@ -4636,15 +5152,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 48."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -4668,12 +5183,16 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O átomo de urânio 235 pode ser fissionado quando seu núcleo absorve uma partícula que o torna instável. Neste caso, \nao se fissionar, outras três partículas iguais àquela que provocou a instabilidade são geradas, como mostra a figura.\n\n(https://escolakids.uol.com.br)\n\nCom base nas informações da figura, a partícula que fissiona \neste átomo de urânio 235 é o",
+    "statement": "O átomo de urânio 235 pode ser fissionado quando seu núcleo absorve uma partícula que o torna instável. Neste caso, ao se fissionar, outras três partículas iguais àquela que provocou a instabilidade são geradas, como mostra a figura.\n\n(https://escolakids.uol.com.br)\n\nCom base nas informações da figura, a partícula que fissiona este átomo de urânio 235 é o",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q49-1.jpg",
-        "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 15."
+        "src": "/images/uea/sis-2023-a2/q49-1.png",
+        "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -4685,15 +5204,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 49."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -4717,7 +5235,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em uma manhã fria e seca, uma moça saiu de casa para deixar o lixo no local de coleta. No retorno, encontrou sua gata, \nque passara a noite nos telhados da vizinhança. Pegou-a no \ncolo e acomodou-a em sua blusa de lã enquanto caminhava \nem direção à porta de sua casa. Ao se aproximar da porta, a \nmoça deixou a gata no chão e tocou sua mão na maçaneta, \nsendo surpreendida por um choque elétrico.\n\nA situação descrita envolve um processo de eletrização por \natrito, o qual obedece a sequência de afinidade eletrônica representada na série triboelétrica a seguir.\n\nNessa situação, a moça, ao tocar na maçaneta,",
+    "statement": "Em uma manhã fria e seca, uma moça saiu de casa para deixar o lixo no local de coleta. No retorno, encontrou sua gata, que passara a noite nos telhados da vizinhança. Pegou-a no colo e acomodou-a em sua blusa de lã enquanto caminhava em direção à porta de sua casa. Ao se aproximar da porta, a moça deixou a gata no chão e tocou sua mão na maçaneta, sendo surpreendida por um choque elétrico. A situação descrita envolve um processo de eletrização por atrito, o qual obedece a sequência de afinidade eletrônica representada na série triboelétrica a seguir.\n\nNessa situação, a moça, ao tocar na maçaneta,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "recebeu elétrons.",
@@ -4728,15 +5250,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 50."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -4760,7 +5281,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O som é uma onda e, por isso, só pode se propagar em meios materiais, como .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "O som é uma onda e, por isso, só pode se propagar em meios materiais, como. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "eletromagnética – a água.",
@@ -4771,15 +5295,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 51."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -4803,7 +5326,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "As fontes de energia consideradas não renováveis são aquelas que utilizam recursos que se esgotam na natureza. É \nexemplo de fonte de energia não renovável, em uso na atualidade, a",
+    "statement": "As fontes de energia consideradas não renováveis são aquelas que utilizam recursos que se esgotam na natureza. É exemplo de fonte de energia não renovável, em uso na atualidade, a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "eólica.",
@@ -4814,15 +5340,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 52."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -4846,7 +5371,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O Sol é uma fonte de energia ainda subexplorada, uma vez \nque as principais fontes de energia para o planeta Terra ainda são a queima de combustíveis fósseis, o aproveitamento \nde quedas d’água e a fissão nuclear. A energia do Sol pode \nser transformada em diversas outras formas de energia, tais \ncomo elétrica, térmica, mecânica ou química. Um exemplo \nde transformação de energia solar em energia química pode \nser encontrada",
+    "statement": "O Sol é uma fonte de energia ainda subexplorada, uma vez que as principais fontes de energia para o planeta Terra ainda são a queima de combustíveis fósseis, o aproveitamento de quedas d’água e a fissão nuclear. A energia do Sol pode ser transformada em diversas outras formas de energia, tais como elétrica, térmica, mecânica ou química. Um exemplo de transformação de energia solar em energia química pode ser encontrada",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na produção de glicose pelas plantas a partir da fotossíntese.",
@@ -4857,15 +5385,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 53."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -4889,12 +5416,16 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia a tirinha do cartunista Ziraldo.\n\n(O Globo, 16.07.2009.)\n\nO radioisótopo mencionado pelo personagem na tirinha é um\n\nemissor de partículas beta \n, utilizado na datação de fósseis. Quando um núcleo desse radioisótopo emite uma partícula beta, seu número atômico (Z)",
+    "statement": "Leia a tirinha do cartunista Ziraldo.\n\n(O Globo, 16.07.2009.)\n\nO radioisótopo mencionado pelo personagem na tirinha é um emissor de partículas beta, utilizado na datação de fósseis. Quando um núcleo desse radioisótopo emite uma partícula beta, seu número atômico (Z)",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q54-1.jpg",
-        "alt": "Imagem de apoio da questão 54 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 16."
+        "src": "/images/uea/sis-2023-a2/q54-1.png",
+        "alt": "Imagem de apoio da questão 54 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -4906,15 +5437,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 54."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -4938,7 +5468,15 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A sustentabilidade está relacionada ao conceito de manutenção de um equilíbrio entre o que é consumido e o que é renovado. Um dos combustíveis renováveis é o etanol, utilizado \nem substituição dos combustíveis fósseis como gasolina e \nóleo diesel. No entanto, a produção de etanol ainda utiliza, \nem grande parte, combustíveis fósseis, seja na lavoura ou na \nindústria de fertilizantes e defensivos agrícolas.\n\nUm fator importante considerado na sustentabilidade de um \ncombustível é a sua eficiência energética, que é calculada \nconforme a equação:\n\nEficiência energética =\n\nA tabela apresenta a relação entre a energia produzida pela \nutilização de etanol e a energia consumida em sua produção, \nconsiderando diversas matérias-primas.\n\nMatéria-prima\nEnergia renovável/energia fóssil usada\n\nMilho\n1,3\n\nCana-de-açúcar\n8,9\n\nBeterraba\n2,0\n\nSorgo sacarino\n4,0\n\nMandioca\n1,0\n\nCom base na tabela, a matéria-prima mais sustentável para \na produção do etanol é",
+    "statement": "A sustentabilidade está relacionada ao conceito de manutenção de um equilíbrio entre o que é consumido e o que é renovado. Um dos combustíveis renováveis é o etanol, utilizado em substituição dos combustíveis fósseis como gasolina e óleo diesel. No entanto, a produção de etanol ainda utiliza, em grande parte, combustíveis fósseis, seja na lavoura ou na indústria de fertilizantes e defensivos agrícolas. Um fator importante considerado na sustentabilidade de um combustível é a sua eficiência energética, que é calculada conforme a equação:\n\nEficiência energética =\n\nA tabela apresenta a relação entre a energia produzida pela utilização de etanol e a energia consumida em sua produção, considerando diversas matérias-primas.\n\nMatéria-prima Energia renovável/energia fóssil usada\n\nMilho 1,3 Cana-de-açúcar 8,9 Beterraba 2,0 Sorgo sacarino 4,0 Mandioca 1,0\n\nCom base na tabela, a matéria-prima mais sustentável para a produção do etanol é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o milho.",
@@ -4949,15 +5487,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 55."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -4981,7 +5518,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O processo de captação de gases produzidos pela decomposição anaeróbica de matéria orgânica em aterros sanitários é \numa importante medida para",
+    "statement": "O processo de captação de gases produzidos pela decomposição anaeróbica de matéria orgânica em aterros sanitários é uma importante medida para",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "evitar o mau cheiro produzido pelos resíduos orgânicos enterrados e produzir gases que neutralizam a chuva ácida.",
@@ -4992,15 +5532,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 56."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -5024,12 +5563,16 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A primeira pilha eletroquímica foi construída em 1800 pelo \nfísico italiano Alessandro Volta, que utilizou dois discos metálicos diferentes separados por um tecido embebido em uma \nsolução eletrolítica. Os discos, ao serem conectados por um \nfio condutor, geram um fluxo contínuo de elétrons, denominado corrente elétrica. Em 1836, o cientista britânico John \nFrederic Daniell propôs uma evolução da pilha de Volta, separando os eletrodos, mergulhando-os em soluções aquosas \ne unindo os metais por um fio condutor, e as soluções por \numa ponte salina, conforme ilustrado na figura.\n\n(https://byjus.com. Adaptado.)\n\nDurante o funcionamento da pilha de Daniell,",
+    "statement": "A primeira pilha eletroquímica foi construída em 1800 pelo físico italiano Alessandro Volta, que utilizou dois discos metálicos diferentes separados por um tecido embebido em uma solução eletrolítica. Os discos, ao serem conectados por um fio condutor, geram um fluxo contínuo de elétrons, denominado corrente elétrica. Em 1836, o cientista britânico John Frederic Daniell propôs uma evolução da pilha de Volta, separando os eletrodos, mergulhando-os em soluções aquosas e unindo os metais por um fio condutor, e as soluções por uma ponte salina, conforme ilustrado na figura.\n\n(https://byjus.com. Adaptado.)\n\nDurante o funcionamento da pilha de Daniell,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q57-1.jpg",
-        "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2023).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/sis-2023-a2/q57-1.png",
+        "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
     "alternatives": [
@@ -5041,15 +5584,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 57."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -5073,7 +5615,13 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A combustão de 0,44 g de um hidrocarboneto de massa molar 44 g/mol, realizada em um calorímetro ideal, elevou a temperatura de 100 g de água de 25 ºC até 75 ºC. Considerando \no calor específico da água igual a 4,2 J ⋅ g–1 ⋅ ºC–1, a entalpia \nde combustão desse hidrocarboneto é igual a",
+    "statement": "A combustão de 0,44 g de um hidrocarboneto de massa molar 44 g/mol, realizada em um calorímetro ideal, elevou a temperatura de 100 g de água de 25 ºC até 75 ºC. Considerando\n\n1 1, a entalpia\n\nde combustão desse hidrocarboneto é igual a\n\n1.\n1.\n1.\n1.\n1.",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "poem"
+    ],
     "images": [],
     "alternatives": [
       "-21 kJ ⋅ mol–1.",
@@ -5084,15 +5632,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 58."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -5116,7 +5663,12 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A fixação de nitrogênio no solo é parte importante do ciclo \nbiogeoquímico desse elemento, pois as plantas não conseguem absorver nitrogênio atmosférico (N2) para realizar seu \nmetabolismo. Bactérias nitrificantes convertem o N2 em compostos solúveis em água, que são absorvidos pelas plantas. \nUma sequência de etapas possíveis de ocorrer no processo \nde fixação do nitrogênio atmosférico é:\n\nNas etapas 1, 2 e 3, respectivamente, o elemento nitrogênio \npassa por processos de",
+    "statement": "A fixação de nitrogênio no solo é parte importante do ciclo biogeoquímico desse elemento, pois as plantas não conse-\n\npostos solúveis em água, que são absorvidos pelas plantas. metabolismo. Bactérias nitrificantes convertem o Nguem absorver nitrogênio atmosférico ($N_{2}$) para realizar $seu_{2}$ em comUma sequência de etapas possíveis de ocorrer no processo de fixação do nitrogênio atmosférico é:\n\nNas etapas 1, 2 e 3, respectivamente, o elemento nitrogênio passa por processos de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "oxidação, redução e redução.",
@@ -5127,15 +5679,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 59."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -5159,7 +5710,31 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O quadro apresenta alguns princípios da Química Verde.\n\nPrincípio\nDefinição\n\nDesenho de metodologias sintéticas que possam maximizar a incorporação de todos os materiais de \npartida no produto final.\n\nEconomia atômica\n\nSíntese de um produto químico \nque utilize e gere substâncias com \npouca ou nenhuma toxicidade à \nsaúde humana e ao ambiente.\n\nSíntese limpa\n\nUtilização de energia nos processos químicos reconhecida pela \nminimização de seus impactos \nambientais e econômicos, em que \nesses processos, sempre que possível, devem ser conduzidos a temperatura e pressão ambientes.\n\nOtimização do uso \nde energia\n\nAs sínteses industriais de dois compostos foram realizadas \npor processo convencional e por processo segundo os princípios da Química Verde, conforme mostram as sequências \nde equações:\n\nSíntese do composto 1:\n\nprodução de dimetilcarbonato (CH3OC(O)OCH3)\n\n– processo convencional:\n\nCoCℓ2 + 2CH3OH \n CH3OC(O)OCH3 + 2HCℓ\n\n– processo verde:\n\n2CH3OH + CO + O2 \n CH3OC(O)OCH3 + H2O\n\nSíntese do composto 2:\n\nprodução de t-butilamina [(CH3)3CNH2]\n\n– processo convencional:\n\n(CH3)2C = CH2 + HCN + H3O+ \n (CH3)3CNHCHO\n\n(CH3)3CNHCHO + H3O+ \n (CH3)3CNH2 + HCOOH\n\n– processo verde:\n\n(CH3)2C = CH2 + NH3 \n (CH3)3CNH2\n\nOs princípios da Química Verde empregados nas sínteses \ndos compostos 1 e 2 são, respectivamente,",
+    "statement": "O quadro apresenta alguns princípios da Química Verde.\n\nPrincípio Definição\n\nDesenho de metodologias sintéti-\n\nEconomia atômica cas que possam maximizar a incor-poração de todos os materiais de\n\npartida no produto final.\nSíntese de um produto químico\n\nSíntese limpa que utilize e gere substâncias com pouca ou nenhuma toxicidade à\n\nsaúde humana e ao ambiente.\n\nUtilização de energia nos proces-\nsos químicos reconhecida pela\n\nOtimização do uso de energia minimização de seus impactos ambientais e econômicos, em que esses processos, sempre que pos-\n\nsível, devem ser conduzidos a tem-\nperatura e pressão ambientes.\n\nAs sínteses industriais de dois compostos foram realizadas por processo convencional e por processo segundo os princípios da Química Verde, conforme mostram as sequências de equações:\n\nSíntese do composto 1:\n\nprodução de dimetilcarbonato ($CH_{3}$OC(O)$OCH_{3}$) – processo convencional:\n\n2 + $2CH_{3}$OH $CH_{3}$OC(O)$OCH_{3}$ + 2HCℓ\n\n– processo verde:\n\n$2CH_{3}$OH + CO + $O_{2}$ $CH_{3}$OC(O)$OCH_{3}$ + $H_{2}$O\n\nSíntese do composto 2:\n\nprodução de t-butilamina [($CH_{3}$ 3 $CNH_{2}$]\n\n– processo convencional:\n\n($CH_{3}$ 2C = $CH_{2}$ + HCN + $H_{3}$ $O^{+}$ ($CH_{3}$ 3CNHCHO ($CH_{3}$ 3CNHCHO + $H_{3}$ $O^{+}$ ($CH_{3}$ 3 $CNH_{2}$ + HCOOH – processo verde:\n\n($CH_{3}$ 2C = $CH_{2}$ + $NH_{3}$ ($CH_{3}$ 3 $CNH_{2}$\n\nOs princípios da Química Verde empregados nas sínteses dos compostos 1 e 2 são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "síntese limpa e economia atômica.",
@@ -5170,15 +5745,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf, questão 60."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -5202,7 +5776,19 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, \nde Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos \nalém do seu ordenado, o major Quaresma podia levar um \ntrem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de \nhomem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, \nembora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não \ntinha inimigos, e a única desafeição que merecera fora a do \ndoutor Segadas, um clínico afamado no lugar, que não podia \nadmitir que Quaresma tivesse livros: “Se não era formado, \npara quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas \nacontecia que, quando se abriam as janelas da sala de sua \nlivraria, da rua poder-se-iam ver as estantes pejadas de cima \na baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além \ndo compadre e da filha, as únicas pessoas que o visitavam \naté então, nos últimos dias, era visto entrar em sua casa, três \nvezes por semana e em dias certos, um senhor baixo, magro, \npálido, com um violão agasalhado numa bolsa de camurça. \nLogo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, \nquando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao \nlado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as \ncordas vibravam vagarosamente a nota ferida; em seguida, o \nmestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu \nlogo que o major aprendia a tocar violão. Mas que coisa? Um \nhomem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\nA voz do personagem mescla-se à voz do narrador, configurando o chamado discurso indireto livre, no seguinte trecho:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\nA voz do personagem mescla-se à voz do narrador, configurando o chamado discurso indireto livre, no seguinte trecho:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo.” (2o parágrafo)",
@@ -5213,15 +5799,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 01."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -5245,7 +5830,19 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No segundo parágrafo, a fala do doutor Segadas caracteriza \no major Quaresma como",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\nNo segundo parágrafo, a fala do doutor Segadas caracteriza o major Quaresma como",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "fingido.",
@@ -5256,15 +5853,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 02."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -5288,7 +5884,19 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e \nmisantropo.” (2o parágrafo)\n\nEm relação ao trecho que o antecede, o trecho sublinhado \nexpressa ideia de",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo.” ($2^{o}$ parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consequência.",
@@ -5299,15 +5907,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 03."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -5331,7 +5938,19 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A principal característica do protagonista de Triste fim de \nPolicarpo Quaresma é seu patriotismo. Tal patriotismo é \nconstruído no romance como algo",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\nA principal característica do protagonista de Triste fim de Policarpo Quaresma é seu patriotismo. Tal patriotismo é construído no romance como algo",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "moderado, estratégico.",
@@ -5342,15 +5961,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 4,
@@ -5374,7 +5992,17 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\nonde cantam gaturamos1 de Veneza.\nOs poetas da minha terra\nsão pretos que vivem em torres de ametista,\nos sargentos do exército são monistas2, cubistas,\nos filósofos são polacos vendendo a prestações.\nA gente não pode dormir\ncom os oradores e os pernilongos.\nOs sururus3 em família têm por testemunha a Gioconda4.\nEu morro sufocado\nem terra estrangeira.\nNossas flores são mais bonitas\nnossas frutas mais gostosas\nmas custam cem mil réis a dúzia.\n\nAi quem me dera chupar uma carambola de verdade\ne ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro.\n2 \u0007monista: relativo a monismo, uma vertente filosófica.\n3 \u0007sururu: briga envolvendo muitas pessoas, confusão.\n4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo \nda Vinci.\n\nNa construção de seu poema, Murilo Mendes mobiliza fundamentalmente o seguinte recurso expressivo:",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\n\n1 de Veneza.\n\nOs poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNa construção de seu poema, Murilo Mendes mobiliza fundamentalmente o seguinte recurso expressivo:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "intertextualidade.",
@@ -5385,15 +6013,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 05."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -5417,7 +6044,17 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\nonde cantam gaturamos1 de Veneza.\nOs poetas da minha terra\nsão pretos que vivem em torres de ametista,\nos sargentos do exército são monistas2, cubistas,\nos filósofos são polacos vendendo a prestações.\nA gente não pode dormir\ncom os oradores e os pernilongos.\nOs sururus3 em família têm por testemunha a Gioconda4.\nEu morro sufocado\nem terra estrangeira.\nNossas flores são mais bonitas\nnossas frutas mais gostosas\nmas custam cem mil réis a dúzia.\n\nAi quem me dera chupar uma carambola de verdade\ne ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro.\n2 \u0007monista: relativo a monismo, uma vertente filosófica.\n3 \u0007sururu: briga envolvendo muitas pessoas, confusão.\n4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo \nda Vinci.\n\nPredomina no poema de Murilo Mendes um tom",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\n\n1 de Veneza.\n\nOs poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nPredomina no poema de Murilo Mendes um tom",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "didático.",
@@ -5428,15 +6065,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 06."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -5460,7 +6096,17 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\nonde cantam gaturamos1 de Veneza.\nOs poetas da minha terra\nsão pretos que vivem em torres de ametista,\nos sargentos do exército são monistas2, cubistas,\nos filósofos são polacos vendendo a prestações.\nA gente não pode dormir\ncom os oradores e os pernilongos.\nOs sururus3 em família têm por testemunha a Gioconda4.\nEu morro sufocado\nem terra estrangeira.\nNossas flores são mais bonitas\nnossas frutas mais gostosas\nmas custam cem mil réis a dúzia.\n\nAi quem me dera chupar uma carambola de verdade\ne ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro.\n2 \u0007monista: relativo a monismo, uma vertente filosófica.\n3 \u0007sururu: briga envolvendo muitas pessoas, confusão.\n4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo \nda Vinci.\n\nNo poema, o eu lírico",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\n\n1 de Veneza.\n\nOs poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nNo poema, o eu lírico",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "celebra efusivamente a identidade nacional.",
@@ -5471,15 +6117,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 07."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -5503,7 +6148,17 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\nonde cantam gaturamos1 de Veneza.\nOs poetas da minha terra\nsão pretos que vivem em torres de ametista,\nos sargentos do exército são monistas2, cubistas,\nos filósofos são polacos vendendo a prestações.\nA gente não pode dormir\ncom os oradores e os pernilongos.\nOs sururus3 em família têm por testemunha a Gioconda4.\nEu morro sufocado\nem terra estrangeira.\nNossas flores são mais bonitas\nnossas frutas mais gostosas\nmas custam cem mil réis a dúzia.\n\nAi quem me dera chupar uma carambola de verdade\ne ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro.\n2 \u0007monista: relativo a monismo, uma vertente filosófica.\n3 \u0007sururu: briga envolvendo muitas pessoas, confusão.\n4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo \nda Vinci.\n\nConsiderando o contexto em que se encontra e sem prejuízo para a correção gramatical do verso, pode-se inserir uma \nvírgula em:",
+    "statement": "Para responder às questões de 05 a 08, leia o poema “Canção do exílio”, do escritor Murilo Mendes, publicado originalmente em 1930.\n\nCanção do exílio\n\nMinha terra tem macieiras da Califórnia\n\n1 de Veneza.\n\nOs poetas da minha terra são pretos que vivem em torres de ametista, os sargentos do exército são monistas², cubistas, os filósofos são polacos vendendo a prestações. A gente não pode dormir com os oradores e os pernilongos. Os sururus³ em família têm por testemunha a Gioconda⁴. Eu morro sufocado em terra estrangeira. Nossas flores são mais bonitas nossas frutas mais gostosas mas custam cem mil réis a dúzia. Ai quem me dera chupar uma carambola de verdade e ouvir um sabiá com certidão de idade!\n\n(Murilo Mendes. Poemas, 2014.)\n\n1 \u0007gaturamo: espécie de pássaro. 2 \u0007monista: relativo a monismo, uma vertente filosófica. 3 \u0007sururu: briga envolvendo muitas pessoas, confusão. 4 \u0007Gioconda (La Gioconda): a conhecida pintura Mona Lisa de Leonardo da Vinci.\n\nConsiderando o contexto em que se encontra e sem prejuízo para a correção gramatical do verso, pode-se inserir uma vírgula em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“onde cantam gaturamos de Veneza.” (1a estrofe) → onde cantam, gaturamos de Veneza.",
@@ -5514,15 +6169,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 08."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 5,
@@ -5546,7 +6200,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same \nas they are on adults. While alcohol misuse can present \nhealth risks and cause careless behaviour in all age groups, it \nis even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol \ncan interfere with their development. This makes young \npeople particularly vulnerable to the long-term damage \ncaused by alcohol. This damage can include: cancer of \nthe mouth and throat; sexual and mental health problems, \nincluding depression and suicidal thoughts; liver cirrhosis and \nheart disease.\n\nDrinking alcohol in adolescence can harm the development \nof the brain. Young people might think that any damage to \ntheir health caused by drinking lies so far in the future that it’s \nnot worth worrying about. However, there has been a sharp \nincrease in the number of people in their twenties dying from \nliver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes \nthem far more likely to act carelessly. If young people drink \nalcohol, they are more likely to end up in dangerous situations. \nFor example, they are more likely to climb walls or other \nheights and fall off. Or they might verbally abuse someone \nwho could hit them. They are also more likely to become \naggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nThe text intends to",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same as they are on adults. While alcohol misuse can present health risks and cause careless behaviour in all age groups, it is even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol can interfere with their development. This makes young people particularly vulnerable to the long-term damage caused by alcohol. This damage can include: cancer of the mouth and throat; sexual and mental health problems, including depression and suicidal thoughts; liver cirrhosis and heart disease.\n\nDrinking alcohol in adolescence can harm the development of the brain. Young people might think that any damage to their health caused by drinking lies so far in the future that it’s not worth worrying about. However, there has been a sharp increase in the number of people in their twenties dying from liver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes them far more likely to act carelessly. If young people drink alcohol, they are more likely to end up in dangerous situations. For example, they are more likely to climb walls or other heights and fall off. Or they might verbally abuse someone who could hit them. They are also more likely to become aggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nThe text intends to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "explain how young people can reduce risks related to alcohol use.",
@@ -5557,15 +6220,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -5590,7 +6252,20 @@ export const uea2023Sis = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron \nrecientemente la prueba de selectividad para el acceso \na la universidad. Interrogamos a algunas de las mejores \ncalificaciones sobre sus aspiraciones y sus costumbres y \nhemos descubierto una correlación entre su éxito académico \ny el uso racional de los dispositivos móviles y de las redes \nsociales.\n\nBuenas notas, poca dependencia de las pantallas\n\nLos chicos entrevistados provienen de toda España y \nen sus conductas con las pantallas hay algunos patrones. Sí \nfrecuentan la televisión, pero más para ver películas que para \nver series, porque prefieren el formato autoconclusivo que no \nles obliga a tener que engancharse y perder mucho tiempo. \nTodos ellos leen con frecuencia, pero no tienen bestsellers \njuveniles en su mesilla de noche, sino que se decantan \npor clásicos como Cien años de soledad o Los Miserables. \nSu red social más utilizada es Youtube, pero por intereses \neducativos más que por entretenimiento, y por eso siguen \ncanales temáticos de sus intereses favoritos, charlas TED \ny en algún caso videojuegos que por su elevado coste no \npueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy \nmás de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me \nda una pereza enorme hacerme fotos y subirlas, solo alguna \ncosa graciosa con mis amigos. La gente bailando no me \naporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no \ntener, no tengo ni foto de perfil. No tengo TikTok, pero veo los \nreels de Instagram, que es parecido. Me gustan los vídeos \nvariados, de humor y alguno educativo o científico que me \nayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo \nTikTok. Me la desinstalé porque no me aportaba mucho, no \nme enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de \ngatos y cosas así. También sigo a muchos divulgadores de \ncrímenes. Instagram, solo para contactar con gente y guardar \nmis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, \ntodos dicen ser muy conscientes de los peligros de las fake \nnews en redes sociales. No se dejan arrastrar por ídolos o \ninfluencers: En general, tuvieron su primer móvil entre los 12 \ny los 14 años. Casi todos ellos afirman que podrían pasar una \nsemana sin él, aunque prefieren tenerlo por las posibilidades \nde comunicación que ofrece con sus amigos y familiares. No \nles causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nSegún el texto, los chicos entrevistados",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron recientemente la prueba de selectividad para el acceso a la universidad. Interrogamos a algunas de las mejores calificaciones sobre sus aspiraciones y sus costumbres y hemos descubierto una correlación entre su éxito académico y el uso racional de los dispositivos móviles y de las redes sociales.\n\nBuenas notas, poca dependencia de las pantallas Los chicos entrevistados provienen de toda España y en sus conductas con las pantallas hay algunos patrones. Sí frecuentan la televisión, pero más para ver películas que para ver series, porque prefieren el formato autoconclusivo que no les obliga a tener que engancharse y perder mucho tiempo. Todos ellos leen con frecuencia, pero no tienen bestsellers juveniles en su mesilla de noche, sino que se decantan por clásicos como Cien años de soledad o Los Miserables. Su red social más utilizada es Youtube, pero por intereses educativos más que por entretenimiento, y por eso siguen canales temáticos de sus intereses favoritos, charlas TED y en algún caso videojuegos que por su elevado coste no pueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy más de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me da una pereza enorme hacerme fotos y subirlas, solo alguna cosa graciosa con mis amigos. La gente bailando no me aporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no tener, no tengo ni foto de perfil. No tengo TikTok, pero veo los reels de Instagram, que es parecido. Me gustan los vídeos variados, de humor y alguno educativo o científico que me ayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo TikTok. Me la desinstalé porque no me aportaba mucho, no me enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de gatos y cosas así. También sigo a muchos divulgadores de crímenes. Instagram, solo para contactar con gente y guardar mis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, todos dicen ser muy conscientes de los peligros de las fake news en redes sociales. No se dejan arrastrar por ídolos o influencers: En general, tuvieron su primer móvil entre los 12 y los 14 años. Casi todos ellos afirman que podrían pasar una semana sin él, aunque prefieren tenerlo por las posibilidades de comunicación que ofrece con sus amigos y familiares. No les causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nSegún el texto, los chicos entrevistados",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "han tenido éxito en sus estudios por haber abandonado los recursos tecnológicos mientras estudiaban.",
@@ -5601,15 +6276,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 09."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -5634,7 +6308,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same \nas they are on adults. While alcohol misuse can present \nhealth risks and cause careless behaviour in all age groups, it \nis even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol \ncan interfere with their development. This makes young \npeople particularly vulnerable to the long-term damage \ncaused by alcohol. This damage can include: cancer of \nthe mouth and throat; sexual and mental health problems, \nincluding depression and suicidal thoughts; liver cirrhosis and \nheart disease.\n\nDrinking alcohol in adolescence can harm the development \nof the brain. Young people might think that any damage to \ntheir health caused by drinking lies so far in the future that it’s \nnot worth worrying about. However, there has been a sharp \nincrease in the number of people in their twenties dying from \nliver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes \nthem far more likely to act carelessly. If young people drink \nalcohol, they are more likely to end up in dangerous situations. \nFor example, they are more likely to climb walls or other \nheights and fall off. Or they might verbally abuse someone \nwho could hit them. They are also more likely to become \naggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nIn the excerpt from the third pararaph “there has been a sharp \nincrease in the number of people in their twenties dying from \nliver disease as a result of drinking heavily in their teens”, the \nunderlined excerpt expresses the idea of",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same as they are on adults. While alcohol misuse can present health risks and cause careless behaviour in all age groups, it is even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol can interfere with their development. This makes young people particularly vulnerable to the long-term damage caused by alcohol. This damage can include: cancer of the mouth and throat; sexual and mental health problems, including depression and suicidal thoughts; liver cirrhosis and heart disease.\n\nDrinking alcohol in adolescence can harm the development of the brain. Young people might think that any damage to their health caused by drinking lies so far in the future that it’s not worth worrying about. However, there has been a sharp increase in the number of people in their twenties dying from liver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes them far more likely to act carelessly. If young people drink alcohol, they are more likely to end up in dangerous situations. For example, they are more likely to climb walls or other heights and fall off. Or they might verbally abuse someone who could hit them. They are also more likely to become aggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nIn the excerpt from the third pararaph “there has been a sharp increase in the number of people in their twenties dying from liver disease as a result of drinking heavily in their teens”, the underlined excerpt expresses the idea of",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consequence.",
@@ -5645,15 +6328,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -5678,7 +6360,20 @@ export const uea2023Sis = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron \nrecientemente la prueba de selectividad para el acceso \na la universidad. Interrogamos a algunas de las mejores \ncalificaciones sobre sus aspiraciones y sus costumbres y \nhemos descubierto una correlación entre su éxito académico \ny el uso racional de los dispositivos móviles y de las redes \nsociales.\n\nBuenas notas, poca dependencia de las pantallas\n\nLos chicos entrevistados provienen de toda España y \nen sus conductas con las pantallas hay algunos patrones. Sí \nfrecuentan la televisión, pero más para ver películas que para \nver series, porque prefieren el formato autoconclusivo que no \nles obliga a tener que engancharse y perder mucho tiempo. \nTodos ellos leen con frecuencia, pero no tienen bestsellers \njuveniles en su mesilla de noche, sino que se decantan \npor clásicos como Cien años de soledad o Los Miserables. \nSu red social más utilizada es Youtube, pero por intereses \neducativos más que por entretenimiento, y por eso siguen \ncanales temáticos de sus intereses favoritos, charlas TED \ny en algún caso videojuegos que por su elevado coste no \npueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy \nmás de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me \nda una pereza enorme hacerme fotos y subirlas, solo alguna \ncosa graciosa con mis amigos. La gente bailando no me \naporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no \ntener, no tengo ni foto de perfil. No tengo TikTok, pero veo los \nreels de Instagram, que es parecido. Me gustan los vídeos \nvariados, de humor y alguno educativo o científico que me \nayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo \nTikTok. Me la desinstalé porque no me aportaba mucho, no \nme enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de \ngatos y cosas así. También sigo a muchos divulgadores de \ncrímenes. Instagram, solo para contactar con gente y guardar \nmis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, \ntodos dicen ser muy conscientes de los peligros de las fake \nnews en redes sociales. No se dejan arrastrar por ídolos o \ninfluencers: En general, tuvieron su primer móvil entre los 12 \ny los 14 años. Casi todos ellos afirman que podrían pasar una \nsemana sin él, aunque prefieren tenerlo por las posibilidades \nde comunicación que ofrece con sus amigos y familiares. No \nles causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nDe acuerdo con el texto, en cuanto a los medios de estudio, \nes cierto que",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron recientemente la prueba de selectividad para el acceso a la universidad. Interrogamos a algunas de las mejores calificaciones sobre sus aspiraciones y sus costumbres y hemos descubierto una correlación entre su éxito académico y el uso racional de los dispositivos móviles y de las redes sociales.\n\nBuenas notas, poca dependencia de las pantallas Los chicos entrevistados provienen de toda España y en sus conductas con las pantallas hay algunos patrones. Sí frecuentan la televisión, pero más para ver películas que para ver series, porque prefieren el formato autoconclusivo que no les obliga a tener que engancharse y perder mucho tiempo. Todos ellos leen con frecuencia, pero no tienen bestsellers juveniles en su mesilla de noche, sino que se decantan por clásicos como Cien años de soledad o Los Miserables. Su red social más utilizada es Youtube, pero por intereses educativos más que por entretenimiento, y por eso siguen canales temáticos de sus intereses favoritos, charlas TED y en algún caso videojuegos que por su elevado coste no pueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy más de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me da una pereza enorme hacerme fotos y subirlas, solo alguna cosa graciosa con mis amigos. La gente bailando no me aporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no tener, no tengo ni foto de perfil. No tengo TikTok, pero veo los reels de Instagram, que es parecido. Me gustan los vídeos variados, de humor y alguno educativo o científico que me ayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo TikTok. Me la desinstalé porque no me aportaba mucho, no me enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de gatos y cosas así. También sigo a muchos divulgadores de crímenes. Instagram, solo para contactar con gente y guardar mis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, todos dicen ser muy conscientes de los peligros de las fake news en redes sociales. No se dejan arrastrar por ídolos o influencers: En general, tuvieron su primer móvil entre los 12 y los 14 años. Casi todos ellos afirman que podrían pasar una semana sin él, aunque prefieren tenerlo por las posibilidades de comunicación que ofrece con sus amigos y familiares. No les causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nDe acuerdo con el texto, en cuanto a los medios de estudio, es cierto que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "las pantallas en general son el medio de estudio más eficiente para los estudiantes.",
@@ -5689,15 +6384,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 10."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 7,
@@ -5722,7 +6416,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same \nas they are on adults. While alcohol misuse can present \nhealth risks and cause careless behaviour in all age groups, it \nis even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol \ncan interfere with their development. This makes young \npeople particularly vulnerable to the long-term damage \ncaused by alcohol. This damage can include: cancer of \nthe mouth and throat; sexual and mental health problems, \nincluding depression and suicidal thoughts; liver cirrhosis and \nheart disease.\n\nDrinking alcohol in adolescence can harm the development \nof the brain. Young people might think that any damage to \ntheir health caused by drinking lies so far in the future that it’s \nnot worth worrying about. However, there has been a sharp \nincrease in the number of people in their twenties dying from \nliver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes \nthem far more likely to act carelessly. If young people drink \nalcohol, they are more likely to end up in dangerous situations. \nFor example, they are more likely to climb walls or other \nheights and fall off. Or they might verbally abuse someone \nwho could hit them. They are also more likely to become \naggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nNo trecho do quarto parágrafo “For example, they are more \nlikely to climb walls”, a expressão sublinhada pode ser substituída, sem alteração de sentido, por",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nThe effects of alcohol on young people are not the same as they are on adults. While alcohol misuse can present health risks and cause careless behaviour in all age groups, it is even more dangerous for young people.\n\nBecause young people’s bodies are still growing, alcohol can interfere with their development. This makes young people particularly vulnerable to the long-term damage caused by alcohol. This damage can include: cancer of the mouth and throat; sexual and mental health problems, including depression and suicidal thoughts; liver cirrhosis and heart disease.\n\nDrinking alcohol in adolescence can harm the development of the brain. Young people might think that any damage to their health caused by drinking lies so far in the future that it’s not worth worrying about. However, there has been a sharp increase in the number of people in their twenties dying from liver disease as a result of drinking heavily in their teens.\n\nAlcohol interferes with the way people think and makes them far more likely to act carelessly. If young people drink alcohol, they are more likely to end up in dangerous situations. For example, they are more likely to climb walls or other heights and fall off. Or they might verbally abuse someone who could hit them. They are also more likely to become aggressive themselves and throw a punch.\n\n(www.nidirect.gov.uk. Adaptado.)\n\nNo trecho do quarto parágrafo “For example, they are more likely to climb walls”, a expressão sublinhada pode ser substituída, sem alteração de sentido, por",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "For now.",
@@ -5733,15 +6436,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -5766,7 +6468,20 @@ export const uea2023Sis = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron \nrecientemente la prueba de selectividad para el acceso \na la universidad. Interrogamos a algunas de las mejores \ncalificaciones sobre sus aspiraciones y sus costumbres y \nhemos descubierto una correlación entre su éxito académico \ny el uso racional de los dispositivos móviles y de las redes \nsociales.\n\nBuenas notas, poca dependencia de las pantallas\n\nLos chicos entrevistados provienen de toda España y \nen sus conductas con las pantallas hay algunos patrones. Sí \nfrecuentan la televisión, pero más para ver películas que para \nver series, porque prefieren el formato autoconclusivo que no \nles obliga a tener que engancharse y perder mucho tiempo. \nTodos ellos leen con frecuencia, pero no tienen bestsellers \njuveniles en su mesilla de noche, sino que se decantan \npor clásicos como Cien años de soledad o Los Miserables. \nSu red social más utilizada es Youtube, pero por intereses \neducativos más que por entretenimiento, y por eso siguen \ncanales temáticos de sus intereses favoritos, charlas TED \ny en algún caso videojuegos que por su elevado coste no \npueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy \nmás de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me \nda una pereza enorme hacerme fotos y subirlas, solo alguna \ncosa graciosa con mis amigos. La gente bailando no me \naporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no \ntener, no tengo ni foto de perfil. No tengo TikTok, pero veo los \nreels de Instagram, que es parecido. Me gustan los vídeos \nvariados, de humor y alguno educativo o científico que me \nayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo \nTikTok. Me la desinstalé porque no me aportaba mucho, no \nme enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de \ngatos y cosas así. También sigo a muchos divulgadores de \ncrímenes. Instagram, solo para contactar con gente y guardar \nmis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, \ntodos dicen ser muy conscientes de los peligros de las fake \nnews en redes sociales. No se dejan arrastrar por ídolos o \ninfluencers: En general, tuvieron su primer móvil entre los 12 \ny los 14 años. Casi todos ellos afirman que podrían pasar una \nsemana sin él, aunque prefieren tenerlo por las posibilidades \nde comunicación que ofrece con sus amigos y familiares. No \nles causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nDe acordo com as respostas dos entrevistados,",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron recientemente la prueba de selectividad para el acceso a la universidad. Interrogamos a algunas de las mejores calificaciones sobre sus aspiraciones y sus costumbres y hemos descubierto una correlación entre su éxito académico y el uso racional de los dispositivos móviles y de las redes sociales.\n\nBuenas notas, poca dependencia de las pantallas Los chicos entrevistados provienen de toda España y en sus conductas con las pantallas hay algunos patrones. Sí frecuentan la televisión, pero más para ver películas que para ver series, porque prefieren el formato autoconclusivo que no les obliga a tener que engancharse y perder mucho tiempo. Todos ellos leen con frecuencia, pero no tienen bestsellers juveniles en su mesilla de noche, sino que se decantan por clásicos como Cien años de soledad o Los Miserables. Su red social más utilizada es Youtube, pero por intereses educativos más que por entretenimiento, y por eso siguen canales temáticos de sus intereses favoritos, charlas TED y en algún caso videojuegos que por su elevado coste no pueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy más de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me da una pereza enorme hacerme fotos y subirlas, solo alguna cosa graciosa con mis amigos. La gente bailando no me aporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no tener, no tengo ni foto de perfil. No tengo TikTok, pero veo los reels de Instagram, que es parecido. Me gustan los vídeos variados, de humor y alguno educativo o científico que me ayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo TikTok. Me la desinstalé porque no me aportaba mucho, no me enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de gatos y cosas así. También sigo a muchos divulgadores de crímenes. Instagram, solo para contactar con gente y guardar mis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, todos dicen ser muy conscientes de los peligros de las fake news en redes sociales. No se dejan arrastrar por ídolos o influencers: En general, tuvieron su primer móvil entre los 12 y los 14 años. Casi todos ellos afirman que podrían pasar una semana sin él, aunque prefieren tenerlo por las posibilidades de comunicación que ofrece con sus amigos y familiares. No les causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nDe acordo com as respostas dos entrevistados,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "David baixa muitas coisas do Instagram.",
@@ -5777,15 +6492,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 11."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -5810,12 +6524,16 @@ export const uea2023Sis = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia a tirinha de Jim Davis.\n\n(www.gocomics.com)\n\nNo contexto apresentado pela tirinha, a frase “I give up!”, no \nprimeiro quadrinho, equivale, em português, a:",
+    "statement": "Leia a tirinha de Jim Davis.\n\n(www.gocomics.com)\n\nNo contexto apresentado pela tirinha, a frase “I give up!”, no primeiro quadrinho, equivale, em português, a:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q12-1.jpg",
-        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2023).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/sis-2023-a3/q12-1.png",
+        "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
     "alternatives": [
@@ -5827,15 +6545,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 6,
@@ -5860,7 +6577,20 @@ export const uea2023Sis = [
     "subject": "Espanhol",
     "detail": "Espanhol — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron \nrecientemente la prueba de selectividad para el acceso \na la universidad. Interrogamos a algunas de las mejores \ncalificaciones sobre sus aspiraciones y sus costumbres y \nhemos descubierto una correlación entre su éxito académico \ny el uso racional de los dispositivos móviles y de las redes \nsociales.\n\nBuenas notas, poca dependencia de las pantallas\n\nLos chicos entrevistados provienen de toda España y \nen sus conductas con las pantallas hay algunos patrones. Sí \nfrecuentan la televisión, pero más para ver películas que para \nver series, porque prefieren el formato autoconclusivo que no \nles obliga a tener que engancharse y perder mucho tiempo. \nTodos ellos leen con frecuencia, pero no tienen bestsellers \njuveniles en su mesilla de noche, sino que se decantan \npor clásicos como Cien años de soledad o Los Miserables. \nSu red social más utilizada es Youtube, pero por intereses \neducativos más que por entretenimiento, y por eso siguen \ncanales temáticos de sus intereses favoritos, charlas TED \ny en algún caso videojuegos que por su elevado coste no \npueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy \nmás de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me \nda una pereza enorme hacerme fotos y subirlas, solo alguna \ncosa graciosa con mis amigos. La gente bailando no me \naporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no \ntener, no tengo ni foto de perfil. No tengo TikTok, pero veo los \nreels de Instagram, que es parecido. Me gustan los vídeos \nvariados, de humor y alguno educativo o científico que me \nayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo \nTikTok. Me la desinstalé porque no me aportaba mucho, no \nme enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de \ngatos y cosas así. También sigo a muchos divulgadores de \ncrímenes. Instagram, solo para contactar con gente y guardar \nmis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, \ntodos dicen ser muy conscientes de los peligros de las fake \nnews en redes sociales. No se dejan arrastrar por ídolos o \ninfluencers: En general, tuvieron su primer móvil entre los 12 \ny los 14 años. Casi todos ellos afirman que podrían pasar una \nsemana sin él, aunque prefieren tenerlo por las posibilidades \nde comunicación que ofrece con sus amigos y familiares. No \nles causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nConsiderando o conteúdo geral do texto, um título apropriado \npara ele seria:",
+    "statement": "Leia o texto para responder às questões de 09 a 12.\n\nLos aspirantes españoles a universitarios celebraron recientemente la prueba de selectividad para el acceso a la universidad. Interrogamos a algunas de las mejores calificaciones sobre sus aspiraciones y sus costumbres y hemos descubierto una correlación entre su éxito académico y el uso racional de los dispositivos móviles y de las redes sociales.\n\nBuenas notas, poca dependencia de las pantallas Los chicos entrevistados provienen de toda España y en sus conductas con las pantallas hay algunos patrones. Sí frecuentan la televisión, pero más para ver películas que para ver series, porque prefieren el formato autoconclusivo que no les obliga a tener que engancharse y perder mucho tiempo. Todos ellos leen con frecuencia, pero no tienen bestsellers juveniles en su mesilla de noche, sino que se decantan por clásicos como Cien años de soledad o Los Miserables. Su red social más utilizada es Youtube, pero por intereses educativos más que por entretenimiento, y por eso siguen canales temáticos de sus intereses favoritos, charlas TED y en algún caso videojuegos que por su elevado coste no pueden adquirir. Vale la pena leer sus respuestas completas:\n\nInma: “No tengo Instagram. Tiktok, sí, pero no la uso, soy más de vídeos largos”.\n\nJorge: “Tengo las dos, pero no comparto casi nada. Me da una pereza enorme hacerme fotos y subirlas, solo alguna cosa graciosa con mis amigos. La gente bailando no me aporta mucho”.\n\nDavid: “Tengo Instagram, pero no subo nada. Por no tener, no tengo ni foto de perfil. No tengo TikTok, pero veo los reels de Instagram, que es parecido. Me gustan los vídeos variados, de humor y alguno educativo o científico que me ayuda en lo académico”.\n\nSilvia: “Tengo Instagram pero no la uso mucho. No tengo TikTok. Me la desinstalé porque no me aportaba mucho, no me enganchó”.\n\nIyán: “Uso TikTok para desconectar, con vídeos de gatos y cosas así. También sigo a muchos divulgadores de crímenes. Instagram, solo para contactar con gente y guardar mis stories (historias) como álbum digital”.\n\nEn cuanto a los medios que usan para informarse, todos dicen ser muy conscientes de los peligros de las fake news en redes sociales. No se dejan arrastrar por ídolos o influencers: En general, tuvieron su primer móvil entre los 12 y los 14 años. Casi todos ellos afirman que podrían pasar una semana sin él, aunque prefieren tenerlo por las posibilidades de comunicación que ofrece con sus amigos y familiares. No les causa estrés.\n\n(www.religionenlibertad.com. Adaptado.)\n\nConsiderando o conteúdo geral do texto, um título apropriado para ele seria:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Una actuación muy frecuente en las redes sociales conlleva mejores relaciones sociales.",
@@ -5871,15 +6601,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -5904,7 +6633,10 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A década de 1930, nos Estados Unidos, foi marcada pelo \nNew Deal, estratégia econômica implementada pelo presidente Franklin Roosevelt. Ela visava reverter os efeitos da \nGrande Depressão, iniciada com a Quebra da Bolsa de Nova \nIorque em 1929. Nesse sentido, o New Deal foi pautado por \numa teoria econômica conhecida como",
+    "statement": "A década de 1930, nos Estados Unidos, foi marcada pelo New Deal, estratégia econômica implementada pelo presidente Franklin Roosevelt. Ela visava reverter os efeitos da Grande Depressão, iniciada com a Quebra da Bolsa de Nova Iorque em 1929. Nesse sentido, o New Deal foi pautado por uma teoria econômica conhecida como",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "imperialismo.",
@@ -5915,15 +6647,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -5947,12 +6678,16 @@ export const uea2023Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a obra “Cavaleiro vermelho” do futurista Carlo Carrà, \npintada em 1913.\n\n(www.generativedesign.com)\n\nA arte futurista destacou-se por apresentar obras com a valorização",
+    "statement": "Analise a obra “Cavaleiro vermelho” do futurista Carlo Carrà, pintada em 1913.\n\n(www.generativedesign.com)\n\nA arte futurista destacou-se por apresentar obras com a valorização",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q14-1.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA SIS — Acompanhamento III, 2023).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/sis-2023-a3/q14-1.png",
+        "alt": "Imagem de apoio da questão 14 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
     "alternatives": [
@@ -5964,15 +6699,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 8,
@@ -5996,12 +6730,21 @@ export const uea2023Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise o excerto e a imagem.\n\nO programa de governo “Marcha para o Oeste” (1938) \ncontinha importantes aspectos simbólicos, pois nenhum presidente havia feito o mesmo trajeto de Vargas pelas regiões \nmais remotas do país, lançando o programa durante visitas \na diversas localidades, incluindo os estados constituintes da \nAmazônia. O primeiro movimento de ocupação e legitimação \nde áreas mais afastadas estava sendo feito pelo próprio líder \nda nação.\n\n(Rômulo de Paula Andrade. “Conquistar a terra, dominar\n\na água, sujeitar a floresta”: Getúlio Vargas e a revista \n“Cultura Política” redescobrem a Amazônia (1940-1941). Boletim do\n\nMuseu Paraense Emílio Goeldi, vol. 5, no 2, 2010. Adaptado.)\n\nCartaz publicitário incentivando a Marcha para o Oeste.\n\n(https://brasilescola.uol.com.br)\n\nEm relação à Amazônia, o programa mencionado objetivava",
+    "statement": "Analise o excerto e a imagem.\n\nO programa de governo “Marcha para o Oeste” (1938) continha importantes aspectos simbólicos, pois nenhum presidente havia feito o mesmo trajeto de Vargas pelas regiões mais remotas do país, lançando o programa durante visitas a diversas localidades, incluindo os estados constituintes da Amazônia. O primeiro movimento de ocupação e legitimação de áreas mais afastadas estava sendo feito pelo próprio líder da nação.\n\n(Rômulo de Paula Andrade. “Conquistar a terra, dominar a água, sujeitar a floresta”: Getúlio Vargas e a revista\n\n“Cultura Política” redescobrem a Amazônia (1940-1941). Boletim do\n\nMuseu Paraense Emílio Goeldi, vol. 5, $n^{o}$ 2, 2010. Adaptado.)\n\nCartaz publicitário incentivando a Marcha para o Oeste.\n\n(https://brasilescola.uol.com.br)\n\nEm relação à Amazônia, o programa mencionado objetivava",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "source",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q15-1.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento III, 2023).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2023-a3/q15-1.png",
+        "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
     "alternatives": [
@@ -6013,15 +6756,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -6045,12 +6787,17 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise o cartaz de propaganda do governo chinês de Mao \nTsé-Tung (1949-1976).\n\n“Viva o pensamento de Mao Tsé-Tung!”\n\n(https://digitalcommons.whitworth.edu)\n\nO cartaz, que apresenta o ex-presidente chinês Mao Tsé-Tung \ncomo um sol, retrata uma fase política chinesa conhecida como",
+    "statement": "Analise o cartaz de propaganda do governo chinês de Mao Tsé-Tung (1949-1976).\n\n“Viva o pensamento de Mao Tsé-Tung!”\n\n(https://digitalcommons.whitworth.edu)\n\nO cartaz, que apresenta o ex-presidente chinês Mao Tsé-Tung como um sol, retrata uma fase política chinesa conhecida como",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q16-1.jpg",
-        "alt": "Imagem de apoio da questão 16 (UEA SIS — Acompanhamento III, 2023).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/sis-2023-a3/q16-1.png",
+        "alt": "Imagem de apoio da questão 16 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
     "alternatives": [
@@ -6062,15 +6809,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 9,
@@ -6094,7 +6840,16 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Texto 1\n\nApós conferenciar com o Sr. Jânio Quadros, o ministro \ncubano “Che” Guevara foi condecorado ontem (19.08.1961) \npelo presidente da República com a Grã-cruz da ordem Nacional do Cruzeiro do Sul. A outorga da condecoração, aliás, \nestá suscitando críticas ao presidente inclusive, pelo que se \nadianta, para uma crise política.\n\n(“Janio condecora Guevara”. http://almanaque.folha.uol.com.br. Adaptado.)\n\nTexto 2\n\n— Não sei por que Che Guevara foi condecorado — indignou-se o senador Padre Calazans (UDN-SP). — Porque \nse fez assassino de milhares em Cuba? Porque saqueou terras? Porque tomou propriedades particulares? Porque oprime o povo e engana uma nação? Não sei por que foi condecorado. Sei que os três ministros militares não referendaram \nesse ato.\n\n(“Em 1961, Congresso aceitou renúncia e abortou golpe de \nJânio Quadros”. www.senado.leg.br, 06.08.2021. Adaptado.)\n\nOs textos 1 e 2 demonstram que a política brasileira, na década de 1960,",
+    "statement": "Texto 1\n\nApós conferenciar com o Sr. Jânio Quadros, o ministro cubano “Che” Guevara foi condecorado ontem (19.08.1961) pelo presidente da República com a Grã-cruz da ordem Nacional do Cruzeiro do Sul. A outorga da condecoração, aliás, está suscitando críticas ao presidente inclusive, pelo que se adianta, para uma crise política.\n\n(“Janio condecora Guevara”. http://almanaque.folha.uol.com.br. Adaptado.)\n\nTexto 2\n\n— Não sei por que Che Guevara foi condecorado — indignou-se o senador Padre Calazans (UDN-SP). — Porque se fez assassino de milhares em Cuba? Porque saqueou terras? Porque tomou propriedades particulares? Porque oprime o povo e engana uma nação? Não sei por que foi condecorado. Sei que os três ministros militares não referendaram esse ato.\n\n(“Em 1961, Congresso aceitou renúncia e abortou golpe de Jânio Quadros”. www.senado.leg.br, 06.08.2021. Adaptado.)\n\nOs textos 1 e 2 demonstram que a política brasileira, na década de 1960,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "preparava o cenário para ser conduzida à democracia pelos militares.",
@@ -6105,15 +6860,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -6137,7 +6891,13 @@ export const uea2023Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Manifestações culturais amazônicas de povos originários e tradicionais sempre foram temas centrais da cultura \nde Parintins. No entanto, também surgiram movimentos de \ncontracultura, de pessoas engajadas no ato de buscar ecoar \numa voz de resistência e alteridade. Um manifesto bastante \npeculiar na cidade de Parintins que surge como contracultura \ne voz de ambientes periféricos é o rap. Gênero musical que \nexpande um discurso crítico e ‘agressivo’ contra sistemas políticos e uma “arma” que aponta a realidade desses ambientes periféricos completamente esquecidos e abandonados.\n\n(Isaías dos Santos et al. “O Mundo é Diferente da Ponte pra cá”:\n\nManifestos Periféricos e a Música de Denúncia no Município de \nParintins/AM. RELEM – Revista Eletrônica Mutações, 2021. Adaptado.)\n\nAssim como o rap amazônico citado no excerto, a contracultura tem por característica principal",
+    "statement": "Manifestações culturais amazônicas de povos originários e tradicionais sempre foram temas centrais da cultura de Parintins. No entanto, também surgiram movimentos de contracultura, de pessoas engajadas no ato de buscar ecoar uma voz de resistência e alteridade. Um manifesto bastante peculiar na cidade de Parintins que surge como contracultura e voz de ambientes periféricos é o rap. Gênero musical que expande um discurso crítico e ‘agressivo’ contra sistemas políticos e uma “arma” que aponta a realidade desses ambientes periféricos completamente esquecidos e abandonados.\n\n(Isaías dos Santos et al. “O Mundo é Diferente da Ponte pra cá”: Manifestos Periféricos e a Música de Denúncia no Município de\n\nParintins/AM. RELEM – Revista Eletrônica Mutações, 2021. Adaptado.)\n\nAssim como o rap amazônico citado no excerto, a contracultura tem por característica principal",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a apologia à violência para combater as opressões.",
@@ -6148,15 +6908,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 18."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -6180,7 +6939,12 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Mais de 400 mil trabalhadores de Karnataka, na Índia, recebem menos do que o salário mínimo legal do estado desde \n2020. Karnataka é conhecido por ser um dos maiores centros de confecção de roupas do mundo e abastece grandes \nmarcas esportivas e empresas do ramo de vestuário. “Essas \ncorporações estão permitindo que uma violação dos direitos \nhumanos em grande escala continue impunemente”, avalia \nScott Nova, diretor da WRC, organização independente que \nzela pelos direitos trabalhistas em todo o mundo.\n\n(https://economia.ig.com.br, 03.01.2022. Adaptado.)\n\nA notícia mostra que a produção no contexto da globalização",
+    "statement": "Mais de 400 mil trabalhadores de Karnataka, na Índia, recebem menos do que o salário mínimo legal do estado desde 2020. Karnataka é conhecido por ser um dos maiores centros de confecção de roupas do mundo e abastece grandes marcas esportivas e empresas do ramo de vestuário. “Essas corporações estão permitindo que uma violação dos direitos humanos em grande escala continue impunemente”, avalia Scott Nova, diretor da WRC, organização independente que zela pelos direitos trabalhistas em todo o mundo.\n\n(https://economia.ig.com.br, 03.01.2022. Adaptado.)\n\nA notícia mostra que a produção no contexto da globalização",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "associa a demanda do mercado com a responsabilidade social.",
@@ -6191,15 +6955,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 19."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -6223,7 +6986,12 @@ export const uea2023Sis = [
     "subject": "História",
     "detail": "História — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Queimada, agora, é uma modalidade esportiva oficial no \nDistrito Federal. Não é brincadeira. A atividade de criança \nvirou esporte em Brasília devido à sanção de uma lei que \nestabelece a medida. O presidente da Federação Mundial de \nQueimada descreve os ambiciosos planos da modalidade: \n‘Virar um esporte olímpico é o objetivo final, mas isso é em \nlonguíssimo prazo. Para começar o processo, nós precisamos unificar o esporte e criar federações e organizações em \ncada país”.\n\n(“Lei distrital quer transformar queimada em esporte olímpico”. \nhttps://blogs.correiobraziliense.com.br, 03.12.2020. Adaptado.)\n\nA aprovação da lei sobre a Queimada no Distrito Federal, \ndescrita no excerto, representa",
+    "statement": "Queimada, agora, é uma modalidade esportiva oficial no Distrito Federal. Não é brincadeira. A atividade de criança virou esporte em Brasília devido à sanção de uma lei que estabelece a medida. O presidente da Federação Mundial de Queimada descreve os ambiciosos planos da modalidade: ‘Virar um esporte olímpico é o objetivo final, mas isso é em longuíssimo prazo. Para começar o processo, nós precisamos unificar o esporte e criar federações e organizações em cada país”.\n\n(“Lei distrital quer transformar queimada em esporte olímpico”. https://blogs.correiobraziliense.com.br, 03.12.2020. Adaptado.)\n\nA aprovação da lei sobre a Queimada no Distrito Federal, descrita no excerto, representa",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a inserção da modalidade na tradição cultural brasileira.",
@@ -6234,15 +7002,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 20."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 10,
@@ -6266,7 +7033,14 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise as imagens que retratam a mudança na estrutura da \nrede urbana da Amazônia brasileira em dois períodos distintos.\n\nRede urbana na Amazônia brasileira (1970-1980)\n\nRede urbana na Amazônia brasileira (2007-2018)\n\n(Adão Francisco de Oliveira (org). Cidades na Amazônia Legal brasileira, 2020.)\n\nA mudança na estrutura da rede urbana da Amazônia brasileira, evidenciada nas imagens, resulta",
+    "statement": "Analise as imagens que retratam a mudança na estrutura da rede urbana da Amazônia brasileira em dois períodos distintos.\n\nRede urbana na Amazônia brasileira (1970-1980)\n\nRede urbana na Amazônia brasileira (2007-2018)\n\n(Adão Francisco de Oliveira (org). Cidades na Amazônia Legal brasileira, 2020.)\n\nA mudança na estrutura da rede urbana da Amazônia brasileira, evidenciada nas imagens, resulta",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da instalação de infraestrutura e de projetos econômicos que permitiram um novo padrão de articulação e fragmentação entre as cidades.",
@@ -6277,15 +7051,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 21."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -6309,7 +7082,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O direito à cidade está muito longe da liberdade individual de acesso a recursos urbanos: é o direito de mudar a \nnós mesmos pela mudança da cidade. Além disso, é um direito comum antes de individual já que esta transformação \ndepende inevitavelmente do exercício de um poder coletivo \nde moldar o processo de urbanização. A liberdade de construir e reconstruir a cidade e a nós mesmos é um dos mais \npreciosos e negligenciados direitos humanos.\n\n(David Harvey. “O direito à cidade”. Lutas Sociais, jul./dez. 2012. Adaptado.)\n\nConsiderando o excerto e conhecimentos acerca da urbanização brasileira, o direito à cidade na Amazônia brasileira é \nassegurado",
+    "statement": "O direito à cidade está muito longe da liberdade individual de acesso a recursos urbanos: é o direito de mudar a nós mesmos pela mudança da cidade. Além disso, é um direito comum antes de individual já que esta transformação depende inevitavelmente do exercício de um poder coletivo de moldar o processo de urbanização. A liberdade de construir e reconstruir a cidade e a nós mesmos é um dos mais preciosos e negligenciados direitos humanos.\n\n(David Harvey. “O direito à cidade”. Lutas Sociais, jul./dez. 2012. Adaptado.)\n\nConsiderando o excerto e conhecimentos acerca da urbanização brasileira, o direito à cidade na Amazônia brasileira é assegurado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela construção da infraestrutura básica, que intensifica a segregação social.",
@@ -6320,15 +7098,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 22."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -6352,7 +7129,14 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a tabela.\n\nDistribuição da população urbana \nbrasileira segundo o tamanho das cidades (em %)\n\nTamanho das Cidades\n1970\n1980\n1991\n2000\n2010\n\n< 20 000\n26,92\n21,36\n19,34\n18,81\n17,13\n\n20 000 a 50 000\n12,04\n11,40\n12,44\n11,49\n11,83\n\n50 000 a 100 000\n7,80\n10,50\n10,23\n10,57\n9,93\n\n100 000 a 500 000\n19,59\n21,92\n24,43\n26,11\n27,34\n\nMais de 500 000\n29,0\n34,83\n33,55\n33,01\n33,78\n\nMais de 1 000 000\n53,24\n56,75\n57,98\n59,12\n61,12\n\n(Marco A. D. Zazyki et al. “Relação entre a urbanização brasileira e o direito\n\nde propriedade”. Desenvolvimento em questão, jan./mar. 2021. Adaptado.)\n\nA análise dos dados da tabela e conhecimentos sobre a urbanização brasileira evidenciam que",
+    "statement": "Analise a tabela.\n\nDistribuição da população urbana\n\nbrasileira segundo o tamanho das cidades (em%)\n\nTamanho das Cidades 1970 1980 1991 2000 2010 < 20 000 26,92 21,36 19,34 18,81 17,13 20 000 a 50 000 12,04 11,40 12,44 11,49 11,83 50 000 a 100 000 7,80 10,50 10,23 10,57 9,93 100 000 a 500 000 19,59 21,92 24,43 26,11 27,34 Mais de 500 000 29,0 34,83 33,55 33,01 33,78 Mais de 1 000 000 53,24 56,75 57,98 59,12 61,12 (Marco A. D. Zazyki et al. “Relação entre a urbanização brasileira e o direito de propriedade”. Desenvolvimento em questão, jan./mar. 2021. Adaptado.)\n\nA análise dos dados da tabela e conhecimentos sobre a urbanização brasileira evidenciam que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as cidades que menos crescem são as cidades menores, com até 20 000 habitantes, devido ao processo de êxodo rural.",
@@ -6363,15 +7147,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 23."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 11,
@@ -6395,7 +7178,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Estados do Norte registraram estragos com a chegada de \nfortes chuvas na região no fim de março de 2023. Tomadas \npor inundações, cidades do Acre, Amazonas, Pará, Rondônia \ne Tocantins declararam estado de emergência. Atribuídas por \nespecialistas à mudança climática, as tempestades, consideradas incomuns para esta época do ano, expõem as vulnerabilidades das cidades da Amazônia a esse tipo de evento e \nmostram outro lado da mudança climática na região, conhecida pelos problemas ambientais de suas áreas de floresta.\n\n(www.nexojornal.com.br, 28.03.2023. Adaptado.)\n\nAlém da mudança climática, um fator que contribui para a \nintensificação das inundações nos estados mencionados no \nexcerto é",
+    "statement": "Estados do Norte registraram estragos com a chegada de fortes chuvas na região no fim de março de 2023. Tomadas por inundações, cidades do Acre, Amazonas, Pará, Rondônia e Tocantins declararam estado de emergência. Atribuídas por especialistas à mudança climática, as tempestades, consideradas incomuns para esta época do ano, expõem as vulnerabilidades das cidades da Amazônia a esse tipo de evento e mostram outro lado da mudança climática na região, conhecida pelos problemas ambientais de suas áreas de floresta.\n\n(www.nexojornal.com.br, 28.03.2023. Adaptado.)\n\nAlém da mudança climática, um fator que contribui para a intensificação das inundações nos estados mencionados no excerto é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o intemperismo das rochas, que intensifica o assoreamento dos rios.",
@@ -6406,15 +7194,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 24."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -6438,7 +7225,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Um grupo de 103 países se juntou em um esforço liderado pelos Estados Unidos e pela União Europeia para reduzir \nas emissões do potente gás de efeito estufa metano. O Brasil \nestá entre os signatários do Compromisso Global de Metano \ne é um dos cinco maiores emissores mundiais desse gás.\n\n(www.cnnbrasil.com.br, 02.11.2021. Adaptado.)\n\nUm setor que contribui para a emissão do gás metano e uma \nmedida que pode ser tomada para alcançar o Compromisso \nGlobal de Metano são, respectivamente:",
+    "statement": "Um grupo de 103 países se juntou em um esforço liderado pelos Estados Unidos e pela União Europeia para reduzir as emissões do potente gás de efeito estufa metano. O Brasil está entre os signatários do Compromisso Global de Metano e é um dos cinco maiores emissores mundiais desse gás.\n\n(www.cnnbrasil.com.br, 02.11.2021. Adaptado.)\n\nUm setor que contribui para a emissão do gás metano e uma medida que pode ser tomada para alcançar o Compromisso Global de Metano são, respectivamente:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a agropecuária e a privatização das agências de controle e fiscalização.",
@@ -6449,15 +7241,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -6481,12 +7272,17 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Examine o mapa.\n\nBrasil — Hidrovias (2012)\n\n(Angela Corrêa da Silva. Geografia: conexões e redes, 2017.)\n\nO exame do mapa e conhecimentos sobre a produção econômica do Brasil permitem afirmar que a maior quantidade de \ntrechos navegáveis está localizada na região",
+    "statement": "Examine o mapa.\n\nBrasil — Hidrovias (2012)\n\n(Angela Corrêa da Silva. Geografia: conexões e redes, 2017.)\n\nO exame do mapa e conhecimentos sobre a produção econômica do Brasil permitem afirmar que a maior quantidade de trechos navegáveis está localizada na região",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q26-1.jpg",
-        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2023).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/sis-2023-a3/q26-1.png",
+        "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
     "alternatives": [
@@ -6498,15 +7294,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 26."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 12,
@@ -6530,7 +7325,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A crise de 2008 foi marcada pela falência do tradicional \nbanco Lehman Brothers. Com a inadimplência generalizada, \ndezenas de outras instituições financeiras nos Estados Unidos também quebraram e ficaram sem dinheiro para emprestar para os clientes e para operações básicas, como pagar \nseus funcionários e as contas.\n\n(www.folha.uol.com.br, 15.03.2023. Adaptado.)\n\nA crise econômica em questão manifestou-se",
+    "statement": "A crise de 2008 foi marcada pela falência do tradicional banco Lehman Brothers. Com a inadimplência generalizada, dezenas de outras instituições financeiras nos Estados Unidos também quebraram e ficaram sem dinheiro para emprestar para os clientes e para operações básicas, como pagar seus funcionários e as contas.\n\n(www.folha.uol.com.br, 15.03.2023. Adaptado.)\n\nA crise econômica em questão manifestou-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "no mercado de trabalho, com o processo de flexibilização.",
@@ -6541,15 +7341,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 27."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -6573,7 +7372,12 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Negociado por mais de 20 anos, o acordo União Europeia-Mercosul teve um anúncio de conclusão geral em 2019, \nmas ainda há um longo caminho para sua efetiva entrada em \nvigor. Isso porque o tratado precisa ser ratificado e internalizado por cada um dos Estados integrantes dos dois blocos \neconômicos. Na prática, significa que o acordo terá que ser \naprovado pelos parlamentos e governos nacionais dos 31 países envolvidos.\n\n(https://agenciabrasil.ebc.com.br, 04.07.2023. Adaptado.)\n\nO acordo entre os dois blocos econômicos tem como objetivo",
+    "statement": "Negociado por mais de 20 anos, o acordo União Europeia-Mercosul teve um anúncio de conclusão geral em 2019, mas ainda há um longo caminho para sua efetiva entrada em vigor. Isso porque o tratado precisa ser ratificado e internalizado por cada um dos Estados integrantes dos dois blocos econômicos. Na prática, significa que o acordo terá que ser aprovado pelos parlamentos e governos nacionais dos 31 países envolvidos.\n\n(https://agenciabrasil.ebc.com.br, 04.07.2023. Adaptado.)\n\nO acordo entre os dois blocos econômicos tem como objetivo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tornar o Mercosul um mercado comum.",
@@ -6584,15 +7388,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -6616,7 +7419,12 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para o tratamento de um quadro de saúde grave, como o \nocorrido com a cantora Madonna em junho desse ano, sempre é importante identificar o agente infeccioso de forma rápida e administrar o antibiótico específico e correto. “O diagnóstico de infecções vai depender da suspeita. Por exemplo, \nse for infecção urinária, cultura de urina; e se for suspeita de \numa pneumonia, exames feitos em amostras respiratórias, \ncomo escarro, etc.”, explica o médico Hélio Magarinos Torres \nFilho. O tratamento com antibióticos foi fundamental para a \ncura da cantora.\n\n(https://veja.abril.com.br, 04.07.23. Adaptado.)\n\nConsiderando o excerto, a cantora Madonna teve uma infecção causada por um microrganismo",
+    "statement": "Para o tratamento de um quadro de saúde grave, como o ocorrido com a cantora Madonna em junho desse ano, sempre é importante identificar o agente infeccioso de forma rápida e administrar o antibiótico específico e correto. “O diagnóstico de infecções vai depender da suspeita. Por exemplo, se for infecção urinária, cultura de urina; e se for suspeita de uma pneumonia, exames feitos em amostras respiratórias, como escarro, etc.”, explica o médico Hélio Magarinos Torres Filho. O tratamento com antibióticos foi fundamental para a cura da cantora.\n\n(https://veja.abril.com.br, 04.07.23. Adaptado.)\n\nConsiderando o excerto, a cantora Madonna teve uma infecção causada por um microrganismo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "que possui forma de bacilo e apresenta lisossomos.",
@@ -6627,15 +7435,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 29."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -6659,7 +7466,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A Sistemática é um dos ramos da Biologia que permite a \nconstrução de cladogramas (ou árvores filogenéticas), representações importantes para o estudo e organização dos grupos de seres vivos. Essa metodologia é considerada a mais \neficiente para a classificação biológica, uma vez que",
+    "statement": "A Sistemática é um dos ramos da Biologia que permite a construção de cladogramas (ou árvores filogenéticas), representações importantes para o estudo e organização dos grupos de seres vivos. Essa metodologia é considerada a mais eficiente para a classificação biológica, uma vez que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "está em conformidade com as ideias e conceitos fixistas.",
@@ -6670,15 +7480,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 30."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 13,
@@ -6702,7 +7511,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "É o animal mais simples na escala zoológica, pois não possui \ntecidos e nem órgãos especializados. Ele possui coanócitos, \ncélulas com um flagelo que se localizam na camada interna, \nenvolvendo a região do átrio. Tais células promovem a circulação de água, facilitando a oxigenação e a alimentação do \nanimal. O animal que apresenta essas características pertence ao filo dos",
+    "statement": "É o animal mais simples na escala zoológica, pois não possui tecidos e nem órgãos especializados. Ele possui coanócitos, células com um flagelo que se localizam na camada interna, envolvendo a região do átrio. Tais células promovem a circulação de água, facilitando a oxigenação e a alimentação do animal. O animal que apresenta essas características pertence ao filo dos",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "equinodermos.",
@@ -6713,15 +7525,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 31."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -6745,7 +7556,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em 1858, os naturalistas Charles Darwin e Alfred R. Wallace \npropuseram a teoria da seleção natural para explicar como \nos seres vivos evoluem, isto é, como se modificam ao longo \ndas gerações. Segundo esses dois naturalistas, para que a \nseleção natural ocorra, é importante que",
+    "statement": "Em 1858, os naturalistas Charles Darwin e Alfred R. Wallace propuseram a teoria da seleção natural para explicar como os seres vivos evoluem, isto é, como se modificam ao longo das gerações. Segundo esses dois naturalistas, para que a seleção natural ocorra, é importante que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as diferentes espécies cruzem entre si.",
@@ -6756,15 +7570,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 32."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -6788,7 +7601,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "As aves são animais endotérmicos, ou seja, dependem do \ncalor produzido pelo metabolismo para elevar a temperatura \ncorpórea. Duas características que favoreceram a endotermia das aves, são",
+    "statement": "As aves são animais endotérmicos, ou seja, dependem do calor produzido pelo metabolismo para elevar a temperatura corpórea. Duas características que favoreceram a endotermia das aves, são",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a presença de ossos pneumáticos e a presença de osso esterno em quilha.",
@@ -6799,15 +7615,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -6831,7 +7646,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O corpo de um boi é um exemplo de relações ecológicas variadas. Nele pode-se encontrar vários carrapatos da mesma \nespécie em uma pequena área da orelha, todos aderidos à \npele e próximos entre si. Da mesma forma, pode-se encontrar várias bactérias em duas das quatro câmaras estomacais \ndesse animal. A relação ecológica entre o carrapato e o boi, \nentre o boi e as bactérias e entre os carrapatos são exemplos, respectivamente, de",
+    "statement": "O corpo de um boi é um exemplo de relações ecológicas variadas. Nele pode-se encontrar vários carrapatos da mesma espécie em uma pequena área da orelha, todos aderidos à pele e próximos entre si. Da mesma forma, pode-se encontrar várias bactérias em duas das quatro câmaras estomacais desse animal. A relação ecológica entre o carrapato e o boi, entre o boi e as bactérias e entre os carrapatos são exemplos, respectivamente, de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "amensalismo, inquilinismo e canibalismo.",
@@ -6842,15 +7660,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 34."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 14,
@@ -6874,7 +7691,11 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise o esquema que representa uma cadeia alimentar \nsimplificada.\n\nO esquema mostra que",
+    "statement": "Analise o esquema que representa uma cadeia alimentar simplificada.\n\nO esquema mostra que",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a energia assimilada pela população I será transferida integralmente para a população IV.",
@@ -6885,15 +7706,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 35."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -6917,7 +7737,13 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em um estudo sobre a dinâmica populacional em uma ilha, \na população de determinada espécie de ave era formada no \ninício por 1 000 indivíduos vivendo em uma área de 1 000 m2, \nrevelando uma densidade de uma ave por metro quadrado. \nEsses animais foram monitorados durante dois anos e, nesse \ntempo, contabilizaram-se as taxas de natalidade, de mortalidade, de imigração e de emigração, como mostra a tabela.\n\nAno\nNatalidade\nMortalidade\nImigração\nEmigração\n\n2019\n270\n90\n50\n30\n\n2020\n310\n110\n35\n235\n\nDe acordo com os dados da tabela, em 2020 a densidade da \npopulação da ave estudada foi de",
+    "statement": "Em um estudo sobre a dinâmica populacional em uma ilha, a população de determinada espécie de ave era formada no início por 1 000 indivíduos vivendo em uma área de 1 000 $m^{2}$, revelando uma densidade de uma ave por metro quadrado. Esses animais foram monitorados durante dois anos e, nesse tempo, contabilizaram-se as taxas de natalidade, de mortalidade, de imigração e de emigração, como mostra a tabela.\n\nAno Natalidade Mortalidade Imigração Emigração $\\frac{2019}{2020}$ 270 90 50 30\n\n310 110 35 235\n\nDe acordo com os dados da tabela, em 2020 a densidade da população da ave estudada foi de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 200 indivíduos/m2.",
@@ -6928,15 +7754,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 36."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -6960,7 +7785,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Sejam m e n duas constantes reais e sejam A = (m, 4) e\n\nB = (6, n) dois pontos do plano cartesiano. Se \n é a reta \nde equação 5x - 4y + 6 = 0, então o valor de m + n é",
+    "statement": "Sejam m e n duas constantes reais e sejam A = (m, 4) e B = (6, n) dois pontos do plano cartesiano. Se é a reta de equação 5x - 4y + 6 = 0, então o valor de m + n é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -6971,15 +7799,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 37."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -7003,7 +7830,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No plano cartesiano, os quadrados ABCD e EFGH são congruentes e têm lados paralelos aos eixos, conforme mostra \na figura.\n\nDados B = (-1, 2), C = (2, 2) e F = (5, 5), a equação da reta \nque passa pelos pontos D e H é",
+    "statement": "No plano cartesiano, os quadrados ABCD e EFGH são congruentes e têm lados paralelos aos eixos, conforme mostra a figura.\n\nDados B = (-1, 2), C = (2, 2) e F = (5, 5), a equação da reta que passa pelos pontos D e H é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "x - y - 5 = 0",
@@ -7014,15 +7845,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 38."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 15,
@@ -7046,7 +7876,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Considere o número complexo z = 3i, em que i2 = -1, e as \nconstantes reais m e n. Definindo y como o número complexo y = m + ni e sabendo que yz = 6 + 15i, o valor de m + n é \nigual a",
+    "statement": "Considere o número complexo z = 3i, em que $i^{2}$ = -1, e as constantes reais m e n. Definindo y como o número complexo y = m + ni e sabendo que yz = 6 + 15i, o valor de m + n é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "3.",
@@ -7057,15 +7890,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 39."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -7089,7 +7921,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "No plano complexo estão representados o afixo P de um \nnúmero complexo z e seu módulo |z|.\n\nA forma trigonométrica de z é",
+    "statement": "No plano complexo estão representados o afixo P de um número complexo z e seu módulo |z|.\n\nA forma trigonométrica de z é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "z = 7(cos 30º + isen 30º).",
@@ -7100,15 +7936,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 40."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -7132,7 +7967,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "As raízes do polinômio p(x) = x2 - x - 20 também são raízes \ndo polinômio q(x) = x3 - 4x2 - 17x + 60. A soma das duas \nmaiores raízes de q(x) é igual a",
+    "statement": "As raízes do polinômio p(x) = $x^{2}$ - x - 20 também são raízes do polinômio q(x) = $x^{3}$ - $4x^{2}$ - 17x + 60. A soma das duas maiores raízes de q(x) é igual a",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -7143,15 +7981,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 41."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -7175,7 +8012,12 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "As notas que 12 alunos tiraram em certa avaliação escolar \nestão tabeladas a seguir.\n\n94\n59\n93\n81\n\n65\n62\n78\n88\n\n95\n95\n96\n72\n\nSeja M a média aritmética dessas 12 notas. Considere uma \nnova tabela construída a partir da tabela dada em que a maior \ne a menor nota foram excluídas; seja m a média aritmética \ndas 10 notas dessa nova tabela. O valor de m - M é igual a",
+    "statement": "As notas que 12 alunos tiraram em certa avaliação escolar estão tabeladas a seguir.\n\n$\\frac{94}{65}$ $\\frac{59}{62}$ $\\frac{93}{78}$ $\\frac{81}{88}$\n95 95 96 72\n\nSeja M a média aritmética dessas 12 notas. Considere uma nova tabela construída a partir da tabela dada em que a maior e a menor nota foram excluídas; seja m a média aritmética das 10 notas dessa nova tabela. O valor de m - M é igual a",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0,5.",
@@ -7186,15 +8028,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 42."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 16,
@@ -7218,7 +8059,10 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Dado o polinômio r(x) = x4 - 10x3 + px2 + 52x + q, em que p e \nq são constantes reais, sabe-se que -1 é uma raiz de multiplicidade 2. Se as outras duas raízes desse polinômio são tais \nque uma é o dobro da outra, o valor de q - p é",
+    "statement": "Dado o polinômio r(x) = $x^{4}$ - $10x^{3}$ + $px^{2}$ + 52x + q, em que p e q são constantes reais, sabe-se que -1 é uma raiz de multiplicidade 2. Se as outras duas raízes desse polinômio são tais que uma é o dobro da outra, o valor de q - p é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15.",
@@ -7229,15 +8073,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 43."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -7261,7 +8104,11 @@ export const uea2023Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma prova com 10 testes foi aplicada para os 301 alunos de \numa escola. Nessa prova, os alunos acertaram pelo menos \n3 testes e ninguém acertou exatamente 8 testes. Considere o \ngráfico que indica o número de alunos por número de testes \ncertos.\n\nDe acordo com os dados apresentados, a mediana e a moda \ndos números de testes certos nessa prova foram, respectivamente,",
+    "statement": "Uma prova com 10 testes foi aplicada para os 301 alunos de uma escola. Nessa prova, os alunos acertaram pelo menos 3 testes e ninguém acertou exatamente 8 testes. Considere o gráfico que indica o número de alunos por número de testes certos.\n\nDe acordo com os dados apresentados, a mediana e a moda dos números de testes certos nessa prova foram, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4 e 9.",
@@ -7272,15 +8119,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 44."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -7304,7 +8150,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Considere uma carga elétrica pontual Q. Admita que, em um \nponto localizado a uma distância d dessa carga, a intensidade \ndo campo elétrico correspondente seja E. O valor do campo\n\nelétrico corresponderá a \n , em um ponto distante de Q, loca-\n\nlizado a uma distância",
+    "statement": "Considere uma carga elétrica pontual Q. Admita que, em um ponto localizado a uma distância d dessa carga, a intensidade do campo elétrico correspondente seja E. O valor do campo elétrico corresponderá a, em um ponto distante de Q, loca-\n\nlizado a uma distância",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 d.",
@@ -7315,15 +8165,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 45."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -7348,6 +8197,9 @@ export const uea2023Sis = [
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "No modelo atômico de Rutherford-Bohr fica claro que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a estrutura do átomo é maciça.",
@@ -7358,15 +8210,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 46."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 17,
@@ -7390,7 +8241,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Três esferas condutoras idênticas, A, B e C, encontram-se \nfixadas sobre a borda de um disco isolante que pode girar em \ntorno de seu centro. Uma quarta esfera, P, idêntica às outras \ntrês, encontra-se eletricamente isolada e fixada a uma certa \ndistância do disco. Tal distância permite que, ao girar-se o \ndisco, as esferas A, B e C apenas tangenciem a superfície \nda esfera P.\n\nSão realizados dois experimentos, ambos começando com o \ndisco na mesma posição indicada na figura e com as esferas \nA, B, C e P com cargas iguais a 4,0 C, - 2,0 C, 8,0 C e 0 C, \nrespectivamente. No primeiro experimento, o disco completa \num giro no sentido horário. No segundo experimento, o disco \ncompleta um giro no sentido anti-horário. Os valores da carga \nfinal de P, no primeiro e no segundo experimento, são, respectivamente,",
+    "statement": "Três esferas condutoras idênticas, A, B e C, encontram-se fixadas sobre a borda de um disco isolante que pode girar em torno de seu centro. Uma quarta esfera, P, idêntica às outras três, encontra-se eletricamente isolada e fixada a uma certa distância do disco. Tal distância permite que, ao girar-se o disco, as esferas A, B e C apenas tangenciem a superfície da esfera P.\n\nSão realizados dois experimentos, ambos começando com o disco na mesma posição indicada na figura e com as esferas A, B, C e P com cargas iguais a 4,0 C, - 2,0 C, 8,0 C e 0 C, respectivamente. No primeiro experimento, o disco completa um giro no sentido horário. No segundo experimento, o disco completa um giro no sentido anti-horário. Os valores da carga final de P, no primeiro e no segundo experimento, são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1,0 C e - 2,5 C.",
@@ -7401,15 +8256,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 47."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -7433,7 +8287,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Pilhas idênticas, de 1,5 V cada uma, foram encaixadas entre 5 barras condutoras numeradas de 1 a 5, como mostra \na figura.\n\nForam medidas as diferenças de potencial entre as barras 1 \ne 3 e, depois, entre as barras 3 e 5. Tomando os módulos dos \nvalores dessas medições e subtraindo-se esses valores, um \ndo outro, a diferença obtida é de",
+    "statement": "Pilhas idênticas, de 1,5 V cada uma, foram encaixadas entre 5 barras condutoras numeradas de 1 a 5, como mostra a figura.\n\nForam medidas as diferenças de potencial entre as barras 1 e 3 e, depois, entre as barras 3 e 5. Tomando os módulos dos valores dessas medições e subtraindo-se esses valores, um do outro, a diferença obtida é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "0 V.",
@@ -7444,15 +8302,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 48."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -7476,7 +8333,10 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Um motor elétrico apresenta rendimento de 80% quando \nsubmetido à condição de esforço máximo. Sabendo que a \npotência desse motor é de 500 W, a energia desperdiçada \npelo motor no decorrer de 20 s de funcionamento sob esforço \nmáximo é de",
+    "statement": "Um motor elétrico apresenta rendimento de 80% quando submetido à condição de esforço máximo. Sabendo que a potência desse motor é de 500 W, a energia desperdiçada pelo motor no decorrer de 20 s de funcionamento sob esforço máximo é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 000 J.",
@@ -7487,15 +8347,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 49."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 18,
@@ -7519,7 +8378,11 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O esquema mostra um gerador real, de força eletromotriz E \ncom resistência interna r, e o gráfico mostra a curva característica desse gerador real.\n\nO valor da resistência interna r desse gerador é",
+    "statement": "O esquema mostra um gerador real, de força eletromotriz E com resistência interna r, e o gráfico mostra a curva característica desse gerador real.\n\nO valor da resistência interna r desse gerador é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 Ω.",
@@ -7530,15 +8393,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 51."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -7563,6 +8425,10 @@ export const uea2023Sis = [
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "Os capacitores da figura se encontram carregados e em equilíbrio.\n\nNessas condições, a carga armazenada pelos dois capacitores juntos é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "100 C.",
@@ -7573,15 +8439,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 52."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 19,
@@ -7605,7 +8470,12 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O ibuprofeno, uma substância com ação anti-inflamatória, é \nutilizado no controle da dor, da febre e da inflamação.\n\nibuprofeno\n\nA quantidade de átomos de carbono primários e de átomos \nde carbono terciários existentes em uma molécula de ibuprofeno corresponde, respectivamente, a",
+    "statement": "O ibuprofeno, uma substância com ação anti-inflamatória, é utilizado no controle da dor, da febre e da inflamação.\n\nibuprofeno\n\nA quantidade de átomos de carbono primários e de átomos de carbono terciários existentes em uma molécula de ibuprofeno corresponde, respectivamente, a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2 e 3.",
@@ -7616,15 +8486,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 53."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -7648,7 +8517,15 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O quadro apresenta as fórmulas estruturais de alguns radicais.\n\nRadical\nFórmula estrutural\n\nMetil\n\nEtil\n\nIsopropil\n\nHidroxila\n\nConsidere a substituição dos hidrogênios do gás metano (CH4) \npelos grupos metil, etil, isopropil e hidroxila. A fórmula molecular \nda substância formada por essas substituições e o número de \nramificações ligadas à cadeia principal serão, respectivamente,",
+    "statement": "O quadro apresenta as fórmulas estruturais de alguns radicais.\n\nRadical Fórmula estrutural\nMetil\n\nEtil\n\nIsopropil\n\nHidroxila\n\npelos grupos metil, etil, isopropil e hidroxila. A fórmula molecular Considere a substituição dos hidrogênios do gás metano ($CH_{4}$) da substância formada por essas substituições e o número de ramificações ligadas à cadeia principal serão, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "C5H12O e 2",
@@ -7659,15 +8536,14 @@ export const uea2023Sis = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 54."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -7691,7 +8567,11 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a fórmula do propeno representada com numerações \nem vermelho referentes às posições dos átomos de carbono \nna molécula.\n\nAs hibridizações dos átomos de carbono indicados pelos números 1, 2 e 3 são, respectivamente,",
+    "statement": "Analise a fórmula do propeno representada com numerações em vermelho referentes às posições dos átomos de carbono na molécula.\n\nAs hibridizações dos átomos de carbono indicados pelos números 1, 2 e 3 são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "sp, sp e sp3.",
@@ -7702,15 +8582,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 55."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -7734,7 +8613,12 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A reação de combustão completa de um monoálcool é representada por meio da seguinte equação genérica:\n\nA combustão completa de 1 mol de um monoálcool secundário de cadeia ramificada produziu 5 mol de CO2. O nome \ndesse álcool, conforme as normas da União Internacional de \nQuímica Pura e Aplicada (IUPAC), é",
+    "statement": "A reação de combustão completa de um monoálcool é representada por meio da seguinte equação genérica:\n\nA combustão completa de 1 mol de um monoálcool secun-\n\ndesse álcool, conforme as normas da União Internacional de dário de cadeia ramificada produziu 5 mol de $CO_{2}$. O nome Química Pura e Aplicada (IUPAC), é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2-metilbutan-1-ol.",
@@ -7745,15 +8629,14 @@ export const uea2023Sis = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 56."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 20,
@@ -7778,6 +8661,10 @@ export const uea2023Sis = [
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
     "statement": "A substância cuja fórmula estrutural está representada a seguir apresenta atividade antimicobacteriana.\n\nEstão presentes na estrutura dessa molécula os grupos funcionais característicos das funções",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "álcool, amina e éter.",
@@ -7788,15 +8675,14 @@ export const uea2023Sis = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 57."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -7820,7 +8706,11 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A varfarina e a femprocumona são substâncias utilizadas \ncomo anticoagulantes. Suas fórmulas estruturais estão representadas a seguir.\n\nAs moléculas de varfarina e femprocumona",
+    "statement": "A varfarina e a femprocumona são substâncias utilizadas como anticoagulantes. Suas fórmulas estruturais estão representadas a seguir.\n\nAs moléculas de varfarina e femprocumona",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "são isômeros constitucionais entre si e ambas apresentam isomeria óptica.",
@@ -7831,15 +8721,14 @@ export const uea2023Sis = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 58."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 21,
@@ -7863,7 +8752,11 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Algodão e seda são fibras têxteis utilizadas há milhares de \nanos, sendo caracterizadas pela união de milhares de moléculas. As estruturas básicas do algodão e da seda estão \nrepresentadas nas figuras.\n\nAs fibras que compõem o algodão e a seda são exemplos, \nrespectivamente, de",
+    "statement": "Algodão e seda são fibras têxteis utilizadas há milhares de anos, sendo caracterizadas pela união de milhares de moléculas. As estruturas básicas do algodão e da seda estão representadas nas figuras.\n\nAs fibras que compõem o algodão e a seda são exemplos, respectivamente, de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "carboidrato e lipídeo.",
@@ -7874,15 +8767,14 @@ export const uea2023Sis = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf, questão 59."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
     "sourcePage": 22,

@@ -14,12 +14,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere o quadrinho publicado no perfil @alma_de_plastico \ndo Instagram.\n\nDepreende-se da resposta do gato que, em sua opinião, o \nsentimento expresso pela moça é",
+    "statement": "Considere o quadrinho publicado no perfil @alma_de_plastico do Instagram.\n\nDepreende-se da resposta do gato que, em sua opinião, o sentimento expresso pela moça é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q01-1.jpg",
-        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 2."
+        "src": "/images/uea/vestibular-2024-cg/q01-1.png",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -31,15 +34,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 01."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 2,
@@ -61,7 +63,16 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às \nquestões de 02 a 05.\n\nDanto1 introduz o problema da interpretação de obras de \narte propondo, como de costume, um experimento mental: \nimaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar \nque, embora os objetos materiais que as corporificam sejam \nidênticos, as referidas obras são distintas, uma vez que têm \nsignificados diferentes. Danto concorda, portanto, com a tese \nwölffliniana2 de que nem tudo é possível em qualquer época, \nou seja, os significados artísticos são condicionados pelo seu \ncontexto histórico. Desse modo, o problema da interpretação \nestá inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense.\n\n2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nSegundo o texto, o experimento proposto por Danto serviria \npara mostrar que o significado de um objeto de arte depende",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nSegundo o texto, o experimento proposto por Danto serviria para mostrar que o significado de um objeto de arte depende",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da inspiração do artista que produziu esse objeto.",
@@ -72,15 +83,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 02."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 2,
@@ -102,7 +112,16 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às \nquestões de 02 a 05.\n\nDanto1 introduz o problema da interpretação de obras de \narte propondo, como de costume, um experimento mental: \nimaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar \nque, embora os objetos materiais que as corporificam sejam \nidênticos, as referidas obras são distintas, uma vez que têm \nsignificados diferentes. Danto concorda, portanto, com a tese \nwölffliniana2 de que nem tudo é possível em qualquer época, \nou seja, os significados artísticos são condicionados pelo seu \ncontexto histórico. Desse modo, o problema da interpretação \nestá inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense.\n\n2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“embora os objetos materiais que as corporificam sejam \nidênticos, as referidas obras são distintas, uma vez que têm \nsignificados diferentes.”\n\nAo falar dos objetos e seus significados, a autora estabelece \numa oposição entre",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes.” Ao falar dos objetos e seus significados, a autora estabelece uma oposição entre",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "algo concreto e algo abstrato.",
@@ -113,15 +132,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 2,
@@ -143,7 +161,16 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às \nquestões de 02 a 05.\n\nDanto1 introduz o problema da interpretação de obras de \narte propondo, como de costume, um experimento mental: \nimaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar \nque, embora os objetos materiais que as corporificam sejam \nidênticos, as referidas obras são distintas, uma vez que têm \nsignificados diferentes. Danto concorda, portanto, com a tese \nwölffliniana2 de que nem tudo é possível em qualquer época, \nou seja, os significados artísticos são condicionados pelo seu \ncontexto histórico. Desse modo, o problema da interpretação \nestá inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense.\n\n2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“Danto concorda, portanto, com a tese wölffliniana de que \nnem tudo é possível em qualquer época”\n\nMantendo o sentido original e a correção gramatical, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“Danto concorda, portanto, com a tese wölffliniana de que nem tudo é possível em qualquer época” Mantendo o sentido original e a correção gramatical, a palavra sublinhada pode ser substituída por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "contudo.",
@@ -154,15 +181,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 2,
@@ -184,7 +210,16 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às \nquestões de 02 a 05.\n\nDanto1 introduz o problema da interpretação de obras de \narte propondo, como de costume, um experimento mental: \nimaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar \nque, embora os objetos materiais que as corporificam sejam \nidênticos, as referidas obras são distintas, uma vez que têm \nsignificados diferentes. Danto concorda, portanto, com a tese \nwölffliniana2 de que nem tudo é possível em qualquer época, \nou seja, os significados artísticos são condicionados pelo seu \ncontexto histórico. Desse modo, o problema da interpretação \nestá inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense.\n\n2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nEstá na voz passiva a oração:",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nEstá na voz passiva a oração:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“uma vez que têm significados diferentes”.",
@@ -195,15 +230,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 05."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 2,
@@ -225,7 +259,15 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, \npara responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da \nPraça. Barandão abriu no mundo também. Mas o Sem-Pernas \nficou encurralado na rua. Jogava picula1 com os guardas. \nEstes tinham se despreocupado dos outros, pensavam que \njá era alguma coisa pegar aquele coxo. Sem-Pernas corria \nde um lado para outro da rua, os guardas avançavam. Ele \nfez que ia escapulir por outro lado, driblou um dos guardas, \nsaiu pela ladeira. Mas em vez de descer e tomar pela Baixa \ndos Sapateiros, se dirigiu para a praça do Palácio. Porque \nSem-Pernas sabia que se corresse na rua o pegariam com \ncerteza. Eram homens, de pernas maiores que as suas, e \nalém do mais ele era coxo, pouco podia correr. E acima de \ntudo não queria que o pegassem. Lembrava-se da vez que \nfora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai \ncom ele. [...] Não o levarão. Vêm em seus calcanhares, mas \nnão o levarão. Pensam que ele vai parar junto ao grande \nelevador. Mas Sem-Pernas não para. Sobe para o pequeno \nmuro, volve o rosto para os guardas que ainda correm, ri \ncom toda a força do seu ódio, cospe na cara de um que \nse aproxima estendendo os braços, se atira de costas no \nespaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se \njogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta \nna montanha como um trapezista de circo que não tivesse \nalcançado o outro trapézio. O cachorro late entre as grades \ndo muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e \nmanja-pega.\n\nEsse conhecido episódio, que culmina no ato extremo de \nSem-Pernas, faz referências ao episódio",
+    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, para responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da Praça. Barandão abriu no mundo também. Mas o Sem-Pernas ficou encurralado na rua. Jogava picula¹ com os guardas. Estes tinham se despreocupado dos outros, pensavam que já era alguma coisa pegar aquele coxo. Sem-Pernas corria de um lado para outro da rua, os guardas avançavam. Ele fez que ia escapulir por outro lado, driblou um dos guardas, saiu pela ladeira. Mas em vez de descer e tomar pela Baixa dos Sapateiros, se dirigiu para a praça do Palácio. Porque Sem-Pernas sabia que se corresse na rua o pegariam com certeza. Eram homens, de pernas maiores que as suas, e além do mais ele era coxo, pouco podia correr. E acima de tudo não queria que o pegassem. Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai com ele. [...] Não o levarão. Vêm em seus calcanhares, mas não o levarão. Pensam que ele vai parar junto ao grande elevador. Mas Sem-Pernas não para. Sobe para o pequeno muro, volve o rosto para os guardas que ainda correm, ri com toda a força do seu ódio, cospe na cara de um que se aproxima estendendo os braços, se atira de costas no espaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se jogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta na montanha como um trapezista de circo que não tivesse alcançado o outro trapézio. O cachorro late entre as grades do muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e manja-pega.\n\nEsse conhecido episódio, que culmina no ato extremo de Sem-Pernas, faz referências ao episódio",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do preconceito sofrido pelo personagem na casa de Dona Ester.",
@@ -236,15 +278,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -266,7 +307,15 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, \npara responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da \nPraça. Barandão abriu no mundo também. Mas o Sem-Pernas \nficou encurralado na rua. Jogava picula1 com os guardas. \nEstes tinham se despreocupado dos outros, pensavam que \njá era alguma coisa pegar aquele coxo. Sem-Pernas corria \nde um lado para outro da rua, os guardas avançavam. Ele \nfez que ia escapulir por outro lado, driblou um dos guardas, \nsaiu pela ladeira. Mas em vez de descer e tomar pela Baixa \ndos Sapateiros, se dirigiu para a praça do Palácio. Porque \nSem-Pernas sabia que se corresse na rua o pegariam com \ncerteza. Eram homens, de pernas maiores que as suas, e \nalém do mais ele era coxo, pouco podia correr. E acima de \ntudo não queria que o pegassem. Lembrava-se da vez que \nfora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai \ncom ele. [...] Não o levarão. Vêm em seus calcanhares, mas \nnão o levarão. Pensam que ele vai parar junto ao grande \nelevador. Mas Sem-Pernas não para. Sobe para o pequeno \nmuro, volve o rosto para os guardas que ainda correm, ri \ncom toda a força do seu ódio, cospe na cara de um que \nse aproxima estendendo os braços, se atira de costas no \nespaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se \njogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta \nna montanha como um trapezista de circo que não tivesse \nalcançado o outro trapézio. O cachorro late entre as grades \ndo muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e \nmanja-pega.\n\nNa frase “E acima de tudo não queria que o pegassem” \n(1o parágrafo), a expressão sublinhada indica que a ação \npretendida pelo personagem é",
+    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, para responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da Praça. Barandão abriu no mundo também. Mas o Sem-Pernas ficou encurralado na rua. Jogava picula¹ com os guardas. Estes tinham se despreocupado dos outros, pensavam que já era alguma coisa pegar aquele coxo. Sem-Pernas corria de um lado para outro da rua, os guardas avançavam. Ele fez que ia escapulir por outro lado, driblou um dos guardas, saiu pela ladeira. Mas em vez de descer e tomar pela Baixa dos Sapateiros, se dirigiu para a praça do Palácio. Porque Sem-Pernas sabia que se corresse na rua o pegariam com certeza. Eram homens, de pernas maiores que as suas, e além do mais ele era coxo, pouco podia correr. E acima de tudo não queria que o pegassem. Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai com ele. [...] Não o levarão. Vêm em seus calcanhares, mas não o levarão. Pensam que ele vai parar junto ao grande elevador. Mas Sem-Pernas não para. Sobe para o pequeno muro, volve o rosto para os guardas que ainda correm, ri com toda a força do seu ódio, cospe na cara de um que se aproxima estendendo os braços, se atira de costas no espaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se jogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta na montanha como um trapezista de circo que não tivesse alcançado o outro trapézio. O cachorro late entre as grades do muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e manja-pega.\n\nNa frase “E acima de tudo não queria que o pegassem” ($1^{o}$ parágrafo), a expressão sublinhada indica que a ação pretendida pelo personagem é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "incomum.",
@@ -277,15 +326,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 07."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -307,7 +355,15 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, \npara responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da \nPraça. Barandão abriu no mundo também. Mas o Sem-Pernas \nficou encurralado na rua. Jogava picula1 com os guardas. \nEstes tinham se despreocupado dos outros, pensavam que \njá era alguma coisa pegar aquele coxo. Sem-Pernas corria \nde um lado para outro da rua, os guardas avançavam. Ele \nfez que ia escapulir por outro lado, driblou um dos guardas, \nsaiu pela ladeira. Mas em vez de descer e tomar pela Baixa \ndos Sapateiros, se dirigiu para a praça do Palácio. Porque \nSem-Pernas sabia que se corresse na rua o pegariam com \ncerteza. Eram homens, de pernas maiores que as suas, e \nalém do mais ele era coxo, pouco podia correr. E acima de \ntudo não queria que o pegassem. Lembrava-se da vez que \nfora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai \ncom ele. [...] Não o levarão. Vêm em seus calcanhares, mas \nnão o levarão. Pensam que ele vai parar junto ao grande \nelevador. Mas Sem-Pernas não para. Sobe para o pequeno \nmuro, volve o rosto para os guardas que ainda correm, ri \ncom toda a força do seu ódio, cospe na cara de um que \nse aproxima estendendo os braços, se atira de costas no \nespaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se \njogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta \nna montanha como um trapezista de circo que não tivesse \nalcançado o outro trapézio. O cachorro late entre as grades \ndo muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e \nmanja-pega.\n\nA palavra sublinhada indica uma condição em:",
+    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, para responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da Praça. Barandão abriu no mundo também. Mas o Sem-Pernas ficou encurralado na rua. Jogava picula¹ com os guardas. Estes tinham se despreocupado dos outros, pensavam que já era alguma coisa pegar aquele coxo. Sem-Pernas corria de um lado para outro da rua, os guardas avançavam. Ele fez que ia escapulir por outro lado, driblou um dos guardas, saiu pela ladeira. Mas em vez de descer e tomar pela Baixa dos Sapateiros, se dirigiu para a praça do Palácio. Porque Sem-Pernas sabia que se corresse na rua o pegariam com certeza. Eram homens, de pernas maiores que as suas, e além do mais ele era coxo, pouco podia correr. E acima de tudo não queria que o pegassem. Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai com ele. [...] Não o levarão. Vêm em seus calcanhares, mas não o levarão. Pensam que ele vai parar junto ao grande elevador. Mas Sem-Pernas não para. Sobe para o pequeno muro, volve o rosto para os guardas que ainda correm, ri com toda a força do seu ódio, cospe na cara de um que se aproxima estendendo os braços, se atira de costas no espaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se jogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta na montanha como um trapezista de circo que não tivesse alcançado o outro trapézio. O cachorro late entre as grades do muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e manja-pega.\n\nA palavra sublinhada indica uma condição em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“sabia que se corresse na rua o pegariam com certeza” (1o parágrafo).",
@@ -318,15 +374,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 08."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -348,12 +403,18 @@ export const uea2024Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Social media and the internet\n\nSocial media are forms of digital communication through \nwhich users create online communities to share information, \nideas, personal messages, and other content.\n\nSocial media use is not inherently beneficial or harmful. \nSocial media platforms offer powerful opportunities for \nsocialization and connection, but may also have some \nnegative effects, including misinformation and disinformation, \nhate speech, and cyberbullying. At the extreme, social media \nuse can interfere with sleep, physical activity, and in-person \nsocial interactions.\n\n(www.apa.org. Adaptado.)\n\nThe text intends to",
+    "statement": "Social media and the internet\n\nSocial media are forms of digital communication through which users create online communities to share information, ideas, personal messages, and other content.\n\nSocial media use is not inherently beneficial or harmful. Social media platforms offer powerful opportunities for socialization and connection, but may also have some negative effects, including misinformation and disinformation, hate speech, and cyberbullying. At the extreme, social media use can interfere with sleep, physical activity, and in-person social interactions.\n\n(www.apa.org. Adaptado.)\n\nThe text intends to",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q09-1.jpg",
-        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2024-cg/q09-1.png",
+        "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -365,15 +426,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 09."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 3,
@@ -396,12 +456,19 @@ export const uea2024Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 10 e 11.\n\nMisinformation and disinformation\n\nMisinformation is false or inaccurate information — getting \nthe facts wrong. Disinformation is false information, which is \ndeliberately intended to mislead — intentionally misstating the \nfacts.\n\nThe spread of misinformation and disinformation has \naffected our ability to improve public health, address climate \nchange, maintain a stable democracy, and more. By providing \nvaluable insight into how and why we are likely to believe \nmisinformation and disinformation, psychological science can \ninform how we protect ourselves against its ill effects.\n\n(www.apa.org. Adaptado.)\n\nDe acordo com o texto, a distinção entre “misinformation” e \n“disinformation” é que",
+    "statement": "Leia o texto para responder às questões 10 e 11.\n\nMisinformation and disinformation\n\nMisinformation is false or inaccurate information — getting the facts wrong. Disinformation is false information, which is deliberately intended to mislead — intentionally misstating the facts.\n\nThe spread of misinformation and disinformation has affected our ability to improve public health, address climate change, maintain a stable democracy, and more. By providing valuable insight into how and why we are likely to believe misinformation and disinformation, psychological science can inform how we protect ourselves against its ill effects.\n\n(www.apa.org. Adaptado.)\n\nDe acordo com o texto, a distinção entre “misinformation” e “disinformation” é que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q10-1.jpg",
-        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2024-cg/q10-1.png",
+        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -413,15 +480,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 10."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -444,12 +510,19 @@ export const uea2024Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto para responder às questões 10 e 11.\n\nMisinformation and disinformation\n\nMisinformation is false or inaccurate information — getting \nthe facts wrong. Disinformation is false information, which is \ndeliberately intended to mislead — intentionally misstating the \nfacts.\n\nThe spread of misinformation and disinformation has \naffected our ability to improve public health, address climate \nchange, maintain a stable democracy, and more. By providing \nvaluable insight into how and why we are likely to believe \nmisinformation and disinformation, psychological science can \ninform how we protect ourselves against its ill effects.\n\n(www.apa.org. Adaptado.)\n\nNo trecho do segundo parágrafo “we are likely to believe misinformation and disinformation”, o termo sublinhado é empregado no sentido de",
+    "statement": "Leia o texto para responder às questões 10 e 11.\n\nMisinformation and disinformation\n\nMisinformation is false or inaccurate information — getting the facts wrong. Disinformation is false information, which is deliberately intended to mislead — intentionally misstating the facts.\n\nThe spread of misinformation and disinformation has affected our ability to improve public health, address climate change, maintain a stable democracy, and more. By providing valuable insight into how and why we are likely to believe misinformation and disinformation, psychological science can inform how we protect ourselves against its ill effects.\n\n(www.apa.org. Adaptado.)\n\nNo trecho do segundo parágrafo “we are likely to believe misinformation and disinformation”, o termo sublinhado é empregado no sentido de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q10-1.jpg",
-        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2024-cg/q10-1.png",
+        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -461,15 +534,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 11."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -492,7 +564,12 @@ export const uea2024Vestibular = [
     "subject": "Inglês",
     "detail": "Inglês — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Renowned for its stunning biodiversity, the Amazon \nrainforest region is also home to a vast array of people and \ncultures. “People usually think that the environment doesn’t \ncontain and include people, but it does,” said soil scientist \nJudson Ferreira Valentim, who lives in Brazil’s Acre state. \n“There are many different Amazonias and many different \nAmazonians.”\n\n(www.aljazeera.com, 28.11.2023. Adaptado.)\n\nAccording to the information presented, a suitable title for the \ntext is:",
+    "statement": "Renowned for its stunning biodiversity, the Amazon rainforest region is also home to a vast array of people and cultures. “People usually think that the environment doesn’t contain and include people, but it does,” said soil scientist Judson Ferreira Valentim, who lives in Brazil’s Acre state. “There are many different Amazonias and many different Amazonians.”\n\n(www.aljazeera.com, 28.11.2023. Adaptado.)\n\nAccording to the information presented, a suitable title for the text is:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Amazon rainforest geographical region",
@@ -503,15 +580,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 12."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -534,7 +610,14 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A educação grega sempre procurou cultivar o espírito \ncívico, o orgulho de pertencer a uma cidade livre, a lealdade \nà comunidade política. Primeiramente, a ênfase recaía sobre o treinamento militar. Entretanto, desde o século VI a.C., \nprimeiro em Atenas, depois no resto da Grécia — exce\ntuando-se sempre Esparta —, as preocupações militares \nvinham em segundo lugar. Todavia, educação significava \nainda principalmente educação física; para os gregos, estava em primeiro lugar — e assim foi durante longo tempo — a \npalestra1 e o ginásio, onde a criança e o adolescente eram \ntreinados nos esportes. A educação grega não só era mais \nfísica que intelectual; era também artística, especificamente \nmusical, antes de ser literária.\n\n(H. -I. Marrou. “Educação e retórica”. In: Moses Finley (org.). O legado da\n\nGrécia: uma nova avaliação, 1998. Adaptado.)\n\n1 Palestra: do grego palaistra — local para exercícios corporais.\n\nDe acordo com o excerto, na pólis grega, a educação a partir \ndo século VI a.C.",
+    "statement": "A educação grega sempre procurou cultivar o espírito cívico, o orgulho de pertencer a uma cidade livre, a lealdade à comunidade política. Primeiramente, a ênfase recaía sobre o treinamento militar. Entretanto, desde o século VI a.C., primeiro em Atenas, depois no resto da Grécia — exce tuando-se sempre Esparta —, as preocupações militares vinham em segundo lugar. Todavia, educação significava ainda principalmente educação física; para os gregos, estava em primeiro lugar — e assim foi durante longo tempo — a palestra¹ e o ginásio, onde a criança e o adolescente eram treinados nos esportes. A educação grega não só era mais física que intelectual; era também artística, especificamente musical, antes de ser literária.\n\n(H. -I. Marrou. “Educação e retórica”. In: Moses Finley (org.). O legado da\n\nGrécia: uma nova avaliação, 1998. Adaptado.)\n\n1 Palestra: do grego palaistra — local para exercícios corporais.\n\nDe acordo com o excerto, na pólis grega, a educação a partir do século VI a.C.",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "direcionava-se às competições olímpicas.",
@@ -545,15 +628,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 13."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 4,
@@ -576,11 +658,14 @@ export const uea2024Vestibular = [
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
     "statement": "(https://gabrielzago.wordpress.com.)\n\nNo contexto da Primeira República brasileira, a charge retrata",
+    "blockTypes": [
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q14-1.jpg",
-        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2024-cg/q14-1.png",
+        "alt": "Imagem de apoio da questão 14 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -592,15 +677,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 14."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -622,7 +706,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A propaganda do movimento totalitário serve também \npara libertar o pensamento da experiência e da realidade; \nprocura sempre injetar um significado secreto em cada evento público tangível e farejar intenções secretas atrás de cada \nato político público. Quando chegam ao poder, os movimentos passam a alterar a realidade segundo as suas afirmações \nideológicas. O conceito de inimizade é substituído pelo conceito de conspiração, e isso produz uma mentalidade na qual \njá não se experimenta e se compreende a realidade em seus \npróprios termos — a verdadeira inimizade ou a verdadeira \namizade — mas automaticamente se presume que ela significa outra coisa.\n\n(Hannah Arendt. Origens do totalitarismo, 2012.)\n\nDe acordo com o excerto, o movimento totalitário utiliza a \npropaganda para",
+    "statement": "A propaganda do movimento totalitário serve também para libertar o pensamento da experiência e da realidade; procura sempre injetar um significado secreto em cada evento público tangível e farejar intenções secretas atrás de cada ato político público. Quando chegam ao poder, os movimentos passam a alterar a realidade segundo as suas afirmações ideológicas. O conceito de inimizade é substituído pelo conceito de conspiração, e isso produz uma mentalidade na qual já não se experimenta e se compreende a realidade em seus próprios termos — a verdadeira inimizade ou a verdadeira amizade — mas automaticamente se presume que ela significa outra coisa.\n\n(Hannah Arendt. Origens do totalitarismo, 2012.)\n\nDe acordo com o excerto, o movimento totalitário utiliza a propaganda para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "descobrir os projetos confidenciais dos grupos políticos rivais.",
@@ -633,15 +722,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 15."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -663,7 +751,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Foi na Coreia, em 1951, que eclodiu a primeira guerra —\ndepois do final da Segunda Guerra Mundial — entre a Coreia \ndo Norte comunista e a Coreia do Sul, que é invadida pelo \nNorte. Acontece que os americanos vêm socorrer o Sul, mas \nnão são os soviéticos que apoiam o Norte, e sim os chineses.\n\n(Marc Ferro. O século XX explicado aos meus filhos, 2008. Adaptado.)\n\nO excerto apresenta uma característica da Guerra Fria (19451991), que corresponde",
+    "statement": "Foi na Coreia, em 1951, que eclodiu a primeira guerra — depois do final da Segunda Guerra Mundial — entre a Coreia do Norte comunista e a Coreia do Sul, que é invadida pelo Norte. Acontece que os americanos vêm socorrer o Sul, mas não são os soviéticos que apoiam o Norte, e sim os chineses.\n\n(Marc Ferro. O século XX explicado aos meus filhos, 2008. Adaptado.)\n\nO excerto apresenta uma característica da Guerra Fria (19451991), que corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à ausência de confronto direto entre estadunidenses e soviéticos.",
@@ -674,15 +767,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 16."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -704,7 +796,13 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A pauta do último ano de governo de Itamar Franco \nlimitou-se basicamente à implementação de novo programa de estabilização da economia, que se distinguiu das \ntentativas anteriores de estabilização da moeda pela ênfase que atribuiu ao equilíbrio das finanças públicas, bem \ncomo pela estratégia que seguiu para a desindexação de \npreços e salários.\n\n(Tarcísio Costa. “Os anos 1990: o ocaso da política e a sacralização do \nmercado”. In: Carlos Guilherme Mota (org.). Viagem incompleta. A experiência\n\nbrasileira (1500-2000): a grande transação, 2013. Adaptado.)\n\nO programa de estabilização da economia do governo citado \nno excerto foi",
+    "statement": "A pauta do último ano de governo de Itamar Franco limitou-se basicamente à implementação de novo programa de estabilização da economia, que se distinguiu das tentativas anteriores de estabilização da moeda pela ênfase que atribuiu ao equilíbrio das finanças públicas, bem como pela estratégia que seguiu para a desindexação de preços e salários.\n\n(Tarcísio Costa. “Os anos 1990: o ocaso da política e a sacralização do mercado”. In: Carlos Guilherme Mota (org.). Viagem incompleta. A experiência\n\nbrasileira (1500-2000): a grande transação, 2013. Adaptado.)\n\nO programa de estabilização da economia do governo citado no excerto foi",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o Plano de Metas.",
@@ -715,15 +813,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 17."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 5,
@@ -745,7 +842,10 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A Organização das Nações Unidas (ONU) foi formada em \n1945 após o fim da Segunda Guerra Mundial. Entre os seus \nprincipais objetivos encontram-se: manter a paz e a segurança internacional; desenvolver a cooperação econômica e \ncultural dos povos do mundo e",
+    "statement": "A Organização das Nações Unidas (ONU) foi formada em 1945 após o fim da Segunda Guerra Mundial. Entre os seus principais objetivos encontram-se: manter a paz e a segurança internacional; desenvolver a cooperação econômica e cultural dos povos do mundo e",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "expandir o programa global de combate ao comunismo.",
@@ -756,15 +856,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 18."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -786,7 +885,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "À medida que as mudanças tecnológicas progridem de \numa forma cada vez mais rápida, produzindo novas formas \nde risco, somos obrigados a ajustar-nos e a responder constantemente a essas mudanças. A sociedade de risco não se \nlimita apenas aos riscos ambientais e de saúde — inclui toda \numa série de mudanças na vida social contemporânea: transformações nos padrões de emprego, um nível cada vez maior \nde insegurança laboral, influência decrescente da tradição e \ndos hábitos enraizados na identidade pessoal, erosão dos \npadrões familiares tradicionais, e democratização dos relacionamentos pessoais. Uma vez que o nosso futuro pessoal \né hoje em dia muito menos previsível em relação ao que se \npassava nas sociedades tradicionais, todo o tipo de decisões \nimplica riscos para os indivíduos.\n\n(Anthony Giddens. Sociologia, 2008. Adaptado.)\n\nA sociedade de risco descrita no excerto possui caráter",
+    "statement": "À medida que as mudanças tecnológicas progridem de uma forma cada vez mais rápida, produzindo novas formas de risco, somos obrigados a ajustar-nos e a responder constantemente a essas mudanças. A sociedade de risco não se limita apenas aos riscos ambientais e de saúde — inclui toda uma série de mudanças na vida social contemporânea: transformações nos padrões de emprego, um nível cada vez maior de insegurança laboral, influência decrescente da tradição e dos hábitos enraizados na identidade pessoal, erosão dos padrões familiares tradicionais, e democratização dos relacionamentos pessoais. Uma vez que o nosso futuro pessoal é hoje em dia muito menos previsível em relação ao que se passava nas sociedades tradicionais, todo o tipo de decisões implica riscos para os indivíduos.\n\n(Anthony Giddens. Sociologia, 2008. Adaptado.)\n\nA sociedade de risco descrita no excerto possui caráter",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "tradicional.",
@@ -797,15 +901,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 19."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -827,7 +930,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em 1690, os portugueses instalaram um pequeno posto \navançado, perto de onde hoje se localiza Manaus, na boca do \nRio Negro. A Coroa, nas mãos da Espanha, estabeleceu uma \nadministração à parte do Norte da colônia, criando o Estado \ndo Maranhão e Grão Pará.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nNa região norte do Brasil colonial, citada no excerto, a produção \nbaseou-se, principalmente,",
+    "statement": "Em 1690, os portugueses instalaram um pequeno posto avançado, perto de onde hoje se localiza Manaus, na boca do Rio Negro. A Coroa, nas mãos da Espanha, estabeleceu uma administração à parte do Norte da colônia, criando o Estado do Maranhão e Grão Pará.\n\n(Boris Fausto. História do Brasil, 2007. Adaptado.)\n\nNa região norte do Brasil colonial, citada no excerto, a produção baseou-se, principalmente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na exploração dos produtos da floresta chamados de “drogas do sertão”.",
@@ -838,15 +946,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 20."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -868,7 +975,13 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O “Diretório dos Índios” foi estabelecido no Brasil em \n1759 para administrar as missões fundadas pelas ordens religiosas. Também denominado Diretório que se deve observar \nnas povoações dos “índios” do Pará e Maranhão enquanto \nsua Majestade não mandar o contrário, visava levar a civilização e a cultura da metrópole aos indígenas.\n\n(Angela Vianna Botelho e Liana Maria Reis. Dicionário Histórico Brasil:\n\nColônia e Império, 2008. Adaptado.)\n\nO “Diretório dos Índios”, a fim de cumprir os objetivos referidos no excerto, propunha",
+    "statement": "O “Diretório dos Índios” foi estabelecido no Brasil em 1759 para administrar as missões fundadas pelas ordens religiosas. Também denominado Diretório que se deve observar nas povoações dos “índios” do Pará e Maranhão enquanto sua Majestade não mandar o contrário, visava levar a civilização e a cultura da metrópole aos indígenas.\n\n(Angela Vianna Botelho e Liana Maria Reis. Dicionário Histórico Brasil:\n\nColônia e Império, 2008. Adaptado.)\n\nO “Diretório dos Índios”, a fim de cumprir os objetivos referidos no excerto, propunha",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o estímulo à agricultura itinerante.",
@@ -879,15 +992,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -909,7 +1021,10 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No período de 1880 a 1920, a economia da borracha na \nAmazônia experimentou a ascensão e a queda. Entre as \nrazões que explicam, respectivamente, esses momentos \nestão:",
+    "statement": "No período de 1880 a 1920, a economia da borracha na Amazônia experimentou a ascensão e a queda. Entre as razões que explicam, respectivamente, esses momentos estão:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a disponibilidade de mão de obra na região Norte e a reduzida produtividade da força de trabalho nos seringais.",
@@ -920,15 +1035,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 22."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 6,
@@ -950,7 +1064,14 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Entre os anos de 1946 e 1953, aconteceu o processo \nde elaboração da estratégia de recuperação econômica da \nAmazônia. As classes políticas amazônicas aproveitaram o \nmomento favorável para ampliar seus questionamentos e clamores, conseguindo uma vitória através da Constituição de \n1946. A implantação da Superintendência do Plano de Valorização Econômica da Amazônia (SPVEA) conseguiu consolidar, em definitivo, um novo padrão de pensamento e atuação \ninstitucional, gerando a construção de um plano que conciliava as necessidades amazônicas aos interesses nacionais em \ncurso. O projeto de valorização, no entanto, era um plano de \ndesenvolvimento de longo prazo, com a previsão de um amplo período de estudos e pesquisas sobre a região, além de \nestímulos consistentes em termos de fomento à alimentação, \nsaúde e infraestrutura. Essa estratégia, que não colocava o \nextrativismo na lista de prioridades, não era vista com entusiasmo por boa parte das elites tradicionais da borracha \nque, apesar de cada vez mais enfraquecidas, ainda tinham \nbastante influência e capacidade de articulação.\n\n(Carlos Eugenio Aguiar Pereira de Carvalho Renha. A Superintendência do\n\nPlano de Valorização Econômica da Amazônia, a política de \ndesenvolvimento regional e o Amazonas (1953-1966), 2017. Adaptado.)\n\nDe acordo com o excerto, o projeto de valorização econômica \nda Amazônia",
+    "statement": "Entre os anos de 1946 e 1953, aconteceu o processo de elaboração da estratégia de recuperação econômica da Amazônia. As classes políticas amazônicas aproveitaram o momento favorável para ampliar seus questionamentos e clamores, conseguindo uma vitória através da Constituição de 1946. A implantação da Superintendência do Plano de Valorização Econômica da Amazônia (SPVEA) conseguiu consolidar, em definitivo, um novo padrão de pensamento e atuação institucional, gerando a construção de um plano que conciliava as necessidades amazônicas aos interesses nacionais em curso. O projeto de valorização, no entanto, era um plano de desenvolvimento de longo prazo, com a previsão de um amplo período de estudos e pesquisas sobre a região, além de estímulos consistentes em termos de fomento à alimentação, saúde e infraestrutura. Essa estratégia, que não colocava o extrativismo na lista de prioridades, não era vista com entusiasmo por boa parte das elites tradicionais da borracha que, apesar de cada vez mais enfraquecidas, ainda tinham bastante influência e capacidade de articulação.\n\n(Carlos Eugenio Aguiar Pereira de Carvalho Renha. A Superintendência do\n\nPlano de Valorização Econômica da Amazônia, a política de\n\ndesenvolvimento regional e o Amazonas (1953-1966), 2017. Adaptado.)\n\nDe acordo com o excerto, o projeto de valorização econômica da Amazônia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "incompatibilizava os interesses locais e os nacionais.",
@@ -961,15 +1082,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 23."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -991,7 +1111,13 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A criação da Zona Franca de Manaus foi justificada pela \nditadura civil-militar com a necessidade de se ocupar uma região despovoada. Era necessário, portanto, dotar a região de \n“condições de meios de vida” e infraestrutura que atraíssem \npara ela a força de trabalho e o capital, nacional e estrangeiro, \nvistos como imprescindíveis para a dinamização das forças \nprodutivas locais, objetivando instaurar na região condições \nde “rentabilidade econômica global”. De fato, sua criação e \ndesenvolvimento sempre estiveram atrelados a circunstâncias político-econômicas locais, nacionais e mundiais.\n\n(José Seráfico e Marcelo Seráfico. A Zona Franca de Manaus e o\n\ncapitalismo no Brasil, 2005. Adaptado.)\n\nA criação da Zona Franca de Manaus inseriu-se no modelo de",
+    "statement": "A criação da Zona Franca de Manaus foi justificada pela ditadura civil-militar com a necessidade de se ocupar uma região despovoada. Era necessário, portanto, dotar a região de “condições de meios de vida” e infraestrutura que atraíssem para ela a força de trabalho e o capital, nacional e estrangeiro, vistos como imprescindíveis para a dinamização das forças produtivas locais, objetivando instaurar na região condições de “rentabilidade econômica global”. De fato, sua criação e desenvolvimento sempre estiveram atrelados a circunstâncias político-econômicas locais, nacionais e mundiais.\n\n(José Seráfico e Marcelo Seráfico. A Zona Franca de Manaus e o\n\ncapitalismo no Brasil, 2005. Adaptado.)\n\nA criação da Zona Franca de Manaus inseriu-se no modelo de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "desenvolvimento nacionalista varguista.",
@@ -1002,15 +1128,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -1032,7 +1157,15 @@ export const uea2024Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o gráfico que apresenta o desmatamento da Amazônia \nno período de 2008 até o 1o bimestre de 2024.\n\n564\n523\n\nÁrea (km2)\n\n145\n111\n145 143 140\n\n80\n118\n\n52\n69\n\n2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n0\n\n(https://imazon.org.br, 18.03.2024.)\n\nA análise do gráfico e conhecimentos sobre a ação do desmatamento na Amazônia revelam que, na série histórica,",
+    "statement": "Analise o gráfico que apresenta o desmatamento da Amazônia no período de 2008 até o $1^{o}$ bimestre de 2024.\n\n600 564\n\n523\n\n2)Área (km 400 330 284 290 375 200 145 111 145 143 140 80 118 52 69 201 196 0 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n\n(https://imazon.org.br, 18.03.2024.)\n\nA análise do gráfico e conhecimentos sobre a ação do desmatamento na Amazônia revelam que, na série histórica,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o aumento mostrado entre 2020 e 2022 ocorreu devido ao incremento de ações voltadas ao manejo inadequado da floresta.",
@@ -1043,15 +1176,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -1073,7 +1205,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em abril de 2024, o Instituto Brasileiro de Geografia e \nEstatística (IBGE) lançou o novo Atlas Geográfico Escolar \ncom uma nova representação do mapa-múndi. A reedição \ndesse Atlas não é novidade, já que periodicamente isso \nocorre. Então, por que esse lançamento está repercutindo \nnos meios acadêmicos e escolares? Porque há elementos \ndiferenciados e importantes nessa nova publicação. Um \nelemento muito importante e inovador presente no Atlas é \na representação da posição da América do Sul e o Brasil no \nmapa-múndi. No âmbito da Geografia, são antigas as discussões sobre as relações de poder que as representações \ncartográficas trazem.\n\n(www.correiobraziliense.com.br, 26.04.2024. Adaptado.)\n\nA nova representação do mapa-múndi produzido pelo IBGE \nrompe com a tradicional visão de mundo",
+    "statement": "Em abril de 2024, o Instituto Brasileiro de Geografia e Estatística (IBGE) lançou o novo Atlas Geográfico Escolar com uma nova representação do mapa-múndi. A reedição desse Atlas não é novidade, já que periodicamente isso ocorre. Então, por que esse lançamento está repercutindo nos meios acadêmicos e escolares? Porque há elementos diferenciados e importantes nessa nova publicação. Um elemento muito importante e inovador presente no Atlas é a representação da posição da América do Sul e o Brasil no mapa-múndi. No âmbito da Geografia, são antigas as discussões sobre as relações de poder que as representações cartográficas trazem.\n\n(www.correiobraziliense.com.br, 26.04.2024. Adaptado.)\n\nA nova representação do mapa-múndi produzido pelo IBGE rompe com a tradicional visão de mundo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "heliocêntrica.",
@@ -1084,15 +1221,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 26."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 7,
@@ -1114,12 +1250,17 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o mapa, elaborado pelo Instituto Brasileiro de \nGeografia e Estatística (IBGE), que indica a distribuição \ngeorreferenciada dos domicílios durante a operação censitária de 2022, no estado Amazonas.\n\nEspécies de Endereços\n\nEstabelecimento de outras \nfinalidades\nEdificação em construção\nEstabelecimento religioso\nMunicípios amazonas\n\nDomicílio particular\nDomicílio coletivo\nEstabelecimento agropecuário\nEstabelecimento de ensino\nEstabelecimento de saúde\n\n(https://realtime1.com.br, 02.02.2024.)\n\nNo estado do Amazonas, a ocupação dos domicílios está \nconcentrada",
+    "statement": "Analise o mapa, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que indica a distribuição georreferenciada dos domicílios durante a operação censitária de 2022, no estado Amazonas.\n\nEspécies de Endereços Domicílio particular Estabelecimento de outras Domicílio coletivo finalidades Estabelecimento agropecuário Edificação em construção Estabelecimento de ensino Estabelecimento religioso Estabelecimento de saúde Municípios amazonas\n\n(https://realtime1.com.br, 02.02.2024.)\n\nNo estado do Amazonas, a ocupação dos domicílios está concentrada",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q27-1.jpg",
-        "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2024-cg/q27-1.png",
+        "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1131,15 +1272,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 27."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -1161,7 +1301,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Persuadidos e convencidos a embrenharem-se no desconhecido, homens, mulheres e crianças estavam agora determinados a prestarem “seu amor” à pátria. Os soldados e \nas soldadas da borracha não mediram esforços em abraçar \na mãe seringueira e extrair dela seu sustento. O “paraíso” \nparecia estar mais perto do que se poderia imaginar. O sonho \nde riqueza e de uma vida próspera adquiria cada vez mais \nesperança e fortalecimento. Parecia que todos os problemas \noriundos da vida de seca e de sofrimento seriam superados \natravés de um toque de mágica.\n\n(Marquelino Santana. https://newsrondonia.com.br, 13.08.2023. Adaptado.)\n\nConsiderando o contexto apresentado, para a instalação da \natividade extrativista na Amazônia, o Estado brasileiro estimulou",
+    "statement": "Persuadidos e convencidos a embrenharem-se no desconhecido, homens, mulheres e crianças estavam agora determinados a prestarem “seu amor” à pátria. Os soldados e as soldadas da borracha não mediram esforços em abraçar a mãe seringueira e extrair dela seu sustento. O “paraíso” parecia estar mais perto do que se poderia imaginar. O sonho de riqueza e de uma vida próspera adquiria cada vez mais esperança e fortalecimento. Parecia que todos os problemas oriundos da vida de seca e de sofrimento seriam superados através de um toque de mágica.\n\n(Marquelino Santana. https://newsrondonia.com.br, 13.08.2023. Adaptado.)\n\nConsiderando o contexto apresentado, para a instalação da atividade extrativista na Amazônia, o Estado brasileiro estimulou",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o êxodo rural, que proporcionou melhores condições de vida à população sulista.",
@@ -1172,15 +1317,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -1202,7 +1346,13 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No estado do Amazonas, está a cidade de Maués, conhecida como a capital de um importante fruto de origem amazônica. Ali, tanto a população rural quanto a da cidade consome \nno seu dia a dia o fruto que, para os indígenas Sateré-Mawé, \nsignifica “a fonte de sabedoria”. Apesar de a região não ser \nmais o principal fornecedor do país, a qualidade e as certificações obtidas pelos produtores locais conseguiram mudar a \nvida de quem vive de plantar e colher o fruto. Hoje, a Bahia é \nresponsável por 67,7% do produto no Brasil, apenas 18,4% é \nproduzido na Amazônia, segundo dados da Companhia Nacional de Abastecimento (Conab).\n\n(Ana Graziela Aguiar e Carina Dourado. https://agenciabrasil.ebc.com.br,\n\n24.12.2022. Adaptado.)\n\nO excerto refere-se à produção de",
+    "statement": "No estado do Amazonas, está a cidade de Maués, conhecida como a capital de um importante fruto de origem amazônica. Ali, tanto a população rural quanto a da cidade consome no seu dia a dia o fruto que, para os indígenas Sateré-Mawé, significa “a fonte de sabedoria”. Apesar de a região não ser mais o principal fornecedor do país, a qualidade e as certificações obtidas pelos produtores locais conseguiram mudar a vida de quem vive de plantar e colher o fruto. Hoje, a Bahia é responsável por 67,7% do produto no Brasil, apenas 18,4% é produzido na Amazônia, segundo dados da Companhia Nacional de Abastecimento (Conab).\n\n(Ana Graziela Aguiar e Carina Dourado. https://agenciabrasil.ebc.com.br,\n\n24.12.2022. Adaptado.)\n\nO excerto refere-se à produção de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "cacau.",
@@ -1213,15 +1363,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 29."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 8,
@@ -1243,12 +1392,16 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a charge que retrata um momento geopolítico do \nperíodo da Guerra Fria.\n\n(www.bbc.com. Adaptado.)\n\nA Doutrina Truman, no contexto geopolítico analisado na \ncharge,",
+    "statement": "Analise a charge que retrata um momento geopolítico do período da Guerra Fria.\n\n(www.bbc.com. Adaptado.)\n\nA Doutrina Truman, no contexto geopolítico analisado na charge,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q30-1.jpg",
-        "alt": "Imagem de apoio da questão 30 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2024-cg/q30-1.png",
+        "alt": "Imagem de apoio da questão 30 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1260,15 +1413,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1290,17 +1442,21 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Quantidade de conflitos por terra em 2023\n\nNorte\n700 (40%)\n\nNordeste\n530 (30%)\n\nCentro-Oeste\n\n300 (17%)\n\nSudeste\n106 (6%)\n\nSul\n88 (5%)\n\n(https://apublica.org, 22.04.2024. Adaptado.)\n\nNo Brasil, os conflitos por terra na região",
+    "statement": "Quantidade de conflitos por terra em 2023\n\nNorte 700 (40%)\n\nNordeste 530 (30%)\n\nCentro-Oeste 300 (17%)\n\nSudeste 106 (6%)\n\nSul 88 (5%)\n\n(https://apublica.org, 22.04.2024. Adaptado.)\n\nNo Brasil, os conflitos por terra na região",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q31-1.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 9."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q31-2.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2024-cg/q31-1.png",
+        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1312,15 +1468,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 31."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 9,
@@ -1342,7 +1497,13 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A região Amazônica reúne desafios complexos, tanto \nrelacionados à infraestrutura quanto ao seu acesso pela população local. Não só questões de saneamento, transporte \ne desenvolvimento social, como também desafios relacionados às questões tecnológicas como o acesso à internet com \nqualidade. Para muitos especialistas, somente a atribuição \nde valor econômico à floresta em pé permitirá a ela competir com outros usos que pressupõem sua derrubada ou \ndegradação, e somente a Ciência, a Tecnologia e a Inovação \npoderão mostrar o caminho de como utilizar o patrimônio natural sem destruí-lo.\n\n(Academia Brasileira de Ciências. \nAmazônia: desafio brasileiro do século XXI, 2008. Adaptado.)\n\nUma estratégia que vem sendo adotada no estado do \nAmazonas para superar esses desafios ocorre por meio \nde iniciativas , que alinha os conhecimentos das comunidades tradicionais à valorização econômica da floresta, e cria novas oportunidades de negócio fundamentadas no princípio .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A região Amazônica reúne desafios complexos, tanto relacionados à infraestrutura quanto ao seu acesso pela população local. Não só questões de saneamento, transporte e desenvolvimento social, como também desafios relacionados às questões tecnológicas como o acesso à internet com qualidade. Para muitos especialistas, somente a atribuição de valor econômico à floresta em pé permitirá a ela competir com outros usos que pressupõem sua derrubada ou degradação, e somente a Ciência, a Tecnologia e a Inovação poderão mostrar o caminho de como utilizar o patrimônio natural sem destruí-lo.\n\n(Academia Brasileira de Ciências.\n\nAmazônia: desafio brasileiro do século XXI, 2008. Adaptado.)\n\nUma estratégia que vem sendo adotada no estado do Amazonas para superar esses desafios ocorre por meio de iniciativas, que alinha os conhecimentos das comunidades tradicionais à valorização econômica da floresta, e cria novas oportunidades de negócio fundamentadas no princípio. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "do empreendedorismo social – da bioeconomia.",
@@ -1353,15 +1514,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1383,7 +1543,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O Amazonas ficou entre os oito estados brasileiros com a \nmaior taxa de desocupação em 2023 com 9,9%. A taxa anual \nficou 2,1 pontos percentuais acima do resultado nacional \n(7,8%). A taxa de desocupação representa o percentual de \npessoas desocupadas em relação às pessoas na força de \ntrabalho. Entre as pessoas, de 14 anos ou mais, e que estão em idade de trabalhar, em 2023, no Amazonas, 54% \natuavam na informalidade. A taxa ficou maior 1,7 ponto \npercentual do que a da região Norte e 14,8 pontos percentuais maior que a do país. Com um rendimento médio real \nde R$ 2.367,00, o Amazonas ficou na 17a posição entre \nas Unidades da Federação. O rendimento ficou menor em \nR$ 612,00 que o rendimento médio do país (R$ 2.979,00).\n\n(https://g1.globo.com, 16.02.2024. Adaptado.)\n\nAs características do mercado de trabalho retratado no excerto têm como consequência socioeconômica aos trabalhadores o aumento",
+    "statement": "O Amazonas ficou entre os oito estados brasileiros com a maior taxa de desocupação em 2023 com 9,9%. A taxa anual ficou 2,1 pontos percentuais acima do resultado nacional (7,8%). A taxa de desocupação representa o percentual de pessoas desocupadas em relação às pessoas na força de trabalho. Entre as pessoas, de 14 anos ou mais, e que estão em idade de trabalhar, em 2023, no Amazonas, 54% atuavam na informalidade. A taxa ficou maior 1,7 ponto percentual do que a da região Norte e 14,8 pontos percentuais maior que a do país. Com um rendimento médio real de R$ 2.367,00, o Amazonas ficou na $17^{a}$ posição entre as Unidades da Federação. O rendimento ficou menor em R$ 612,00 que o rendimento médio do país (R$ 2.979,00).\n\n(https://g1.globo.com, 16.02.2024. Adaptado.)\n\nAs características do mercado de trabalho retratado no excerto têm como consequência socioeconômica aos trabalhadores o aumento",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da precarização das condições do emprego, que reduz o direito ao crédito e provoca o aumento dos gastos previdenciários.",
@@ -1394,15 +1559,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 33."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 10,
@@ -1424,12 +1588,16 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine a imagem que retrata um modelo produtivo da Quarta \nRevolução Industrial.\n\n(www.sap.com. Adaptado.)\n\nPara consolidar e ampliar esse modelo produtivo nos territórios \nnacionais, é necessário",
+    "statement": "Examine a imagem que retrata um modelo produtivo da Quarta Revolução Industrial.\n\n(www.sap.com. Adaptado.)\n\nPara consolidar e ampliar esse modelo produtivo nos territórios nacionais, é necessário",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q34-1.jpg",
-        "alt": "Imagem de apoio da questão 34 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2024-cg/q34-1.png",
+        "alt": "Imagem de apoio da questão 34 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1441,15 +1609,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 34."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1471,12 +1638,21 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine o esquema que representa as diversas etapas \nentre a coleta e o processamento final dos resíduos sólidos \nem determinadas nas cidades.\n\nCENTRAL DE\nINCINERAÇÃO\n\nCOLETA DE RESÍDUOS SÓLIDOS\n\nSEPARAÇÃO\n\nTRANSPORTE\n\nPRODUTO\nPROCESSADO\n\nEMBALAGEM\n\nRECICLAGEM\n\n(https://energes.com.br. Adaptado.)\n\nNesse esquema, o processamento de resíduos sólidos contribui para",
+    "statement": "Examine o esquema que representa as diversas etapas entre a coleta e o processamento final dos resíduos sólidos em determinadas nas cidades.\n\nCOLETA DE RESÍDUOS SÓLIDOS INCINERAÇÃOCENTRAL DE\n\nSEPARAÇÃO\n\nTRANSPORTE\n\nPROCESSADOPRODUTO\n\nEMBALAGEM RECICLAGEM\n\n(https://energes.com.br. Adaptado.)\n\nNesse esquema, o processamento de resíduos sólidos contribui para",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q35-1.jpg",
-        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2024-cg/q35-1.png",
+        "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1488,15 +1664,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 35."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1518,12 +1693,16 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a representação do globo que indica o fluxo do tráfico \ninternacional de humanos entre 2017 e 2020.\n\n(www12.senado.leg.br, 21.07.2023.)\n\nO fluxo com maior intensidade está direcionado",
+    "statement": "Analise a representação do globo que indica o fluxo do tráfico internacional de humanos entre 2017 e 2020.\n\n(www12.senado.leg.br, 21.07.2023.)\n\nO fluxo com maior intensidade está direcionado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q36-1.jpg",
-        "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2024-cg/q36-1.png",
+        "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1535,15 +1714,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 36."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 11,
@@ -1565,37 +1743,25 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O esquema a seguir ilustra a diversidade de seres vivos no \nplaneta.\n\nCordados\n\nAngiospermas\n\nArtrópodes\n\nGimnospermas\n\nEquinodermos\n\nAnelídeos\n\nFilicíneas\n\nBriófitas\n\nMoluscos\nBasidiomicetos\n\nNematelmintes\n\nLicopodíneas\n\nPlatelmintes\n\nEquisetíneas\n\nAscomicetos\n\nZigomicetosCnidários\n\nAlgas verdes\nAlgas\nvermelhas\nAlgas\ncastanhas\n\nZooflagelados\n\nPoríferos\n(ou Espongiários)\n\nMixomicetos\n\nCiliados\n\nRizópodes\n\nDinoflagelados\nEsporozoários\n\nArqueobactérias\n\nEubactérias\n\n(https://emsinapse.wordpress.com. Adaptado.)\n\nA organização dos seres vivos ilustrada nesse esquema está \nfundamentada na",
+    "statement": "O esquema a seguir ilustra a diversidade de seres vivos no planeta.\n\nCordados\n\nAngiospermas Artrópodes\n\nGimnospermas Anelídeos Equinodermos\n\nFilicíneas Briófitas Basidiomicetos Moluscos Nematelmintes\n\nLicopodíneasAlgas verdesEquisetíneasAlgascastanhas AlgasvermelhasAscomicetosMixomicetosZigomicetosCnidáriosZooflageladosCiliados Poríferos(ou Espongiários)Platelmintes\n\nRizópodes\n\nDinoflagelados Esporozoários\n\nArqueobactérias\n\nEubactérias\n\n(https://emsinapse.wordpress.com. Adaptado.)\n\nA organização dos seres vivos ilustrada nesse esquema está fundamentada na",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q37-1.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q37-2.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q37-3.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q37-4.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q37-5.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q37-6.jpg",
-        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2024-cg/q37-1.png",
+        "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1607,15 +1773,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 37."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1637,12 +1802,16 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura ilustra um enterócito, célula intestinal com diferenciações da membrana plasmática.\n\n(https://nutrinews.com)\n\nAs diferenciações da membrana plasmática apresentadas na \nfigura permitem",
+    "statement": "A figura ilustra um enterócito, célula intestinal com diferenciações da membrana plasmática.\n\n(https://nutrinews.com)\n\nAs diferenciações da membrana plasmática apresentadas na figura permitem",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q38-1.jpg",
-        "alt": "Imagem de apoio da questão 38 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2024-cg/q38-1.png",
+        "alt": "Imagem de apoio da questão 38 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1654,15 +1823,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 38."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1684,7 +1852,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Existem duas hipóteses que tentam explicar como os primeiros \nseres vivos obtinham e degradavam o alimento. Uma delas é \na hipótese heterotrófica, que sugere que os primeiros seres vivos teriam utilizado o alimento pronto como fonte de energia e \nmatéria-prima. Já a outra hipótese é a autotrófica, que sugere \nque os primeiros organismos obtinham sua energia do próprio \nmetabolismo. Embora as duas hipóteses defendam ideias diferentes, ambas partem do pressuposto de que",
+    "statement": "Existem duas hipóteses que tentam explicar como os primeiros seres vivos obtinham e degradavam o alimento. Uma delas é a hipótese heterotrófica, que sugere que os primeiros seres vivos teriam utilizado o alimento pronto como fonte de energia e matéria-prima. Já a outra hipótese é a autotrófica, que sugere que os primeiros organismos obtinham sua energia do próprio metabolismo. Embora as duas hipóteses defendam ideias diferentes, ambas partem do pressuposto de que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ocorreu a formação das primeiras células, chamadas coacervados, na terra primitiva.",
@@ -1695,15 +1866,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 39."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1725,12 +1895,21 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a seguinte a teia alimentar.\n\nCoruja\n\nCoruja\n\nRaposa\n\nRaposa\n\nPássaro\n\nPássaro\n\nRato\n\nRato\n\nGafanhoto\n\nGafanhoto\n\nCoelho\n\nCoelho\n\nTrigo\nGrama\n\nTrigo\nGrama\n\nCenoura\n\nCenoura\n\n(www.gestaoeducacional.com.br. Adaptado.)\n\nNa teia alimentar ilustrada,",
+    "statement": "Considere a seguinte a teia alimentar.\n\nCorujaCoruja\n\nRaposaRaposa\n\nPássaroPássaro\n\nCoelhoCoelho RatoRato GafanhotoGafanhoto\n\nCenouraCenoura GramaGrama TrigoTrigo\n\n(www.gestaoeducacional.com.br. Adaptado.)\n\nNa teia alimentar ilustrada,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q40-1.jpg",
-        "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2024-cg/q40-1.png",
+        "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1742,15 +1921,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 40."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 12,
@@ -1772,7 +1950,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os ciclos biogeoquímicos do carbono, da água e do nitrogênio \ndemonstram a dinâmica dos elementos carbono (C), hidrogênio (H), oxigênio (O) e nitrogênio (N), tanto no ambiente físico \ncomo na composição dos seres vivos. O elemento carbono \ne o elemento nitrogênio, respectivamente, entram na cadeia \nalimentar a partir dos produtores pelos processos de",
+    "statement": "Os ciclos biogeoquímicos do carbono, da água e do nitrogênio demonstram a dinâmica dos elementos carbono (C), hidrogênio (H), oxigênio (O) e nitrogênio (N), tanto no ambiente físico como na composição dos seres vivos. O elemento carbono e o elemento nitrogênio, respectivamente, entram na cadeia alimentar a partir dos produtores pelos processos de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "absorção radicular e decomposição.",
@@ -1783,15 +1964,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 41."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1813,12 +1993,15 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "(https://brasilflorestal.org)\n\nA imagem mostra uma área cujo papel é crucial na preservação \nda biodiversidade e na manutenção dos ecossistemas saudáveis. \nSeu papel é conectar áreas naturais fragmentadas, proporcionar \ncaminhos para o fluxo genético das espécies, facilitar a migração \nde animais e permitir a dispersão de sementes.\n\nA imagem e o texto referem-se",
+    "statement": "(https://brasilflorestal.org)\n\nA imagem mostra uma área cujo papel é crucial na preservação da biodiversidade e na manutenção dos ecossistemas saudáveis. Seu papel é conectar áreas naturais fragmentadas, proporcionar caminhos para o fluxo genético das espécies, facilitar a migração de animais e permitir a dispersão de sementes. A imagem e o texto referem-se",
+    "blockTypes": [
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q42-1.jpg",
-        "alt": "Imagem de apoio da questão 42 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 13."
+        "src": "/images/uea/vestibular-2024-cg/q42-1.png",
+        "alt": "Imagem de apoio da questão 42 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -1830,15 +2013,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 42."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1860,7 +2042,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "É uma metodologia pela qual ocorre a investigação de fenômenos naturais a partir da observação, da formulação \nde questões, da experimentação para testar hipóteses e da \nanálise dos resultados obtidos. É um processo sistemático \nque busca revelar padrões que possam explicar os fenômenos, promovendo o avanço do conhecimento por meio \nde novas descobertas.\n\nO texto aborda as etapas",
+    "statement": "É uma metodologia pela qual ocorre a investigação de fenômenos naturais a partir da observação, da formulação de questões, da experimentação para testar hipóteses e da análise dos resultados obtidos. É um processo sistemático que busca revelar padrões que possam explicar os fenômenos, promovendo o avanço do conhecimento por meio de novas descobertas. O texto aborda as etapas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da sabedoria popular.",
@@ -1871,15 +2056,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 43."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1901,7 +2085,13 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O gráfico ilustra a variação na concentração de CO2 atmosférico nos últimos sessenta anos.\n\nCO2 (ppm)\n\n1960\n1970\n1980\n1990\n2000\n2010\n2020\n\n(www.ecodebate.com.br. Adaptado.)\n\nEssa mesma tendência de crescimento, nesse mesmo período, também é observada em um gráfico que considera \nos dados referentes",
+    "statement": "2 atmosfé-\n\n430 420 410 400 390 380 (ppm) 370 360 $CO^{2}$350 340 330 320 310 1960 1970 1980 1990 2000 2010 2020\n\n(www.ecodebate.com.br. Adaptado.)\n\nEssa mesma tendência de crescimento, nesse mesmo período, também é observada em um gráfico que considera os dados referentes",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "aos sistemas agroflorestais.",
@@ -1912,15 +2102,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 44."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 13,
@@ -1942,7 +2131,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O sistema cardiovascular humano é constituído por estruturas \nmicroscópicas, como o micronutriente ferro, que desempenha \num papel essencial no organismo humano ao integrar a hemoglobina presente nas hemácias. A hemoglobina é responsável \npelo transporte de gás oxigênio dos alvéolos pulmonares para \nos tecidos do corpo.\n\nSobre as estruturas citadas, sabe-se que",
+    "statement": "O sistema cardiovascular humano é constituído por estruturas microscópicas, como o micronutriente ferro, que desempenha um papel essencial no organismo humano ao integrar a hemoglobina presente nas hemácias. A hemoglobina é responsável pelo transporte de gás oxigênio dos alvéolos pulmonares para os tecidos do corpo. Sobre as estruturas citadas, sabe-se que",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a hemoglobina é uma proteína de transporte.",
@@ -1953,15 +2145,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 45."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -1983,7 +2174,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os organismos poliploides são aqueles que possuem mais \nde duas cópias de cada par de cromossomos homólogos \nem suas células. A poliploidia pode ser induzida artificialmente com o objetivo de levar ao surgimento de características novas e vantajosas, como maior resistência a doenças \ne adaptação a diferentes condições ambientais.\n\nO texto faz referência ao processo de",
+    "statement": "Os organismos poliploides são aqueles que possuem mais de duas cópias de cada par de cromossomos homólogos em suas células. A poliploidia pode ser induzida artificialmente com o objetivo de levar ao surgimento de características novas e vantajosas, como maior resistência a doenças e adaptação a diferentes condições ambientais. O texto faz referência ao processo de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "produção de transgênicos mais resistentes.",
@@ -1994,15 +2188,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 46."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -2024,7 +2217,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A primeira lei de Mendel considera a herança de apenas um \ncaráter, determinado por um par de genes alelos que se separam durante a formação dos gametas. O albinismo é uma \ncondição genética caracterizada pela ausência de melanina \ne ocorre quando uma pessoa tem dois alelos recessivos para \nesse gene.\n\nDe acordo com os princípios da primeira lei de Mendel, o \nnascimento de uma criança albina pode ocorrer no seguinte \ncruzamento:",
+    "statement": "A primeira lei de Mendel considera a herança de apenas um caráter, determinado por um par de genes alelos que se separam durante a formação dos gametas. O albinismo é uma condição genética caracterizada pela ausência de melanina e ocorre quando uma pessoa tem dois alelos recessivos para esse gene. De acordo com os princípios da primeira lei de Mendel, o nascimento de uma criança albina pode ocorrer no seguinte cruzamento:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Aa × AA.",
@@ -2035,15 +2231,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 47."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -2065,7 +2260,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na molécula de DNA existe um pareamento entre as bases \nnitrogenadas adenina e timina, assim como entre as bases \nnitrogenadas guanina e citosina. Ou seja, para cada adenina \nhá uma timina e para cada guanina há uma citosina.\n\nUma pesquisa revelou a presença de 34% de citosina em \numa molécula de DNA. Logo, os valores referentes",
+    "statement": "Na molécula de DNA existe um pareamento entre as bases nitrogenadas adenina e timina, assim como entre as bases nitrogenadas guanina e citosina. Ou seja, para cada adenina há uma timina e para cada guanina há uma citosina. Uma pesquisa revelou a presença de 34% de citosina em uma molécula de DNA. Logo, os valores referentes",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à adenina e à timina são 32% cada.",
@@ -2076,15 +2274,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 48."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -2106,7 +2303,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma faculdade oferece dois cursos de especialização, um no \nperíodo da manhã e o outro no período da noite. O número \nde alunos inscritos nesses dois cursos juntos totaliza 84 alunos, sendo que a razão entre o número de alunos inscritos no \ncurso do período da manhã e o número de alunos inscritos no\n\ncurso do período da noite é . A diferença entre o número de\n\nalunos inscritos nesses dois cursos é",
+    "statement": "Uma faculdade oferece dois cursos de especialização, um no período da manhã e o outro no período da noite. O número de alunos inscritos nesses dois cursos juntos totaliza 84 alunos, sendo que a razão entre o número de alunos inscritos no curso do período da manhã e o número de alunos inscritos no curso do período da noite é. A diferença entre o número de alunos inscritos nesses dois cursos é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "50.",
@@ -2117,15 +2317,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 49."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -2147,7 +2346,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um estudante resolveu 185 exercícios de matemática em 10 \ndias. No primeiro dia ele resolveu determinado número de \nexercícios, no dia seguinte, e em todos os demais dias, resolveu três exercícios a mais do que no dia anterior. Sabendo \nque no último dia ele resolveu 27 exercícios a mais do que \nno primeiro dia, o número de exercícios resolvidos no sexto \ndia foi",
+    "statement": "Um estudante resolveu 185 exercícios de matemática em 10 dias. No primeiro dia ele resolveu determinado número de exercícios, no dia seguinte, e em todos os demais dias, resolveu três exercícios a mais do que no dia anterior. Sabendo que no último dia ele resolveu 27 exercícios a mais do que no primeiro dia, o número de exercícios resolvidos no sexto dia foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "18.",
@@ -2158,15 +2360,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 50."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 14,
@@ -2188,7 +2389,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Em uma sala de reuniões há determinado número de cadeiras \ndas quais 10% estão quebradas e não podem ser utilizadas. \nDentre as cadeiras restantes, 25% precisam somente de alguns reparos e as outras 27 cadeiras estão em bom estado \ne não precisam de reparos. O número de cadeiras que não \nestão quebradas é",
+    "statement": "Em uma sala de reuniões há determinado número de cadeiras das quais 10% estão quebradas e não podem ser utilizadas. Dentre as cadeiras restantes, 25% precisam somente de alguns reparos e as outras 27 cadeiras estão em bom estado e não precisam de reparos. O número de cadeiras que não estão quebradas é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "39.",
@@ -2199,15 +2403,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 51."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -2229,7 +2432,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere as funções \n e \n , em\n\nque b e c são números reais. Sabendo que \n e que\n\n, o valor de \n é igual a",
+    "statement": "Considere as funções e, em que b e c são números reais. Sabendo que e que\n\n, o valor de é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5.",
@@ -2240,15 +2447,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 53."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -2270,7 +2476,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um estudante quer colocar 6 livros em uma prateleira, mas \nsó há espaço para 4 deles. Sabendo que esse estudante \nnão tem preferência pelos livros que ficarão na prateleira, o \nnúmero de maneiras distintas de ele escolher os 4 livros que \nserão colocados nela é",
+    "statement": "Um estudante quer colocar 6 livros em uma prateleira, mas só há espaço para 4 deles. Sabendo que esse estudante não tem preferência pelos livros que ficarão na prateleira, o número de maneiras distintas de ele escolher os 4 livros que serão colocados nela é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "18.",
@@ -2281,15 +2490,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 54."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -2311,7 +2519,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No mês de abril, uma pessoa comprou, em determinada loja, \n2 unidades do produto P e 1 unidade do produto Q, gastando \nnessa compra R$ 40,00. No mês de maio, o preço do produto \nP sofreu uma redução de R$ 4,00 em relação ao seu preço de \nabril, e o preço do produto Q sofreu um aumento de R$ 2,00, \ntambém em relação ao seu preço de abril. Dessa forma, se \nno mês de maio essa pessoa comprasse nessa mesma loja \n3 unidades do produto P e 2 unidades do produto Q, pagaria \npela compra R$ 56,00. No mês de maio, o preço do produto P \nera de",
+    "statement": "No mês de abril, uma pessoa comprou, em determinada loja, 2 unidades do produto P e 1 unidade do produto Q, gastando nessa compra R$ 40,00. No mês de maio, o preço do produto P sofreu uma redução de R$ 4,00 em relação ao seu preço de abril, e o preço do produto Q sofreu um aumento de R$ 2,00, também em relação ao seu preço de abril. Dessa forma, se no mês de maio essa pessoa comprasse nessa mesma loja 3 unidades do produto P e 2 unidades do produto Q, pagaria pela compra R$ 56,00. No mês de maio, o preço do produto P era de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 8,00.",
@@ -2322,15 +2533,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 55."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -2352,7 +2562,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A \ntabela mostra o número de camisetas compradas de cada \nmodelo e o valor unitário de dois desses modelos.\n\nModelo da camiseta\nNo de camisetas\n\ncompradas\nValor unitário\n\nDecote careca\n3\nR$ 46,00\n\nGola polo\n2\n?\n\nDecote em V\n4\nR$ 37,50\n\nConsiderando-se o número total de camisetas compradas, na \nmédia, o preço de uma camiseta saiu por R$ 45,00. O valor \nunitário da camiseta de gola polo era",
+    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nModelo da camiseta $N^{o}$ de camisetas compradas Valor unitário Decote careca 3 R$ 46,00 Gola polo 2? Decote em V 4 R$ 37,50 Considerando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 58,50.",
@@ -2363,15 +2577,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 56."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 15,
@@ -2393,7 +2606,16 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere o retângulo ABCD, com AD = 10 cm, DC = 16 cm \ne o triângulo DCP, em que P é o ponto médio do lado AB. \nSeja S o ponto médio do lado BC e Q um ponto no interior do \nretângulo ABCD, tal que BPQS seja um retângulo, conforme \nmostra a figura.\n\nB\nP\nA\n\n10 cm\n\nS\n\nQ\nR\n\n16 cm\nD\nC\n\nfora de escala\n\nSabendo que o lado PC intersecta o lado QS no ponto R, a \nárea do triângulo PQR, destacado na figura, é",
+    "statement": "Considere o retângulo ABCD, com AD = 10 cm, DC = 16 cm e o triângulo DCP, em que P é o ponto médio do lado AB. Seja S o ponto médio do lado BC e Q um ponto no interior do retângulo ABCD, tal que BPQS seja um retângulo, conforme mostra a figura.\n\nA P B\n\n10 cm Q R S\n\nD C\n\n16 cm\n\nfora de escala\n\nSabendo que o lado PC intersecta o lado QS no ponto R, a área do triângulo PQR, destacado na figura, é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15 cm2.",
@@ -2404,15 +2626,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 57."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2434,7 +2655,17 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere o retângulo ABCD, com AB = 12 cm, AD = 9 cm e \nEC = 13 cm, sendo E um ponto sobre o lado AD, conforme \nmostra a figura.\n\nD\n\nC\n\n13 cm\n\n9 cm\n\nE\n\nA\nB\n\n12 cm\n\nfora de escala\n\nO perímetro do triângulo ACE, destacado na figura, é igual a",
+    "statement": "Considere o retângulo ABCD, com AB = 12 cm, AD = 9 cm e EC = 13 cm, sendo E um ponto sobre o lado AD, conforme mostra a figura.\n\nD C\n\n13 cm\n\n9 cm E\n\nA B\n\n12 cm\n\nfora de escala\n\nO perímetro do triângulo ACE, destacado na figura, é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "35 cm.",
@@ -2445,15 +2676,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 58."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2475,7 +2705,15 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma fábrica de doces faz bombons maciços de chocolate na \nforma de um prisma reto de base quadrada e com 1,5 cm de \naltura, conforme mostra a figura.\n\n1,5 cm\n\nx\n\nx\n\nfora de escala\n\nSabendo que para fabricar 85 bombons desse tipo são \nnecessários 510 cm3 de massa de chocolate, a medida da \naresta da base, indicada na figura pela letra x, é igual a",
+    "statement": "Uma fábrica de doces faz bombons maciços de chocolate na forma de um prisma reto de base quadrada e com 1,5 cm de altura, conforme mostra a figura.\n\n1,5 cm\n\nx\n\nx\n\nfora de escala\n\nSabendo que para fabricar 85 bombons desse tipo são necessários 510 $cm^{3}$ de massa de chocolate, a medida da aresta da base, indicada na figura pela letra x, é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1,5 cm.",
@@ -2486,15 +2724,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 59."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2516,7 +2753,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O setor de vendas de determinada empresa dividiu um bônus \nde R$ 15.000,00 entre os três funcionários que obtiveram os \nmaiores valores em vendas no 1o bimestre de 2024, de modo \ndiretamente proporcional ao valor das vendas de cada um. \nDesses três vendedores, Marcos não foi quem obteve o maior \nvalor em vendas, e Pedro, que recebeu R$ 4.500,00 de bônus, \nfoi quem obteve o menor valor em vendas. Sabendo que o valor \ndas vendas feitas por Pedro foi 90% do valor das vendas feitas \npor Marcos e que o valor total das vendas feitas por esses três \nvendedores foi R$ 900.000,00, o bônus recebido pelo funcionário que obteve o maior valor em vendas foi",
+    "statement": "O setor de vendas de determinada empresa dividiu um bônus de R$ 15.000,00 entre os três funcionários que obtiveram os maiores valores em vendas no $1^{o}$ bimestre de 2024, de modo diretamente proporcional ao valor das vendas de cada um. Desses três vendedores, Marcos não foi quem obteve o maior valor em vendas, e Pedro, que recebeu R$ 4.500,00 de bônus, foi quem obteve o menor valor em vendas. Sabendo que o valor das vendas feitas por Pedro foi 90% do valor das vendas feitas por Marcos e que o valor total das vendas feitas por esses três vendedores foi R$ 900.000,00, o bônus recebido pelo funcionário que obteve o maior valor em vendas foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 5.000,00.",
@@ -2527,15 +2767,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 60."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 16,
@@ -2557,7 +2796,14 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O mostrador de um relógio digital possui um recurso gráfico \nvisual que auxilia na contagem do tempo. Esse recurso consiste basicamente em um pequeno display circular segmentado \nem cinco partes iguais, conforme a figura. No sentido horário, \na cada segundo, uma das cinco partes é acesa. Após todas \nas cinco partes estarem acesas, a contagem dos segundos \ncontinua, porém agora as partes são apagadas uma a uma, \nna mesma sequência. O processo se repete indefinidamente.\n\nDisplay circular\n\nSPORT\n\nALARME CRONO\n\nÀ PROVA D’ÁGUA\n\nS T Q Q S S D\n\nConsiderando que no início da contagem dos segundos \no display circular esteja totalmente apagado, durante o \nperíodo de 1 minuto esse display ficará totalmente aceso",
+    "statement": "O mostrador de um relógio digital possui um recurso gráfico visual que auxilia na contagem do tempo. Esse recurso consiste basicamente em um pequeno display circular segmentado em cinco partes iguais, conforme a figura. No sentido horário, a cada segundo, uma das cinco partes é acesa. Após todas as cinco partes estarem acesas, a contagem dos segundos continua, porém agora as partes são apagadas uma a uma, na mesma sequência. O processo se repete indefinidamente.\n\nDisplay circular\n\nSPORT\n\nALARME CRONOÀ PROVA D’ÁGUA S T Q Q S S D\n\nConsiderando que no início da contagem dos segundos o display circular esteja totalmente apagado, durante o período de 1 minuto esse display ficará totalmente aceso",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1 vez.",
@@ -2568,15 +2814,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 61."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2598,7 +2843,10 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um motorista de aplicativo estima que, para obter um ganho \nadequado, deve realizar viagens que totalizam no mínimo 21 km \nem no máximo 30 min. Para isso, o motorista deve desenvolver \numa velocidade média mínima de",
+    "statement": "Um motorista de aplicativo estima que, para obter um ganho adequado, deve realizar viagens que totalizam no mínimo 21 km em no máximo 30 min. Para isso, o motorista deve desenvolver uma velocidade média mínima de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "44 km/h.",
@@ -2609,15 +2857,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 62."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2639,12 +2886,21 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No ramo da construção civil, normas mínimas de segurança \nsão estabelecidas para assegurar que não haja riscos às pessoas. Apesar disso, é bastante comum nesse ramo ultrapassar \nesses níveis mínimos para garantir maior margem de segurança. Um exemplo dessa prática é a instalação de redes de \nproteção para janelas e sacadas de apartamentos. A rede de \nproteção ilustrada na figura possui 10 parafusos de fixação, \nsendo que cada um deles pode suportar até 540 N de tração \nsem que seja arrancado da parede.\n\nParafusos\n\nJanela\n\nParede\n\nParede\n\nRede\n\nParede\n\nParede\n\nConsiderando a massa de uma pessoa como sendo de 90 kg \ne a aceleração da gravidade igual a 10 m/s2, a rede representada na figura seria capaz de suportar uma força equivalente \nao peso de até",
+    "statement": "No ramo da construção civil, normas mínimas de segurança são estabelecidas para assegurar que não haja riscos às pessoas. Apesar disso, é bastante comum nesse ramo ultrapassar esses níveis mínimos para garantir maior margem de segurança. Um exemplo dessa prática é a instalação de redes de proteção para janelas e sacadas de apartamentos. A rede de proteção ilustrada na figura possui 10 parafusos de fixação, sendo que cada um deles pode suportar até 540 N de tração sem que seja arrancado da parede.\n\nParafusos Janela\n\nParede\n\nParede\n\nRede\n\nParede\n\nParede\n\nConsiderando a massa de uma pessoa como sendo de 90 kg e a aceleração da gravidade igual a 10 m/$s^{2}$, a rede representada na figura seria capaz de suportar uma força equivalente ao peso de até",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q63-1.jpg",
-        "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 17."
+        "src": "/images/uea/vestibular-2024-cg/q63-1.png",
+        "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -2656,15 +2912,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 63."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 17,
@@ -2686,77 +2941,16 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um motorista distraído está descendo uma pista de declive \nacentuado com seu carro quando percebe que logo à frente \nhá uma lombada. Assustado, o motorista inicia o processo de \nfrenagem, de forma que o carro começa a derrapar. Derrapando, o carro diminui sua velocidade até parar pouco antes \nda lombada.\n\nSuponha que, nesse processo, estavam envolvidas apenas a \nenergia cinética do carro (Ec), a energia potencial gravitacional \ndo carro (EP), a energia térmica dos pneus (ETp) e a energia térmica do asfalto da pista (ETa). Considerando a variação dessas \ngrandezas, representada por ∆, desde o início da frenagem até \na parada do carro, tem-se que:",
+    "statement": "Um motorista distraído está descendo uma pista de declive acentuado com seu carro quando percebe que logo à frente há uma lombada. Assustado, o motorista inicia o processo de frenagem, de forma que o carro começa a derrapar. Derrapando, o carro diminui sua velocidade até parar pouco antes da lombada.\n\nSuponha que, nesse processo, estavam envolvidas apenas a\n\ndo carro (Eenergia cinética do carro (Emica do asfalto da pista (Egrandezas, representada $por_{P}$), a energia térmica dos pneus ($ETa_{c}$). Considerando a variação dessas), a energia potencial gravitacional ∆, desde o início da frenagem até Tp) e a energia téra parada do carro, tem-se que:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q64-1.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-2.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-3.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-4.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-5.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-6.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-7.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-8.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-9.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-10.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-11.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-12.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-13.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q64-14.jpg",
-        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 18."
+        "src": "/images/uea/vestibular-2024-cg/q64-1.svg",
+        "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -2768,15 +2962,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 64."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2798,7 +2991,10 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um serralheiro corta segmentos de uma barra metálica e \nos imerge em água para resfriar após o corte. Suponha \nque esse serralheiro tenha imergido uma dezena de segmentos metálicos idênticos, a 50 ºC cada, em um balde \ncontendo água a 25 ºC. Desconsiderando perdas de calor \npara o ambiente e para o material do qual é feito o balde, \ndentre os valores apresentados, a temperatura de equilíbrio dos segmentos metálicos após o resfriamento poderá \nser de",
+    "statement": "Um serralheiro corta segmentos de uma barra metálica e os imerge em água para resfriar após o corte. Suponha que esse serralheiro tenha imergido uma dezena de segmentos metálicos idênticos, a 50 ºC cada, em um balde contendo água a 25 ºC. Desconsiderando perdas de calor para o ambiente e para o material do qual é feito o balde, dentre os valores apresentados, a temperatura de equilíbrio dos segmentos metálicos após o resfriamento poderá ser de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "15 ºC.",
@@ -2809,15 +3005,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 65."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2839,7 +3034,10 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Com as mãos úmidas, uma pessoa removeu uma bandeja \nde gelo do congelador e notou que seus dedos grudaram sobre a superfície dos cubos de gelo. Isso ocorreu pelo fato \nde que a água, associada à umidade nos dedos da pessoa, \ncongelou-se ao tocar os cubos de gelo. Afirma-se que, nesse \nprocesso,",
+    "statement": "Com as mãos úmidas, uma pessoa removeu uma bandeja de gelo do congelador e notou que seus dedos grudaram sobre a superfície dos cubos de gelo. Isso ocorreu pelo fato de que a água, associada à umidade nos dedos da pessoa, congelou-se ao tocar os cubos de gelo. Afirma-se que, nesse processo,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as temperaturas tanto dos cubos de gelo quanto da água nos dedos da pessoa diminuíram.",
@@ -2850,15 +3048,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 66."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2880,7 +3077,10 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Quando um inseto é capturado pela teia de uma aranha, tenta em vão escapar da armadilha, puxando e repuxando a teia, \nque não o larga. O movimento oscilatório da teia, por sua \nvez, nessa vã tentativa de fuga do inseto, alerta a aranha \ninformando-a de que há um inseto capturado.\n\nNesse cenário, está associada ao movimento oscilatório da \nteia uma força",
+    "statement": "Quando um inseto é capturado pela teia de uma aranha, tenta em vão escapar da armadilha, puxando e repuxando a teia, que não o larga. O movimento oscilatório da teia, por sua vez, nessa vã tentativa de fuga do inseto, alerta a aranha informando-a de que há um inseto capturado. Nesse cenário, está associada ao movimento oscilatório da teia uma força",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "gravitacional.",
@@ -2891,15 +3091,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 67."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 18,
@@ -2921,7 +3120,23 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Os planetas do Sistema Solar podem ser classificados entre \nrochosos e gasosos. O gráfico a seguir, que descreve a relação entre a densidade dos planetas e a distância deles ao \nSol, auxilia nessa caracterização.\n\nMercúrio\n\nTerra\n\nVênus\n\nDensidade (g/cm3)\n\nMarte\n\nNetuno\n\nUrano\n\nJúpiter\n\nSaturno\n\n0\n0\n\n2 \u001f 109\n1 \u001f 109\n3 \u001f 109\n4 \u001f 109\n5 \u001f 109\n\nDistância ao Sol (km)\n\nCom base no gráfico, afirma-se que é um planeta \ngasoso e é um planeta rochoso.\n\nAs lacunas no texto são preenchidas, respectivamente, por:",
+    "statement": "Os planetas do Sistema Solar podem ser classificados entre rochosos e gasosos. O gráfico a seguir, que descreve a relação entre a densidade dos planetas e a distância deles ao Sol, auxilia nessa caracterização.\n\n6 Mercúrio\n\nTerra\n\n5 Vênus 3)Densidade (g/$cm_{4}$\n\nMarte\n\n3\n\n2 Netuno\n\nUrano\n\n1 Júpiter\n\nSaturno\n\n0\n\n0 1 109 2 109 3 109 4 109 5 109\n\nDistância ao Sol (km)\n\nCom base no gráfico, afirma-se que é um planeta gasoso e é um planeta rochoso. As lacunas no texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "Júpiter – Netuno.",
@@ -2932,15 +3147,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 68."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -2962,7 +3176,12 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na grande maioria das usinas de produção de energia elétrica, independentemente de qual seja a fonte de energia \nempregada, há sempre um princípio básico envolvido, que \né a movimentação de turbinas para a conversão de energia \n em energia elétrica. Mesmo que indiretamente, \nesse princípio está presente na conversão da energia potencial gravitacional em usinas e da energia térmica, \nproveniente de combustíveis fósseis e nucleares, em usinas \n e , respectivamente.\n\nAs lacunas do texto são preenchidas, por:",
+    "statement": "Na grande maioria das usinas de produção de energia elétrica, independentemente de qual seja a fonte de energia empregada, há sempre um princípio básico envolvido, que é a movimentação de turbinas para a conversão de energia\n\nem energia elétrica. Mesmo que indiretamente, esse princípio está presente na conversão da energia potencial gravitacional em usinas e da energia térmica, proveniente de combustíveis fósseis e nucleares, em usinas\n\ne, respectivamente. As lacunas do texto são preenchidas, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "mecânica – hidrelétricas – termoelétricas – termonucleares.",
@@ -2973,15 +3192,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 69."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -3003,27 +3221,21 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sob a iluminação de uma lâmpada, um estudante segura uma \ncaneta paralelamente à superfície de uma mesa, projetando \nsobre a mesa uma sombra dessa caneta. Com o auxílio de \numa régua, ele mede algumas dimensões, que estão indicadas na imagem.\n\nLâmpada\n\nCaneta\n\n15 cm\n20 cm\n\nMesa\n\n22 cm\n1 cm\n\nfora de escala\n\nConsidere que a lâmpada e a caneta se encontrem em um \nplano ortogonal à superfície da mesa. Com base nas medidas \nobtidas, o estudante conclui que a lâmpada está distanciada \nda mesa em",
+    "statement": "Sob a iluminação de uma lâmpada, um estudante segura uma caneta paralelamente à superfície de uma mesa, projetando sobre a mesa uma sombra dessa caneta. Com o auxílio de uma régua, ele mede algumas dimensões, que estão indicadas na imagem.\n\nLâmpada\n\nCaneta\n\n20 cm 15 cm\n\nMesa\n\n22 cm 1 cm\n\nfora de escala\n\nConsidere que a lâmpada e a caneta se encontrem em um plano ortogonal à superfície da mesa. Com base nas medidas obtidas, o estudante conclui que a lâmpada está distanciada da mesa em",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q70-1.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q70-2.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q70-3.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q70-4.jpg",
-        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
+        "src": "/images/uea/vestibular-2024-cg/q70-1.png",
+        "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -3035,15 +3247,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 70."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -3065,32 +3276,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na bateria de um relógio de pulso, apresentada na figura, \nestá descrito o valor de sua carga elétrica armazenada.\n\nConsidere que esse relógio funcione por dois anos com essa \nbateria, que sua carga seja totalmente consumida nesse período e que um ano possua 360 dias. Dada como a razão \nentre a variação de carga na bateria e o tempo em que essa \nvariação ocorre, a corrente elétrica necessária para o funcionamento desse relógio é de",
+    "statement": "Na bateria de um relógio de pulso, apresentada na figura, está descrito o valor de sua carga elétrica armazenada.\n\nConsidere que esse relógio funcione por dois anos com essa bateria, que sua carga seja totalmente consumida nesse período e que um ano possua 360 dias. Dada como a razão entre a variação de carga na bateria e o tempo em que essa variação ocorre, a corrente elétrica necessária para o funcionamento desse relógio é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q71-1.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q71-2.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q71-3.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q71-3.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q71-3.jpg",
-        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 19."
+        "src": "/images/uea/vestibular-2024-cg/q71-1.png",
+        "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -3102,15 +3296,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 71."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 19,
@@ -3132,17 +3325,20 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para evitar que cargas elétricas negativas se acumulem na \nsuperfície de um carro e produzam faíscas no momento do \nabastecimento, os engenheiros de uma equipe de corrida projetaram uma pintura especial que permite que a carga acumulada seja ejetada da carroceria do carro por efeito fotoelétrico.\n\nLuz\n\nElétron\nejetado\n\nPara que os elétrons sejam ejetados da superfície da pintura \ndo carro, é necessário que a energia de cada fóton incidente \nseja de no mínimo 2,5 eV. Considere o espectro eletromagnético a seguir e que a energia de um fóton seja dada por\n\n, em que λ é o comprimento de onda em nm.\n\nVermelha\n\nAmarela\n\nLaranja\n\nVioleta\n\nVerde\n\nAzul\n\n400\n450\n500\n550\n600\n650\n700\n750 (nm)\n\nCom base nesses dados, o carro será eletricamente descarregado quando sobre ele incidir luz monocromática",
+    "statement": "Para evitar que cargas elétricas negativas se acumulem na superfície de um carro e produzam faíscas no momento do abastecimento, os engenheiros de uma equipe de corrida projetaram uma pintura especial que permite que a carga acumulada seja ejetada da carroceria do carro por efeito fotoelétrico.\n\nLuz Elétron\n\nejetado\n\nPara que os elétrons sejam ejetados da superfície da pintura do carro, é necessário que a energia de cada fóton incidente seja de no mínimo 2,5 eV. Considere o espectro eletromagnético a seguir e que a energia de um fóton seja dada por\n\n, em que λ é o comprimento de onda em nm.\n\nVioleta Azul Verde Amarela Laranja Vermelha\n\n400 450 500 550 600 650 700 750 (nm) Com base nesses dados, o carro será eletricamente descarregado quando sobre ele incidir luz monocromática",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q72-1.jpg",
-        "alt": "Imagem de apoio da questão 72 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 20."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q72-2.jpg",
-        "alt": "Imagem de apoio da questão 72 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 20."
+        "src": "/images/uea/vestibular-2024-cg/q72-1.png",
+        "alt": "Imagem de apoio da questão 72 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -3154,15 +3350,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 72."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -3184,17 +3379,20 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O quadro apresenta os nomes de três substâncias químicas \na 25 ºC e pressão de 1 atm.\n\nmL\nmL\n0\n300\n\n5%\n+\n5%\n+\n\n250\n50\n\n100\n200\n\nNeônio\nPropanona\nGálio\n\nA tabela apresenta valores de temperaturas de fusão e ebulição, a 1 atm, relacionadas às três substâncias do quadro, \naleatoriamente.\n\nSubstância\nTemperatura\n\nTemperatura de\n\nde fusão\n\nebulição\n\n1\n302,9 K\n2676 K\n\n2\n173 K\n337,7K\n\n3\n24 K\n27 K\n\nO dado da substância da tabela corresponde à \nsubstância do quadro.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\n+mL1502002501005%500 15010020030025050+5%mL\n\nNeônio Propanona Gálio\n\nA tabela apresenta valores de temperaturas de fusão e ebulição, a 1 atm, relacionadas às três substâncias do quadro, aleatoriamente.\n\nSubstância Temperatura de fusão Temperatura de ebulição\n\n1 302,9 K 2676 K\n2 173 K 337,7K\n3 24 K 27 K\n\nO dado da substância da tabela corresponde à substância do quadro. As lacunas do texto são preenchidas, respectivamente, por",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q73-1.jpg",
-        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 20."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-cg/q73-2.jpg",
-        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 20."
+        "src": "/images/uea/vestibular-2024-cg/q73-1.png",
+        "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -3206,15 +3404,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 73."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 20,
@@ -3236,12 +3433,17 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A evolução do conhecimento da estrutura da matéria teve \na contribuição de diversos pesquisadores que elaboraram \nmodelos explicativos para a estrutura do átomo. Um desses \nmodelos assemelha-se a um doce inglês denominado pudim \nde passas, pois descreve uma massa esférica que tem partículas carregadas negativamente inseridas em seu interior, \nconforme representado nas figuras.\n\nPudim de passas\nModelo Atômico\n\n(www.cupcakeproject.com) \n(http://bilgioloji.com)\n\nO nome do pesquisador que propôs esse modelo atômico e o \nnome dessas partículas são, respectivamente,",
+    "statement": "A evolução do conhecimento da estrutura da matéria teve a contribuição de diversos pesquisadores que elaboraram modelos explicativos para a estrutura do átomo. Um desses modelos assemelha-se a um doce inglês denominado pudim de passas, pois descreve uma massa esférica que tem partículas carregadas negativamente inseridas em seu interior, conforme representado nas figuras.\n\nPudim de passas Modelo Atômico\n\n(www.cupcakeproject.com) (http://bilgioloji.com)\n\nO nome do pesquisador que propôs esse modelo atômico e o nome dessas partículas são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q74-1.jpg",
-        "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2024).",
-        "caption": "Caderno original, p. 21."
+        "src": "/images/uea/vestibular-2024-cg/q74-1.png",
+        "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
     "alternatives": [
@@ -3253,15 +3455,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 74."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -3283,7 +3484,14 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A tabela apresenta os nomes e as fórmulas de algumas substâncias químicas usadas nas estações de tratamento de água \npara abastecimento público.\n\nNome\nFórmula\n\nCloreto de ferro(III)\nFeCl3\nSulfato de alumínio\nAl2(SO4)3\nFluoreto de sódio\nNaF\n\nHipoclorito de cálcio\nCa(ClO)2\nÓxido de cálcio\nCaO\n\nDentre as substâncias apresentadas na tabela, a fórmula \ndaquela que tem como finalidade a desinfecção da água é:",
+    "statement": "A tabela apresenta os nomes e as fórmulas de algumas substâncias químicas usadas nas estações de tratamento de água para abastecimento público.\n\nNome Fórmula\n\nCloreto de ferro(III) $FeCl_{3}$\nSulfato de alumínio $Al_{2}$($SO_{4}$ 3\nFluoreto de sódio NaF\nHipoclorito de cálcio 2\nÓxido de cálcio CaO\n\nDentre as substâncias apresentadas na tabela, a fórmula daquela que tem como finalidade a desinfecção da água é:\n\n2",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "source"
+    ],
     "images": [],
     "alternatives": [
       "Ca(ClO)2",
@@ -3294,15 +3502,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 75."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -3324,7 +3531,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A Terra é um dos planetas rochosos do sistema solar. Ela \napresenta um núcleo sólido e é envolta por uma atmosfera \ngasosa, aquecida pela radiação emitida pelo Sol.\n\nOs elementos químicos mais abundantes no núcleo do \nplaneta Terra, na atmosfera terrestre e no interior do Sol \nsão, respectivamente,",
+    "statement": "A Terra é um dos planetas rochosos do sistema solar. Ela apresenta um núcleo sólido e é envolta por uma atmosfera gasosa, aquecida pela radiação emitida pelo Sol. Os elementos químicos mais abundantes no núcleo do planeta Terra, na atmosfera terrestre e no interior do Sol são, respectivamente,",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "silício, oxigênio e hélio.",
@@ -3335,15 +3545,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 76."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -3365,7 +3574,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um dos parâmetros que indicam a qualidade do recurso \nhídrico (rio ou lago, por exemplo) é a quantidade de certo \ngás dissolvido na água. A presença desse gás dissolvido é \nevidenciada pela existência de algas e peixes, e sua ausência promove o acúmulo de matéria orgânica.\n\nEsse gás é o",
+    "statement": "Um dos parâmetros que indicam a qualidade do recurso hídrico (rio ou lago, por exemplo) é a quantidade de certo gás dissolvido na água. A presença desse gás dissolvido é evidenciada pela existência de algas e peixes, e sua ausência promove o acúmulo de matéria orgânica. Esse gás é o",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "hidrogênio.",
@@ -3376,15 +3588,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 77."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -3406,7 +3617,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As plantas participam do ciclo do nitrogênio ao absorverem \nesse macronutriente na forma de minerais e transformá-lo \nem compostos químicos que são essenciais para a produção \nde moléculas que dão origem às proteínas e enzimas. Esses \ncompostos químicos são também importantes nutrientes para \nos organismos superiores que se alimentam dos vegetais.\n\nOs compostos químicos essenciais que o texto menciona são",
+    "statement": "As plantas participam do ciclo do nitrogênio ao absorverem esse macronutriente na forma de minerais e transformá-lo em compostos químicos que são essenciais para a produção de moléculas que dão origem às proteínas e enzimas. Esses compostos químicos são também importantes nutrientes para os organismos superiores que se alimentam dos vegetais. Os compostos químicos essenciais que o texto menciona são",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "as vitaminas.",
@@ -3417,15 +3631,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 78."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 21,
@@ -3447,7 +3660,16 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A azia é um desconforto causado pela acidez estomacal \nexcessiva e que pode ser combatida com a ingestão de \npastilhas de hidróxido de alumínio, Al(OH)3. Ao entrar em \ncontato com o ácido clorídrico (HCl) presente no estômago, \no hidróxido de alumínio reage formando água (H2O) e o sal \ncloreto de alumínio (AlCl3).\n\nA equação química balanceada que representa a ação do \nhidróxido de alumínio no combate à azia é:",
+    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de\n\n3. Ao entrar em\n\no hidróxido de alumínio reage formando água (Hcloreto de alumínio ($AlCl_{3}$ 2O) e o sal\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:\n\n3 $2H_{2}$O + $AlCl_{3}$\n\n3 3 ($H_{2}$ 3 + $AlCl_{3}$\n\n3 $6H_{2}$O + $AlCl_{3}$",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2HCl + Al(OH)3 2H2O + AlCl3",
@@ -3458,15 +3680,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 79."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3488,7 +3709,16 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O radioisótopo tálio-201 é usado como contraste injetável em \nexames de imagem que avaliam o fluxo sanguíneo e a função \ncardíaca. O gráfico representa a curva de decaimento radioativo desse radioisótopo.\n\nQuantidade (%)\n\n50\n0\n\n146\n100\n200\n300\n350\n400\n250\nTempo (horas)\n\nA meia-vida do tálio-201 é",
+    "statement": "O radioisótopo tálio-201 é usado como contraste injetável em exames de imagem que avaliam o fluxo sanguíneo e a função cardíaca. O gráfico representa a curva de decaimento radioativo desse radioisótopo.\n\n100\n\n75 Quantidade (%) 50\n\n25\n\n0 50 100 200 250 300 350 400\n\n146 Tempo (horas)\n\nA meia-vida do tálio-201 é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "source",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "73 horas.",
@@ -3499,15 +3729,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 80."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3529,7 +3758,18 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a fórmula estrutural de uma substância essencial \npara o bom funcionamento do organismo humano, que é \nabsorvida na ingestão de certos vegetais.\n\nO\n\nOH\n\nHN\n\nO\n\nO\n\nH2N\nHN\n\nN\n\nHO\n\nNH\n\nN\n\nN\nO\n\nOs grupos funcionais nitrogenado e oxigenado destacados \nna fórmula são característicos, respectivamente, das funções \norgânicas",
+    "statement": "Analise a fórmula estrutural de uma substância essencial para o bom funcionamento do organismo humano, que é absorvida na ingestão de certos vegetais.\n\nO\n\nHN OH\n\nO\n\n$H_{2}$N HN N HO O\n\nN NH\n\nN\n\nO\n\nOs grupos funcionais nitrogenado e oxigenado destacados na fórmula são característicos, respectivamente, das funções orgânicas",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "amida e ácido carboxílico.",
@@ -3540,15 +3780,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 81."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3570,7 +3809,14 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa a estrutura do betacaroteno, um terpeno \nprecursor da vitamina A.\n\nbetacaroteno\n\n(Lorena O. Felipe e Juliano L. Bicas. “Terpenos, aromas e a química\n\ndos compostos naturais”. Quím. nova escola, maio de 2017.)\n\nA cadeia carbônica da molécula do betacaroteno é classificada como",
+    "statement": "A figura representa a estrutura do betacaroteno, um terpeno precursor da vitamina A.\n\nbetacaroteno\n\n(Lorena O. Felipe e Juliano L. Bicas. “Terpenos, aromas e a química\n\ndos compostos naturais”. Quím. nova escola, maio de 2017.)\n\nA cadeia carbônica da molécula do betacaroteno é classificada como",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ramificada, insaturada e alifática (não aromática).",
@@ -3581,15 +3827,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 82."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 22,
@@ -3611,7 +3856,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O polietileno é um polímero sintético produzido a partir de um \nhidrocarboneto. A fórmula estrutural desse hidrocarboneto é:",
+    "statement": "O polietileno é um polímero sintético produzido a partir de um hidrocarboneto. A fórmula estrutural desse hidrocarboneto é:",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "H Cl C C H H",
@@ -3622,15 +3870,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 83."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3652,7 +3899,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A contribuição das mulheres para a ciência é marcada por \ngrandes descobertas, tais como as realizadas por Marie \nCurie e Lise Meitner, grandes nomes na área da radioatividade. As descobertas de Marie Curie abriram caminho para \nque Lise Meitner pudesse desenvolver estudos no campo da \nfissão nuclear, que, atualmente, é aplicada em",
+    "statement": "A contribuição das mulheres para a ciência é marcada por grandes descobertas, tais como as realizadas por Marie Curie e Lise Meitner, grandes nomes na área da radioatividade. As descobertas de Marie Curie abriram caminho para que Lise Meitner pudesse desenvolver estudos no campo da fissão nuclear, que, atualmente, é aplicada em",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "diagnósticos por imagem e telemedicina.",
@@ -3663,15 +3913,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf, questão 84."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_conhecimentos_gerais_prova.pdf",
     "sourcePage": 23,
@@ -3693,7 +3942,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Stanley Miller e Harold Urey construíram um aparelho para \ntestar a hipótese de Oparin e Haldane sobre a origem das \nprimeiras moléculas orgânicas. Nesse aparelho foi inserida \numa mistura de substâncias (gás hidrogênio, amônia, metano, vapor d’água) e descargas elétricas. Após um tempo ligado, foram detectadas, em um reservatório desse aparelho, \nmoléculas orgânicas simples de",
+    "statement": "Stanley Miller e Harold Urey construíram um aparelho para testar a hipótese de Oparin e Haldane sobre a origem das primeiras moléculas orgânicas. Nesse aparelho foi inserida uma mistura de substâncias (gás hidrogênio, amônia, metano, vapor d’água) e descargas elétricas. Após um tempo ligado, foram detectadas, em um reservatório desse aparelho, moléculas orgânicas simples de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "polissacarídeos.",
@@ -3704,15 +3956,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 01."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 3,
@@ -3735,12 +3986,16 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha do cartunista Quino, baseada na ideia de \nque o planeta Terra é o nosso habitat.\n\n(https://culturaesaude.wordpress.com)\n\nHabitat não é apenas um local geográfico, mas também inclui \ncaracterísticas como o clima, a topografia e a disponibilidade \nde recursos alimentares.\n\nA interação de uma espécie com os fatores bióticos e abióticos de um habitat corresponde",
+    "statement": "Considere a tirinha do cartunista Quino, baseada na ideia de que o planeta Terra é o nosso habitat.\n\n(https://culturaesaude.wordpress.com)\n\nHabitat não é apenas um local geográfico, mas também inclui características como o clima, a topografia e a disponibilidade de recursos alimentares. A interação de uma espécie com os fatores bióticos e abióticos de um habitat corresponde",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q02-1.jpg",
-        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2024-g1/q02-1.png",
+        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -3752,15 +4007,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 02."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 3,
@@ -3783,12 +4037,16 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra o envoltório de uma célula animal.\n\n(https://salabioquimica.blogspot.com)\n\nEsse envoltório é caracterizado por apresentar uma \nbicamada de",
+    "statement": "A figura ilustra o envoltório de uma célula animal.\n\n(https://salabioquimica.blogspot.com)\n\nEsse envoltório é caracterizado por apresentar uma bicamada de",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q03-1.jpg",
-        "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 3."
+        "src": "/images/uea/vestibular-2024-g1/q03-1.png",
+        "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -3800,15 +4058,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 03."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 3,
@@ -3831,7 +4088,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A árvore do cacau, Theobroma cacao, e a árvore do cupuaçu, \nTheobroma grandiflorum, são classificadas dentro da família \nMalvaceae. Ambas as espécies são árvores frutíferas nativas \nda região amazônica, compartilhando semelhanças morfológicas, como folhas grandes e frutos ovais com casca rígida.\n\nAs informações fornecidas no texto permitem afirmar que as \nduas árvores citadas",
+    "statement": "A árvore do cacau, Theobroma cacao, e a árvore do cupuaçu, Theobroma grandiflorum, são classificadas dentro da família Malvaceae. Ambas as espécies são árvores frutíferas nativas da região amazônica, compartilhando semelhanças morfológicas, como folhas grandes e frutos ovais com casca rígida. As informações fornecidas no texto permitem afirmar que as duas árvores citadas",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "são leguminosas e pertencem a gêneros diferentes.",
@@ -3842,15 +4102,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 3,
@@ -3873,7 +4132,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O bioma Amazônia é composto por uma floresta tropical úmida e tem apresentado longos períodos de seca nos últimos \nanos. Essa floresta participa do ciclo hidrológico local e também em outras regiões do continente sul-americano.\n\nOs períodos de seca na Amazônia, cada vez mais extensos e \nfrequentes, têm causas relacionadas à",
+    "statement": "O bioma Amazônia é composto por uma floresta tropical úmida e tem apresentado longos períodos de seca nos últimos anos. Essa floresta participa do ciclo hidrológico local e também em outras regiões do continente sul-americano. Os períodos de seca na Amazônia, cada vez mais extensos e frequentes, têm causas relacionadas à",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "elevação das taxas atmosféricas de gás carbônico e metano.",
@@ -3884,15 +4146,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 05."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 3,
@@ -3915,7 +4176,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Os transplantes de corações suínos em humanos, um campo \npromissor da medicina, envolvem a edição genética em suínos cujos órgãos são modificados para minimizar a rejeição \npelo sistema imunológico humano. Este avanço representa \num potencial significativo para diminuir a escassez de doadores e oferecer novas perspectivas terapêuticas para pacientes com doenças cardíacas terminais.\n\nA edição genética citada no texto tem como objetivo",
+    "statement": "Os transplantes de corações suínos em humanos, um campo promissor da medicina, envolvem a edição genética em suínos cujos órgãos são modificados para minimizar a rejeição pelo sistema imunológico humano. Este avanço representa um potencial significativo para diminuir a escassez de doadores e oferecer novas perspectivas terapêuticas para pacientes com doenças cardíacas terminais. A edição genética citada no texto tem como objetivo",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "transferir genes suínos para o coração humano.",
@@ -3926,15 +4190,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 06."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 4,
@@ -3957,12 +4220,16 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra o processo de hematose nos alvéolos pulmonares humanos.\n\n(www.biologianet.com)\n\nA cor , dos vasos sanguíneos ilustrados, representa o fluxo de sangue em direção imediata .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A figura ilustra o processo de hematose nos alvéolos pulmonares humanos.\n\n(www.biologianet.com)\n\nA cor, dos vasos sanguíneos ilustrados, representa o fluxo de sangue em direção imediata. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q07-1.jpg",
-        "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2024-g1/q07-1.png",
+        "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -3974,15 +4241,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 07."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 4,
@@ -4005,12 +4271,16 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra o processo de geração de um potencial de \nação ao longo do axônio.\n\n(https://edisciplinas.usp.br. Adaptado.)\n\nA geração do potencial de ação",
+    "statement": "A figura ilustra o processo de geração de um potencial de ação ao longo do axônio.\n\n(https://edisciplinas.usp.br. Adaptado.)\n\nA geração do potencial de ação",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2024-g1/q08-1.png",
+        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4022,15 +4292,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 08."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 4,
@@ -4053,7 +4322,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Os nódulos presentes nas raízes das plantas leguminosas são \nformados a partir de uma relação ecológica entre esses vegetais e as bactérias do gênero Rhizobium ou Bradyrhizobium. \nDentro desses nódulos, as bactérias fixam determinado nutriente, o que permite sua absorção pelos vegetais.\n\nO texto refere-se a etapas do ciclo do",
+    "statement": "Os nódulos presentes nas raízes das plantas leguminosas são formados a partir de uma relação ecológica entre esses vegetais e as bactérias do gênero Rhizobium ou Bradyrhizobium. Dentro desses nódulos, as bactérias fixam determinado nutriente, o que permite sua absorção pelos vegetais. O texto refere-se a etapas do ciclo do",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "nitrogênio.",
@@ -4064,15 +4336,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 09."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 4,
@@ -4095,7 +4366,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O etanol de segunda geração é produzido a partir de matérias-primas não alimentares, como o bagaço da cana-de-\n-açúcar. Esse tipo de etanol é considerado mais sustentável \ndo que o etanol de primeira geração, pois não concorre diretamente com a produção de alimentos e utiliza materiais que \ngeralmente seriam descartados.\n\nO bagaço é rico em fibras celulósicas, as quais fornecem",
+    "statement": "O etanol de segunda geração é produzido a partir de matérias-primas não alimentares, como o bagaço da cana-de-açúcar. Esse tipo de etanol é considerado mais sustentável do que o etanol de primeira geração, pois não concorre diretamente com a produção de alimentos e utiliza materiais que geralmente seriam descartados. O bagaço é rico em fibras celulósicas, as quais fornecem",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "proteínas hidrolisadas em etanol.",
@@ -4106,15 +4380,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 10."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 5,
@@ -4137,7 +4410,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A produção de vacinas em ovos embrionados é um método \ntradicional e eficaz que utiliza a capacidade de multiplicação \ndos vírus vacinais em embriões de galinhas. Nesse processo, \no vírus é inoculado no embrião em estágio inicial de desenvolvimento. Os vírus se multiplicam, são recolhidos, purificados e utilizados na produção da vacina.\n\nEste é o método mais comum para produção da vacina da \ngripe, a qual contém",
+    "statement": "A produção de vacinas em ovos embrionados é um método tradicional e eficaz que utiliza a capacidade de multiplicação dos vírus vacinais em embriões de galinhas. Nesse processo, o vírus é inoculado no embrião em estágio inicial de desenvolvimento. Os vírus se multiplicam, são recolhidos, purificados e utilizados na produção da vacina. Este é o método mais comum para produção da vacina da gripe, a qual contém",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "vírus atenuados que estimulam a produção de anticorpos.",
@@ -4148,15 +4424,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 11."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 5,
@@ -4179,7 +4454,10 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em um dos seus experimentos envolvendo reprodução de \nervilhas, Mendel deixou que plantas duplo-heterozigotas da \ngeração F1 se autofecundassem. Os resultados obtidos permitiram verificar que a hereditariedade da textura da semente não dependia da cor que ela apresentava, e vice-versa. \nEsses dados fundamentaram a segunda lei de Mendel, que \né caracterizada pela",
+    "statement": "Em um dos seus experimentos envolvendo reprodução de ervilhas, Mendel deixou que plantas duplo-heterozigotas da geração F1 se autofecundassem. Os resultados obtidos permitiram verificar que a hereditariedade da textura da semente não dependia da cor que ela apresentava, e vice-versa. Esses dados fundamentaram a segunda lei de Mendel, que é caracterizada pela",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "mutação gênica do DNA principal.",
@@ -4190,15 +4468,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 12."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 5,
@@ -4221,7 +4498,11 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O açaí é um fruto amazônico muito apreciado em todo o Brasil. Para a obtenção da sua polpa, o açaí é processado em \netapas: na primeira, os frutos são higienizados; na segunda, \nsão despolpados em um agitador mecânico, formando-se \numa mistura; na terceira etapa, essa mistura é separada, e a \npolpa obtida é embalada para ser congelada e comercializada. O esquema representa o processamento do açaí desde a \nsua higienização até a obtenção da polpa.\n\nA classificação da mistura formada na segunda etapa e o nome \nda técnica de separação empregada na terceira etapa são:",
+    "statement": "O açaí é um fruto amazônico muito apreciado em todo o Brasil. Para a obtenção da sua polpa, o açaí é processado em etapas: na primeira, os frutos são higienizados; na segunda, são despolpados em um agitador mecânico, formando-se uma mistura; na terceira etapa, essa mistura é separada, e a polpa obtida é embalada para ser congelada e comercializada. O esquema representa o processamento do açaí desde a sua higienização até a obtenção da polpa.\n\nA classificação da mistura formada na segunda etapa e o nome da técnica de separação empregada na terceira etapa são:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "homogênea e cristalização.",
@@ -4232,15 +4513,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 13."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 5,
@@ -4263,7 +4543,10 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Determinado elemento metálico pertence ao terceiro período \nda Classificação Periódica e apresenta dois elétrons em seu \nnível eletrônico mais energético. Esse elemento, comumente \nempregado em medicamentos para o combate à azia, é representado pelo símbolo",
+    "statement": "Determinado elemento metálico pertence ao terceiro período da Classificação Periódica e apresenta dois elétrons em seu nível eletrônico mais energético. Esse elemento, comumente empregado em medicamentos para o combate à azia, é representado pelo símbolo",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "K",
@@ -4274,15 +4557,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 14."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 5,
@@ -4305,7 +4587,11 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O cloreto de alumínio (AlCl3) é um dos compostos eficazes \nno controle da transpiração e do odor corporal, sendo amplamente utilizado em antitranspirantes comerciais. Sua obtenção pode ser feita por meio da reação representada na \nequação balanceada:\n\n2Al (s) + 6HCl (aq) \n 2AlCl3 (aq) + 3H2 (g)\n\nA quantidade necessária de HCl para a obtenção de 15 mol \nde cloreto de alumínio é",
+    "statement": "no controle da transpiração e do odor corporal, sendo am-O cloreto de alumínio ($AlCl_{3}$) é um dos compostos eficazes plamente utilizado em antitranspirantes comerciais. Sua obtenção pode ser feita por meio da reação representada na equação balanceada:\n\n2Al (s) + 6HCl (aq) $2AlCl_{3}$ (aq) + $3H_{2}$ (g) A quantidade necessária de HCl para a obtenção de 15 mol de cloreto de alumínio é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "90 mol.",
@@ -4316,15 +4602,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 6,
@@ -4347,7 +4632,12 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No Brasil, algumas montadoras fabricam veículos com tecnologia triflex, que podem ser movidos a três diferentes \ncombustíveis, conforme listado no quadro.\n\nCombustível\nComposição\n\nGasolina\nHeptano e isooctano\n\nÁlcool\nEtanol\n\nGás natural\nMetano e etano\n\nOs combustíveis gasolina, álcool e gás natural são classificados, respectivamente, como",
+    "statement": "No Brasil, algumas montadoras fabricam veículos com tecnologia triflex, que podem ser movidos a três diferentes combustíveis, conforme listado no quadro.\n\nCombustível Composição\nGasolina Heptano e isooctano\nÁlcool Etanol\nGás natural Metano e etano\n\nOs combustíveis gasolina, álcool e gás natural são classificados, respectivamente, como",
+    "blockTypes": [
+      "prose",
+      "poem",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "não renovável, renovável e renovável.",
@@ -4358,15 +4648,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 16."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 6,
@@ -4389,7 +4678,11 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Para a extração da teobromina presente nas sementes do \ncupuaçu, fruto da planta Theobroma grandiflorum, emprega-\n-se etanol como solvente. As fórmulas estruturais da teobromina e do etanol são mostradas nas figuras.\n\nA principal força intermolecular entre as moléculas de teobromina e etanol é a",
+    "statement": "Para a extração da teobromina presente nas sementes do cupuaçu, fruto da planta Theobroma grandiflorum, emprega-se etanol como solvente. As fórmulas estruturais da teobromina e do etanol são mostradas nas figuras.\n\nA principal força intermolecular entre as moléculas de teobromina e etanol é a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "interação dipolo induzido – dipolo induzido.",
@@ -4400,15 +4693,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 6,
@@ -4431,7 +4723,11 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Analise o gráfico que representa a curva de aquecimento de \ndeterminada mistura.\n\nA curva de aquecimento representada refere-se a uma mistura , e os números representam as \nfaixas de temperatura em que coexistem dois estados físicos.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Analise o gráfico que representa a curva de aquecimento de determinada mistura.\n\nA curva de aquecimento representada refere-se a uma mistura, e os números representam as faixas de temperatura em que coexistem dois estados físicos. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "eutética; 2 e 4.",
@@ -4442,15 +4738,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 18."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 6,
@@ -4473,12 +4768,18 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Bombas calorimétricas são dispositivos utilizados para o estudo da entalpia de combustão. Trata-se de uma câmara interna, onde ocorre a combustão, envolta por água que interage \ncom o calor liberado. Nesse estudo, a amostra a ser analisada \né queimada em condições controladas e o calor, que é transferido para a água, é detectado por um termômetro. A figura \nmostra um esquema de uma bomba calorimétrica.\n\n(www.chimica-online.it. Adaptado.)\n\nFoi utilizada uma bomba calorimétrica para o estudo da combustão de determinada substância sólida. Os dados do experimento são apresentados na tabela.\n\nMassa \nda substância\n\nCalor liberado \nna combustão\n\nEntalpia de combustão\n\nda substância\n\n1,2 g\n39,4 kJ\n394 kJ/mol\n\nA massa molar da substância estudada é igual a",
+    "statement": "Bombas calorimétricas são dispositivos utilizados para o estudo da entalpia de combustão. Trata-se de uma câmara interna, onde ocorre a combustão, envolta por água que interage com o calor liberado. Nesse estudo, a amostra a ser analisada é queimada em condições controladas e o calor, que é transferido para a água, é detectado por um termômetro. A figura mostra um esquema de uma bomba calorimétrica.\n\n(www.chimica-online.it. Adaptado.)\n\nFoi utilizada uma bomba calorimétrica para o estudo da combustão de determinada substância sólida. Os dados do experimento são apresentados na tabela.\n\nMassa Calor liberado Entalpia de combustão da substância na combustão da substância\n\n1,2 g 39,4 kJ 394 kJ/mol A massa molar da substância estudada é igual a",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q19-1.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g1/q19-1.png",
+        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4490,15 +4791,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 19."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 7,
@@ -4521,12 +4821,16 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura representa, de forma comparativa, o poder de penetração de três tipos distintos de radiação, numeradas de 1 a 3, \nno corpo humano e em dois tipos de metais.\n\n(www.preproom.org. Adaptado.)\n\nA emissão que é formada por uma partícula de carga negativa e a emissão que tem carga zero correspondem, respectivamente, aos números",
+    "statement": "A figura representa, de forma comparativa, o poder de penetração de três tipos distintos de radiação, numeradas de 1 a 3, no corpo humano e em dois tipos de metais.\n\n(www.preproom.org. Adaptado.)\n\nA emissão que é formada por uma partícula de carga negativa e a emissão que tem carga zero correspondem, respectivamente, aos números",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q20-1.jpg",
-        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g1/q20-1.png",
+        "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4538,15 +4842,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 20."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 7,
@@ -4569,12 +4872,17 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Na eletrólise, uma fonte externa de corrente conduz uma reação que não seria espontânea de outra forma. Essa tecnologia é empregada em processos metalúrgicos de eletrodeposição e na obtenção de certos metais. A figura representa uma \ncuba em que são realizados esses processos eletrolíticos.\n\n(Lawrence S. Brown e Thomas A. Holme. \nChemistry for Engineering Students, 2011. Adaptado.)\n\nNa cuba eletrolítica apresentada, o eletrodo 1 é o , \nno eletrodo 2 ocorre a reação de , e, pelo circuito externo, os migram do polo positivo para o \npolo negativo.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Na eletrólise, uma fonte externa de corrente conduz uma reação que não seria espontânea de outra forma. Essa tecnologia é empregada em processos metalúrgicos de eletrodeposição e na obtenção de certos metais. A figura representa uma cuba em que são realizados esses processos eletrolíticos.\n\n(Lawrence S. Brown e Thomas A. Holme.\n\nChemistry for Engineering Students, 2011. Adaptado.)\n\nNa cuba eletrolítica apresentada, o eletrodo 1 é o, no eletrodo 2 ocorre a reação de, e, pelo circuito externo, os migram do polo positivo para o polo negativo. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2024-g1/q21-1.png",
+        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4586,15 +4894,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 21."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 8,
@@ -4617,7 +4924,17 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em um experimento de cinética química, o consumo de amônia (NH3) foi monitorado na reação com o oxigênio (O2). Essa \nreação ocorre conforme representado na equação:\n\n4NH3 (g) + 5O2 (g) \n 4NO (g) + 6H2O (g)\n\nA tabela apresenta a variação da concentração de amônia ao \nlongo do tempo nesse experimento.\n\nTempo\nNH3\nConcentração\n\n0 s\n0,320 mol ⋅ L–1\n\n10 s\n0,240 mol ⋅ L–1\n\n20 s\n0,160 mol ⋅ L–1\n\n30 s\n0,080 mol ⋅ L–1\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consumo de oxigênio nesse experimento, em mol ⋅ L–1 ⋅ s–1, é",
+    "statement": "Em um experimento de cinética química, o consumo de amô-\n\nreação ocorre conforme representado na equação:nia ($NH_{3}$) foi monitorado na reação com o oxigênio ($O_{2}$). Essa\n\n$4NH_{3}$ (g) + $5O_{2}$ (g) 4NO (g) + $6H_{2}$O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo Concentraçã$oNH_{3}$\n0 s 1\n10 s 1\n20 s 1\n30 s 1\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consu-\n\n1 1, é\n\n2.\n1.\n2.\n1.\n1.",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "poem",
+      "prose",
+      "prose",
+      "poem"
+    ],
     "images": [],
     "alternatives": [
       "1,0 × 10–2.",
@@ -4628,15 +4945,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 9,
@@ -4659,7 +4975,14 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Ao longo dos processos nucleares que envolvem o isótopo \nnatural urânio-238, ocorre a formação de diversos produtos de \nfissão, dentre eles o plutônio-239 (239Pu), utilizado em armas \nnucleares. O plutônio-239 decai para o urânio-235 (235U), conforme representado na equação nuclear:\n\nNa equação do processo de decaimento radioativo do plutônio-239, a emissão representada por j é",
+    "statement": "Ao longo dos processos nucleares que envolvem o isótopo natural urânio-238, ocorre a formação de diversos produtos de\n\n239Pu), utilizado em armas\n\n235U), con-\n\nforme representado na equação nuclear:\n\nNa equação do processo de decaimento radioativo do plutônio-239, a emissão representada por j é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "um próton.",
@@ -4670,15 +4993,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 24."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 9,
@@ -4701,12 +5023,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Will Leite, publicada no perfil \n@will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "statement": "Considere a tirinha de Will Leite, publicada no perfil @will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2024-g1/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4718,15 +5043,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 25."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 9,
@@ -4749,7 +5073,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nDe acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nDe acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "medrosa.",
@@ -4760,15 +5096,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 26."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 10,
@@ -4791,7 +5126,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo romance, a personagem Luciana é",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo romance, a personagem Luciana é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "uma das irmãs de Virgínia.",
@@ -4802,15 +5149,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 10,
@@ -4833,7 +5179,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7o parágrafo), a palavra “evasivamente” indica que \na resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "grosseira.",
@@ -4844,15 +5202,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 28."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 10,
@@ -4875,7 +5232,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” (11o parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "quem mandaria nela seria seu pai.",
@@ -4886,15 +5255,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 29."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 10,
@@ -4917,7 +5285,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” (9o parágrafo)\n\nEm relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "alternativa.",
@@ -4928,15 +5308,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 30."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 11,
@@ -4959,12 +5338,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil \n@opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem \nfazer nada” é um",
+    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil @opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem fazer nada” é um",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q31-1.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo I, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2024-g1/q31-1.png",
+        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
     "alternatives": [
@@ -4976,15 +5358,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 31."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 11,
@@ -5007,7 +5388,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "No contexto em que está inserida, a palavra sublinhada em \n“É uma traição póstuma, retardatária, residual” (1o parágrafo) \ntem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ocorre na fase final de um relacionamento afetivo, quando ele já está destinado a acabar.",
@@ -5018,15 +5416,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 32."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 12,
@@ -5049,7 +5446,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em “porém a consciência não é boba e um dia se vinga” \n(13o parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à hipérbole.",
@@ -5060,15 +5474,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 33."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 12,
@@ -5091,7 +5504,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "“Acredita em sua inocência porque ninguém comentará o assunto.” (13o parágrafo)\n\nO pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“fórmula”.",
@@ -5102,15 +5532,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 34."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 12,
@@ -5133,7 +5562,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Ocorre uma palavra formada com um prefixo que expressa \nnegação em:",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nOcorre uma palavra formada com um prefixo que expressa negação em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“É quando você insiste em escrever e tecer declarações exatamente iguais” (2o parágrafo).",
@@ -5144,15 +5590,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 35."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 12,
@@ -5175,7 +5620,14 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\n\nentre fatias torradas\n\njornais com pingos de sangue\n\njornais com furos de bala.\n\nNo portal da manhã\n\no sinistro sanduíche\n\nenergiza os transeuntes do dia.\n\n(Engavetado o remorso\n\ndos crimes bem menores)\n\nOmissões? traições? covardias?\n\nTransgressões mínimas.\n\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal \ndos jornais",
+    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\nentre fatias torradas\njornais com pingos de sangue\njornais com furos de bala.\nNo portal da manhã\no sinistro sanduíche\nenergiza os transeuntes do dia.\n(Engavetado o remorso\ndos crimes bem menores)\nOmissões? traições? covardias?\nTransgressões mínimas.\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal dos jornais",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "faz com que as infrações usuais e cotidianas pareçam, para o leitor, pequenas em comparação com os crimes noticiados.",
@@ -5186,15 +5638,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf, questão 36."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_1_prova.pdf",
     "sourcePage": 12,
@@ -5217,7 +5668,10 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Durante a República (509 a.C. – 27 a.C.), a cidade de Roma \nfoi conquistando novos territórios e dominando outros povos \npara além da península Itálica. Essa expansão causou um \nimpacto profundo na economia romana, que passou a ser caracterizada",
+    "statement": "Durante a República (509 a.C. – 27 a.C.), a cidade de Roma foi conquistando novos territórios e dominando outros povos para além da península Itálica. Essa expansão causou um impacto profundo na economia romana, que passou a ser caracterizada",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "pela produção agrária autossuficiente com base no trabalho servil.",
@@ -5228,15 +5682,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 01."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 2,
@@ -5259,12 +5712,16 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o quadro de autoria desconhecida, produzido entre 1625-1650. Nele, Martinho Lutero está cercado por \nseus seguidores.\n\n(https://portalcogicbrasil.com)\n\nO quadro faz referência à",
+    "statement": "Analise o quadro de autoria desconhecida, produzido entre 1625-1650. Nele, Martinho Lutero está cercado por seus seguidores.\n\n(https://portalcogicbrasil.com)\n\nO quadro faz referência à",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q02-1.jpg",
-        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 2."
+        "src": "/images/uea/vestibular-2024-g2/q02-1.png",
+        "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -5276,15 +5733,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 02."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 2,
@@ -5307,7 +5763,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O recrudescimento dos tumultos no dia seguinte à demissão do ministro das finanças Jacques Necker levou à jornada \ndecisiva de 14 de julho: o povo toma a Bastilha, fortaleza e \nprisão real, que ainda resistia. O alcance desse episódio vai \nmuito além de um acontecimento pontual. Ele é o símbolo da \narbitrariedade real e, de certo modo, do Antigo Regime que \nse encontra em decadência.\n\n(Michel Vovelle. A Revolução Francesa 1789-1799, 2019. Adaptado.)\n\nO episódio citado no excerto representou, de alguma maneira, a decadência do Antigo Regime francês, porque a Bastilha \nera um símbolo",
+    "statement": "O recrudescimento dos tumultos no dia seguinte à demissão do ministro das finanças Jacques Necker levou à jornada decisiva de 14 de julho: o povo toma a Bastilha, fortaleza e prisão real, que ainda resistia. O alcance desse episódio vai muito além de um acontecimento pontual. Ele é o símbolo da arbitrariedade real e, de certo modo, do Antigo Regime que se encontra em decadência.\n\n(Michel Vovelle. A Revolução Francesa 1789-1799, 2019. Adaptado.)\n\nO episódio citado no excerto representou, de alguma maneira, a decadência do Antigo Regime francês, porque a Bastilha era um símbolo",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "da relação de suserania e vassalagem.",
@@ -5318,15 +5779,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 03."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 2,
@@ -5349,7 +5809,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A crise que resultou na eclosão da Primeira Guerra Mundial ocorreu no âmbito de um sistema de relações internacionais cujas raízes remontavam à Paz de Westfália (1648), \nao final da Guerra dos Trinta Anos. O grupo de quatro a seis \npaíses mais poderosos da Europa firmava ou rompia alianças em busca de seus próprios interesses, no âmbito de um \nequilíbrio geral de poder, mas, em períodos de paz, esses \npaíses raramente se dividiam em campos armados hostis \nentre si. Isso mudou na década anterior à deflagração da \nPrimeira Guerra Mundial [...].\n\n(Lawrence Sondhaus. A Primeira Guerra Mundial, 2017.)\n\nEntre os antecedentes da Primeira Guerra Mundial, o exposto no excerto refere-se",
+    "statement": "A crise que resultou na eclosão da Primeira Guerra Mundial ocorreu no âmbito de um sistema de relações internacionais cujas raízes remontavam à Paz de Westfália (1648), ao final da Guerra dos Trinta Anos. O grupo de quatro a seis países mais poderosos da Europa firmava ou rompia alianças em busca de seus próprios interesses, no âmbito de um equilíbrio geral de poder, mas, em períodos de paz, esses países raramente se dividiam em campos armados hostis entre si. Isso mudou na década anterior à deflagração da Primeira Guerra Mundial [...].\n\n(Lawrence Sondhaus. A Primeira Guerra Mundial, 2017.)\n\nEntre os antecedentes da Primeira Guerra Mundial, o exposto no excerto refere-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à proposta do pan-eslavismo.",
@@ -5360,15 +5825,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 04."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 2,
@@ -5391,7 +5855,10 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "As sociedades pré-colombianas eram numerosas e diferentes \numas das outras. Algumas delas consistiam em agrupamentos pequenos, enquanto outras reuniam uma grande população em um imenso território. Esse era o caso das sociedades \nmaia, asteca e inca, que possuíam algumas características \nsemelhantes, tais como",
+    "statement": "As sociedades pré-colombianas eram numerosas e diferentes umas das outras. Algumas delas consistiam em agrupamentos pequenos, enquanto outras reuniam uma grande população em um imenso território. Esse era o caso das sociedades maia, asteca e inca, que possuíam algumas características semelhantes, tais como",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a existência de cidades-Estado, o artesanato desenvolvido e a contabilidade dos recursos estatais por meio de quipus (cordas com nós).",
@@ -5402,15 +5869,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 05."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 3,
@@ -5433,7 +5899,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Embora a escravidão já existisse na África Ocidental antes da chegada dos europeus, ela assumiu outro significado. \nDoravante, o cativo tornou-se uma “peça”, termo que evoca \npor si mesmo sua condição de mercadoria, cujo valor podia \noscilar de acordo com a lei da oferta e da procura. Essa escravidão em massa, por sua vez, inundou a Europa, e depois \ntoda a América, com uma categoria social completamente privada de direitos que passava a constituir a base de toda a exploração econômica, motivo pelo qual certos pesquisadores \nidentificam a existência de organizações sociais escravistas \nespecíficas na Era Moderna.\n\n(José Rivair Macedo. História da África, 2015.)\n\nO excerto apresenta alguns aspectos das “organizações sociais escravistas” do século XV ao XIX. Um desses aspectos \napresentados refere-se",
+    "statement": "Embora a escravidão já existisse na África Ocidental antes da chegada dos europeus, ela assumiu outro significado. Doravante, o cativo tornou-se uma “peça”, termo que evoca por si mesmo sua condição de mercadoria, cujo valor podia oscilar de acordo com a lei da oferta e da procura. Essa escravidão em massa, por sua vez, inundou a Europa, e depois toda a América, com uma categoria social completamente privada de direitos que passava a constituir a base de toda a exploração econômica, motivo pelo qual certos pesquisadores identificam a existência de organizações sociais escravistas específicas na Era Moderna.\n\n(José Rivair Macedo. História da África, 2015.)\n\nO excerto apresenta alguns aspectos das “organizações sociais escravistas” do século XV ao XIX. Um desses aspectos apresentados refere-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao caráter mercantil em larga escala da escravidão moderna.",
@@ -5444,15 +5915,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 06."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 3,
@@ -5475,7 +5945,13 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A sociedade brasileira organizou-se hierarquicamente \npela cor da pele, ocupando os brancos o topo da hierarquia, \nos mulatos, mestiços e outros pardos, o meio, e os africanos \nescravizados, a base. [...] Os engenhos não criaram essas \nhierarquias, mas suas estruturas internas, com proprietários \nde origem europeia, trabalhadores coagidos, primeiro indígenas e depois africanos, e uma série de artesãos e outras \nposições ocupadas por brancos pobres, ex-escravos libertos \ne povos de origem mista, tendiam a reforçar e expor as estruturas constituintes da sociedade. Neste sentido, os engenhos \nforam ao mesmo tempo geradores e espelhos da sociedade \nbrasileira durante a grande época açucareira.\n\n(Stuart Schwartz. “O Nordeste açucareiro no Brasil colonial”. \nIn: João Luís R. Fragoso e Maria de Fátima Gouvêa. O Brasil Colonial, 2018.)\n\nO excerto relaciona os engenhos de açúcar do período colonial à",
+    "statement": "A sociedade brasileira organizou-se hierarquicamente pela cor da pele, ocupando os brancos o topo da hierarquia, os mulatos, mestiços e outros pardos, o meio, e os africanos escravizados, a base. [...] Os engenhos não criaram essas hierarquias, mas suas estruturas internas, com proprietários de origem europeia, trabalhadores coagidos, primeiro indígenas e depois africanos, e uma série de artesãos e outras posições ocupadas por brancos pobres, ex-escravos libertos e povos de origem mista, tendiam a reforçar e expor as estruturas constituintes da sociedade. Neste sentido, os engenhos foram ao mesmo tempo geradores e espelhos da sociedade brasileira durante a grande época açucareira.\n\n(Stuart Schwartz. “O Nordeste açucareiro no Brasil colonial”.\n\nIn: João Luís R. Fragoso e Maria de Fátima Gouvêa. O Brasil Colonial, 2018.)\n\nO excerto relaciona os engenhos de açúcar do período colonial à",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consolidação de estruturas sociais baseadas na etnia e na ocupação dos indivíduos.",
@@ -5486,15 +5962,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 07."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 3,
@@ -5517,12 +5992,16 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a imagem que retrata o líder Zumbi do Quilombo dos \nPalmares, morto em 20 de novembro de 1695. Atualmente essa data é considerada o “Dia Nacional de Zumbi e da \nConsciência Negra”.\n\n(https://jornalvozdolitoral.com)\n\nA relação entre o líder Zumbi e o Dia da Consciência Negra \njustifica-se porque o Quilombo dos Palmares",
+    "statement": "Analise a imagem que retrata o líder Zumbi do Quilombo dos Palmares, morto em 20 de novembro de 1695. Atualmente essa data é considerada o “Dia Nacional de Zumbi e da Consciência Negra”.\n\n(https://jornalvozdolitoral.com)\n\nA relação entre o líder Zumbi e o Dia da Consciência Negra justifica-se porque o Quilombo dos Palmares",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q08-1.jpg",
-        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 4."
+        "src": "/images/uea/vestibular-2024-g2/q08-1.png",
+        "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -5534,15 +6013,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 08."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 4,
@@ -5565,7 +6043,12 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Em 7 de janeiro de 1835, começou a Cabanagem. Liderados por Antônio Vinagre, os rebeldes (tapuios, cabanos, \nnegros e indígenas) tomaram o quartel e o palácio do governo de Belém, assassinando o presidente Lobo e Souza e \napoderando-se de grande material bélico. Ao mesmo tempo, \nnomearam um novo presidente do Grão-Pará: Félix Antônio \nClemente Malcher, que se encontrava até então preso por \nconta de sua atuação considerada contrária ao regime imperial. O governo, pressionado pela crescente radicalização do \nmovimento, não duraria muito. Malcher, latifundiário e dono \nde engenhos de açúcar, acabou por trair seu grupo aliado — \nconclamou que depusessem armas, voltassem ao trabalho, \nalém de jurar obediência à Regência —, sendo deposto em \n19 de fevereiro do mesmo ano.\n\n(Lilia M. Schwarcz e Heloisa M. Starling.\n\nBrasil: uma biografia, 2015. Adaptado.)\n\nCom base no excerto, a Cabanagem",
+    "statement": "Em 7 de janeiro de 1835, começou a Cabanagem. Liderados por Antônio Vinagre, os rebeldes (tapuios, cabanos, negros e indígenas) tomaram o quartel e o palácio do governo de Belém, assassinando o presidente Lobo e Souza e apoderando-se de grande material bélico. Ao mesmo tempo, nomearam um novo presidente do Grão-Pará: Félix Antônio Clemente Malcher, que se encontrava até então preso por conta de sua atuação considerada contrária ao regime imperial. O governo, pressionado pela crescente radicalização do movimento, não duraria muito. Malcher, latifundiário e dono de engenhos de açúcar, acabou por trair seu grupo aliado — conclamou que depusessem armas, voltassem ao trabalho, além de jurar obediência à Regência —, sendo deposto em 19 de fevereiro do mesmo ano.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2015. Adaptado.)\n\nCom base no excerto, a Cabanagem",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "restringiu-se a uma revolta de senhores de engenho.",
@@ -5576,15 +6059,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 09."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 4,
@@ -5607,12 +6089,17 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge, que retrata o presidente Rodrigues Alves \nsancionando a Lei da Vacina Obrigatória em 1904 no Rio \nde Janeiro.\n\n(Prefeitura da Cidade do Rio de Janeiro. \n1904 — Revolta da Vacina. A maior batalha do Rio, 2006.)\n\nEssa lei desencadeou",
+    "statement": "Analise a charge, que retrata o presidente Rodrigues Alves sancionando a Lei da Vacina Obrigatória em 1904 no Rio de Janeiro.\n\n(Prefeitura da Cidade do Rio de Janeiro.\n\n1904 — Revolta da Vacina. A maior batalha do Rio, 2006.)\n\nEssa lei desencadeou",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q10-1.jpg",
-        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2024-g2/q10-1.png",
+        "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -5624,15 +6111,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 10."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 5,
@@ -5656,11 +6142,15 @@ export const uea2024Vestibular = [
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
     "statement": "Analise a fotografia da campanha pelas “Diretas Já”, realizada entre os anos 1983 e 1984 durante o processo de redemocratização do Brasil.\n\n(https://memoria.ebc.com.br.)\n\nEssa campanha",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q11-1.jpg",
-        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2024-g2/q11-1.png",
+        "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -5672,15 +6162,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 11."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 5,
@@ -5703,7 +6192,10 @@ export const uea2024Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Fernando Henrique Cardoso (FHC) governou o Brasil entre \n1995 e 2003. Com a economia estabilizada e o apoio do Congresso Nacional, a presidência de FHC adotou",
+    "statement": "Fernando Henrique Cardoso (FHC) governou o Brasil entre 1995 e 2003. Com a economia estabilizada e o apoio do Congresso Nacional, a presidência de FHC adotou",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "reformas de base e reestruturou o sistema tributário nacional.",
@@ -5714,15 +6206,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 12."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 5,
@@ -5745,7 +6236,12 @@ export const uea2024Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O infográfico apresenta a distribuição geográfica de determinado grupo populacional do Brasil.\n\n(https://valor.globo.com. Adaptado.)\n\nA partir de conhecimentos sobre a população brasileira, tem-\n-se que o grupo populacional apresentado no infográfico corresponde aos",
+    "statement": "O infográfico apresenta a distribuição geográfica de determinado grupo populacional do Brasil.\n\n(https://valor.globo.com. Adaptado.)\n\nA partir de conhecimentos sobre a população brasileira, tem-se que o grupo populacional apresentado no infográfico corresponde aos",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "quilombolas, sendo que a maior parte desse grupo está vinculada à agricultura familiar.",
@@ -5756,15 +6252,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 13."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 6,
@@ -5787,7 +6282,14 @@ export const uea2024Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine as pirâmides etárias do Brasil e do estado do Amazonas, segundo dados do Censo Demográfico 2022, do Instituto Brasileiro de Geografia e Estatística (IBGE).\n\nBrasil\n\nAmazonas\n\n(https://censo2022.ibge.gov.br)\n\nO exame das pirâmides etárias permite concluir que a população do Amazonas possui, proporcionalmente à população do \nBrasil, mais pessoas na faixa etária",
+    "statement": "Examine as pirâmides etárias do Brasil e do estado do Amazonas, segundo dados do Censo Demográfico 2022, do Instituto Brasileiro de Geografia e Estatística (IBGE).\n\nBrasil\n\nAmazonas\n\n(https://censo2022.ibge.gov.br)\n\nO exame das pirâmides etárias permite concluir que a população do Amazonas possui, proporcionalmente à população do Brasil, mais pessoas na faixa etária",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "infantil, o que desobriga o estado de realizar investimentos em áreas assistenciais relacionados à população adulta ou idosa.",
@@ -5798,15 +6300,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 14."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 6,
@@ -5829,7 +6330,13 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No Brasil, a migração indígena para os centros urbanos \ntem se intensificado nos últimos 30 anos implicando tanto desafios particulares para preservar a identidade étnica como a \nfalta de emprego, de acesso à saúde, à educação, à moradia \nadequada e a outros direitos fundamentais. A vulnerabilidade \nde povos, famílias ou pessoas indígenas é reconhecida no \nRelatório da Organização das Nações Unidas sobre a Promoção e a Proteção dos Direitos Humanos de Migrantes no \nContexto de Grandes Movimentos. A migração de indígenas \npara as cidades, voluntária ou forçada, em geral decorre da \nviolação dos direitos, como nos casos em que é motivada \npela expulsão dos territórios de origem, insegurança econômica, ausência ou precariedade de serviços básicos.\n\n(Mariana W. V. de Castilho e Ela W. V de Castilho.\n\nConfluências, dezembro de 2023. Adaptado.)\n\nCaracteriza uma consequência da realidade indígena retratada no excerto:",
+    "statement": "No Brasil, a migração indígena para os centros urbanos tem se intensificado nos últimos 30 anos implicando tanto desafios particulares para preservar a identidade étnica como a falta de emprego, de acesso à saúde, à educação, à moradia adequada e a outros direitos fundamentais. A vulnerabilidade de povos, famílias ou pessoas indígenas é reconhecida no Relatório da Organização das Nações Unidas sobre a Promoção e a Proteção dos Direitos Humanos de Migrantes no Contexto de Grandes Movimentos. A migração de indígenas para as cidades, voluntária ou forçada, em geral decorre da violação dos direitos, como nos casos em que é motivada pela expulsão dos territórios de origem, insegurança econômica, ausência ou precariedade de serviços básicos.\n\n(Mariana W. V. de Castilho e Ela W. V de Castilho.\n\nConfluências, dezembro de 2023. Adaptado.)\n\nCaracteriza uma consequência da realidade indígena retratada no excerto:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a incerteza do direito à cidade, pois, na cidade do consumo, o espaço urbano é estabelecido pelos princípios de seguridade social.",
@@ -5840,15 +6347,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 15."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 7,
@@ -5871,12 +6377,16 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge do cartunista Gilmar Fraga, publicada \nem 07.12.2023.\n\n(https://gauchazh.clicrbs.com.br)\n\nA crítica presente na charge faz menção à posição",
+    "statement": "Analise a charge do cartunista Gilmar Fraga, publicada em 07.12.2023.\n\n(https://gauchazh.clicrbs.com.br)\n\nA crítica presente na charge faz menção à posição",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q16-1.jpg",
-        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g2/q16-1.png",
+        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -5888,15 +6398,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 7,
@@ -5919,7 +6428,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Produtores rurais de Apuí, no interior do estado do Amazonas, usam a floresta como aliada e conseguem incrementar produção de café no município. Com 52 hectares de café \nplantado e beneficiando direta e indiretamente mais de 60 famílias, o projeto Café Apuí é uma experiência bem-sucedida \nde cultivo. Antes da chegada do projeto, a realidade da produção era bem diferente. Os agricultores plantavam o café da \nforma tradicional e, depois de um tempo, desistiam do cultivo, \nporque a plantação não evoluía e o valor pago pelo que conseguiam colher não era satisfatório.\n\n(Cassandra Castro. https://agenciacenarium.com.br, 15.09.2021. Adaptado.)\n\nConsiderando o contexto apresentado, caracterizam ações \nque contribuíram para a valorização da agricultura familiar \nem comunidades tradicionais no estado do Amazonas:",
+    "statement": "Produtores rurais de Apuí, no interior do estado do Amazonas, usam a floresta como aliada e conseguem incrementar produção de café no município. Com 52 hectares de café plantado e beneficiando direta e indiretamente mais de 60 famílias, o projeto Café Apuí é uma experiência bem-sucedida de cultivo. Antes da chegada do projeto, a realidade da produção era bem diferente. Os agricultores plantavam o café da forma tradicional e, depois de um tempo, desistiam do cultivo, porque a plantação não evoluía e o valor pago pelo que conseguiam colher não era satisfatório.\n\n(Cassandra Castro. https://agenciacenarium.com.br, 15.09.2021. Adaptado.)\n\nConsiderando o contexto apresentado, caracterizam ações que contribuíram para a valorização da agricultura familiar em comunidades tradicionais no estado do Amazonas:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a consolidação do sistema de produção agroflorestal e a promoção do desenvolvimento local de base sustentável.",
@@ -5930,15 +6444,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 17."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 8,
@@ -5961,7 +6474,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O presidente colombiano, Gustavo Petro, solicitou ao \nBrasil apoio à adesão do seu país a um conjunto de nações \nparceiras economicamente que, em 2023, passou por uma \nexpansão. O Brasil atuou em favor da adesão da Argentina \nna última cúpula desse conjunto de nações parceiras, mas, \ncom a desistência de ingresso do novo governo argentino, \nperdeu-se a ideia de certo equilíbrio regional na expansão, \ncritério defendido por Brasília. O país continua como único \nmembro da América Latina.\n\n(Felipe Frazão. www.estadao.com.br, 23.04.2024. Adaptado.)\n\nCom base no excerto, o conjunto de nações do qual o Brasil é parte integrante corresponde , que, diante \nda entrada de novos membros, aumentou a visibilidade dos \npaíses perante a comunidade internacional, especialmente nos momentos para celebrar acordos comerciais.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "O presidente colombiano, Gustavo Petro, solicitou ao Brasil apoio à adesão do seu país a um conjunto de nações parceiras economicamente que, em 2023, passou por uma expansão. O Brasil atuou em favor da adesão da Argentina na última cúpula desse conjunto de nações parceiras, mas, com a desistência de ingresso do novo governo argentino, perdeu-se a ideia de certo equilíbrio regional na expansão, critério defendido por Brasília. O país continua como único membro da América Latina.\n\n(Felipe Frazão. www.estadao.com.br, 23.04.2024. Adaptado.)\n\nCom base no excerto, o conjunto de nações do qual o Brasil é parte integrante corresponde, que, diante da entrada de novos membros, aumentou a visibilidade dos países perante a comunidade internacional, especialmente nos momentos para celebrar acordos comerciais. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao BRICS e emergentes.",
@@ -5972,15 +6490,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 18."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 8,
@@ -6003,12 +6520,16 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia a postagem realizada pela Empresa Brasileira de Pesquisa Agropecuária (Embrapa) em sua conta no Instagram, \nem 29.12.2023.\n\n1 ILPF: Integração Lavoura-Pecuária-Floresta.\n\nO resultado anunciado pelo emprego do sistema ILPF \né explicado",
+    "statement": "Leia a postagem realizada pela Empresa Brasileira de Pesquisa Agropecuária (Embrapa) em sua conta no Instagram, em 29.12.2023.\n\n1 ILPF: Integração Lavoura-Pecuária-Floresta.\n\nO resultado anunciado pelo emprego do sistema ILPF é explicado",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q19-1.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2024-g2/q19-1.png",
+        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -6020,15 +6541,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 19."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 8,
@@ -6051,7 +6571,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A proposta de redivisão territorial do estado do Amazonas aparece como discurso libertador para as “sofridas populações do interior”, que dependem de inúmeros serviços \npúblicos que estão mais concentrados na capital. Outro discurso é que uma divisão municipal trará o poder para mais \npróximo da população, ao transformar os distritos em municípios. É preciso ter coragem para defender um novo arranjo \npolítico-administrativo que não seja apenas oportunista, mas \nque considere, pelo menos, um aspecto fundamental: a rede \nurbana amazonense.\n\n(Ricardo J. B. Nogueira. https://bncamazonas.com.br, 17.03.2024. Adaptado.)\n\nA proposta de redivisão territorial do estado do Amazonas \npauta-se",
+    "statement": "A proposta de redivisão territorial do estado do Amazonas aparece como discurso libertador para as “sofridas populações do interior”, que dependem de inúmeros serviços públicos que estão mais concentrados na capital. Outro discurso é que uma divisão municipal trará o poder para mais próximo da população, ao transformar os distritos em municípios. É preciso ter coragem para defender um novo arranjo político-administrativo que não seja apenas oportunista, mas que considere, pelo menos, um aspecto fundamental: a rede urbana amazonense.\n\n(Ricardo J. B. Nogueira. https://bncamazonas.com.br, 17.03.2024. Adaptado.)\n\nA proposta de redivisão territorial do estado do Amazonas pauta-se",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "na inflexibilidade da rede urbana consolidada perante as áreas de fronteira agrícola.",
@@ -6062,15 +6587,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 20."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 9,
@@ -6093,7 +6617,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Segundo menor bioma do Brasil, com área superior apenas à do Pantanal, já perdeu 30% de sua vegetação nativa \nnas últimas três décadas e meia para a atividade agrícola. \nEsse bioma está intimamente associado à apreciação da \nidentidade cultural da região — a manutenção da paisagem \nmove a cultura e a economia de muitos municípios. A contemplação de paisagens e o turismo em hotéis-fazenda são \natividades importantes, mas o bioma está sendo convertido \nem lavouras.\n\n(Meghie Rodrigues. https://revistapesquisa.fapesp.br, 2024. Adaptado.)\n\nApresentados no excerto, o bioma e uma das principais atividades econômicas que causam sua degradação correspondem, respectivamente,",
+    "statement": "Segundo menor bioma do Brasil, com área superior apenas à do Pantanal, já perdeu 30% de sua vegetação nativa nas últimas três décadas e meia para a atividade agrícola. Esse bioma está intimamente associado à apreciação da identidade cultural da região — a manutenção da paisagem move a cultura e a economia de muitos municípios. A contemplação de paisagens e o turismo em hotéis-fazenda são atividades importantes, mas o bioma está sendo convertido em lavouras.\n\n(Meghie Rodrigues. https://revistapesquisa.fapesp.br, 2024. Adaptado.)\n\nApresentados no excerto, o bioma e uma das principais atividades econômicas que causam sua degradação correspondem, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao Cerrado e à atividade da pecuária bovina.",
@@ -6104,15 +6633,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 9,
@@ -6135,7 +6663,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O crescimento desordenado de Manaus, em um processo histórico, privilegiou o transporte de rodas motorizado em \ndetrimento de outros modais, como o hidroviário. Para Marcos Castro, professor da Universidade Federal do Amazonas \n(UFAM), mesmo sendo cortada por igarapés e cercada por \nrios, a cidade nunca teve propostas concretas sobre o transporte coletivo urbano hidroviário. Segundo Castro, essa seria \numa das soluções para desconcentrar a operação do transporte rodoviário. O professor completa, ainda, que a interligação das zonas ocorreria por meio de portos em toda a orla \nde Manaus. Nos bairros, a possibilidade seria a instalação de \nhidrovias urbanas nos igarapés.\n\n(Marcelo Moreira. https://amazonasatual.com.br, 08.09.2023. Adaptado.)\n\nSão fatores que limitam a implantação do modal hidroviário \nem Manaus:",
+    "statement": "O crescimento desordenado de Manaus, em um processo histórico, privilegiou o transporte de rodas motorizado em detrimento de outros modais, como o hidroviário. Para Marcos Castro, professor da Universidade Federal do Amazonas (UFAM), mesmo sendo cortada por igarapés e cercada por rios, a cidade nunca teve propostas concretas sobre o transporte coletivo urbano hidroviário. Segundo Castro, essa seria uma das soluções para desconcentrar a operação do transporte rodoviário. O professor completa, ainda, que a interligação das zonas ocorreria por meio de portos em toda a orla de Manaus. Nos bairros, a possibilidade seria a instalação de hidrovias urbanas nos igarapés.\n\n(Marcelo Moreira. https://amazonasatual.com.br, 08.09.2023. Adaptado.)\n\nSão fatores que limitam a implantação do modal hidroviário em Manaus:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "a condição da baixa profundidade dos rios em planalto e as barreiras para conter alagamentos nos igarapés.",
@@ -6146,15 +6679,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 22."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 9,
@@ -6178,11 +6710,15 @@ export const uea2024Vestibular = [
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
     "statement": "Examine a ilustração do cartunista britânico David A. Parkins.\n\n(www.cubadebate.cu. Adaptado.)\n\nSobre as disputas comerciais entre a China e os Estados Unidos, a ilustração representa",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2024-g2/q23-1.png",
+        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -6194,15 +6730,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 10,
@@ -6225,7 +6760,12 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A lógica aplicada para o fornecimento de energia elétrica \nem outras regiões do Brasil é inadequada para a Amazônia. \nAs matrizes energéticas ambientalmente corretas devem ser \nas principais alternativas de geração de energia elétrica para \ncomunidades e regiões excluídas eletricamente no Amazonas, sejam pelas dificuldades físicas ou geográficas. As energias renováveis podem contribuir para sanar o apagão histórico vivenciado por populações tradicionais em pleno século \nXXI; na região amazônica, há o predomínio da matriz energética baseada no diesel.\n\n(www.wwf.org.br, 20.03.2024. Adaptado.)\n\nCom base no excerto, uma opção para sanar as dificuldades \nna geração de energia elétrica e também atender aos interesses ambientais na Amazônia brasileira é",
+    "statement": "A lógica aplicada para o fornecimento de energia elétrica em outras regiões do Brasil é inadequada para a Amazônia. As matrizes energéticas ambientalmente corretas devem ser as principais alternativas de geração de energia elétrica para comunidades e regiões excluídas eletricamente no Amazonas, sejam pelas dificuldades físicas ou geográficas. As energias renováveis podem contribuir para sanar o apagão histórico vivenciado por populações tradicionais em pleno século XXI; na região amazônica, há o predomínio da matriz energética baseada no diesel.\n\n(www.wwf.org.br, 20.03.2024. Adaptado.)\n\nCom base no excerto, uma opção para sanar as dificuldades na geração de energia elétrica e também atender aos interesses ambientais na Amazônia brasileira é",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "o deslocamento de populações tradicionais.",
@@ -6236,15 +6776,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 24."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 10,
@@ -6267,12 +6806,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Will Leite, publicada no perfil \n@will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "statement": "Considere a tirinha de Will Leite, publicada no perfil @will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2024-g2/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -6284,15 +6826,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 25."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 10,
@@ -6315,7 +6856,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nDe acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nDe acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "medrosa.",
@@ -6326,15 +6879,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 26."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 11,
@@ -6357,7 +6909,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo romance, a personagem Luciana é",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo romance, a personagem Luciana é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "uma tia de Virgínia, casada com Tio Daniel.",
@@ -6368,15 +6932,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 11,
@@ -6399,7 +6962,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7o parágrafo), a palavra “evasivamente” indica que \na resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "grosseira.",
@@ -6410,15 +6985,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 28."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 11,
@@ -6441,7 +7015,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” (11o parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "quem mandava nela seria seu pai.",
@@ -6452,15 +7038,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 29."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 11,
@@ -6483,7 +7068,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se \nno quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora.\nVirgínia encostou-se à parede e pôs-se a roer as unhas, \nseguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha \nmedo”, disse em voz alta. E afastou-a com o indicador. Nesse \ninstante fixou o olhar na unha roída até a carne. Pensou nas \nunhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre \nlogo, anda!\n\n— Agora não posso.\n— Não pode por quê?\n— Estou fazendo uma coisa — respondeu evasivamente.\nPensava em Conrado a lhe explicar que os bichos são \ncomo gente, têm alma de gente, e que matar um bichinho era \no mesmo que matar uma pessoa. “Se você for má e começar \na matar só por gosto, na outra vida você será bicho também, \nmas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você \nquer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, \nmelhor ser borboleta. Mas quem ia ser borboleta decerto era \nOtávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem \nmanda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” (9o parágrafo)\n\nEm relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "consequência.",
@@ -6494,15 +7091,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 30."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 12,
@@ -6525,12 +7121,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil \n@opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem \nfazer nada” é um",
+    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil @opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem fazer nada” é um",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q31-1.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo II, 2024).",
-        "caption": "Caderno original, p. 12."
+        "src": "/images/uea/vestibular-2024-g2/q31-1.png",
+        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
     "alternatives": [
@@ -6542,15 +7141,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 31."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 12,
@@ -6573,7 +7171,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "No contexto em que está inserida, a palavra sublinhada em \n“É uma traição póstuma, retardatária, residual” (1o parágrafo) \ntem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "acontece depois que um relacionamento afetivo já acabou.",
@@ -6584,15 +7199,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 13,
@@ -6615,7 +7229,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Em “porém a consciência não é boba e um dia se vinga” \n(13o parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "ao eufemismo.",
@@ -6626,15 +7257,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 33."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 13,
@@ -6657,7 +7287,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "“Acredita em sua inocência porque ninguém comentará o assunto.” (13o parágrafo)\n\nO pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“história”.",
@@ -6668,15 +7315,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 34."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 13,
@@ -6699,7 +7345,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Ocorre uma palavra formada com um prefixo que expressa \nnegação em:",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nOcorre uma palavra formada com um prefixo que expressa negação em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“É como remanejar presentes, aproveitar alianças antigas” (5o parágrafo).",
@@ -6710,15 +7373,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 13,
@@ -6741,7 +7403,14 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\n\nentre fatias torradas\n\njornais com pingos de sangue\n\njornais com furos de bala.\n\nNo portal da manhã\n\no sinistro sanduíche\n\nenergiza os transeuntes do dia.\n\n(Engavetado o remorso\n\ndos crimes bem menores)\n\nOmissões? traições? covardias?\n\nTransgressões mínimas.\n\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal \ndos jornais",
+    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\nentre fatias torradas\njornais com pingos de sangue\njornais com furos de bala.\nNo portal da manhã\no sinistro sanduíche\nenergiza os transeuntes do dia.\n(Engavetado o remorso\ndos crimes bem menores)\nOmissões? traições? covardias?\nTransgressões mínimas.\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal dos jornais",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "faz com que as infrações usuais e cotidianas pareçam, para o leitor, pequenas em comparação com os crimes noticiados.",
@@ -6752,15 +7421,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf, questão 36."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_2_prova.pdf",
     "sourcePage": 13,
@@ -6783,7 +7451,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma fábrica de biscoitos comercializa seus produtos em \n2 tipos de embalagens, uma com 12 biscoitos e a outra \ncom 20 biscoitos. Essa fábrica recebeu uma encomenda \nde 550 embalagens desses biscoitos, de modo que a razão \nentre o número de embalagens com 20 biscoitos e o núme-\n\nro de embalagens com 12 biscoitos era \n. O número total\n\nde biscoitos dessa encomenda foi",
+    "statement": "Uma fábrica de biscoitos comercializa seus produtos em 2 tipos de embalagens, uma com 12 biscoitos e a outra com 20 biscoitos. Essa fábrica recebeu uma encomenda de 550 embalagens desses biscoitos, de modo que a razão entre o número de embalagens com 20 biscoitos e o número de embalagens com 12 biscoitos era. O número total\n\nde biscoitos dessa encomenda foi",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "8 600.",
@@ -6794,15 +7466,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 01."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -6825,7 +7496,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o quadrado ABCD de 4 cm de lado, com os pontos\n\nM e N sobre o lado \n, sendo M o ponto médio do lado \n,\n\nNC = 1 cm e o ponto E a intersecção dos segmentos \n e\n\n, conforme mostra a figura.\n\nA área do quadrilátero CDEN, destacado na figura, é igual a",
+    "statement": "Considere o quadrado ABCD de 4 cm de lado, com os pontos M e N sobre o lado, sendo M o ponto médio do lado, NC = 1 cm e o ponto E a intersecção dos segmentos e, conforme mostra a figura.\n\nA área do quadrilátero CDEN, destacado na figura, é igual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "4,0 cm2.",
@@ -6836,15 +7511,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 02."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -6867,7 +7541,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a função \n. O valor de f(π) é\n\nigual a",
+    "statement": "Considere a função. O valor de f(π) é\n\nigual a",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "1.",
@@ -6878,15 +7556,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 03."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -6909,7 +7586,12 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma papelaria comercializa 4 tipos diferentes de lapiseiras, \nL1, L2, L3 e L4, sendo que os preços das lapiseiras L1, L2 e \nL3, nessa ordem, formam uma progressão aritmética (PA) de \nrazão 6, e os preços das lapiseiras L1, L2 e L4, nessa ordem, \nformam uma progressão geométrica (PG). Sabendo que a \ndiferença entre os preços das lapiseiras L4 e L1 é R$ 15,00, a \nrazão dessa PG é",
+    "statement": "Uma papelaria comercializa 4 tipos diferentes de lapiseiras,\n\n3, L, nessa ordem, formam uma progressão aritmética (PA) $de_{2}$, $L_{3}$ e $L_{4}$, sendo que os preços das lapiseiras $L_{1}$, $L_{2}$ e $L_{4}$ 1, $L_{2}$ e\n\nrazão dessa PG édiferença entre os preços das lapiseiras $L_{4}$ e $L_{1}$ é R$ 15,00, a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2.",
@@ -6920,15 +7602,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 04."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -6951,7 +7632,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma sala de aula há determinado número de alunos, sendo que 2 deles escrevem com as duas mãos, 4 alunos só \nescrevem com a mão esquerda e os demais só escrevem \ncom a mão direita. Sorteando-se aleatoriamente um aluno \ndessa sala, a probabilidade de que ele escreva com a mão\n\nesquerda é \n. O número de alunos dessa sala que escre-\n\nvem com a mão direita é",
+    "statement": "Em uma sala de aula há determinado número de alunos, sendo que 2 deles escrevem com as duas mãos, 4 alunos só escrevem com a mão esquerda e os demais só escrevem com a mão direita. Sorteando-se aleatoriamente um aluno dessa sala, a probabilidade de que ele escreva com a mão esquerda é. O número de alunos dessa sala que escre-\n\nvem com a mão direita é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "38.",
@@ -6962,15 +7647,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 05."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -6993,7 +7677,11 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere as funções \n e g(x) = x2 - bx + 1, em\n\nque b é um número real. Sabendo que f(6) = 4, as coordenadas do vértice da parábola descrita pela função g(x) são:",
+    "statement": "Considere as funções e g(x) = $x^{2}$ - bx + 1, em\n\nque b é um número real. Sabendo que f(6) = 4, as coordenadas do vértice da parábola descrita pela função g(x) são:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "(1, 0)",
@@ -7004,15 +7692,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 06."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 3,
@@ -7035,7 +7722,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em determinada loja, na compra de uma unidade de cada um \ndos produtos P e Q, gasta-se o valor total de R$ 80,00. Após \nredução de 10% no preço do produto P e aumento de 50% no \npreço do produto Q, os preços unitários desses produtos passaram a ser os mesmos. Nessas condições, a diferença entre \nos preços desses produtos, antes das alterações, era de",
+    "statement": "Em determinada loja, na compra de uma unidade de cada um dos produtos P e Q, gasta-se o valor total de R$ 80,00. Após redução de 10% no preço do produto P e aumento de 50% no preço do produto Q, os preços unitários desses produtos passaram a ser os mesmos. Nessas condições, a diferença entre os preços desses produtos, antes das alterações, era de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 15,00.",
@@ -7046,15 +7736,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 07."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 4,
@@ -7077,7 +7766,15 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de \numa mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por \naluno nas turmas P, Q e R.\n\nTurmas\nNo de alunos\nNo de convites \ncomprados por aluno\n\nP\n20\n6\n\nQ\n30\n4\n\nR\n25\n3\n\nS\n45\n?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou \n4,5 convites. Portanto, cada aluno da turma S comprou um \nnúmero de convites igual a",
+    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nTurmas $N_{o}$ de alunos comprados por alunoNo de convites $\\frac{P}{Q}$ 20 6\n\n30 4\n\n$\\frac{R}{S}$ 25 3\n\n45?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "2.",
@@ -7088,15 +7785,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 08."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 4,
@@ -7119,7 +7815,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa fez o empréstimo de determinada quantia e, sobre esse valor, pagou uma taxa de juros simples de 8% ao \nmês. Após 5 meses, esse empréstimo foi quitado, e o valor \ntotal pago, incluindo os juros, foi R$ 3.500,00. O valor total \ndos juros cobrados foi",
+    "statement": "Uma pessoa fez o empréstimo de determinada quantia e, sobre esse valor, pagou uma taxa de juros simples de 8% ao mês. Após 5 meses, esse empréstimo foi quitado, e o valor total pago, incluindo os juros, foi R$ 3.500,00. O valor total dos juros cobrados foi",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "R$ 1.000,00.",
@@ -7130,15 +7829,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 09."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 4,
@@ -7161,7 +7859,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Os 7 atletas de uma equipe de natação, entre eles 2 campeões \nolímpicos, vão se posicionar lado a lado para uma foto, de maneira que um dos campeões olímpicos fique à esquerda da foto \ne outro fique à direita. Nessas condições, o número de maneiras \ndiferentes de esses atletas se posicionarem para a foto é",
+    "statement": "Os 7 atletas de uma equipe de natação, entre eles 2 campeões olímpicos, vão se posicionar lado a lado para uma foto, de maneira que um dos campeões olímpicos fique à esquerda da foto e outro fique à direita. Nessas condições, o número de maneiras diferentes de esses atletas se posicionarem para a foto é",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "5 040.",
@@ -7172,15 +7873,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 10."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 4,
@@ -7203,7 +7903,12 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um sólido, no formato de um cilindro circular reto, tem volume \nigual a 54π cm3, e sua área lateral (AL) é calculada pela expressão AL = 2π ⋅ R ⋅ H, em que R e H são, respectivamente, \no raio da base e a altura do cilindro. Sabendo que a medida \nda altura desse cilindro é o dobro da medida do raio da sua \nbase, a área lateral desse cilindro é",
+    "statement": "Um sólido, no formato de um cilindro circular reto, tem volume\n\nL 3 L) é calculada pela ex-\n\nda altura desse cilindro é o dobro da medida do raio da sua base, a área lateral desse cilindro é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "36π cm2.",
@@ -7214,15 +7919,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 12."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 5,
@@ -7245,17 +7949,17 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No muro de uma escola está pintado o desenho de uma régua, graduada em metros. Como atividade, o professor de \nFísica pede para que os alunos gravem um vídeo de uma \npessoa andando ao lado desse muro e, com as informações \ndo vídeo, determinem a velocidade média da pessoa. As figuras 1 e 2 representam quadros do vídeo obtido pelos alunos.\n\nFigura 1\n\nFigura 2\n\nCom base na análise das figuras, os alunos devem calcular \nque a velocidade média da pessoa é de",
+    "statement": "No muro de uma escola está pintado o desenho de uma régua, graduada em metros. Como atividade, o professor de Física pede para que os alunos gravem um vídeo de uma pessoa andando ao lado desse muro e, com as informações do vídeo, determinem a velocidade média da pessoa. As figuras 1 e 2 representam quadros do vídeo obtido pelos alunos.\n\nFigura 1\n\nFigura 2\n\nCom base na análise das figuras, os alunos devem calcular que a velocidade média da pessoa é de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q13-1.jpg",
-        "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 5."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q13-2.jpg",
-        "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 5."
+        "src": "/images/uea/vestibular-2024-g3/q13-1.png",
+        "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7267,15 +7971,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 13."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 5,
@@ -7298,52 +8001,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um professor de Física constrói um experimento para apresentar a seus alunos a 2a Lei de Newton. Sobre um trilho reto \ne horizontal, ele coloca um carrinho de massa desprezível e, a \nesse carrinho, prende uma corda com um dinamômetro, como \napresentado na figura. A corda passa por uma roldana e é presa a um tijolo. Os alunos, então, inserem um objeto de massa \ndesconhecida m dentro do carrinho e liberam o sistema.\n\nSabendo que o sistema é livre de atritos, que a leitura do \ndinamômetro foi de 7,5 N e que a aceleração obtida pelo carrinho foi de 2,5 m/s2, os alunos calculam que m vale",
+    "statement": "Um professor de Física constrói um experimento para apresentar a seus alunos a $2^{a}$ Lei de Newton. Sobre um trilho reto e horizontal, ele coloca um carrinho de massa desprezível e, a esse carrinho, prende uma corda com um dinamômetro, como apresentado na figura. A corda passa por uma roldana e é presa a um tijolo. Os alunos, então, inserem um objeto de massa desconhecida m dentro do carrinho e liberam o sistema.\n\nSabendo que o sistema é livre de atritos, que a leitura do dinamômetro foi de 7,5 N e que a aceleração obtida pelo carrinho foi de 2,5 m/$s^{2}$, os alunos calculam que m vale",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q15-1.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-2.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-3.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-4.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-5.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-6.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-7.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-8.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q15-9.jpg",
-        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 6."
+        "src": "/images/uea/vestibular-2024-g3/q15-1.png",
+        "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7355,15 +8021,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 15."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 6,
@@ -7386,12 +8051,17 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Pontes geralmente são construídas com segmentos que, \ndentre várias outras funções, servem para impedir que dilatações térmicas danifiquem suas estruturas. A figura a seguir \ndestaca como se dá a junção dos segmentos de uma ponte.\n\n(www.aecweb.com.br. Adaptado.)\n\nConsidere que o comprimento de um desses segmentos da \nponte varie linearmente em função da temperatura, conforme \ndescrito no gráfico.\n\nCom base nos dados apresentados no gráfico, conclui-se \nque, dada uma variação de temperatura de 20 ºC, o segmento da ponte dilatará em",
+    "statement": "Pontes geralmente são construídas com segmentos que, dentre várias outras funções, servem para impedir que dilatações térmicas danifiquem suas estruturas. A figura a seguir destaca como se dá a junção dos segmentos de uma ponte.\n\n(www.aecweb.com.br. Adaptado.)\n\nConsidere que o comprimento de um desses segmentos da ponte varie linearmente em função da temperatura, conforme descrito no gráfico.\n\nCom base nos dados apresentados no gráfico, conclui-se que, dada uma variação de temperatura de 20 ºC, o segmento da ponte dilatará em",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q16-1.jpg",
-        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g3/q16-1.png",
+        "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7403,15 +8073,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 16."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 7,
@@ -7434,12 +8103,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma placa de madeira está sendo serrada por uma serra fita, \ncujos dentes são espaçados em 4 mm, como mostra a figura. \nCada vez que um dente atinge a placa de madeira, um pulso \nmecânico é gerado, fazendo com que a placa de madeira \nvibre conforme é serrada.\n\nConsidere que a serra se mova para baixo com velocidade \nconstante v = 0,5 m/s e que a vibração da placa seja regida pela relação v = λf, em que λ é o comprimento de onda \nassociado aos dentes da serra. A frequência de vibração, f, \nda placa de madeira enquanto ela está sendo serrada é de",
+    "statement": "Uma placa de madeira está sendo serrada por uma serra fita, cujos dentes são espaçados em 4 mm, como mostra a figura. Cada vez que um dente atinge a placa de madeira, um pulso mecânico é gerado, fazendo com que a placa de madeira vibre conforme é serrada.\n\nConsidere que a serra se mova para baixo com velocidade constante v = 0,5 m/s e que a vibração da placa seja regida pela relação v = λf, em que λ é o comprimento de onda associado aos dentes da serra. A frequência de vibração, f, da placa de madeira enquanto ela está sendo serrada é de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q17-1.jpg",
-        "alt": "Imagem de apoio da questão 17 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g3/q17-1.png",
+        "alt": "Imagem de apoio da questão 17 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7451,15 +8123,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 17."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 7,
@@ -7482,12 +8153,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma situação hipotética, dois astronautas, em duas estações espaciais diferentes, improvisam um telefone com duas \nlatas e um barbante, conforme a figura. Considere que, durante a comunicação entre os dois astronautas, o barbante \npermaneça tensionado.\n\nMesmo que impraticável, essa comunicação entre os astronautas seria possível devido ao",
+    "statement": "Em uma situação hipotética, dois astronautas, em duas estações espaciais diferentes, improvisam um telefone com duas latas e um barbante, conforme a figura. Considere que, durante a comunicação entre os dois astronautas, o barbante permaneça tensionado.\n\nMesmo que impraticável, essa comunicação entre os astronautas seria possível devido ao",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q18-1.jpg",
-        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 7."
+        "src": "/images/uea/vestibular-2024-g3/q18-1.png",
+        "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7499,15 +8173,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 18."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 7,
@@ -7530,12 +8203,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere que, no esquema simplificado da figura a seguir, a \nface mostrada da Terra é referente a seu Polo Norte geográfico.\n\nSabendo que o Sol nasce no mesmo sentido em que flui o rio \nAmazonas e se põe na direção contrária, tem-se que o Sol \nnasce no e que a rotação da Terra em torno \nde seu próprio eixo, em relação à figura, deve ser no sentido .\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Considere que, no esquema simplificado da figura a seguir, a face mostrada da Terra é referente a seu Polo Norte geográfico.\n\nSabendo que o Sol nasce no mesmo sentido em que flui o rio Amazonas e se põe na direção contrária, tem-se que o Sol nasce no e que a rotação da Terra em torno de seu próprio eixo, em relação à figura, deve ser no sentido. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q19-1.jpg",
-        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2024-g3/q19-1.png",
+        "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7547,15 +8223,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 19."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 8,
@@ -7578,7 +8253,10 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um parque eólico sustenta três grandes cidades, A, B e C, \nque consomem, respectivamente, 0,70 TWh, 0,55 TWh e \n1,15 TWh de energia elétrica em um mês. Devido às perdas \nenergéticas nas redes elétricas que ligam o parque eólico às \ncidades, é necessário que esse parque produza um total de \n3,00 TWh de energia em um mês. O rendimento energético \nda rede elétrica formada pelo parque eólico em conjunto com \nas três cidades é de",
+    "statement": "Um parque eólico sustenta três grandes cidades, A, B e C, que consomem, respectivamente, 0,70 TWh, 0,55 TWh e 1,15 TWh de energia elétrica em um mês. Devido às perdas energéticas nas redes elétricas que ligam o parque eólico às cidades, é necessário que esse parque produza um total de 3,00 TWh de energia em um mês. O rendimento energético da rede elétrica formada pelo parque eólico em conjunto com as três cidades é de",
+    "blockTypes": [
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "80%.",
@@ -7589,15 +8267,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 20."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 8,
@@ -7620,77 +8297,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa estaciona seu carro a 100 m de um prédio, que \nprojeta uma sombra sobre o solo. Devido à escassez de \nvagas, a pessoa é obrigada a estacionar fora da região de \nsombra, conforme representado na figura.\n\nConsidere que o carro possui dimensões desprezíveis, que \no Sol é uma fonte de luz pontual e que o carro, o prédio e o \nSol estão sobre o mesmo plano vertical. Com base nos dados \nda figura e sabendo que a cada hora o Sol descreve um arco \nde 15º no sentido anti-horário, a partir do momento em que \no carro foi estacionado, a sombra do prédio o alcançará em",
+    "statement": "Uma pessoa estaciona seu carro a 100 m de um prédio, que projeta uma sombra sobre o solo. Devido à escassez de vagas, a pessoa é obrigada a estacionar fora da região de sombra, conforme representado na figura.\n\nConsidere que o carro possui dimensões desprezíveis, que o Sol é uma fonte de luz pontual e que o carro, o prédio e o Sol estão sobre o mesmo plano vertical. Com base nos dados da figura e sabendo que a cada hora o Sol descreve um arco de 15º no sentido anti-horário, a partir do momento em que o carro foi estacionado, a sombra do prédio o alcançará em",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q21-1.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-2.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-3.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-4.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-5.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-6.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-7.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-8.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-9.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-10.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-11.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-12.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-13.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
-      },
-      {
-        "src": "/images/uea/vestibular-2024-g3/q21-14.jpg",
-        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 8."
+        "src": "/images/uea/vestibular-2024-g3/q21-1.png",
+        "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7702,15 +8317,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 21."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 8,
@@ -7733,7 +8347,12 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma criança inicia um percurso com seu patinete, cujo corpo \né feito de metal. Após percorrer um longo caminho sem tocar \nno chão, essa criança apoia-se em um poste metálico e sente \num forte choque elétrico na região da pele apoiada no poste.\n\nIsso acontece porque, enquanto o patinete movimenta-se sobre o chão, suas rodinhas são eletrizadas por . \nAs cargas elétricas adquiridas por essas rodinhas, ao serem \ntransferidas para o corpo do brinquedo, são conduzidas para \n do patinete. O processo de condução continua \ndo corpo do patinete para o corpo da criança. Quando a criança toca no poste, ocorre a transferência de cargas elétricas \npara o poste por eletrização por , provocando o \nchoque elétrico.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "Uma criança inicia um percurso com seu patinete, cujo corpo é feito de metal. Após percorrer um longo caminho sem tocar no chão, essa criança apoia-se em um poste metálico e sente um forte choque elétrico na região da pele apoiada no poste. Isso acontece porque, enquanto o patinete movimenta-se sobre o chão, suas rodinhas são eletrizadas por. As cargas elétricas adquiridas por essas rodinhas, ao serem transferidas para o corpo do brinquedo, são conduzidas para\n\ndo patinete. O processo de condução continua\n\ndo corpo do patinete para o corpo da criança. Quando a criança toca no poste, ocorre a transferência de cargas elétricas para o poste por eletrização por, provocando o choque elétrico. As lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "atrito – o interior – contato.",
@@ -7744,15 +8363,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 22."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 9,
@@ -7775,12 +8393,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um carregador de celular possui em seu cabo de energia as \nseguintes inscrições:\n\nSabendo que o cabo possui 0,8 m de comprimento, ao ser \nutilizado para carregar um celular, ele introduz ao circuito de \ncarregamento uma resistência de",
+    "statement": "Um carregador de celular possui em seu cabo de energia as seguintes inscrições:\n\nSabendo que o cabo possui 0,8 m de comprimento, ao ser utilizado para carregar um celular, ele introduz ao circuito de carregamento uma resistência de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q23-1.jpg",
-        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 9."
+        "src": "/images/uea/vestibular-2024-g3/q23-1.png",
+        "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7792,15 +8413,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 23."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 9,
@@ -7823,12 +8443,15 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Will Leite, publicada no perfil \n@will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "statement": "Considere a tirinha de Will Leite, publicada no perfil @will.tirando do Instagram.\n\nA atitude de Jair, no último quadrinho,",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q25-1.jpg",
-        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 10."
+        "src": "/images/uea/vestibular-2024-g3/q25-1.png",
+        "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -7840,15 +8463,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 25."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 10,
@@ -7871,7 +8493,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "De acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nDe acordo com a cena narrada, a personagem Virgínia, quando criança, era:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "otimista.",
@@ -7882,15 +8516,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 26."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 10,
@@ -7913,7 +8546,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No romance, a personagem Luciana é",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo romance, a personagem Luciana é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "uma das irmãs de Virgínia.",
@@ -7924,15 +8569,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 27."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 11,
@@ -7955,7 +8599,19 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7o parágrafo), a palavra “evasivamente” indica que \na resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "apressada.",
@@ -7966,15 +8622,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 28."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 11,
@@ -7997,7 +8652,19 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A fala “quem manda em mim é meu pai” (11o parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "quem mandava nela era seu pai.",
@@ -8008,15 +8675,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 29."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 11,
@@ -8039,7 +8705,19 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "“— Ou você abre ou conto para o seu tio.” (9o parágrafo)\n\nEm relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "causa.",
@@ -8050,15 +8728,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 3,
     "resolution": [
-      "Gabarito oficial: alternativa D.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 30."
+      "A alternativa correta é a D."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa C.",
-      "Correta. O gabarito oficial aponta a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa D, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 11,
@@ -8081,12 +8758,15 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil \n@opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem \nfazer nada” é um",
+    "statement": "Considere a tirinha de Pablo Carballo, publicada no perfil @opablocarballo do Instagram.\n\nA palavra “ainda”, no último quadrinho, indica que “tá sem fazer nada” é um",
+    "blockTypes": [
+      "prose",
+      "command"
+    ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q31-1.jpg",
-        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo III, 2024).",
-        "caption": "Caderno original, p. 11."
+        "src": "/images/uea/vestibular-2024-g3/q31-1.png",
+        "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
     "alternatives": [
@@ -8098,15 +8778,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 2,
     "resolution": [
-      "Gabarito oficial: alternativa C.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 31."
+      "A alternativa correta é a C."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa B.",
-      "Correta. O gabarito oficial aponta a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa C, não a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 11,
@@ -8129,7 +8808,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para \nresponder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, \nque acontece depois do relacionamento. Só acontece depois. \nÉ uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos \napelos, as mesmas confidências com outro. É quando você \ninsiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua \nnova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga \nas diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas.\nVocê prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para \nos restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para \nquando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou \na pessoa, mas não sua rotina de amar. Mudou a pessoa, mas \nnão seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem.\nNem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. \nExperimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um \npouco especial. Um sósia de cenas românticas. Um dublê da \nadrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. \nAlcança aquilo que foi ensaiado com o antecessor. Não se dá \no luxo de disfarçar, o trabalho de maquiar, colocar uma manta \nno mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece \numa competição imaginária, anula a individualidade do seu \npar, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará \no assunto. Desfruta da tolerância dos garçons, dos colegas, \ndos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é \nboba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em \n“É uma traição póstuma, retardatária, residual” (1o parágrafo) \ntem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "acontece depois que um relacionamento afetivo já acabou.",
@@ -8140,15 +8836,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 0,
     "resolution": [
-      "Gabarito oficial: alternativa A.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 32."
+      "A alternativa correta é a A."
     ],
     "analyses": [
-      "Correta. O gabarito oficial aponta a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa A, não a alternativa E."
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 12,
@@ -8171,7 +8866,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para \nresponder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, \nque acontece depois do relacionamento. Só acontece depois. \nÉ uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos \napelos, as mesmas confidências com outro. É quando você \ninsiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua \nnova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga \nas diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas.\nVocê prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para \nos restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para \nquando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou \na pessoa, mas não sua rotina de amar. Mudou a pessoa, mas \nnão seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem.\nNem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. \nExperimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um \npouco especial. Um sósia de cenas românticas. Um dublê da \nadrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. \nAlcança aquilo que foi ensaiado com o antecessor. Não se dá \no luxo de disfarçar, o trabalho de maquiar, colocar uma manta \nno mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece \numa competição imaginária, anula a individualidade do seu \npar, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará \no assunto. Desfruta da tolerância dos garçons, dos colegas, \ndos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é \nboba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” \n(13o parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "à metalinguagem.",
@@ -8182,15 +8894,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 33."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 12,
@@ -8213,7 +8924,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para \nresponder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, \nque acontece depois do relacionamento. Só acontece depois. \nÉ uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos \napelos, as mesmas confidências com outro. É quando você \ninsiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua \nnova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga \nas diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas.\nVocê prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para \nos restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para \nquando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou \na pessoa, mas não sua rotina de amar. Mudou a pessoa, mas \nnão seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem.\nNem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. \nExperimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um \npouco especial. Um sósia de cenas românticas. Um dublê da \nadrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. \nAlcança aquilo que foi ensaiado com o antecessor. Não se dá \no luxo de disfarçar, o trabalho de maquiar, colocar uma manta \nno mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece \numa competição imaginária, anula a individualidade do seu \npar, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará \no assunto. Desfruta da tolerância dos garçons, dos colegas, \ndos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é \nboba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” (13o parágrafo)\n\nO pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“fórmula”.",
@@ -8224,15 +8952,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 34."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 13,
@@ -8255,7 +8982,24 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para \nresponder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, \nque acontece depois do relacionamento. Só acontece depois. \nÉ uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos \napelos, as mesmas confidências com outro. É quando você \ninsiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua \nnova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga \nas diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas.\nVocê prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para \nos restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para \nquando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou \na pessoa, mas não sua rotina de amar. Mudou a pessoa, mas \nnão seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem.\nNem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. \nExperimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um \npouco especial. Um sósia de cenas românticas. Um dublê da \nadrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. \nAlcança aquilo que foi ensaiado com o antecessor. Não se dá \no luxo de disfarçar, o trabalho de maquiar, colocar uma manta \nno mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece \numa competição imaginária, anula a individualidade do seu \npar, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará \no assunto. Desfruta da tolerância dos garçons, dos colegas, \ndos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é \nboba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nOcorre uma palavra formada com um prefixo que expressa \nnegação em:",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nOcorre uma palavra formada com um prefixo que expressa negação em:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "“um segredo com pequenas chances de ser revelado, porém a consciência não é boba” (13o parágrafo).",
@@ -8266,15 +9010,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 4,
     "resolution": [
-      "Gabarito oficial: alternativa E.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 35."
+      "A alternativa correta é a E."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa A.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa E, não a alternativa D.",
-      "Correta. O gabarito oficial aponta a alternativa E."
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Correta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 13,
@@ -8297,7 +9040,14 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\n\nentre fatias torradas\n\njornais com pingos de sangue\n\njornais com furos de bala.\n\nNo portal da manhã\n\no sinistro sanduíche\n\nenergiza os transeuntes do dia.\n\n(Engavetado o remorso\n\ndos crimes bem menores)\n\nOmissões? traições? covardias?\n\nTransgressões mínimas.\n\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal \ndos jornais",
+    "statement": "Leia o poema “Sanduíche matinal”, de Astrid Cabral.\n\nSanduíche matinal\n\nMastigam-se ao café\nentre fatias torradas\njornais com pingos de sangue\njornais com furos de bala.\nNo portal da manhã\no sinistro sanduíche\nenergiza os transeuntes do dia.\n(Engavetado o remorso\ndos crimes bem menores)\nOmissões? traições? covardias?\nTransgressões mínimas.\nTodos, subitamente, melhores.\n\n(Astrid Cabral. Intramuros, 2011.)\n\nNo contexto apresentado pelo poema, a leitura matinal dos jornais",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "poem",
+      "source",
+      "command"
+    ],
     "images": [],
     "alternatives": [
       "oferece ao leitor um espelho para suas próprias atitudes, conduzindo-o ao sofrimento e ao sentimento de culpa a respeito de suas transgressões cotidianas.",
@@ -8308,15 +9058,14 @@ export const uea2024Vestibular = [
     ],
     "correct": 1,
     "resolution": [
-      "Gabarito oficial: alternativa B.",
-      "Fonte: provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf, questão 36."
+      "A alternativa correta é a B."
     ],
     "analyses": [
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa A.",
-      "Correta. O gabarito oficial aponta a alternativa B.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa C.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa D.",
-      "Incorreta. O gabarito oficial aponta a alternativa B, não a alternativa E."
+      "Incorreta.",
+      "Correta.",
+      "Incorreta.",
+      "Incorreta.",
+      "Incorreta."
     ],
     "sourcePdf": "provas/uea/vestibular/2024_UEA_especificos_3_prova.pdf",
     "sourcePage": 13,
