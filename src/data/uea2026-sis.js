@@ -22,7 +22,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q01-1.png",
+        "src": "/images/uea/sis-2026-a1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -66,7 +66,7 @@ export const uea2026Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredo-\nres desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tama-\nnho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conecta-\ndas por corredores o número de espécies diferentes (a biodi-\nversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\nA divulgação científica tem a função de popularizar a ciência, democratizar o acesso ao conhecimento científico e estabelecer condições para a alfabetização científica. O texto de Fernando Reinach enquadra-se nessa categoria. Com a finalidade de tornar seu texto mais leve e acessível, o autor recorre, por vezes, a uma linguagem mais pessoal e informal, conforme se verifica em:",
+    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredores desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conectadas por corredores o número de espécies diferentes (a biodiversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\nA divulgação científica tem a função de popularizar a ciência, democratizar o acesso ao conhecimento científico e estabelecer condições para a alfabetização científica. O texto de Fernando Reinach enquadra-se nessa categoria. Com a finalidade de tornar seu texto mais leve e acessível, o autor recorre, por vezes, a uma linguagem mais pessoal e informal, conforme se verifica em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -121,7 +121,7 @@ export const uea2026Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredo-\nres desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tama-\nnho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conecta-\ndas por corredores o número de espécies diferentes (a biodi-\nversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\n“Por incrível que pareça, somente depois de um estudo experimental controlado, feito nas reservas florestais da costa leste dos Estados Unidos, é que se pôde demonstrar o efeito benéfico desses corredores ecológicos, comprovando como eles são de fato capazes de aumentar a biodiversidade.” ($4^{o}$ parágrafo) A expressão sublinhada sinaliza uma atitude do autor, Fernando Reinach, em relação à informação que se segue. Essa atitude é de",
+    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredores desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conectadas por corredores o número de espécies diferentes (a biodiversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\n“Por incrível que pareça, somente depois de um estudo experimental controlado, feito nas reservas florestais da costa leste dos Estados Unidos, é que se pôde demonstrar o efeito benéfico desses corredores ecológicos, comprovando como eles são de fato capazes de aumentar a biodiversidade.” (4º parágrafo) A expressão sublinhada sinaliza uma atitude do autor, Fernando Reinach, em relação à informação que se segue. Essa atitude é de",
     "blockTypes": [
       "prose",
       "prose",
@@ -176,7 +176,7 @@ export const uea2026Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredo-\nres desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tama-\nnho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conecta-\ndas por corredores o número de espécies diferentes (a biodi-\nversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\n“O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.” ($1^{o}$ parágrafo) No contexto em que se insere, a oração sublinhada expressa ideia de",
+    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredores desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conectadas por corredores o número de espécies diferentes (a biodiversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\n“O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.” (1º parágrafo) No contexto em que se insere, a oração sublinhada expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -231,7 +231,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredo-\nres desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tama-\nnho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conecta-\ndas por corredores o número de espécies diferentes (a biodi-\nversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\nO sujeito do verbo “criou”, sublinhado no primeiro parágrafo do texto, é:",
+    "statement": "Para responder às questões de 02 a 05, leia o texto “Corredor ecológico: quando dois e dois são cinco”, do biólogo brasileiro Fernando Reinach.\n\n1 Imagine que você é um sapo e vive em um pântano. Aí vem o homem e constrói uma rodovia, dividindo o local. Se você tentar passar da sua metade para a outra, o risco de ser atropelado é alto. O resultado é que a estrada, apesar de quase não alterar a área total, criou dois pântanos isolados.\n\nHá muito tempo os ecólogos observaram que, quando o tamanho de um ecossistema é reduzido, ele se torna mais frágil e corre um risco maior de se desestabilizar. Há muitas razões teóricas para isso, como a diminuição da população capaz de trocar genes entre si. É o caso do nosso sapo no pântano, que agora só pode se casar com a metade das fêmeas a que tinha acesso antes da infeliz estrada.\n\nPara reduzir o impacto ambiental de projetos como esse, há muitos anos se exige a construção de um corredor entre as duas metades do ecossistema original. No caso,\n\nhaveria uma ponte para que a estrada passasse por cima e\nos animais por baixo.\n\nPor incrível que pareça, somente depois de um estudo\n\nexperimental controlado, feito nas reservas florestais da costa\nleste dos Estados Unidos, é que se pôde demonstrar o efeito\nbenéfico desses corredores ecológicos, comprovando como\neles são de fato capazes de aumentar a biodiversidade.\n5 Os pesquisadores abriram clareiras do tamanho de um\nquarteirão (de aproximadamente cem por cem metros) no\nmeio da floresta nativa. Algumas clareiras permaneceram\nisoladas, outras ficaram ligadas entre si por finos corredores desmatados. Os pesquisadores produziram uma grande\ncombinação de áreas desmatadas, todas do mesmo tamanho, mas algumas ligadas entre si.\n\nApós o desmatamento, que foi feito simultaneamente\n\nem todas as áreas, os pesquisadores mediram, ao longo dos\nanos, o retorno das espécies em cada clareira. [...] O que\nse observou é que ao longo desse período muitas espécies\nrecolonizaram as áreas desmatadas, mas nas áreas conectadas por corredores o número de espécies diferentes (a biodiversidade) era maior que nas áreas desconectadas. [...]\n\n(A longa marcha dos grilos canibais, 2010.)\n\nO sujeito do verbo “criou”, sublinhado no primeiro parágrafo do texto, é:",
     "blockTypes": [
       "prose",
       "prose",
@@ -597,7 +597,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q12-1.png",
+        "src": "/images/uea/sis-2026-a1/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -696,7 +696,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q14-1.png",
+        "src": "/images/uea/sis-2026-a1/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -843,7 +843,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q17-1.png",
+        "src": "/images/uea/sis-2026-a1/q17-1.svg",
         "alt": "Imagem de apoio da questão 17 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -942,7 +942,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q19-1.png",
+        "src": "/images/uea/sis-2026-a1/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1086,7 +1086,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q22-1.png",
+        "src": "/images/uea/sis-2026-a1/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1186,7 +1186,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q24-1.png",
+        "src": "/images/uea/sis-2026-a1/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1230,7 +1230,7 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Nas últimas três décadas, foram criadas 96 Reservas Extrativistas no Brasil, abrangendo aproximadamente 156 899 $km^{2}$ — uma extensão superior à de países como Portugal (92152 $km^{2}$) e Coreia do Sul (100 210 $km^{2}$), por exemplo. A Amazônia brasileira abriga cerca de 94% da área total dessa categoria de área protegida, totalizando 77 unidades que, em conjunto, corresponderiam ao $92^{o}$ país em tamanho.\n\n(Anselmo Gonçalves da Silva. “Reservas Extrativistas na Amazônia Brasileira:\n\ntemas e questões de pesquisa”. Ensaios de Geografia, 2024. Adaptado.)\n\nA categoria oficial de unidade de conservação, mencionada no excerto, refere-se a propriedades",
+    "statement": "Nas últimas três décadas, foram criadas 96 Reservas Extrativistas no Brasil, abrangendo aproximadamente 156 899 $km^{2}$ — uma extensão superior à de países como Portugal (92152 $km^{2}$) e Coreia do Sul (100 210 $km^{2}$), por exemplo. A Amazônia brasileira abriga cerca de 94% da área total dessa categoria de área protegida, totalizando 77 unidades que, em conjunto, corresponderiam ao 92º país em tamanho.\n\n(Anselmo Gonçalves da Silva. “Reservas Extrativistas na Amazônia Brasileira:\n\ntemas e questões de pesquisa”. Ensaios de Geografia, 2024. Adaptado.)\n\nA categoria oficial de unidade de conservação, mencionada no excerto, refere-se a propriedades",
     "blockTypes": [
       "prose",
       "source",
@@ -1475,7 +1475,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q30-1.png",
+        "src": "/images/uea/sis-2026-a1/q30-1.svg",
         "alt": "Imagem de apoio da questão 30 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1664,7 +1664,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q34-1.png",
+        "src": "/images/uea/sis-2026-a1/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1716,7 +1716,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q35-1.png",
+        "src": "/images/uea/sis-2026-a1/q35-1.svg",
         "alt": "Imagem de apoio da questão 35 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -1947,7 +1947,7 @@ export const uea2026Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No plano cartesiano a seguir, estão representados os grá ficos das funções polinomiais do $1^{o}$ grau f e g, com f(x) = 4x5 + 4.\n\nSabendo que g(0) = 28, o valor de g(10) é",
+    "statement": "No plano cartesiano a seguir, estão representados os grá ficos das funções polinomiais do 1º grau f e g, com f(x) = 4x5 + 4.\n\nSabendo que g(0) = 28, o valor de g(10) é",
     "blockTypes": [
       "prose",
       "command"
@@ -2195,7 +2195,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q46-1.png",
+        "src": "/images/uea/sis-2026-a1/q46-1.svg",
         "alt": "Imagem de apoio da questão 46 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2292,7 +2292,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q48-1.png",
+        "src": "/images/uea/sis-2026-a1/q48-1.svg",
         "alt": "Imagem de apoio da questão 48 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2336,16 +2336,14 @@ export const uea2026Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Como os rios do Amazonas podem eventualmente ter pouca profundidade, o melhor propulsor mecânico para uma canoa é a rabeta longa, apresentada na imagem.\n\n(https://amazonasatual.com.br)\n\nUm pescador fez uma viagem com sua canoa mecanizada para visitar um amigo. Durante essa viagem, que levou 1h, o trajeto percorrido pela canoa ao longo do rio foi retilíneo. O gráfico mostra as velocidades desenvolvidas por essa canoa em relação às margens do rio.\n\nA distância percorrida durante essa viagem foi de",
+    "statement": "Como os rios do Amazonas podem eventualmente ter pouca profundidade, o melhor propulsor mecânico para uma canoa é a rabeta longa, apresentada na imagem.\n\nA distância percorrida durante essa viagem foi de",
     "blockTypes": [
-      "prose",
-      "source",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q49-1.png",
+        "src": "/images/uea/sis-2026-a1/q49-1.svg",
         "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2396,7 +2394,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q50-1.png",
+        "src": "/images/uea/sis-2026-a1/q50-1.svg",
         "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2492,7 +2490,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q52-1.png",
+        "src": "/images/uea/sis-2026-a1/q52-1.svg",
         "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2626,9 +2624,8 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Um estudo foi realizado em um sistema fechado contendo uma massa fixa de um gás. O gráfico representa duas curvas de pressão × volume obtidas em duas temperaturas diferentes.\n\nDe acordo com o gráfico, a comparação entre as tempe-\n\ntransformação são, respectivamente,raturas $T_{1}$ e $T_{2}$ e a condição mantida constante em cada",
+    "statement": "Um estudo foi realizado em um sistema fechado contendo uma massa fixa de um gás. O gráfico representa duas curvas de pressão × volume obtidas em duas temperaturas diferentes.\n\nDe acordo com o gráfico, a comparação entre as tempetransformação são, respectivamente,raturas $T_{1}$ e $T_{2}$ e a condição mantida constante em cada",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],
@@ -2681,7 +2678,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a1/q56-1.png",
+        "src": "/images/uea/sis-2026-a1/q56-1.svg",
         "alt": "Imagem de apoio da questão 56 (UEA SIS — Acompanhamento I, 2026)."
       }
     ],
@@ -2820,9 +2817,8 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Águas naturais podem conter íons Fe2+ e Mn2+, que, por serem solúveis, são de difícil remoção por filtração simples. Por isso, algumas estações de tratamento de água adicionam substâncias contendo cloro (Cl) na etapa de captação (etapa inicial do tratamento). O cloro, por ser um forte agente oxidante, converte esses íons em espécies insolúveis. Essas espécies serão removidas da água por\n\n2($SO_{4}$ 3, que pro-\n\ndo sua posterior separação por. As lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Águas naturais podem conter íons Fe2+ e Mn2+, que, por serem solúveis, são de difícil remoção por filtração simples. Por isso, algumas estações de tratamento de água adicionam substâncias contendo cloro (Cl) na etapa de captação (etapa inicial do tratamento). O cloro, por ser um forte agente oxidante, converte esses íons em espécies insolúveis. Essas espécies serão removidas da água por\n\n2($SO_{4}$ 3, que prodo sua posterior separação por. As lacunas do texto são preenchidas, respectivamente, por",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],
@@ -3286,7 +3282,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua $non^{2}$. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1\u0007sestro: hábito. 2\u0007sine qua non: indispensável, essencial.\n\n“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros” ($2^{o}$ parágrafo) Ao se transpor a oração sublinhada para a voz passiva, a forma verbal resultante será:",
+    "statement": "Para responder às questões de 06 a 08, leia os capítulos CXXIII e CXXIV do romance Memórias Póstumas de Brás Cubas, de Machado de Assis.\n\nO verdadeiro Cotrim\n\nNão obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. [...]\n\nTalvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. [...] Não era perfeito, decerto; tinha, por exemplo, o sestro¹ de mandar para os jornais a notícia de um ou outro benefício que praticava — sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua $non^{2}$. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.\n\nVá de intermédio\n\nQue há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio, pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pitoresca. E repito: não é meu.\n\n(Machado de Assis. Memórias póstumas de Brás Cubas, 2014.)\n\n1\u0007sestro: hábito. 2\u0007sine qua non: indispensável, essencial.\n\n“Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros” (2º parágrafo) Ao se transpor a oração sublinhada para a voz passiva, a forma verbal resultante será:",
     "blockTypes": [
       "prose",
       "prose",
@@ -3539,7 +3535,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q13-1.png",
+        "src": "/images/uea/sis-2026-a2/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -3921,7 +3917,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q21-1.png",
+        "src": "/images/uea/sis-2026-a2/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -4108,11 +4104,10 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A tabela apresenta a relação dos principais produtos industrializados brasileiros exportados em 2025.\n\nProduto Exportações (%)\n\nAçúcar de cana, em bruto 12,9 Celulose 9,6 Óleos Combustíveis 7,5 Demais produtos semimanufaturados 5,3 Produtos semimanufaturados de ferro ou aços 3,8 Óxidos e hidróxidos de alumínio 3,6 Aviões 3,1 Ferro-ligas 2,8 Açúcar refinado 2,2 Demais produtos manufaturados 2,2\n\n(“Perfil da Indústria Brasileira”.\n\nhttps://industriabrasileira.portaldaindustria.com.br. Adaptado.)\n\nA análise da tabela revela que os produtos industrializados brasileiros são, em sua maioria, caracterizados por serem",
+    "statement": "A tabela apresenta a relação dos principais produtos industrializados brasileiros exportados em 2025.\n\n\tProduto\tExportações (%)\nAçúcar de cana, em bruto\t\t12,9\nCelulose\t\t9,6\nÓleos Combustíveis\t\t7,5\nDemais produtos semimanufaturados\t\t5,3\nProdutos semimanufaturados de ferro ou aços\t\t3,8\nÓxidos e hidróxidos de alumínio\t\t3,6\nAviões\t\t3,1\nFerro-ligas\t\t2,8\nAçúcar refinado\t\t2,2\nDemais produtos manufaturados\t\t2,2\n\n(“Perfil da Indústria Brasileira”.\n\nhttps://industriabrasileira.portaldaindustria.com.br. Adaptado.)\n\nA análise da tabela revela que os produtos industrializados brasileiros são, em sua maioria, caracterizados por serem",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
+      "table",
       "source",
       "source",
       "command"
@@ -4207,12 +4202,10 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise a tabela que apresenta os dados do Índice de Desenvolvimento Humano Municipal (IDHM) para os estados da região Norte.\n\n2019 2021 2024\n\nNorte 0,732 0,705 0,767 Tocantins 0,762 0,731 0,797 Rondônia 0,752 0,708 0,786 Roraima 0,757 0,694 0,780 Amazonas 0,739 0,700 0,767 Amapá 0,732 0,681 0,759 Pará 0,717 0,706 0,758 Acre 0,738 0,702 0,754\n\n(Radar IDHM: evolução do IDHM e de seus componentes-\n\nperíodo de 2012 a 2024, 2026. Adaptado.)\n\nCom base nos dados da tabela e em conhecimentos acerca do IDHM no período retratado, verifica-se que o estado",
+    "statement": "Analise a tabela que apresenta os dados do Índice de Desenvolvimento Humano Municipal (IDHM) para os estados da região Norte.\n\n\t2019\t2021\t2024\nNorte\t0,732\t0,705\t0,767\nTocantins\t0,762\t0,731\t0,797\nRondônia\t0,752\t0,708\t0,786\nRoraima\t0,757\t0,694\t0,780\nAmazonas\t0,739\t0,700\t0,767\nAmapá\t0,732\t0,681\t0,759\nPará\t0,717\t0,706\t0,758\nAcre\t0,738\t0,702\t0,754\n\n(Radar IDHM: evolução do IDHM e de seus componentesperíodo de 2012 a 2024, 2026. Adaptado.)\n\nCom base nos dados da tabela e em conhecimentos acerca do IDHM no período retratado, verifica-se que o estado",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "source",
+      "table",
       "source",
       "command"
     ],
@@ -4313,7 +4306,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q29-1.png",
+        "src": "/images/uea/sis-2026-a2/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -4412,7 +4405,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q31-1.png",
+        "src": "/images/uea/sis-2026-a2/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -4935,7 +4928,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q43-1.png",
+        "src": "/images/uea/sis-2026-a2/q43-1.svg",
         "alt": "Imagem de apoio da questão 43 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -4986,7 +4979,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q44-1.png",
+        "src": "/images/uea/sis-2026-a2/q44-1.svg",
         "alt": "Imagem de apoio da questão 44 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5040,7 +5033,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q45-1.png",
+        "src": "/images/uea/sis-2026-a2/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5228,7 +5221,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q49-1.png",
+        "src": "/images/uea/sis-2026-a2/q49-1.svg",
         "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5325,7 +5318,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q51-1.png",
+        "src": "/images/uea/sis-2026-a2/q51-1.svg",
         "alt": "Imagem de apoio da questão 51 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5415,9 +5408,8 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "gante industrial no controle de pragas, que pode ser obtido a O fluoreto de sulfurila ($SO_{2}$$F_{2}$) é um gás usado como fumi-\n\nequação a seguir.o difluoreto de oxigênio (OFé formado oxigênio gasoso (Opartir da reação controlada entre o dióxido de enxofre ($SO_{2}$). Nessa reação, além do $SO_{2}$ 2$e_{2}$F),\n\n$2OF_{2}$ (g) + $2SO_{2}$ (g) $2SO_{2}$$F_{2}$ (g) + $O_{2}$ (g)\n\nEm estudos termoquímicos, essa reação pode ser analisada a partir das seguintes etapas intermediárias:\n\n$F_{2}$ (g) + $\\frac{1}{2}$2 O (g) $OF_{2}$ (g) ∆$H^{0}$ = +25 kJ/mol S (s) + $O_{2}$ (g) $SO_{2}$ (g) $DH^{0}$ = –297 kJ/mol S (s) + $O_{2}$ (g) + $F_{2}$ (g) $SO_{2}$$F_{2}$ (g) ∆$H^{0}$ = –756 kJ/mol\n\nCom base nesses dados e na Lei de Hess, a variação de entalpia para a produção de 1 mol de SOreação entre $OF_{2}$ e $SO_{2}$ é igual $a_{2}$$F_{2}$ a partir da",
+    "statement": "O fluoreto de sulfurila (SO₂F₂) é um gás usado como fumigante industrial no controle de pragas, que pode ser obtido a partir da reação controlada entre o dióxido de enxofre (SO₂) e o difluoreto de oxigênio (OF₂). Nessa reação, além do SO₂F₂, é formado oxigênio gasoso (O₂), conforme representado na equação a seguir.\n\n2 OF₂ (g) + 2 SO₂ (g) → 2 SO₂F₂ (g) + O₂ (g)\n\nEm estudos termoquímicos, essa reação pode ser analisada a partir das seguintes etapas intermediárias:\n\nF₂ (g) + ½ O₂ (g) → OF₂ (g)     ΔH⁰ = +25 kJ/mol\nS (s) + O₂ (g) → SO₂ (g)     ΔH⁰ = –297 kJ/mol\nS (s) + O₂ (g) + F₂ (g) → SO₂F₂ (g)     ΔH⁰ = –756 kJ/mol\n\nCom base nesses dados e na Lei de Hess, a variação de entalpia para a produção de 1 mol de SO₂F₂ a partir da reação entre OF₂ e SO₂ é igual a",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5479,7 +5471,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q54-1.png",
+        "src": "/images/uea/sis-2026-a2/q54-1.svg",
         "alt": "Imagem de apoio da questão 54 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5626,7 +5618,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q57-1.png",
+        "src": "/images/uea/sis-2026-a2/q57-1.svg",
         "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5769,7 +5761,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a2/q60-1.png",
+        "src": "/images/uea/sis-2026-a2/q60-1.svg",
         "alt": "Imagem de apoio da questão 60 (UEA SIS — Acompanhamento II, 2026)."
       }
     ],
@@ -5913,7 +5905,7 @@ export const uea2026Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 03, leia o início do texto “Teia de aranha não é cabelo nem macarrão”, do biólogo brasileiro Fernando Reinach.\n\nVocê já deve ter visto uma aranha pendurada em um único fio de sua teia. Deve ter observado como ela é capaz de aumentar rapidamente o comprimento do fio. Em poucos segundos, uma aranha pode produzir mais de dez centímetros de fio. Imagine se nosso cabelo crescesse com essa velocidade. Teríamos que nos barbear três vezes por dia.\n\nA diferença entre o processo de fabricação do fio de cabelo e do fio de seda das aranhas explica a diferença de velocidade do crescimento. No caso do cabelo, as células presentes no bulbo capilar (o que chamamos de raiz) sintetizam as proteínas que constituem o fio e, à medida que essas proteínas ficam prontas, são adicionadas à ponta do fio localizada dentro do bulbo capilar, aumentando seu comprimento. O crescimento é lento e constante. No caso do fio de seda das aranhas, uma glândula produz as proteínas que vão constituir o fio, e essas proteínas são estocadas em um pequeno saco. Quando a aranha quer sintetizar um pedaço de fio, as proteínas são ejetadas do saco através de tubos muito finos, formando os fios.\n\nO mecanismo é semelhante a uma máquina de fazer macarrão — que, ao fazer a massa passar por um orifício, forma os fios. O problema é que, no caso do macarrão, podemos esperar algumas horas para a massa secar e o macarrão endurecer. No caso das aranhas, no momento em que o fio é ejetado, ele já tem que estar pronto para suportar o peso do animal. Isso significa que o processo de solidificação precisa ser rápido. A novidade é que foi descoberto o truque usado pelas aranhas para produzir rapidamente uma grande quantidade de fio.\n\n(Folha de lótus, escorregador de mosquito, 2018.)\n\n“No caso do cabelo, as células presentes no bulbo capilar (o que chamamos de raiz) sintetizam as proteínas que constituem o fio e, à medida que essas proteínas ficam prontas, são adicionadas à ponta do fio dentro do bulbo capilar, aumentando seu comprimento.” ($2^{o}$ parágrafo) No contexto em que se insere, a oração sublinhada expressa ideia de",
+    "statement": "Para responder às questões de 01 a 03, leia o início do texto “Teia de aranha não é cabelo nem macarrão”, do biólogo brasileiro Fernando Reinach.\n\nVocê já deve ter visto uma aranha pendurada em um único fio de sua teia. Deve ter observado como ela é capaz de aumentar rapidamente o comprimento do fio. Em poucos segundos, uma aranha pode produzir mais de dez centímetros de fio. Imagine se nosso cabelo crescesse com essa velocidade. Teríamos que nos barbear três vezes por dia.\n\nA diferença entre o processo de fabricação do fio de cabelo e do fio de seda das aranhas explica a diferença de velocidade do crescimento. No caso do cabelo, as células presentes no bulbo capilar (o que chamamos de raiz) sintetizam as proteínas que constituem o fio e, à medida que essas proteínas ficam prontas, são adicionadas à ponta do fio localizada dentro do bulbo capilar, aumentando seu comprimento. O crescimento é lento e constante. No caso do fio de seda das aranhas, uma glândula produz as proteínas que vão constituir o fio, e essas proteínas são estocadas em um pequeno saco. Quando a aranha quer sintetizar um pedaço de fio, as proteínas são ejetadas do saco através de tubos muito finos, formando os fios.\n\nO mecanismo é semelhante a uma máquina de fazer macarrão — que, ao fazer a massa passar por um orifício, forma os fios. O problema é que, no caso do macarrão, podemos esperar algumas horas para a massa secar e o macarrão endurecer. No caso das aranhas, no momento em que o fio é ejetado, ele já tem que estar pronto para suportar o peso do animal. Isso significa que o processo de solidificação precisa ser rápido. A novidade é que foi descoberto o truque usado pelas aranhas para produzir rapidamente uma grande quantidade de fio.\n\n(Folha de lótus, escorregador de mosquito, 2018.)\n\n“No caso do cabelo, as células presentes no bulbo capilar (o que chamamos de raiz) sintetizam as proteínas que constituem o fio e, à medida que essas proteínas ficam prontas, são adicionadas à ponta do fio dentro do bulbo capilar, aumentando seu comprimento.” (2º parágrafo) No contexto em que se insere, a oração sublinhada expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -5970,7 +5962,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q04-1.png",
+        "src": "/images/uea/sis-2026-a3/q04-1.svg",
         "alt": "Imagem de apoio da questão 04 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -6014,7 +6006,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematu-\nro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarreci-\nda. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento espe-\ncial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém aca-\nriciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais come-\nrei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expres-\nsão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de ga-\nlinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nNa construção do conto, Clarice Lispector mobiliza, sobretudo, o seguinte recurso expressivo:",
+    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarrecida. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento especial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém acariciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais comerei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expressão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de galinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nNa construção do conto, Clarice Lispector mobiliza, sobretudo, o seguinte recurso expressivo:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6077,7 +6069,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematu-\nro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarreci-\nda. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento espe-\ncial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém aca-\nriciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais come-\nrei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expres-\nsão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de ga-\nlinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nNo quinto parágrafo, o narrador caracteriza a protagonista como",
+    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarrecida. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento especial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém acariciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais comerei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expressão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de galinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nNo quinto parágrafo, o narrador caracteriza a protagonista como",
     "blockTypes": [
       "prose",
       "prose",
@@ -6140,7 +6132,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematu-\nro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarreci-\nda. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento espe-\ncial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém aca-\nriciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais come-\nrei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expres-\nsão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de ga-\nlinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nMuitos críticos literários interpretam esse conto como uma alegoria da condição feminina na sociedade patriarcal. A identidade da protagonista está definida em função de seu papel como mãe em:",
+    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarrecida. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento especial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém acariciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais comerei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expressão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de galinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\nMuitos críticos literários interpretam esse conto como uma alegoria da condição feminina na sociedade patriarcal. A identidade da protagonista está definida em função de seu papel como mãe em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6203,7 +6195,7 @@ export const uea2026Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematu-\nro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarreci-\nda. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento espe-\ncial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém aca-\nriciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais come-\nrei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expres-\nsão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de ga-\nlinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\n“Foi então que aconteceu. De pura afobação a galinha pôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade, parecia uma velha mãe habituada. Sentou-se sobre o ovo e assim ficou, respirando, abotoando e desabotoando os olhos.” ($7^{o}$ parágrafo) Nesse trecho, o narrador relata uma série de fatos ocorridos no passado. Um fato apresentado como anterior aos demais acontecimentos narrados está indicado pela forma verbal:",
+    "statement": "Para responder às questões de 05 a 08, leia o conto “Uma galinha” da escritora Clarice Lispector, que integra o livro Laços de família, cuja primeira edição data de 1960.\n\n1 Era uma galinha de domingo. Ainda viva porque não passava de nove horas da manhã.\n\nParecia calma. Desde sábado encolhera-se num canto da cozinha. Não olhava para ninguém, ninguém olhava para ela. Mesmo quando a escolheram, apalpando sua intimidade com indiferença, não souberam dizer se era gorda ou magra. Nunca se adivinharia nela um anseio.\n\nFoi, pois, uma surpresa quando a viram abrir as asas de curto voo, inchar o peito e, em dois ou três lances, alcançar a murada do terraço. Um instante ainda vacilou — o tempo da cozinheira dar um grito — e em breve estava no terraço do vizinho, de onde, em outro voo desajeitado, alcançou um telhado. [...] A família foi chamada com urgência e consternada viu o almoço junto de uma chaminé. O dono da casa, lembrando-se da dupla necessidade de fazer esporadicamente algum esporte e de almoçar, vestiu radiante um calção de banho e resolveu seguir o itinerário da galinha: em pulos cautelosos alcançou o telhado onde esta, hesitante e trêmula, escolhia com urgência outro rumo. [...] Pouco afeita a uma luta mais selvagem pela vida, a galinha tinha que decidir por si mesma os caminhos a tomar, sem nenhum auxílio de sua raça. [...]\n\nSozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga, pairava ofegante num beiral de telhado e enquanto o rapaz galgava outros com dificuldade, tinha tempo de se refazer por um momento. E então parecia tão livre. 5 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas vísceras que fazia dela um ser? A galinha é um ser. É verdade que não se poderia contar com ela para nada. Nem ela própria contava consigo, como o galo crê na sua crista. Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo instante outra tão igual como se fora a mesma.\n\nAfinal, numa das vezes em que parou para gozar sua\n\nfuga, o rapaz alcançou-a. Entre gritos e penas, ela foi presa.\nEm seguida carregada em triunfo por uma asa através das\ntelhas e pousada no chão da cozinha com certa violência.\nAinda tonta, sacudiu-se um pouco, em cacarejos roucos e\nindecisos.\n\nFoi então que aconteceu. De pura afobação a galinha\n\npôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade,\nparecia uma velha mãe habituada. Sentou-se sobre o ovo e\nassim ficou, respirando, abotoando e desabotoando os olhos.\nSeu coração, tão pequeno num prato, solevava e abaixava\nas penas, enchendo de tepidez aquilo que nunca passaria de\num ovo. Só a menina estava perto e assistiu a tudo estarrecida. Mal porém conseguiu desvencilhar-se do acontecimento,\ndespregou-se do chão e saiu aos gritos:\n\n— Mamãe, mamãe, não mate mais a galinha, ela pôs um\n\novo! ela quer o nosso bem!\n\nTodos correram de novo à cozinha e rodearam mudos a\n\njovem parturiente. Esquentando seu filho, esta não era nem\nsuave nem arisca, nem alegre, nem triste, não era nada, era\numa galinha. O que não sugeria nenhum sentimento especial. O pai, a mãe e a filha olhavam já há algum tempo, sem\npropriamente um pensamento qualquer. Nunca ninguém acariciou uma cabeça de galinha. O pai afinal decidiu-se com\ncerta brusquidão:\n10 — Se você mandar matar esta galinha nunca mais comerei galinha na minha vida!\n\n— Eu também! jurou a menina com ardor.\nA mãe, cansada, deu de ombros.\nInconsciente da vida que lhe fora entregue, a galinha\n\npassou a morar com a família. [...] Uma vez ou outra, sempre\nmais raramente, lembrava de novo a galinha que se recortara\ncontra o ar à beira do telhado, prestes a anunciar. Nesses\nmomentos enchia os pulmões com o ar impuro da cozinha e,\nse fosse dado às fêmeas cantar, ela não cantaria, mas ficaria\nmuito mais contente. Embora nem nesses instantes a expressão de sua vazia cabeça se alterasse. Na fuga, no descanso,\nquando deu à luz ou bicando milho — era uma cabeça de galinha, a mesma que fora desenhada no começo dos séculos.\n\nAté que um dia mataram-na, comeram-na e passaram-se\n\nanos.\n\n(Laços de família, 2009.)\n\n“Foi então que aconteceu. De pura afobação a galinha pôs um ovo. Surpreendida, exausta. Talvez fosse prematuro. Mas logo depois, nascida que fora para a maternidade, parecia uma velha mãe habituada. Sentou-se sobre o ovo e assim ficou, respirando, abotoando e desabotoando os olhos.” (7º parágrafo) Nesse trecho, o narrador relata uma série de fatos ocorridos no passado. Um fato apresentado como anterior aos demais acontecimentos narrados está indicado pela forma verbal:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6439,7 +6431,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q12-1.png",
+        "src": "/images/uea/sis-2026-a3/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -6591,7 +6583,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q15-1.png",
+        "src": "/images/uea/sis-2026-a3/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -6738,7 +6730,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q18-1.png",
+        "src": "/images/uea/sis-2026-a3/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -7020,11 +7012,10 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a tabela que apresenta o número de empresas de plataformas digitais instaladas em alguns países.\n\nPaís empresas digitaisNúmero de\n\nChina 1031\nEstados Unidos 855\nIlhas Cayman 165\nReino Unido 124\nJapão 117\nCoreia do Sul 84\nAustrália 73\nÍndia 62\nCanadá 59\n\n(Victo José da Silva Neto, Tulio Chiarini e Leonardo da Costa Ribeiro. “Viagens de descobrimento: mapeando a geografia da economia de plataformas”. VI Encontro Nacional de Economia Industrial, 2022.\n\nAdaptado.)\n\nOs dados apresentados na tabela mostram que as empresas de plataformas digitais estão concentradas, principalmente, em países com",
+    "statement": "Analise a tabela que apresenta o número de empresas de plataformas digitais instaladas em alguns países.\n\n\tPaís\tempresas digitaisNúmero de\t\nChina\t\t\t1031\nEstados Unidos\t\t\t855\nIlhas Cayman\t\t\t165\nReino Unido\t\t\t124\nJapão\t\t\t117\nCoreia do Sul\t\t\t84\nAustrália\t\t\t73\nÍndia\t\t\t62\nCanadá\t\t\t59\n\n(Victo José da Silva Neto, Tulio Chiarini e Leonardo da Costa Ribeiro. “Viagens de descobrimento: mapeando a geografia da economia de plataformas”. VI Encontro Nacional de Economia Industrial, 2022.\n\nAdaptado.)\n\nOs dados apresentados na tabela mostram que as empresas de plataformas digitais estão concentradas, principalmente, em países com",
     "blockTypes": [
       "prose",
-      "prose",
-      "poem",
+      "table",
       "source",
       "source",
       "command"
@@ -7126,7 +7117,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q26-1.png",
+        "src": "/images/uea/sis-2026-a3/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -7554,7 +7545,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q35-1.png",
+        "src": "/images/uea/sis-2026-a3/q35-1.svg",
         "alt": "Imagem de apoio da questão 35 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -7598,7 +7589,7 @@ export const uea2026Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise as etapas de determinado procedimento biotecnoló-\ngico que utiliza mamíferos da mesma espécie para a obten-\nção do filhote Z:\n• \u0007Uma célula da pele é retirada do animal X;\n• \u0007Um óvulo é retirado de um animal Y e seu núcleo é remo-\nvido;\n• \u0007O núcleo da célula da pele do animal X é transferido para o\nóvulo enucleado do animal Y, formando o zigoto;\n• \u0007O zigoto desenvolve-se em embrião;\n• \u0007O embrião é transferido para o útero do animal W;\n• \u0007Após a gestação no útero do animal W, nasce o filhote Z.\nO filhote Z é denominado",
+    "statement": "Analise as etapas de determinado procedimento biotecnológico que utiliza mamíferos da mesma espécie para a obtenção do filhote Z:\n• \u0007Uma célula da pele é retirada do animal X;\n• \u0007Um óvulo é retirado de um animal Y e seu núcleo é removido;\n• \u0007O núcleo da célula da pele do animal X é transferido para o\nóvulo enucleado do animal Y, formando o zigoto;\n• \u0007O zigoto desenvolve-se em embrião;\n• \u0007O embrião é transferido para o útero do animal W;\n• \u0007Após a gestação no útero do animal W, nasce o filhote Z.\nO filhote Z é denominado",
     "blockTypes": [
       "list"
     ],
@@ -7790,7 +7781,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q40-1.png",
+        "src": "/images/uea/sis-2026-a3/q40-1.svg",
         "alt": "Imagem de apoio da questão 40 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -8107,16 +8098,15 @@ export const uea2026Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A imagem de Sr. Spock, personagem da série Jornada nas Estrelas, fazendo a conhecida “saudação vulcana” é exibida na tela de um televisor, como mostra a figura.\n\n(https://super.abril.com.br. Adaptado.)\n\nUma câmara escura de orifício foi posicionada à frente desse televisor da seguinte maneira:\n\nA forma da imagem projetada no fundo da câmera escura de orifício está representada em:",
+    "statement": "A imagem de Sr. Spock, personagem da série Jornada nas Estrelas, fazendo a conhecida “saudação vulcana” é exibida na tela de um televisor, como mostra a figura.\n\nUma câmara escura de orifício foi posicionada à frente desse televisor da seguinte maneira:\n\nA forma da imagem projetada no fundo da câmera escura de orifício está representada em:",
     "blockTypes": [
       "prose",
-      "source",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q47-1.png",
+        "src": "/images/uea/sis-2026-a3/q47-1.svg",
         "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],
@@ -8665,11 +8655,8 @@ export const uea2026Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para verificar a toxicidade de íons metálicos sobre o desenvolvimento vegetal, foi realizado um experimento utilizando raízes de cebola imersas, separadamente, em diferentes so-\n\nferentes, e uma raiz de cebola, que foi imersa em água pura, luções de sulfato de cobre ($CuSO_{4}$), com concentrações dipara controle. A figura representa a montagem do experimento.\n\nApós 10 dias do início do experimento, foram medidos os tamanhos das raízes e calculadas as porcentagens de inibi-\n\nOs resultados obtidos estão representados no gráfico.ção do crescimento das raízes em cada solução de $CuSO_{4}$.\n\nCom base nos resultados, conclui-se que a hipótese testada no experimento é a de que\n\n4 atuou como fertilizante vegetal, promovendo\n\n4 diminuiu com o aumento da",
+    "statement": "Para verificar a toxicidade de íons metálicos sobre o desenvolvimento vegetal, foi realizado um experimento utilizando raízes de cebola imersas, separadamente, em diferentes soferentes, e uma raiz de cebola, que foi imersa em água pura, luções de sulfato de cobre ($CuSO_{4}$), com concentrações dipara controle. A figura representa a montagem do experimento.\n\nCom base nos resultados, conclui-se que a hipótese testada no experimento é a de que\n\n4 atuou como fertilizante vegetal, promovendo\n\n4 diminuiu com o aumento da",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8677,7 +8664,7 @@ export const uea2026Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2026-a3/q59-1.png",
+        "src": "/images/uea/sis-2026-a3/q59-1.svg",
         "alt": "Imagem de apoio da questão 59 (UEA SIS — Acompanhamento III, 2026)."
       }
     ],

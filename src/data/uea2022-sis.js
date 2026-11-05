@@ -22,7 +22,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a1/q01-1.png",
+        "src": "/images/uea/sis-2022-a1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2022)."
       }
     ],
@@ -213,7 +213,7 @@ export const uea2022Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC’os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nEm “Acorda, se ouvir queres coisas raras.” ($1^{a}$ estrofe), a conjunção introduz uma oração que expressa ideia de",
+    "statement": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC’os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nEm “Acorda, se ouvir queres coisas raras.” (1ª estrofe), a conjunção introduz uma oração que expressa ideia de",
     "blockTypes": [
       "prose",
       "poem",
@@ -716,7 +716,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a1/q15-1.png",
+        "src": "/images/uea/sis-2022-a1/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento I, 2022)."
       }
     ],
@@ -1090,13 +1090,11 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno Ocorrências Assassinatos\n\nde conflitos no campo\n\n2012 828 34\n2013 802 30\n2014 820 37\n2015 828 49\n2016 1 112 61\n2017 1 033 70\n2018 1 000 27\n2019 1 260 27\n2020 1 576 14\n2021 1 242 35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
+    "statement": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\tOcorrências de conflitos\tAssassinatos no campo\n2012\t828\t34\n2013\t802\t30\n2014\t820\t37\n2015\t828\t49\n2016\t1 112\t61\n2017\t1 033\t70\n2018\t1 000\t27\n2019\t1 260\t27\n2020\t1 576\t14\n2021\t1 242\t35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
     "blockTypes": [
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "poem",
+      "table",
       "source",
       "command"
     ],
@@ -1141,7 +1139,7 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Em julho de 2022, a China sediou três eventos de relevância mundial: a $14^{a}$ Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a “grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder360.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
+    "statement": "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a “grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder360.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
     "blockTypes": [
       "prose",
       "source",
@@ -1235,7 +1233,7 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A globalização se caracteriza pelo avanço do capital e dos processos de produção em escala global, expandindo-se na forma de produção de mercadorias para todos os continentes, por sua vez, determinando uma dimensão histórica do mundo em todos os lugares. Suas transformações impactam as manifestações de sociabilidade que o capital conhece e tende a fragilizar as coerências territoriais endógenas.\n\n(Ricardo Gilson da Costa Silva. “Amazônia globalizada:\n\nda fronteira agrícola ao território do agronegócio — o exemplo de Rondônia”.\n\nhttp://journals.openedition.org, $n^{o}$ 23, 2015.)\n\nNa circunstância retratada no excerto, um atributo da globalização para a estruturação dos espaços de produção é",
+    "statement": "A globalização se caracteriza pelo avanço do capital e dos processos de produção em escala global, expandindo-se na forma de produção de mercadorias para todos os continentes, por sua vez, determinando uma dimensão histórica do mundo em todos os lugares. Suas transformações impactam as manifestações de sociabilidade que o capital conhece e tende a fragilizar as coerências territoriais endógenas.\n\n(Ricardo Gilson da Costa Silva. “Amazônia globalizada:\n\nda fronteira agrícola ao território do agronegócio — o exemplo de Rondônia”.\n\nhttp://journals.openedition.org, nº 23, 2015.)\n\nNa circunstância retratada no excerto, um atributo da globalização para a estruturação dos espaços de produção é",
     "blockTypes": [
       "prose",
       "source",
@@ -1293,7 +1291,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a1/q27-1.png",
+        "src": "/images/uea/sis-2022-a1/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento I, 2022)."
       }
     ],
@@ -2155,11 +2153,11 @@ export const uea2022Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas Deformação da espiral (m)\n\n1 0,04\n2 0,08\n3 0,12\n......\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
+    "statement": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\t\tDeformação da espiral (m)\t\n\t1\t\t0,04\n\t2\t\t0,08\n\t3\t\t0,12\n\n......\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
     "blockTypes": [
       "prose",
+      "table",
       "prose",
-      "poem",
       "command"
     ],
     "images": [],
@@ -2569,7 +2567,7 @@ export const uea2022Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A dissolução de 10 g de sal de cozinha refinado em água a $25^{o}$C é mais do que a dissolução de 10 g de sal grosso em água a $25^{o}$C, porque o sal refinado apresenta\n\nsuperfície de contato, fazendo com que\no número de colisões entre partículas do sal e\n\nmoléculas de água por unidade de tempo. As lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "A dissolução de 10 g de sal de cozinha refinado em água a 25ºC é mais do que a dissolução de 10 g de sal grosso em água a 25ºC, porque o sal refinado apresenta\n\nsuperfície de contato, fazendo com que\no número de colisões entre partículas do sal e\n\nmoléculas de água por unidade de tempo. As lacunas do texto são preenchidas, respectivamente, por:",
     "blockTypes": [
       "prose",
       "poem",
@@ -3545,7 +3543,7 @@ export const uea2022Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O que começou em 1492 foi definido como o encontro de dois mundos, deixando-se de lado, elegantemente, que tal encontro se deu através da conquista e colonização de um deles pelo outro. A história da colonização nos ensinou sobre as metamorfoses que iriam fazer, desses dois, um só mundo.\n\n(Tulio Halperin Donghi. “Historiografia colonial hispano-americana e\n\nmulticulturalismo: a história da colonização entre a perspectiva do colonizador e a do colonizado”.\n\nEstudos Históricos, $n^{o}$ 20, 1997. Adaptado.)\n\nUma comprovação do argumento contido no excerto sobre a chegada dos europeus à América é",
+    "statement": "O que começou em 1492 foi definido como o encontro de dois mundos, deixando-se de lado, elegantemente, que tal encontro se deu através da conquista e colonização de um deles pelo outro. A história da colonização nos ensinou sobre as metamorfoses que iriam fazer, desses dois, um só mundo.\n\n(Tulio Halperin Donghi. “Historiografia colonial hispano-americana e\n\nmulticulturalismo: a história da colonização entre a perspectiva do colonizador e a do colonizado”.\n\nEstudos Históricos, nº 20, 1997. Adaptado.)\n\nUma comprovação do argumento contido no excerto sobre a chegada dos europeus à América é",
     "blockTypes": [
       "prose",
       "source",
@@ -3644,7 +3642,7 @@ export const uea2022Sis = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A autora da Declaração dos direitos da mulher e da cidadã é Olympe de Gouges. Em 1793 ela foi guilhotinada em Paris. E a condenação deveu-se ao fato de ela ter-se oposto aos conhecidos revolucionários Robespierre e Marat, que a consideraram mulher “desnaturada” e “perigosa demais”. Ao ser conduzida à morte, Olympe de Gouges teria afirmado: “A mulher tem o direito de subir à guilhotina; ela deve ter igualmente o direito de subir à tribuna”.\n\n(Selvino José Assmann. “Apresentação: Declaração dos direitos da mulher e da cidadã”.Interthesis, v. 4, $n^{o}$ 1, 2007. Adaptado.)\n\nArt. I A mulher nasce livre e tem os mesmos direitos do homem. As distinções sociais só podem ser baseadas no interesse comum.\n\n(Olympe de Gouges. “Declaração dos direitos da mulher e da cidadã”, 1791. Interhesis, vol. 4, $n^{o}$ 1, 2007. Adaptado.)\n\nCom base nos excertos e em conhecimentos sobre a Revolução Francesa, o manifesto de Olympe de Gouges consiste em",
+    "statement": "A autora da Declaração dos direitos da mulher e da cidadã é Olympe de Gouges. Em 1793 ela foi guilhotinada em Paris. E a condenação deveu-se ao fato de ela ter-se oposto aos conhecidos revolucionários Robespierre e Marat, que a consideraram mulher “desnaturada” e “perigosa demais”. Ao ser conduzida à morte, Olympe de Gouges teria afirmado: “A mulher tem o direito de subir à guilhotina; ela deve ter igualmente o direito de subir à tribuna”.\n\n(Selvino José Assmann. “Apresentação: Declaração dos direitos da mulher e da cidadã”.Interthesis, v. 4, nº 1, 2007. Adaptado.)\n\nArt. I A mulher nasce livre e tem os mesmos direitos do homem. As distinções sociais só podem ser baseadas no interesse comum.\n\n(Olympe de Gouges. “Declaração dos direitos da mulher e da cidadã”, 1791. Interhesis, vol. 4, nº 1, 2007. Adaptado.)\n\nCom base nos excertos e em conhecimentos sobre a Revolução Francesa, o manifesto de Olympe de Gouges consiste em",
     "blockTypes": [
       "prose",
       "source",
@@ -3693,7 +3691,7 @@ export const uea2022Sis = [
     "subject": "História",
     "detail": "História — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Os grupos restauradores do início da década de 1830 que almejavam o retorno de D. Pedro I após sua abdicação reve lam tendências separatistas mais pronunciadas que os grupos exaltados dos mesmos anos. Chefes militares restauradores referiam-se frequentemente à separação das províncias do Norte para formar um novo império, a ser denominado Equador ou Amazonas, caso não concretizassem o retorno do primeiro imperador ao Brasil.\n\n(Luiz Geraldo Santos da Silva e Ariel Feldman. “Revisitando o passado em tempos de crise:\n\nfederalismo e memória no período regencial (1831-1840)”.\n\nRevista Topoi, v. 11, $n^{o}$ 21, 2010. Adaptado.)\n\nA restauração citada no excerto era um desejo de grupos que temiam",
+    "statement": "Os grupos restauradores do início da década de 1830 que almejavam o retorno de D. Pedro I após sua abdicação reve lam tendências separatistas mais pronunciadas que os grupos exaltados dos mesmos anos. Chefes militares restauradores referiam-se frequentemente à separação das províncias do Norte para formar um novo império, a ser denominado Equador ou Amazonas, caso não concretizassem o retorno do primeiro imperador ao Brasil.\n\n(Luiz Geraldo Santos da Silva e Ariel Feldman. “Revisitando o passado em tempos de crise:\n\nfederalismo e memória no período regencial (1831-1840)”.\n\nRevista Topoi, v. 11, nº 21, 2010. Adaptado.)\n\nA restauração citada no excerto era um desejo de grupos que temiam",
     "blockTypes": [
       "prose",
       "source",
@@ -3742,7 +3740,7 @@ export const uea2022Sis = [
     "subject": "História",
     "detail": "História — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Em linhas gerais, a exploração da borracha provocou reestruturações, modificou costumes e importou novos modelos de vivências cotidianas. Grandes centros urbanos se desenvolveram, cidades antes com pouca expressão nacional tornaram-se referências internacionais no que tange aos aspectos financeiro, estrutural e cultural.\n\n(Lucas Monteiro de Araújo e Agenor Sarraf Pacheco. “Nas margens da Belle Époque amazônica: patrimônio e\n\nrelações de poder nos Marajós”. Muiraquitã, v. 3, $n^{o}$ 2, 2015.)\n\nPara que os avanços citados no excerto ocorressem no Norte brasileiro na passagem do século XIX para o século XX, foi necessário haver um contexto prévio que diz respeito",
+    "statement": "Em linhas gerais, a exploração da borracha provocou reestruturações, modificou costumes e importou novos modelos de vivências cotidianas. Grandes centros urbanos se desenvolveram, cidades antes com pouca expressão nacional tornaram-se referências internacionais no que tange aos aspectos financeiro, estrutural e cultural.\n\n(Lucas Monteiro de Araújo e Agenor Sarraf Pacheco. “Nas margens da Belle Époque amazônica: patrimônio e\n\nrelações de poder nos Marajós”. Muiraquitã, v. 3, nº 2, 2015.)\n\nPara que os avanços citados no excerto ocorressem no Norte brasileiro na passagem do século XIX para o século XX, foi necessário haver um contexto prévio que diz respeito",
     "blockTypes": [
       "prose",
       "source",
@@ -3887,7 +3885,7 @@ export const uea2022Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Ao publicar imagens de seus corpos nos perfis do Instagram, as mulheres adeptas do movimento Body Positive passaram a representar coletivamente uma parcela de pessoas que se identificavam com as imagens e se sentiam oprimidas e discriminadas por não estarem dentro de um padrão de beleza corporal. Para a identificação do movimento entre os usuários das redes sociais, a hashtag mais utilizada é a abreviação de Body Positive, #BoPo.\n\n(Thais Nascimento Conde e Cristiane Marques Seixas.\n\n“Movimento Body Positive no Instagram: reflexões sobre a estetização da saúde na sociedade neoliberal”. Reciis, v. 15, $n^{o}$ 1, 2021. Adaptado.)\n\nO movimento em questão demonstra que as publicações nas redes sociais",
+    "statement": "Ao publicar imagens de seus corpos nos perfis do Instagram, as mulheres adeptas do movimento Body Positive passaram a representar coletivamente uma parcela de pessoas que se identificavam com as imagens e se sentiam oprimidas e discriminadas por não estarem dentro de um padrão de beleza corporal. Para a identificação do movimento entre os usuários das redes sociais, a hashtag mais utilizada é a abreviação de Body Positive, #BoPo.\n\n(Thais Nascimento Conde e Cristiane Marques Seixas.\n\n“Movimento Body Positive no Instagram: reflexões sobre a estetização da saúde na sociedade neoliberal”. Reciis, v. 15, nº 1, 2021. Adaptado.)\n\nO movimento em questão demonstra que as publicações nas redes sociais",
     "blockTypes": [
       "prose",
       "source",
@@ -3935,7 +3933,7 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise o mapa.\n\n(Ricardo Gilson da Costa Silva. “Amazônia globalizada: da fronteira agrícola ao território do agronegócio —\n\no exemplo de Rondônia”. http://joumals.openedition.org, $n^{o}$ 23, 2015.)\n\nCom base na análise do mapa e em conhecimentos acerca da expansão territorial da Amazônia, as áreas demarcadas pelos números 1, 2 e 3 na legenda correspondem a",
+    "statement": "Analise o mapa.\n\n(Ricardo Gilson da Costa Silva. “Amazônia globalizada: da fronteira agrícola ao território do agronegócio —\n\no exemplo de Rondônia”. http://joumals.openedition.org, nº 23, 2015.)\n\nCom base na análise do mapa e em conhecimentos acerca da expansão territorial da Amazônia, as áreas demarcadas pelos números 1, 2 e 3 na legenda correspondem a",
     "blockTypes": [
       "prose",
       "source",
@@ -3944,7 +3942,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a2/q21-1.png",
+        "src": "/images/uea/sis-2022-a2/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento II, 2022)."
       }
     ],
@@ -3997,7 +3995,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a2/q22-1.png",
+        "src": "/images/uea/sis-2022-a2/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA SIS — Acompanhamento II, 2022)."
       }
     ],
@@ -4135,7 +4133,7 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Na década de 1990 a abertura econômica se afirmou na agenda política e econômica do país, seja na dimensão da urgência quanto na necessidade desse processo. Enquanto projeto, encontrou sua razão de ser, junto com o Plano Real, como uma medida para combater o mal histórico brasileiro que vinha sendo a inflação. Enquanto processo, forçou a dinamização e modernização das empresas, sepultou definitivamente a política de substituição de importações, e encerrou um ciclo desenvolvimentista e protecionista na economia brasileira.\n\n(Arthur de Aquino. “Efeitos da abertura econômica no Brasil dos anos 1990\n\nem duas perspectivas comparadas”. Revista de Discentes de Ciência Política da UFSCAR, $n^{o}$ 2, vol. 1, 2013. Adaptado.)\n\nO contexto econômico brasileiro retratado nesse excerto teve como consequência a",
+    "statement": "Na década de 1990 a abertura econômica se afirmou na agenda política e econômica do país, seja na dimensão da urgência quanto na necessidade desse processo. Enquanto projeto, encontrou sua razão de ser, junto com o Plano Real, como uma medida para combater o mal histórico brasileiro que vinha sendo a inflação. Enquanto processo, forçou a dinamização e modernização das empresas, sepultou definitivamente a política de substituição de importações, e encerrou um ciclo desenvolvimentista e protecionista na economia brasileira.\n\n(Arthur de Aquino. “Efeitos da abertura econômica no Brasil dos anos 1990\n\nem duas perspectivas comparadas”. Revista de Discentes de Ciência Política da UFSCAR, nº 2, vol. 1, 2013. Adaptado.)\n\nO contexto econômico brasileiro retratado nesse excerto teve como consequência a",
     "blockTypes": [
       "prose",
       "source",
@@ -5111,7 +5109,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a2/q47-1.png",
+        "src": "/images/uea/sis-2022-a2/q47-1.svg",
         "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento II, 2022)."
       }
     ],
@@ -5300,7 +5298,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a2/q52-1.png",
+        "src": "/images/uea/sis-2022-a2/q52-1.svg",
         "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento II, 2022)."
       }
     ],
@@ -5351,7 +5349,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a2/q53-1.png",
+        "src": "/images/uea/sis-2022-a2/q53-1.svg",
         "alt": "Imagem de apoio da questão 53 (UEA SIS — Acompanhamento II, 2022)."
       }
     ],
@@ -5774,7 +5772,7 @@ export const uea2022Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia um trecho da obra Infância, de Graciliano Ramos, para responder às questões de 01 a 04.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que a minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isso me desorientava.\n\n(Infância, 2020.)\n\nEm “Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu.” ($3^{o}$ parágrafo), o narrador ressalta, em relação à violência dos pais, seu caráter",
+    "statement": "Leia um trecho da obra Infância, de Graciliano Ramos, para responder às questões de 01 a 04.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que a minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isso me desorientava.\n\n(Infância, 2020.)\n\nEm “Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu.” (3º parágrafo), o narrador ressalta, em relação à violência dos pais, seu caráter",
     "blockTypes": [
       "prose",
       "prose",
@@ -6556,7 +6554,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a3/q13-1.png",
+        "src": "/images/uea/sis-2022-a3/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA SIS — Acompanhamento III, 2022)."
       }
     ],
@@ -6608,7 +6606,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a3/q14-1.png",
+        "src": "/images/uea/sis-2022-a3/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA SIS — Acompanhamento III, 2022)."
       }
     ],
@@ -6652,14 +6650,14 @@ export const uea2022Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "(Revista de História da Arte e da Cultura, $n^{o}$ 20, 2021.)\n\nEsse cartaz foi o primeiro elaborado pelo artista Jean-Pierre Chabloz para a campanha do Serviço Especial de Mobilização de Trabalhadores para a Amazônia (SEMTA), em 1943. A campanha refere-se à pretensão de",
+    "statement": "(Revista de História da Arte e da Cultura, nº 20, 2021.)\n\nEsse cartaz foi o primeiro elaborado pelo artista Jean-Pierre Chabloz para a campanha do Serviço Especial de Mobilização de Trabalhadores para a Amazônia (SEMTA), em 1943. A campanha refere-se à pretensão de",
     "blockTypes": [
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a3/q15-1.png",
+        "src": "/images/uea/sis-2022-a3/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento III, 2022)."
       }
     ],
@@ -7048,7 +7046,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a3/q23-1.png",
+        "src": "/images/uea/sis-2022-a3/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento III, 2022)."
       }
     ],
@@ -7100,7 +7098,7 @@ export const uea2022Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2022-a3/q24-1.png",
+        "src": "/images/uea/sis-2022-a3/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento III, 2022)."
       }
     ],
@@ -7925,10 +7923,10 @@ export const uea2022Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma prova foi aplicada em uma turma de 40 alunos e com os resultados foi construída a tabela seguinte.\n\nConceito número de alunos\nSS 8\nMS 12\nMM 15\nMI 2\nII 3\n\nUm gráfico de setores será construído a partir dos resultados dessa prova e o ângulo do setor que representará o conceito MM terá medida igual a",
+    "statement": "Uma prova foi aplicada em uma turma de 40 alunos e com os resultados foi construída a tabela seguinte.\n\nConceito\tnúmero de alunos\t\nSS\t\t8\nMS\t\t12\nMM\t\t15\nMI\t\t2\nII\t\t3\n\nUm gráfico de setores será construído a partir dos resultados dessa prova e o ângulo do setor que representará o conceito MM terá medida igual a",
     "blockTypes": [
       "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -8017,7 +8015,7 @@ export const uea2022Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Dados os coeficientes reais p, q e r, a equação polinomial do $3^{o}$ grau – $8x^{3}$ + $px^{2}$ + qx + r = 0 tem raízes –1, –3 e 6. O valor de p + q + r é igual a",
+    "statement": "Dados os coeficientes reais p, q e r, a equação polinomial do 3º grau – $8x^{3}$ + $px^{2}$ + qx + r = 0 tem raízes –1, –3 e 6. O valor de p + q + r é igual a",
     "blockTypes": [
       "command"
     ],
@@ -8424,10 +8422,8 @@ export const uea2022Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "15$H_{24}$) é uma substância que vem sendo\n\ncar. A estrutura molecular dessa substância é representada pela fórmula:\n\nfarneseno\n\nA cadeia carbônica do farneseno é",
+    "statement": "O farneseno (C₁₅H₂₄) é uma substância que vem sendo utilizada para a produção de biodiesel a partir da cana-de-açúcar. A estrutura molecular dessa substância é representada pela fórmula:\n\nA cadeia carbônica do farneseno é",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "command"
     ],

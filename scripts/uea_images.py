@@ -9,7 +9,7 @@ import pymupdf as fitz
 import uea_reextract as U
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ALL = json.load(open('/tmp/uea_all.json'))
+ALL = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_all.json')))
 
 def num_of(q):
     m = re.search(r'(\d+)', str(q['number']))
@@ -115,25 +115,33 @@ def _color(c):
     if c is None: return 'none'
     return '#%02x%02x%02x' % tuple(int(round(v * 255)) for v in c[:3])
 
+def svg_diff(page, rect, svgpath):
+    """Average / large-pixel difference between the SVG render and the PDF clip.
+    The SVG is scaled to the exact pixmap dims so off-by-one rounding never
+    fails the comparison. Used for auditing only — extraction is always vector.
+    """
+    r = fitz.Rect(rect.x0 - 3, rect.y0 - 3, rect.x1 + 3, rect.y1 + 3)
+    svgdoc = fitz.open(svgpath)
+    sr = svgdoc[0].rect
+    origpix = page.get_pixmap(matrix=fitz.Matrix(2, 2), clip=r, alpha=False)
+    if sr.width < 1 or sr.height < 1:
+        return 999.0, 1.0
+    svgpix = svgdoc[0].get_pixmap(
+        matrix=fitz.Matrix(origpix.width / sr.width, origpix.height / sr.height),
+        alpha=False)
+    s = svgpix.samples; o = origpix.samples; n = svgpix.n
+    big = 0; tot = 0; ssum = 0
+    for i in range(0, min(len(s), len(o)), n):
+        d = max(abs(s[i]-o[i]), abs(s[i+1]-o[i+1]), abs(s[i+2]-o[i+2]))
+        tot += 1; ssum += d
+        if d > 60: big += 1
+    if tot == 0: return 999.0, 1.0
+    return ssum / tot, big / tot
+
 def svg_faithful(page, rect, svgpath):
-    """Compare SVG render to original page region pixel-by-pixel."""
     try:
-        r = fitz.Rect(rect.x0 - 3, rect.y0 - 3, rect.x1 + 3, rect.y1 + 3)
-        svgdoc = fitz.open(svgpath)
-        svgpix = svgdoc[0].get_pixmap(matrix=fitz.Matrix(2, 2), alpha=False)
-        origpix = page.get_pixmap(matrix=fitz.Matrix(2, 2), clip=r, alpha=False)
-        w = min(svgpix.width, origpix.width); h = min(svgpix.height, origpix.height)
-        if w < 10 or h < 10: return False
-        if (svgpix.width, svgpix.height) != (origpix.width, origpix.height):
-            return False
-        s = svgpix.samples; o = origpix.samples
-        n = svgpix.n
-        big = 0; tot = 0; ssum = 0
-        for i in range(0, len(s), n):
-            d = max(abs(s[i]-o[i]), abs(s[i+1]-o[i+1]), abs(s[i+2]-o[i+2]))
-            tot += 1; ssum += d
-            if d > 60: big += 1
-        return (ssum / tot) < 6 and (big / tot) < 0.01
+        avg, big = svg_diff(page, rect, svgpath)
+        return avg < 6 and big < 0.01
     except Exception:
         return False
 
@@ -218,8 +226,8 @@ def main():
     print('stats:', dict(stats))
     print('questions with figures:', len(plan))
     if mode == '--write':
-        json.dump(plan, open('/tmp/uea_figplan.json', 'w'), indent=1)
-        print('wrote /tmp/uea_figplan.json')
+        json.dump(plan, open(os.path.join(ROOT,'scripts','uea_state','uea_figplan.json'), 'w'), indent=1)
+        print('wrote scripts/uea_state/uea_figplan.json')
     if mode != '--extract':
         for uid in list(plan)[:5]:
             print(uid, [(f['kind'], tuple(round(v) for v in f['rect'])) for f in plan[uid]])
@@ -247,59 +255,47 @@ def main():
             if key in seen:
                 src = seen[key]
             else:
-                kind = f['kind']
-                if kind == 'composite' and not f.get('has_raster'):
-                    kind = 'vector'
-                if kind == 'vector':
-                    # include short label lines (axis/legend text) around the art
-                    rr = fitz.Rect(rect)
-                    for b in doc[pg].get_text('dict')['blocks']:
-                        if b['type'] != 0: continue
-                        for l in b['lines']:
-                            txt = ''.join(sp['text'] for sp in l['spans']).strip()
-                            if not txt or len(txt) > 30: continue
-                            lr = fitz.Rect(l['bbox'])
-                            if abs(lr.y0 - rr.y0) < 25 or abs(lr.y1 - rr.y1) < 25:
-                                if lr.x0 > rr.x0 - 40 and lr.x1 < rr.x1 + 40:
-                                    rr |= lr
-                    rect = tuple(rr)
-                    # build SVG, then verify fidelity against the original render
-                    base = os.path.join(outdir, f"q{n:02d}-{k}")
-                    tmp = base + '.tmp.svg'
-                    extract_vector(doc[pg], fitz.Rect(rect), tmp)
-                    if svg_faithful(doc[pg], fitz.Rect(rect), tmp):
-                        os.replace(tmp, base + '.svg')
-                        ex['vector'] += 1
-                        src = f"/images/uea/{img_dir(q)}/q{n:02d}-{k}.svg"
-                        seen[key] = src
-                        newrefs.append({'src': src, 'alt': q['images'][0]['alt'] if q.get('images') else ''})
-                        continue
-                    os.remove(tmp)
-                    kind = 'vector-shaded'
-                fname = f"q{n:02d}-{k}.png"
-                outpath = os.path.join(outdir, fname)
-                if kind in ('vector-shaded', 'composite'):
-                    scale = 4 if kind == 'vector-shaded' else 3
-                    pix = doc[pg].get_pixmap(matrix=fitz.Matrix(scale, scale), clip=fitz.Rect(rect), alpha=False)
-                    pix.save(outpath)
-                    ex[kind] += 1
-                elif f['kind'] == 'raster':
-                    if has_text_overlay(doc[pg], rect):
-                        pix = doc[pg].get_pixmap(matrix=fitz.Matrix(3, 3), clip=fitz.Rect(rect), alpha=False)
-                        pix.save(outpath)
-                        ex['raster-render'] += 1
-                    else:
-                        extract_raster(doc, f['xref'], outpath, page=doc[pg], rect=fitz.Rect(rect))
-                        ex['raster'] += 1
-                else:
-                    extract_vector(doc[pg], fitz.Rect(rect), outpath)
-                    ex['vector'] += 1
-                src = f"/images/uea/{img_dir(q)}/{fname}"
+                # ALWAYS cut in vector mode: copy the clipped PDF region into a
+                # temp page and export SVG. show_pdf_page applies the page CTM,
+                # so raster XObjects stored upside-down (det<0) render upright.
+                page = doc[pg]
+                rr = fitz.Rect(rect)
+                # include short axis/legend label lines around the art
+                for b in page.get_text('dict')['blocks']:
+                    if b['type'] != 0: continue
+                    for l in b['lines']:
+                        txt = ''.join(sp['text'] for sp in l['spans']).strip()
+                        if not txt or len(txt) > 30: continue
+                        lr = fitz.Rect(l['bbox'])
+                        if abs(lr.y0 - rr.y0) < 25 or abs(lr.y1 - rr.y1) < 25:
+                            if lr.x0 > rr.x0 - 40 and lr.x1 < rr.x1 + 40:
+                                rr |= lr
+                rect = tuple(rr)
+                if f['kind'] == 'raster':
+                    try:
+                        for r, m in page.get_image_rects(f['xref'], transform=True):
+                            if abs(r.x0 - f['rect'][0]) < 2 and abs(r.y0 - f['rect'][1]) < 2:
+                                if m.a * m.d - m.b * m.c < 0:
+                                    ex['fixed-upside-down'] += 1
+                                break
+                    except Exception:
+                        pass
+                base = os.path.join(outdir, f"q{n:02d}-{k}")
+                outpath = base + '.svg'
+                extract_vector(page, fitz.Rect(rect), outpath)
+                ex['svg'] += 1
+                try:
+                    avg, big = svg_diff(page, fitz.Rect(rect), outpath)
+                    if avg >= 6 or big >= 0.01:
+                        ex['svg-audit-diff'] += 1
+                except Exception:
+                    pass
+                src = f"/images/uea/{img_dir(q)}/q{n:02d}-{k}.svg"
                 seen[key] = src
             newrefs.append({'src': src, 'alt': q['images'][0]['alt'] if q.get('images') else ''})
         if newrefs:
             refs[uid] = newrefs
-    json.dump(refs, open('/tmp/uea_imgrefs.json', 'w'), ensure_ascii=False, indent=1)
+    json.dump(refs, open(os.path.join(ROOT,'scripts','uea_state','uea_imgrefs.json'), 'w'), ensure_ascii=False, indent=1)
     print('extracted:', dict(ex), 'questions with new refs:', len(refs))
 
 if __name__ == '__main__':

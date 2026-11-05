@@ -22,7 +22,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q01-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -64,7 +64,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de nave-\ngação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nNo trecho, Arminto",
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nNo trecho, Arminto",
     "blockTypes": [
       "prose",
       "prose",
@@ -125,7 +125,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de nave-\ngação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA figura do pai, embora já morto, produz em Arminto um sentimento de",
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA figura do pai, embora já morto, produz em Arminto um sentimento de",
     "blockTypes": [
       "prose",
       "prose",
@@ -186,7 +186,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de nave-\ngação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA vírgula foi empregada para demarcar a elipse de um verbo em:",
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA vírgula foi empregada para demarcar a elipse de um verbo em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -247,7 +247,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de nave-\ngação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA palavra empregada em sentido figurado está sublinhada em:",
+    "statement": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\n\nEstiliano não sabia disso? Era um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\n\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\n\nPerguntei ao gerente o que ele estava dizendo. Permaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\n\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\n\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\n\nExplicou que os dois batelões estavam atracados no\n\nManaus Harbour, confiscados pela justiça. Essas barcaças\nvelhas não valiam muito, mas era possível vendê-las. O que\ntinha valor era o cargueiro alemão: o Eldorado.\n\nAcusei o gerente de leviano, podia ter evitado essas\n\ndívidas. Estiliano não se alterou: o gerente era uma sombra\ndo meu pai, e uma sombra não podia pensar em tudo. Mas\nera preciso vender os dois batelões?\n\nVais ter que vender tudo: esta chácara, o edifício da\n\nempresa e o terreno de Flores.\n\nComo eu ia admitir? Queria casar com Dinaura, viajar\n\ncom ela.\n\nVives em outro mundo, disse Estiliano. Se não venderes\n\ntudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda\npela cidade. Aquela moça arrancou tua cabeça, te deixou\nsem razão. Cego.\n\n(Órfãos do Eldorado, 2008.)\n\nA palavra empregada em sentido figurado está sublinhada em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -414,7 +414,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q08-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1118,7 +1118,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q19-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1213,7 +1213,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q21-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1400,7 +1400,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q25-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1450,7 +1450,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q26-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1631,7 +1631,7 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise a tabela que destaca as cinco primeiras posições ocupadas pelos estados brasileiros com relação à produção do setor industrial.\n\nA importância da indústria para os estados\n\nPosição mentos industriais em Com mais estabeleci-2020 Maior participação emprego formal da indústria no em 2020 (%) industrializados nas exportações totais ção dos produtos Maior participa-em 2021 (%)\n\n$1_{o}$ São Paulo 120 901 CatarinaSanta 34,1 Sergipe 99,8 $2_{o}$ GeraisMinas 59 876 Rio Grande do Sul 26,7 Alagoas 99,2 $3_{o}$ CatarinaSanta 44 731 Paraná 26,4 Amazonas 94,2 $4_{o}$ Rio Grande do Sul 44 657 GeraisMinas 23,8 Ceará 87,9 $5^{o}$ Paraná 42 897 Goiás 22,0 Pernambuco 86,2\n\n(www.portaldaindustria.com.br, 22.02.2022. Adaptado.)\n\nDentre as causas das variações das posições ocupadas pelos estados brasileiros, aquela relacionada à atividade industrial é",
+    "statement": "Analise a tabela que destaca as cinco primeiras posições ocupadas pelos estados brasileiros com relação à produção do setor industrial.\n\nA importância da indústria para os estados\n\nPosição mentos industriais em Com mais estabeleci-2020 Maior participação emprego formal da indústria no em 2020 (%) industrializados nas exportações totais ção dos produtos Maior participa-em 2021 (%)\n\n1º São Paulo 120 901 CatarinaSanta 34,1 Sergipe 99,8 2º GeraisMinas 59 876 Rio Grande do Sul 26,7 Alagoas 99,2 3º CatarinaSanta 44 731 Paraná 26,4 Amazonas 94,2 4º Rio Grande do Sul 44 657 GeraisMinas 23,8 Ceará 87,9 5º Paraná 42 897 Goiás 22,0 Pernambuco 86,2\n\n(www.portaldaindustria.com.br, 22.02.2022. Adaptado.)\n\nDentre as causas das variações das posições ocupadas pelos estados brasileiros, aquela relacionada à atividade industrial é",
     "blockTypes": [
       "prose",
       "prose",
@@ -1778,7 +1778,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q33-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q33-1.svg",
         "alt": "Imagem de apoio da questão 33 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1874,7 +1874,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q35-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q35-1.svg",
         "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1924,7 +1924,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q36-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q36-1.svg",
         "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -1974,7 +1974,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q37-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q37-1.svg",
         "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -2110,7 +2110,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q40-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q40-1.svg",
         "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -2246,7 +2246,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q43-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q43-1.svg",
         "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -2339,7 +2339,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q45-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -2390,7 +2390,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q46-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q46-1.svg",
         "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -2604,10 +2604,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\nTempo após o início da Porcentagem da capacidade entrada de água total do reservatório preenchida 10 minutos 30% 30 minutos 40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
+    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\nTempo após o início da entrada de água\tPorcentagem da capacidade total do reservatório preenchida\t\n10 minutos\t\t30%\n30 minutos\t\t40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
     "blockTypes": [
       "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -2999,13 +2999,10 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\nPreço antes Preço depois\n\nProduto do reajuste do reajuste\n\n(em R$) (em R$)\n\n1 30,00 37,00\n2 12,00 15,00\n3 18,00 22,00\n4 15,00 18,00\n5 24,00 29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
+    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\nProduto\tPreço antes do reajuste (em R$)\tPreço depois do reajuste (em R$)\n1\t30,00\t37,00\n2\t12,00\t15,00\n3\t18,00\t22,00\n4\t15,00\t18,00\n5\t24,00\t29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -3055,7 +3052,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q61-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q61-1.svg",
         "alt": "Imagem de apoio da questão 61 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -3241,7 +3238,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q65-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q65-1.svg",
         "alt": "Imagem de apoio da questão 65 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -3290,7 +3287,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q66-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q66-1.svg",
         "alt": "Imagem de apoio da questão 66 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -3418,16 +3415,15 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sonorizadores, como o da imagem, são dispositivos utilizados para causar vibrações nos veículos que trafegam em rodovias, de forma a alertar os condutores de que há uma situação atípica à frente.\n\n(www.mestresdotransito.com.br)\n\nUm sonorizador, que foi construído em formato ondulado, possui uma distância de 20 cm entre duas saliências consecutivas, conforme ilustrado.\n\nSe as rodas dianteiras de um veículo passarem, simultaneamente, por esse sonorizador com velocidade de 72 km/h, a frequência das vibrações experimentada pelo condutor será de",
+    "statement": "Sonorizadores, como o da imagem, são dispositivos utilizados para causar vibrações nos veículos que trafegam em rodovias, de forma a alertar os condutores de que há uma situação atípica à frente.\n\nUm sonorizador, que foi construído em formato ondulado, possui uma distância de 20 cm entre duas saliências consecutivas, conforme ilustrado.\n\nSe as rodas dianteiras de um veículo passarem, simultaneamente, por esse sonorizador com velocidade de 72 km/h, a frequência das vibrações experimentada pelo condutor será de",
     "blockTypes": [
       "prose",
-      "source",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q69-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q69-1.svg",
         "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -3476,7 +3472,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-cg/q70-1.png",
+        "src": "/images/uea/vestibular-2022-cg/q70-1.svg",
         "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2022)."
       }
     ],
@@ -3561,11 +3557,8 @@ export const uea2022Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para disparar o flash de uma câmera, é necessário que um\n\n4 F, ligado a esse flash, esteja carrega-\n\n4 C. Sabendo que, ao carre-\n\ngar o capacitor, a bateria da câmera, considerada ideal, fica ligada diretamente a ele, a diferença de potencial fornecida pela bateria deve ser de, no mínimo,",
+    "statement": "Para disparar o flash de uma câmera, é necessário que um capacitor, de 1,2 × 10⁻⁴ F, ligado a esse flash, esteja carregado com uma carga de 6,0 × 10⁻⁴ C. Sabendo que, ao carregar o capacitor, a bateria da câmera, considerada ideal, fica ligada diretamente a ele, a diferença de potencial fornecida pela bateria deve ser de, no mínimo,",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
       "command"
     ],
     "images": [],
@@ -4103,14 +4096,12 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\n$2NaN_{3}$ (s) $3N_{2}$ (g) + 2Na (s)\n\ntempo (min) $NaN_{3}$ (mol)\n\n0 0,8\n10 0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3 1.\n2 1.\n4 1.\n4 1.\n2 1.",
+    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\n$2NaN_{3}$ (s) tempo (min)\t$3N_{2}$ (g) + 2Na (s) $NaN_{3}$ (mol)\n0\t0,8\n10\t0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3\t1.\n2\t1.\n4\t1.\n4\t1.\n2\t1.",
     "blockTypes": [
       "prose",
+      "table",
       "prose",
-      "prose",
-      "poem",
-      "prose",
-      "poem"
+      "table"
     ],
     "images": [],
     "alternatives": [
@@ -4160,7 +4151,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q01-1.png",
+        "src": "/images/uea/vestibular-2022-g1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
@@ -4257,7 +4248,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q03-1.png",
+        "src": "/images/uea/vestibular-2022-g1/q03-1.svg",
         "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
@@ -4442,7 +4433,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q07-1.png",
+        "src": "/images/uea/vestibular-2022-g1/q07-1.svg",
         "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
@@ -4581,7 +4572,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q10-1.png",
+        "src": "/images/uea/vestibular-2022-g1/q10-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
@@ -4986,9 +4977,8 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere a equação de hidrogenação do prop-2-eno.\n\n$C_{3}$$H_{6}$ (g) + $H_{2}$ (g) $C_{3}$$H_{8}$ (g) + 123,8 kJ\n\nNessa hidrogenação a variação da entalpia (ΔH) é\n\ne a reação é, porque se pro-\n\ncessa com de calor.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Considere a equação de hidrogenação do prop-2-eno.\n\n$C_{3}$$H_{6}$ (g) + $H_{2}$ (g) $C_{3}$$H_{8}$ (g) + 123,8 kJ\n\nNessa hidrogenação a variação da entalpia (ΔH) é\n\ne a reação é, porque se processa com de calor.\n\nAs lacunas do texto são preenchidas, respectivamente, por",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5035,10 +5025,10 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "3$H_{6}$O, pode-se obter os\n\n1: propanal. 2: propanona. 3: prop-1-en-2ol.\n\nAo comparar as fórmulas estruturais dos compostos orgânicos citados e considerando o conceito de isomeria plana, o tipo de isomeria que ocorre entre as substâncias",
+    "statement": "Partindo-se da fórmula molecular C₃H₆O, pode-se obter os compostos orgânicos:\n\n1: propanal.\n2: propanona.\n3: prop-1-en-2ol.\n\nAo comparar as fórmulas estruturais dos compostos orgânicos citados e considerando o conceito de isomeria plana, o tipo de isomeria que ocorre entre as substâncias",
     "blockTypes": [
       "prose",
-      "prose",
+      "list",
       "command"
     ],
     "images": [],
@@ -5271,7 +5261,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g1/q25-1.png",
+        "src": "/images/uea/vestibular-2022-g1/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2022)."
       }
     ],
@@ -5361,7 +5351,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” ($1^{a}$ estrofe), as vírgulas isolam o",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1ª estrofe), as vírgulas isolam o",
     "blockTypes": [
       "prose",
       "poem",
@@ -5408,7 +5398,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” ($1^{o}$ parágrafo) que o narrador se sente",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” (1º parágrafo) que o narrador se sente",
     "blockTypes": [
       "prose",
       "prose",
@@ -5612,7 +5602,7 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” ($3^{o}$ parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” (3º parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
     "blockTypes": [
       "prose",
       "prose",
@@ -5663,7 +5653,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” ($3^{o}$ parágrafo), o narrador refere-se",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” (3º parágrafo), o narrador refere-se",
     "blockTypes": [
       "prose",
       "prose",
@@ -5765,7 +5755,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, $n^{o}$ 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
     "blockTypes": [
       "prose",
       "prose",
@@ -5815,7 +5805,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, $n^{o}$ 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
     "blockTypes": [
       "prose",
       "prose",
@@ -6464,7 +6454,7 @@ export const uea2022Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine o mapa que representa a dinâmica de áreas desmatadas de 2005 a 2050 em relação às Unidades de Conservação e às Terras Indígenas no estado de Rondônia.\n\n(Patricia Christiana S. de S. Oliveira et al. “Modelagem dinâmica do\n\ndesmatamento no sul da Amazônia Ocidental”.\n\nBoletim de Geografia, $n^{o}$ 3, vol. 37, 2019. Adaptado.)\n\nConsiderando o exame do mapa e conhecimentos sobre o Sistema de Informação Geográfica (SIG), afirma-se que",
+    "statement": "Examine o mapa que representa a dinâmica de áreas desmatadas de 2005 a 2050 em relação às Unidades de Conservação e às Terras Indígenas no estado de Rondônia.\n\n(Patricia Christiana S. de S. Oliveira et al. “Modelagem dinâmica do\n\ndesmatamento no sul da Amazônia Ocidental”.\n\nBoletim de Geografia, nº 3, vol. 37, 2019. Adaptado.)\n\nConsiderando o exame do mapa e conhecimentos sobre o Sistema de Informação Geográfica (SIG), afirma-se que",
     "blockTypes": [
       "prose",
       "source",
@@ -6474,7 +6464,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q14-1.png",
+        "src": "/images/uea/vestibular-2022-g2/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
@@ -6564,10 +6554,9 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "A Amazônia contém um ecossistema, único constituído pela floresta tropical úmida, está situada em aproximadamente 40% do território da América do Sul e localizada em oito países, Bolívia, Brasil, Colômbia, Equador, Peru, Venezuela, Guiana, Suriname, e em uma província francesa ultramarina, a Guiana Francesa. A bacia amazônica gera entre 16% e 20% da água doce do planeta e contém 25% da biodiversidade terrestre. Embora a Amazônia cubra somente 1% da superfície do planeta, é o lar de 10% de todas as espécies de vida selvagem que conhecemos.\n\n(René Gómez-García. “A riqueza natural da Amazônia como base do desen-\n\nvolvimento regional sustentável”. www.caf.com, 06.09.2019. Adaptado.)\n\nA função primordial da vegetação descrita no excerto é de ser uma grande região natural para o planeta. Essa função decorre de ser um espaço favorável",
+    "statement": "A Amazônia contém um ecossistema, único constituído pela floresta tropical úmida, está situada em aproximadamente 40% do território da América do Sul e localizada em oito países, Bolívia, Brasil, Colômbia, Equador, Peru, Venezuela, Guiana, Suriname, e em uma província francesa ultramarina, a Guiana Francesa. A bacia amazônica gera entre 16% e 20% da água doce do planeta e contém 25% da biodiversidade terrestre. Embora a Amazônia cubra somente 1% da superfície do planeta, é o lar de 10% de todas as espécies de vida selvagem que conhecemos.\n\n(René Gómez-García. “A riqueza natural da Amazônia como base do desenvolvimento regional sustentável”. www.caf.com, 06.09.2019. Adaptado.)\n\nA função primordial da vegetação descrita no excerto é de ser uma grande região natural para o planeta. Essa função decorre de ser um espaço favorável",
     "blockTypes": [
       "prose",
-      "source",
       "source",
       "command"
     ],
@@ -6759,7 +6748,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q20-1.png",
+        "src": "/images/uea/vestibular-2022-g2/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
@@ -6999,7 +6988,7 @@ export const uea2022Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2022-g2/q25-1.png",
+        "src": "/images/uea/vestibular-2022-g2/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2022)."
       }
     ],
@@ -7089,7 +7078,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” ($1^{a}$ estrofe), as vírgulas isolam o",
+    "statement": "Leia o trecho do poema “Rondó dos cavalinhos”, de Manuel Bandeira, para responder às questões 26 e 27.\n\nOs cavalinhos correndo.\nE nós, cavalões, comendo...\nTua beleza, Esmeralda,\nAcabou me enlouquecendo.\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO sol tão claro lá fora,\nE em minh’alma — anoitecendo!\n[...]\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nA Itália falando grosso,\nA Europa se avacalhando...\nOs cavalinhos correndo,\nE nós, cavalões, comendo...\nO Brasil politicando,\nNossa! A poesia morrendo...\n[...]\n\n(Manuel Bandeira. Estrela da vida inteira, 1993.)\n\nNos versos “Tua beleza, Esmeralda, / Acabou me enlouquecendo.” (1ª estrofe), as vírgulas isolam o",
     "blockTypes": [
       "prose",
       "poem",
@@ -7136,7 +7125,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” ($1^{o}$ parágrafo) que o narrador se sente",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nInfere-se do trecho “Olhando-me por dentro, percebo com desgosto a segunda paisagem.” (1º parágrafo) que o narrador se sente",
     "blockTypes": [
       "prose",
       "prose",
@@ -7340,7 +7329,7 @@ export const uea2022Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” ($3^{o}$ parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\n“Bem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos” (3º parágrafo) Há no trecho um termo responsável por conectar as duas frases. Tal termo estabelece entre essas frases relação de",
     "blockTypes": [
       "prose",
       "prose",
@@ -7391,7 +7380,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” ($3^{o}$ parágrafo), o narrador refere-se",
+    "statement": "Leia o trecho de Infância, de Graciliano Ramos, para responder às questões de 28 a 34.\n\nMergulhei numa comprida manhã de inverno. O açude apojado, a roça verde, amarela e vermelha, os caminhos estreitos mudados em riachos, ficaram-me na alma. Depois veio a seca. Árvores pelaram-se, bichos morreram, o sol cresceu, bebeu as águas, e ventos mornos espalharam na terra queimada uma poeira cinzenta. Olhando-me por dentro, percebo com desgosto a segunda paisagem. Devastação, calcinação. Nesta vida lenta sinto-me coagido entre duas situações contraditórias — uma longa noite, um dia imenso e enervante, favorável à modorra. Frio e calor, trevas densas e claridades ofuscantes.\n\nNaquele tempo a escuridão se ia dissipando, vagarosa. Acordei, reuni pedaços de pessoas e de coisas, pedaços de mim mesmo que boiavam no passado confuso, articulei tudo, criei o meu pequeno mundo incongruente. Às vezes as peças se deslocavam — e surgiam estranhas mudanças. Os objetos se tornavam irreconhecíveis, e a humanidade, feita de indivíduos que me atormentavam e indivíduos que não me atormentavam, perdia os característicos.\n\nBem e mal ainda não existiam, faltava razão para que nos afligissem com pancadas e gritos. Contudo as pancadas e os gritos figuravam na ordem dos acontecimentos, partiam sempre de seres determinados, como a chuva e o sol vinham do céu. E o céu era terrível, e os donos da casa eram fortes. Ora, sucedia que minha mãe abrandava de repente e meu pai, silencioso, explosivo, resolvia contar-me histórias. Admirava-me, aceitava a lei nova, ingênuo, admitia que a natureza se houvesse modificado. Fechava-se o doce parêntese — e isto me desorientava.\n\nNa manhã de inverno as cercas e as plantas quase se dissolviam, a neblina vestia o campo, dos montes de lixo do quintal subia fumaça, pingos espaçados caíam das goteiras, a cruviana¹ mordia a gente. Sapatões de vaqueiros depositavam grossas camadas de barro no tijolo. Roupas molhadas deixavam manchas largas nos bancos do copiar. As paredes úmidas enegreciam. Deitava-me na rede, encolhia-me, enrolava-me nas varandas.\n\n(Infância, 2020.)\n\n1 cruviana: vento intenso e gelado.\n\nConsiderando o contexto, no trecho “Fechava-se o doce parêntese — e isto me desorientava.” (3º parágrafo), o narrador refere-se",
     "blockTypes": [
       "prose",
       "prose",
@@ -7493,7 +7482,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, $n^{o}$ 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nConstitui um aparente paradoxo o fato de",
     "blockTypes": [
       "prose",
       "prose",
@@ -7543,7 +7532,7 @@ export const uea2022Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, $n^{o}$ 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
+    "statement": "Leia o texto para responder às questões 35 e 36.\n\nAndy Warhol é um dos principais nomes da pop Art. Surgida nos anos 1950, na Inglaterra, o movimento teve seu ápice na década de 1960, quando chegou aos EUA. A pop Art se caracteriza pela apropriação de imagens do universo de consumo (embalagens de produtos) e da cultura de massa (televisão, cinema, revistas de celebridades, quadrinhos, propaganda) como tema de suas obras e, ao mesmo tempo, faz uma crítica a essa indústria que, na visão dos artistas, exercia uma poderosa influência na vida cotidiana das pessoas.\n\nDesenhista talentoso, reconhecido nos anuários de publicidade, Warhol tornou-se um dos mais célebres artistas comerciais na sua época. No final da década de 1950, realiza uma exposição emblemática na Ferus Gallery em Los Angeles, na qual está presente a notória obra com latas de sopas Campbell. Ele também passa a utilizar a serigrafia e outros métodos de reprodução mecânica para fazer suas obras, diminuindo a distância entre a fotografia e a pintura. Assim como a pop Art faz desaparecer a distinção entre arte “erudita” e “comercial”, Warhol parte da publicidade para as artes.\n\n“Por um lado, Andy Warhol trazia para suas obras as estrelas de Hollywood, políticos e esportistas que eram representantes do glamour e do poder americano, ou mesmo os ícones do consumo, da industrialização, da superioridade tecnológica e triunfante dos EUA nas décadas de 1960 e 1970”, aponta a professora e pesquisadora Elaine Caramelo. “Mas, ao mesmo tempo, ele demonstrava claramente que não acreditava no sonho americano”.\n\n(Enio Rodrigo Barbosa. “Andy Warhol: um ícone do século XX”.\n\nRevista Ciência e Cultura, vol. 62, nº 2, 2010. Adaptado.)\n\nIdentifica-se ideia de comparação no trecho:",
     "blockTypes": [
       "prose",
       "prose",

@@ -22,7 +22,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q01-1.png",
+        "src": "/images/uea/sis-2023-a1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -364,7 +364,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q08-1.png",
+        "src": "/images/uea/sis-2023-a1/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -561,7 +561,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Leia a tirinha de Brian Crane.\n\n(www.gocomics.com)\n\nDe acordo com o contexto apresentado pela tirinha, a fala “It’s just like you” ($2^{o}$ quadrinho) expressa a ideia de",
+    "statement": "Leia a tirinha de Brian Crane.\n\n(www.gocomics.com)\n\nDe acordo com o contexto apresentado pela tirinha, a fala “It’s just like you” (2º quadrinho) expressa a ideia de",
     "blockTypes": [
       "prose",
       "source",
@@ -569,7 +569,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q12-1.png",
+        "src": "/images/uea/sis-2023-a1/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -717,7 +717,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q15-1.png",
+        "src": "/images/uea/sis-2023-a1/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -1007,7 +1007,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q21-1.png",
+        "src": "/images/uea/sis-2023-a1/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -1627,7 +1627,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q34-1.png",
+        "src": "/images/uea/sis-2023-a1/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -2181,7 +2181,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a1/q48-1.png",
+        "src": "/images/uea/sis-2023-a1/q48-1.svg",
         "alt": "Imagem de apoio da questão 48 (UEA SIS — Acompanhamento I, 2023)."
       }
     ],
@@ -2453,11 +2453,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade.\n\nPlástico Sigla Densidade (g/mL)\n\nPolietileno de baixa densidade PEBD 0,92 Polietileno de alta densidade PEAD 0,96 Polietileno tereftalato PET 1,36 Policloreto de vinila PVC 1,40\n\nPara a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa.\n\nConsiderando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) e água de torneira (d = 1,05 g/mL) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
+    "statement": "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade.\n\n\tPlástico\tSigla\tDensidade (g/mL)\nPolietileno de baixa densidade\t\tPEBD\t0,92\nPolietileno de alta densidade\t\tPEAD\t0,96\nPolietileno tereftalato\t\tPET\t1,36\nPolicloreto de vinila\t\tPVC\t1,40\n\nPara a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa.\n\nConsiderando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) e água de torneira (d = 1,05 g/mL) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
+      "table",
       "prose",
       "command"
     ],
@@ -2642,13 +2641,11 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância Massa molar (g/mol) estruturalFórmula Temperatura de ebulição (ºC)\n\ndimetílicoÉter 46 – 25\n\nEtanol 46 78\n\nPropan-1-ol 60 97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
+    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância Massa molar (g/mol) estruturalFórmula Temperatura de ebulição (ºC)\n\ndimetílicoÉter\t46\t– 25\nEtanol\t46\t78\nPropan-1-ol\t60\t97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
     "blockTypes": [
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -2785,7 +2782,7 @@ export const uea2023Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nAo assinalar que “Plus ultra! era a sua divisa.” ($2^{o}$ parágrafo), o narrador caracteriza o médico como alguém",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nAo assinalar que “Plus ultra! era a sua divisa.” (2º parágrafo), o narrador caracteriza o médico como alguém",
     "blockTypes": [
       "prose",
       "prose",
@@ -3025,7 +3022,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nO termo que qualifica o substantivo na expressão “última verdade” ($3^{o}$ parágrafo) tem sentido oposto ao termo que qualifica o substantivo em",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\nO termo que qualifica o substantivo na expressão “última verdade” (3º parágrafo) tem sentido oposto ao termo que qualifica o substantivo em",
     "blockTypes": [
       "prose",
       "prose",
@@ -3085,7 +3082,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\n“Chegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento.” ($7^{o}$ parágrafo) Em relação à oração que a sucede, a oração sublinhada expressa ideia de",
+    "statement": "Leia o trecho do conto “O alienista”, de Machado de Assis, para responder às questões de 01 a 07.\n\nNo fim de cinco meses e meio estava vazia a Casa Verde; todos curados! [...]\n\n1 ficou radiante ao ver\n\nsair o último hóspede da Casa Verde, mostrais com isso que\n\n2 era a sua\n\ndivisa. Não lhe bastava ter descoberto a teoria verdadeira da loucura; não o contentava ter estabelecido em Itaguaí o reinado da razão. Plus ultra! Não ficou alegre, ficou preocupado, cogitativo; alguma coisa lhe dizia que a teoria nova tinha, em si mesma, outra e novíssima teoria.\n\n— Vejamos, pensava ele; vejamos se chego enfim à última verdade.\n\nDizia isto, passeando ao longo da vasta sala, onde fulgurava a mais rica biblioteca dos domínios ultramarinos de Sua Majestade. [...] Era assim que ele ia, o grande alienista, de um cabo a outro da vasta biblioteca, metido em si mesmo, estranho a todas as coisas que não fosse o tenebroso problema da patologia cerebral. Súbito, parou. Em pé, diante de uma janela, com o cotovelo esquerdo apoiado na mão direita, aberta, e o queixo na mão esquerda, fechada, perguntou ele a si:\n\n— Mas deveras estariam eles doidos, e foram curados por mim, — ou o que pareceu cura, não foi mais do que a descoberta do perfeito desequilíbrio do cérebro?\n\nE cavando por aí abaixo, eis o resultado a que chegou: os cérebros bem organizados que ele acabava de curar, eram tão desequilibrados como os outros. Sim, dizia ele consigo, eu não posso ter a pretensão de haver-lhes incutido um sentimento ou uma faculdade nova; uma e outra coisa existiam no estado latente, mas existiam.\n\nChegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento. A de gozo foi por ver que, ao cabo de longas e pacientes investigações, constantes trabalhos, luta ingente com o povo, podia afirmar esta verdade: — não havia loucos em Itaguaí; Itaguaí não possuía um só mentecapto. Mas tão depressa esta ideia lhe refrescara a alma, outra apareceu que neutralizou o primeiro efeito; foi a ideia da dúvida. Pois quê! Itaguaí não possuiria um único cérebro concertado? Esta conclusão tão absoluta não seria por isso mesmo errônea, e não vinha, portanto, destruir o largo e majestoso edifício da nova doutrina psicológica?\n\nA aflição do egrégio Simão Bacamarte é definida pelos cronistas itaguaienses como uma das mais medonhas tempestades morais que têm desabado sobre o homem. Mas as tempestades só aterram os fracos; os fortes enrijam-se contra elas e fitam o trovão. Vinte minutos depois alumiou-se a fisionomia do alienista de uma suave claridade.\n\n— Sim, há de ser isso, pensou ele. Isso é isto. Simão Bacamarte achou em si os característicos do perfeito equilíbrio mental e moral; pareceu-lhe que possuía a sagacidade, a paciência, a perseverança, a tolerância, a veracidade, o vigor moral, a lealdade, todas as qualidades enfim que podem formar um acabado mentecapto.\n\n(Machado de Assis. 50 contos, 2007.)\n\n1 alienista: médico especialista em doenças mentais. 2 Plus ultra!: expressão latina que significa “Mais além!”.\n\n“Chegado a esta conclusão, o ilustre alienista teve duas sensações contrárias, uma de gozo, outra de abatimento.” (7º parágrafo) Em relação à oração que a sucede, a oração sublinhada expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -3211,7 +3208,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q08-1.png",
+        "src": "/images/uea/sis-2023-a2/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -3419,7 +3416,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q12-1.png",
+        "src": "/images/uea/sis-2023-a2/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -3713,7 +3710,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q18-1.png",
+        "src": "/images/uea/sis-2023-a2/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -3906,7 +3903,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q22-1.png",
+        "src": "/images/uea/sis-2023-a2/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -3959,7 +3956,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q23-1.png",
+        "src": "/images/uea/sis-2023-a2/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -4058,7 +4055,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q25-1.png",
+        "src": "/images/uea/sis-2023-a2/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -4157,7 +4154,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q27-1.png",
+        "src": "/images/uea/sis-2023-a2/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -5093,7 +5090,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q47-1.png",
+        "src": "/images/uea/sis-2023-a2/q47-1.svg",
         "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -5191,7 +5188,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q49-1.png",
+        "src": "/images/uea/sis-2023-a2/q49-1.svg",
         "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -5424,7 +5421,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q54-1.png",
+        "src": "/images/uea/sis-2023-a2/q54-1.svg",
         "alt": "Imagem de apoio da questão 54 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -5468,13 +5465,12 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A sustentabilidade está relacionada ao conceito de manutenção de um equilíbrio entre o que é consumido e o que é renovado. Um dos combustíveis renováveis é o etanol, utilizado em substituição dos combustíveis fósseis como gasolina e óleo diesel. No entanto, a produção de etanol ainda utiliza, em grande parte, combustíveis fósseis, seja na lavoura ou na indústria de fertilizantes e defensivos agrícolas. Um fator importante considerado na sustentabilidade de um combustível é a sua eficiência energética, que é calculada conforme a equação:\n\nEficiência energética =\n\nA tabela apresenta a relação entre a energia produzida pela utilização de etanol e a energia consumida em sua produção, considerando diversas matérias-primas.\n\nMatéria-prima Energia renovável/energia fóssil usada\n\nMilho 1,3 Cana-de-açúcar 8,9 Beterraba 2,0 Sorgo sacarino 4,0 Mandioca 1,0\n\nCom base na tabela, a matéria-prima mais sustentável para a produção do etanol é",
+    "statement": "A sustentabilidade está relacionada ao conceito de manutenção de um equilíbrio entre o que é consumido e o que é renovado. Um dos combustíveis renováveis é o etanol, utilizado em substituição dos combustíveis fósseis como gasolina e óleo diesel. No entanto, a produção de etanol ainda utiliza, em grande parte, combustíveis fósseis, seja na lavoura ou na indústria de fertilizantes e defensivos agrícolas. Um fator importante considerado na sustentabilidade de um combustível é a sua eficiência energética, que é calculada conforme a equação:\n\nEficiência energética =\n\nA tabela apresenta a relação entre a energia produzida pela utilização de etanol e a energia consumida em sua produção, considerando diversas matérias-primas.\n\nMatéria-prima\tEnergia renovável/energia fóssil usada\t\nMilho\t\t1,3\nCana-de-açúcar\t\t8,9\nBeterraba\t\t2,0\nSorgo sacarino\t\t4,0\nMandioca\t\t1,0\n\nCom base na tabela, a matéria-prima mais sustentável para a produção do etanol é",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -5571,7 +5567,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a2/q57-1.png",
+        "src": "/images/uea/sis-2023-a2/q57-1.svg",
         "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2023)."
       }
     ],
@@ -5663,9 +5659,8 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A fixação de nitrogênio no solo é parte importante do ciclo biogeoquímico desse elemento, pois as plantas não conse-\n\npostos solúveis em água, que são absorvidos pelas plantas. metabolismo. Bactérias nitrificantes convertem o Nguem absorver nitrogênio atmosférico ($N_{2}$) para realizar $seu_{2}$ em comUma sequência de etapas possíveis de ocorrer no processo de fixação do nitrogênio atmosférico é:\n\nNas etapas 1, 2 e 3, respectivamente, o elemento nitrogênio passa por processos de",
+    "statement": "A fixação de nitrogênio no solo é parte importante do ciclo biogeoquímico desse elemento, pois as plantas não consepostos solúveis em água, que são absorvidos pelas plantas. metabolismo. Bactérias nitrificantes convertem o Nguem absorver nitrogênio atmosférico ($N_{2}$) para realizar $seu_{2}$ em comUma sequência de etapas possíveis de ocorrer no processo de fixação do nitrogênio atmosférico é:\n\nNas etapas 1, 2 e 3, respectivamente, o elemento nitrogênio passa por processos de",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],
@@ -5710,26 +5705,10 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O quadro apresenta alguns princípios da Química Verde.\n\nPrincípio Definição\n\nDesenho de metodologias sintéti-\n\nEconomia atômica cas que possam maximizar a incor-poração de todos os materiais de\n\npartida no produto final.\nSíntese de um produto químico\n\nSíntese limpa que utilize e gere substâncias com pouca ou nenhuma toxicidade à\n\nsaúde humana e ao ambiente.\n\nUtilização de energia nos proces-\nsos químicos reconhecida pela\n\nOtimização do uso de energia minimização de seus impactos ambientais e econômicos, em que esses processos, sempre que pos-\n\nsível, devem ser conduzidos a tem-\nperatura e pressão ambientes.\n\nAs sínteses industriais de dois compostos foram realizadas por processo convencional e por processo segundo os princípios da Química Verde, conforme mostram as sequências de equações:\n\nSíntese do composto 1:\n\nprodução de dimetilcarbonato ($CH_{3}$OC(O)$OCH_{3}$) – processo convencional:\n\n2 + $2CH_{3}$OH $CH_{3}$OC(O)$OCH_{3}$ + 2HCℓ\n\n– processo verde:\n\n$2CH_{3}$OH + CO + $O_{2}$ $CH_{3}$OC(O)$OCH_{3}$ + $H_{2}$O\n\nSíntese do composto 2:\n\nprodução de t-butilamina [($CH_{3}$ 3 $CNH_{2}$]\n\n– processo convencional:\n\n($CH_{3}$ 2C = $CH_{2}$ + HCN + $H_{3}$ $O^{+}$ ($CH_{3}$ 3CNHCHO ($CH_{3}$ 3CNHCHO + $H_{3}$ $O^{+}$ ($CH_{3}$ 3 $CNH_{2}$ + HCOOH – processo verde:\n\n($CH_{3}$ 2C = $CH_{2}$ + $NH_{3}$ ($CH_{3}$ 3 $CNH_{2}$\n\nOs princípios da Química Verde empregados nas sínteses dos compostos 1 e 2 são, respectivamente,",
+    "statement": "O quadro apresenta alguns princípios da Química Verde.\n\nPrincípio\tDefinição\nEconomia atômica\tDesenho de metodologias sintéticas que possam maximizar a incorporação de todos os materiais de partida no produto final.\nSíntese limpa\tSíntese de um produto químico que utilize e gere substâncias com pouca ou nenhuma toxicidade à saúde humana e ao ambiente.\nOtimização do uso de energia\tUtilização de energia nos processos químicos reconhecida pela minimização de seus impactos ambientais e econômicos, em que esses processos, sempre que possível, devem ser conduzidos a temperatura e pressão ambientes.\n\nAs sínteses industriais de dois compostos foram realizadas por processo convencional e por processo segundo os princípios da Química Verde, conforme mostram as sequências de equações:\n\nSíntese do composto 1: produção de dimetilcarbonato (CH₃OC(O)OCH₃)\n– processo convencional: COCl₂ + 2 CH₃OH → CH₃OC(O)OCH₃ + 2 HCl\n– processo verde: 2 CH₃OH + CO + O₂ → CH₃OC(O)OCH₃ + H₂O\n\nSíntese do composto 2: produção de t-butilamina [(CH₃)₃CNH₂]\n– processo convencional: (CH₃)₂C=CH₂ + HCN + H₃O⁺ → (CH₃)₃CNHCHO\n(CH₃)₃CNHCHO + H₃O⁺ → (CH₃)₃CNH₂ + HCOOH\n– processo verde: (CH₃)₂C=CH₂ + NH₃ → (CH₃)₃CNH₂\n\nOs princípios da Química Verde empregados nas sínteses dos compostos 1 e 2 são, respectivamente,",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "poem",
-      "prose",
-      "prose",
-      "poem",
-      "prose",
-      "poem",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
+      "table",
       "prose",
       "prose",
       "prose",
@@ -5884,7 +5863,7 @@ export const uea2023Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo.” ($2^{o}$ parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 04.\n\nVivendo em casa própria e tendo outros rendimentos além do seu ordenado, o major Quaresma podia levar um trem de vida superior ao seus recursos burocráticos, gozando, por parte da vizinhança, da consideração e respeito de homem abastado.\n\nNão recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo. Se não tinha amigos na redondeza, não tinha inimigos, e a única desafeição que merecera fora a do doutor Segadas, um clínico afamado no lugar, que não podia admitir que Quaresma tivesse livros: “Se não era formado, para quê? Pedantismo!”\n\nO subsecretário não mostrava os livros a ninguém, mas acontecia que, quando se abriam as janelas da sala de sua livraria, da rua poder-se-iam ver as estantes pejadas de cima a baixo.\n\nEram esses os seus hábitos; ultimamente, porém, mudara um pouco; e isso provocava comentários no bairro. Além do compadre e da filha, as únicas pessoas que o visitavam até então, nos últimos dias, era visto entrar em sua casa, três vezes por semana e em dias certos, um senhor baixo, magro, pálido, com um violão agasalhado numa bolsa de camurça. Logo pela primeira vez o caso intrigou a vizinhança. Um violão em casa tão respeitável! Que seria?\n\nE, na mesma tarde, uma das mais lindas vizinhas do major convidou uma amiga, e ambas levaram um tempo perdido, de cá para lá, a palmilhar o passeio, esticando a cabeça, quando passavam diante da janela aberta do esquisito subsecretário.\n\nNão foi inútil a espionagem. Sentado no sofá, tendo ao lado o tal sujeito, empunhando o “pinho” na posição de tocar, o major, atentamente, ouvia: “Olhe, major, assim.” E as cordas vibravam vagarosamente a nota ferida; em seguida, o mestre aduzia: “É ‘ré’, aprendeu?”\n\nMas não foi preciso pôr na carta; a vizinhança concluiu logo que o major aprendia a tocar violão. Mas que coisa? Um homem tão sério metido nessas malandragens!\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n“Não recebia ninguém, vivia num isolamento monacal, embora fosse cortês com os vizinhos que o julgavam esquisito e misantropo.” (2º parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -6532,7 +6511,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q12-1.png",
+        "src": "/images/uea/sis-2023-a3/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
@@ -6686,7 +6665,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q14-1.png",
+        "src": "/images/uea/sis-2023-a3/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
@@ -6730,7 +6709,7 @@ export const uea2023Sis = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise o excerto e a imagem.\n\nO programa de governo “Marcha para o Oeste” (1938) continha importantes aspectos simbólicos, pois nenhum presidente havia feito o mesmo trajeto de Vargas pelas regiões mais remotas do país, lançando o programa durante visitas a diversas localidades, incluindo os estados constituintes da Amazônia. O primeiro movimento de ocupação e legitimação de áreas mais afastadas estava sendo feito pelo próprio líder da nação.\n\n(Rômulo de Paula Andrade. “Conquistar a terra, dominar a água, sujeitar a floresta”: Getúlio Vargas e a revista\n\n“Cultura Política” redescobrem a Amazônia (1940-1941). Boletim do\n\nMuseu Paraense Emílio Goeldi, vol. 5, $n^{o}$ 2, 2010. Adaptado.)\n\nCartaz publicitário incentivando a Marcha para o Oeste.\n\n(https://brasilescola.uol.com.br)\n\nEm relação à Amazônia, o programa mencionado objetivava",
+    "statement": "Analise o excerto e a imagem.\n\nO programa de governo “Marcha para o Oeste” (1938) continha importantes aspectos simbólicos, pois nenhum presidente havia feito o mesmo trajeto de Vargas pelas regiões mais remotas do país, lançando o programa durante visitas a diversas localidades, incluindo os estados constituintes da Amazônia. O primeiro movimento de ocupação e legitimação de áreas mais afastadas estava sendo feito pelo próprio líder da nação.\n\n(Rômulo de Paula Andrade. “Conquistar a terra, dominar a água, sujeitar a floresta”: Getúlio Vargas e a revista\n\n“Cultura Política” redescobrem a Amazônia (1940-1941). Boletim do\n\nMuseu Paraense Emílio Goeldi, vol. 5, nº 2, 2010. Adaptado.)\n\nCartaz publicitário incentivando a Marcha para o Oeste.\n\n(https://brasilescola.uol.com.br)\n\nEm relação à Amazônia, o programa mencionado objetivava",
     "blockTypes": [
       "prose",
       "prose",
@@ -6743,7 +6722,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q15-1.png",
+        "src": "/images/uea/sis-2023-a3/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
@@ -6796,7 +6775,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q16-1.png",
+        "src": "/images/uea/sis-2023-a3/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
@@ -7129,11 +7108,11 @@ export const uea2023Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a tabela.\n\nDistribuição da população urbana\n\nbrasileira segundo o tamanho das cidades (em%)\n\nTamanho das Cidades 1970 1980 1991 2000 2010 < 20 000 26,92 21,36 19,34 18,81 17,13 20 000 a 50 000 12,04 11,40 12,44 11,49 11,83 50 000 a 100 000 7,80 10,50 10,23 10,57 9,93 100 000 a 500 000 19,59 21,92 24,43 26,11 27,34 Mais de 500 000 29,0 34,83 33,55 33,01 33,78 Mais de 1 000 000 53,24 56,75 57,98 59,12 61,12 (Marco A. D. Zazyki et al. “Relação entre a urbanização brasileira e o direito de propriedade”. Desenvolvimento em questão, jan./mar. 2021. Adaptado.)\n\nA análise dos dados da tabela e conhecimentos sobre a urbanização brasileira evidenciam que",
+    "statement": "Analise a tabela.\n\nDistribuição da população urbana\n\nbrasileira segundo o tamanho das cidades (em%)\t\t\t\t\t\nTamanho das Cidades 1970\t\t1980\t1991\t2000\t2010\n< 20 000\t26,92 21,36 19,34 18,81 17,13\t\t\t\t\n20 000 a 50 000\t12,04 11,40 12,44 11,49 11,83\t\t\t\t\n50 000 a 100 000\t7,80\t10,50 10,23 10,57 9,93\t\t\t\n100 000 a 500 000\t19,59 21,92 24,43 26,11 27,34\t\t\t\t\nMais de 500 000\t29,0\t34,83 33,55 33,01 33,78\t\t\t\nMais de 1 000 000\t53,24 56,75 57,98 59,12 61,12\t\t\t\t\n\n(Marco A. D. Zazyki et al. “Relação entre a urbanização brasileira e o direito de propriedade”. Desenvolvimento em questão, jan./mar. 2021. Adaptado.)\n\nA análise dos dados da tabela e conhecimentos sobre a urbanização brasileira evidenciam que",
     "blockTypes": [
       "prose",
       "prose",
-      "prose",
+      "table",
       "source",
       "command"
     ],
@@ -7281,7 +7260,7 @@ export const uea2023Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2023-a3/q26-1.png",
+        "src": "/images/uea/sis-2023-a3/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2023)."
       }
     ],
@@ -7737,11 +7716,10 @@ export const uea2023Sis = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Em um estudo sobre a dinâmica populacional em uma ilha, a população de determinada espécie de ave era formada no início por 1 000 indivíduos vivendo em uma área de 1 000 $m^{2}$, revelando uma densidade de uma ave por metro quadrado. Esses animais foram monitorados durante dois anos e, nesse tempo, contabilizaram-se as taxas de natalidade, de mortalidade, de imigração e de emigração, como mostra a tabela.\n\nAno Natalidade Mortalidade Imigração Emigração $\\frac{2019}{2020}$ 270 90 50 30\n\n310 110 35 235\n\nDe acordo com os dados da tabela, em 2020 a densidade da população da ave estudada foi de",
+    "statement": "Em um estudo sobre a dinâmica populacional em uma ilha, a população de determinada espécie de ave era formada no início por 1 000 indivíduos vivendo em uma área de 1 000 $m^{2}$, revelando uma densidade de uma ave por metro quadrado. Esses animais foram monitorados durante dois anos e, nesse tempo, contabilizaram-se as taxas de natalidade, de mortalidade, de imigração e de emigração, como mostra a tabela.\n\nAno\tNatalidade Mortalidade Imigração Emigração\t\t\t\n$\\frac{2019}{2020}$\t270\t90\t50\t30\n\t310\t110\t35\t235\n\nDe acordo com os dados da tabela, em 2020 a densidade da população da ave estudada foi de",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -8150,9 +8128,8 @@ export const uea2023Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Considere uma carga elétrica pontual Q. Admita que, em um ponto localizado a uma distância d dessa carga, a intensidade do campo elétrico correspondente seja E. O valor do campo elétrico corresponderá a, em um ponto distante de Q, loca-\n\nlizado a uma distância",
+    "statement": "Considere uma carga elétrica pontual Q. Admita que, em um ponto localizado a uma distância d dessa carga, a intensidade do campo elétrico correspondente seja E. O valor do campo elétrico corresponderá a, em um ponto distante de Q, localizado a uma distância",
     "blockTypes": [
-      "prose",
       "command"
     ],
     "images": [],
@@ -8613,9 +8590,8 @@ export const uea2023Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A reação de combustão completa de um monoálcool é representada por meio da seguinte equação genérica:\n\nA combustão completa de 1 mol de um monoálcool secun-\n\ndesse álcool, conforme as normas da União Internacional de dário de cadeia ramificada produziu 5 mol de $CO_{2}$. O nome Química Pura e Aplicada (IUPAC), é",
+    "statement": "A reação de combustão completa de um monoálcool é representada por meio da seguinte equação genérica:\n\nA combustão completa de 1 mol de um monoálcool secundesse álcool, conforme as normas da União Internacional de dário de cadeia ramificada produziu 5 mol de $CO_{2}$. O nome Química Pura e Aplicada (IUPAC), é",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],

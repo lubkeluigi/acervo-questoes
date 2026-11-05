@@ -1,0 +1,219 @@
+{
+  "uea-sis-2022-a3-q53": {
+    "statement": "O farneseno (C₁₅H₂₄) é uma substância que vem sendo utilizada para a produção de biodiesel a partir da cana-de-açúcar. A estrutura molecular dessa substância é representada pela fórmula:\n\nA cadeia carbônica do farneseno é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-g1-q20": {
+    "statement": "Partindo-se da fórmula molecular C₃H₆O, pode-se obter os compostos orgânicos:\n\n1: propanal.\n2: propanona.\n3: prop-1-en-2ol.\n\nAo comparar as fórmulas estruturais dos compostos orgânicos citados e considerando o conceito de isomeria plana, o tipo de isomeria que ocorre entre as substâncias",
+    "blockTypes": [
+      "prose",
+      "list",
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-g1-q16": {
+    "statement": "A água (H₂O) apresenta forças intermoleculares, isto é, interações entre as moléculas, tais quais as representadas na figura por meio das linhas tracejadas.\n\n(www.usgs.gov. Adaptado.)\n\nA substância que apresenta o mesmo tipo de força intermolecular que a água é a representada pela fórmula:",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-g1-q19": {
+    "statement": "A decomposição do peróxido de hidrogênio (H₂O₂) é uma reação que ocorre de acordo com a equação:\n\n2 H₂O₂ (aq) → 2 H₂O (l) + O₂ (g)\n\nPara estudar a cinética da decomposição do peróxido de hidrogênio, foram preparadas soluções com concentrações diferentes, as quais foram submetidas a diferentes temperaturas, sendo que em uma das soluções foi adicionado um catalisador. A tabela apresenta as diferentes condições a que as soluções foram submetidas e o tempo necessário para iniciar a decomposição do H₂O₂ em cada caso.\n\nExperimento\tConcentração de H₂O₂\tTemperatura\tTempo para iniciar a liberação de O₂\n1\t10 mol/L\t30 ºC\t5 minutos\n2\t10 mol/L\t50 ºC\t1 minuto\n3\t5,0 mol/L\t30 ºC\t8 minutos\n4\t5,0 mol/L\t30 ºC\t1 minuto\n5\t5,0 mol/L\t50 ºC\t5 minutos\n\nA solução em que foi adicionado um catalisador é a de experimento",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-g1-q15": {
+    "statement": "O cloreto de alumínio (AlCl₃) é um dos compostos eficazes no controle da transpiração e do odor corporal, sendo amplamente utilizado em antitranspirantes comerciais. Sua obtenção pode ser feita por meio da reação representada na equação balanceada:\n\n2 Al (s) + 6 HCl (aq) → 2 AlCl₃ (aq) + 3 H₂ (g)\n\nA quantidade necessária de HCl para a obtenção de 15 mol de cloreto de alumínio é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a1-q56": {
+    "statement": "O etanol (C₂H₅OH) dissolvido em água (H₂O) com concentração 70%, na forma de solução aquosa ou de gel, é empregado como antisséptico de mãos e superfícies. A eficácia da ação antisséptica do etanol é mais alta nessa concentração do que no etanol puro, pois, se puro, ele se volatiliza muito rápido. O nome da principal força de interação entre as moléculas do etanol e da água é",
+    "blockTypes": [
+      "command"
+    ]
+  },
+  "uea-vestibular-2025-g1-q18": {
+    "statement": "O metano (CH₄), principal componente do gás natural, é utilizado como combustível em geradores de energia elétrica instalados em localidades remotas, onde não há acesso à rede elétrica convencional. A reação da combustão completa do metano é representada na equação a seguir.\n\nCH₄ (g) + O₂ (g) → CO₂ (g) + H₂O (l)\n\nPara a reação de combustão completa de 2 mol de gás metano, há o consumo de ____ de gás oxigênio, o que resulta na formação de ____ de produtos no total.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-cg-q44": {
+    "statement": "O gráfico ilustra a variação na concentração de CO₂ atmosférico nos últimos sessenta anos.\n\n(www.ecodebate.com.br. Adaptado.)\n\nEssa mesma tendência de crescimento, nesse mesmo período, também é observada em um gráfico que considera os dados referentes",
+    "blockTypes": [
+      "prose",
+      "source",
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-cg-q54": {
+    "statement": "O interior do quadrado ABCD foi dividido em 3 quadrados menores, $Q_{1}$, $Q_{2}$ e $Q_{3}$, e 2 polígonos, $P_{1}$ e $P_{2}$, conforme figura. Sabendo que as áreas dos quadrados $Q_{1}$, $Q_{2}$ e $Q_{3}$ são, respectivamente, 16 cm², 1 cm² e 9 cm², o perímetro do polígono $P_{1}$, destacado na figura, é",
+    "blockTypes": [
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-cg-q72": {
+    "statement": "Para disparar o flash de uma câmera, é necessário que um capacitor, de 1,2 × 10⁻⁴ F, ligado a esse flash, esteja carregado com uma carga de 6,0 × 10⁻⁴ C. Sabendo que, ao carregar o capacitor, a bateria da câmera, considerada ideal, fica ligada diretamente a ele, a diferença de potencial fornecida pela bateria deve ser de, no mínimo,",
+    "blockTypes": [
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-cg-q82": {
+    "statement": "No quadro são apresentadas as origens de cinco diferentes combustíveis.\n\nCombustível\tOrigem\n1\tResultado da decomposição de restos orgânicos de plantas e animais que viveram há milhões de anos.\n2\tFormado a partir de restos orgânicos, como matéria vegetal e microrganismos marinhos, depositados em sedimentos e submetidos a pressões e temperaturas elevadas.\n3\tFormado a partir do acúmulo e da decomposição de matéria orgânica vegetal, como restos de plantas, em áreas pantanosas ou florestas úmidas.\n4\tObtido a partir da fermentação de cana-de-açúcar, milho, beterraba e outras culturas ricas em açúcar ou amido.\n5\tDerivado do petróleo bruto. Sua produção envolve o processamento e o refino do petróleo em refinarias.\n\nDentre os combustíveis do quadro, aquele que é classificado como biocombustível é o de número",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a2-q16": {
+    "statement": "A legalização de posses irregulares por meio de alienação de terras devolutas¹ é extremamente coerente com a história de ocupação da região amazônica. Diferentes estudiosos têm demonstrado a posse como principal forma de aquisição de terras nesta região. De acordo com a historiadora Maria José dos Santos, “novos sujeitos sociais — degredados, militares e servidores do Estado — se tornaram detentores de extensos territórios, sem obterem títulos ou cartas de sesmarias², ocorrendo uma posse simples.\n\n(Pedro Parga Rodrigues. Revista Maracanan, nº 23, 2020. Adaptado.)\n\n1 alienação de terras devolutas: transferência de terras públicas para particulares.\n2 carta de sesmaria: documento produzido por autoridades coloniais para a doação de terras.\n\nNo contexto das políticas públicas do Segundo Reinado (1840-1889), o excerto demonstra que, na região amazônica, havia",
+    "blockTypes": [
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a3-q59": {
+    "statement": "Lise Meitner foi uma cientista que trabalhou no início do século XX em pesquisas que envolviam o cálculo da energia liberada na reação entre o núcleo de urânio-235 (²³⁵U) e um nêutron. Em reconhecimento à sua contribuição para a ciência, a União Internacional de Química Pura e Aplicada (IUPAC) a homenageou atribuindo seu nome a um elemento químico.\n\nO processo nuclear pesquisado por Lise Meitner e o número atômico do elemento químico que a homenageia são:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-g1-q23": {
+    "statement": "Em um experimento de cinética química, o consumo de amônia (NH₃) foi monitorado na reação com o oxigênio (O₂). Essa reação ocorre conforme representado na equação:\n\n4 NH₃ (g) + 5 O₂ (g) → 4 NO (g) + 6 H₂O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo\tConcentração de NH₃\n0 s\t0,320 mol·L⁻¹\n10 s\t0,240 mol·L⁻¹\n20 s\t0,160 mol·L⁻¹\n30 s\t0,080 mol·L⁻¹\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consumo de oxigênio nesse experimento, em mol·L⁻¹·s⁻¹, é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a1-q60": {
+    "statement": "Para realizar o tratamento de água em uma estação de tratamento, inicialmente dissolve-se sulfato de alumínio, Al₂(SO₄)₃, para a remoção da maior parte da sujeira dispersa na água. Após essa etapa, a água passa por um sistema de filtros e recebe a adição de hipoclorito de sódio, NaClO, e fluossilicato de sódio, Na₂SiF₆, para completar o processo. As substâncias citadas no texto têm como função, respectivamente,",
+    "blockTypes": [
+      "command"
+    ]
+  },
+  "uea-sis-2026-a2-q53": {
+    "statement": "O fluoreto de sulfurila (SO₂F₂) é um gás usado como fumigante industrial no controle de pragas, que pode ser obtido a partir da reação controlada entre o dióxido de enxofre (SO₂) e o difluoreto de oxigênio (OF₂). Nessa reação, além do SO₂F₂, é formado oxigênio gasoso (O₂), conforme representado na equação a seguir.\n\n2 OF₂ (g) + 2 SO₂ (g) → 2 SO₂F₂ (g) + O₂ (g)\n\nEm estudos termoquímicos, essa reação pode ser analisada a partir das seguintes etapas intermediárias:\n\nF₂ (g) + ½ O₂ (g) → OF₂ (g)     ΔH⁰ = +25 kJ/mol\nS (s) + O₂ (g) → SO₂ (g)     ΔH⁰ = –297 kJ/mol\nS (s) + O₂ (g) + F₂ (g) → SO₂F₂ (g)     ΔH⁰ = –756 kJ/mol\n\nCom base nesses dados e na Lei de Hess, a variação de entalpia para a produção de 1 mol de SO₂F₂ a partir da reação entre OF₂ e SO₂ é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-g1-q20": {
+    "statement": "O peróxido de hidrogênio (H₂O₂) e a hidrazina (N₂H₄) são empregados como combustíveis para a propulsão no sistema de lançamento de foguetes. Ao interagirem, o peróxido de hidrogênio e a hidrazina podem formar ácido nítrico (HNO₃) e água (H₂O), de acordo com a equação:\n\n7 H₂O₂ (l) + N₂H₄ (l) → 2 HNO₃ (l) + 8 H₂O (g)\n\nNessa reação, quando 5,6 mol de peróxido de hidrogênio reagem completamente, a quantidade de HNO₃ que se forma é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q01": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nO trecho evidencia uma característica central do personagem Policarpo Quaresma, a saber, sua personalidade",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q02": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nComo se sabe, o nacionalismo exacerbado e delirante de Policarpo Quaresma leva-o a se engajar em três projetos que visavam reformar o Brasil. O trecho transcrito dá conta do projeto agrícola do protagonista que, no contexto do romance, foi",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q03": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nNo contexto do romance, “a tempestade” a que o narrador se refere no primeiro parágrafo relaciona-se ao seguinte tópico:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q04": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\n“Como era tão simples viver na nossa terra!” (2º parágrafo) “Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho?” (2º parágrafo) “o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” (3º parágrafo) Os termos sublinhados estão empregados, respectivamente, em sentido",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q05": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\n“o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” (3º parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a3-q06": {
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nSufixação é o processo de formação de palavras por meio de sufixo. É formada pelo acréscimo de um sufixo superlativo a seguinte palavra do texto:",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "prose",
+      "source",
+      "note",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a2-q60": {
+    "statement": "O quadro apresenta alguns princípios da Química Verde.\n\nPrincípio\tDefinição\nEconomia atômica\tDesenho de metodologias sintéticas que possam maximizar a incorporação de todos os materiais de partida no produto final.\nSíntese limpa\tSíntese de um produto químico que utilize e gere substâncias com pouca ou nenhuma toxicidade à saúde humana e ao ambiente.\nOtimização do uso de energia\tUtilização de energia nos processos químicos reconhecida pela minimização de seus impactos ambientais e econômicos, em que esses processos, sempre que possível, devem ser conduzidos a temperatura e pressão ambientes.\n\nAs sínteses industriais de dois compostos foram realizadas por processo convencional e por processo segundo os princípios da Química Verde, conforme mostram as sequências de equações:\n\nSíntese do composto 1: produção de dimetilcarbonato (CH₃OC(O)OCH₃)\n– processo convencional: COCl₂ + 2 CH₃OH → CH₃OC(O)OCH₃ + 2 HCl\n– processo verde: 2 CH₃OH + CO + O₂ → CH₃OC(O)OCH₃ + H₂O\n\nSíntese do composto 2: produção de t-butilamina [(CH₃)₃CNH₂]\n– processo convencional: (CH₃)₂C=CH₂ + HCN + H₃O⁺ → (CH₃)₃CNHCHO\n(CH₃)₃CNHCHO + H₃O⁺ → (CH₃)₃CNH₂ + HCOOH\n– processo verde: (CH₃)₂C=CH₂ + NH₃ → (CH₃)₃CNH₂\n\nOs princípios da Química Verde empregados nas sínteses dos compostos 1 e 2 são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "table",
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ]
+  }
+}

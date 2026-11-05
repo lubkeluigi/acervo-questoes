@@ -6,10 +6,30 @@ Reads /tmp/uea_all.json + /tmp/uea_reextracted.json, rewrites src/data/uea*.js.
 import json, os, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ALL = json.load(open('/tmp/uea_all.json'))
-REX = json.load(open('/tmp/uea_reextracted.json'))
-IMGREFS = json.load(open('/tmp/uea_imgrefs.json')) if os.path.exists('/tmp/uea_imgrefs.json') else {}
-ALTIMG = json.load(open('/tmp/uea_altimg.json')) if os.path.exists('/tmp/uea_altimg.json') else {}
+ALL = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_all.json')))
+REX = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_reextracted.json')))
+IMGREFS = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_imgrefs.json'))) if os.path.exists(os.path.join(ROOT,'scripts','uea_state','uea_imgrefs.json')) else {}
+ALTIMG = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_altimg.json'))) if os.path.exists(os.path.join(ROOT,'scripts','uea_state','uea_altimg.json')) else {}
+_ov_path = os.path.join(ROOT, 'scripts', 'uea_text_overrides.json')
+OVERRIDES = json.load(open(_ov_path)) if os.path.exists(_ov_path) else {}
+
+def merge_hyphen_blocks(statement, blockTypes):
+    """Re-join words split across a paragraph boundary by a trailing hyphen
+    (PDF line-break artefact). Only prose/command/source blocks are merged."""
+    paras = statement.split('\n\n')
+    types = list(blockTypes) + ['prose'] * max(0, len(paras) - len(blockTypes))
+    out_p, out_t = [], []
+    flow = ('prose', 'command', 'source')
+    for p, t in zip(paras, types):
+        if (out_p and out_t[-1] in flow and t in flow
+                and out_p[-1].rstrip().endswith('-')
+                and p.lstrip()[:1].isalpha()):
+            out_p[-1] = out_p[-1].rstrip()[:-1] + p.lstrip()
+            if t == 'command':
+                out_t[-1] = 'command'
+        else:
+            out_p.append(p); out_t.append(t)
+    return '\n\n'.join(out_p), out_t
 
 MODULES = {
     (2022, 'sis'): ('uea2022-sis.js', 'uea2022Sis'),
@@ -43,10 +63,15 @@ def main():
     changed = 0
     for q in ALL:
         rex = REX.get(q['id'])
-        if rex:
-            q['statement'] = rex['statement']
-            q['blockTypes'] = rex['blockTypes']
-            changed += 1
+        stmt = rex['statement'] if rex else q.get('statement', '')
+        bt = rex['blockTypes'] if rex else q.get('blockTypes', [])
+        if q['id'] in OVERRIDES:
+            stmt = OVERRIDES[q['id']]['statement']
+            bt = OVERRIDES[q['id']]['blockTypes']
+        stmt, bt = merge_hyphen_blocks(stmt, bt)
+        q['statement'] = stmt
+        q['blockTypes'] = bt
+        changed += 1
         # replace figures with re-extracted crops / SVGs; drop caderno captions
         if q['id'] in IMGREFS:
             q['images'] = [{'src': r['src'], 'alt': r['alt']} for r in IMGREFS[q['id']]]

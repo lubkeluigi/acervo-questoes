@@ -2,7 +2,9 @@ import React from 'react';
 import katex from 'katex';
 import 'katex/dist/katex.min.css';
 
-const MATH_PARTS = /(\$\$[\s\S]*?\$\$|\$(?!\s)(?:\\.|[^$\n])*?(?<!\s)\$)/g;
+// A `$` that belongs to a currency token (R$, US$) is preceded by a letter and
+// must not open a math span; only start math when `$` is not glued to a word.
+const MATH_PARTS = /(\$\$[\s\S]*?\$\$|(?<![A-Za-z0-9])\$(?!\s)(?:\\.|[^$\n])*?(?<!\s)\$)/g;
 
 function decodeEntities(value) {
   return value.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');

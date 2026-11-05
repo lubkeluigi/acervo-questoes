@@ -21,7 +21,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q01-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -307,7 +307,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, para responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da Praça. Barandão abriu no mundo também. Mas o Sem-Pernas ficou encurralado na rua. Jogava picula¹ com os guardas. Estes tinham se despreocupado dos outros, pensavam que já era alguma coisa pegar aquele coxo. Sem-Pernas corria de um lado para outro da rua, os guardas avançavam. Ele fez que ia escapulir por outro lado, driblou um dos guardas, saiu pela ladeira. Mas em vez de descer e tomar pela Baixa dos Sapateiros, se dirigiu para a praça do Palácio. Porque Sem-Pernas sabia que se corresse na rua o pegariam com certeza. Eram homens, de pernas maiores que as suas, e além do mais ele era coxo, pouco podia correr. E acima de tudo não queria que o pegassem. Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai com ele. [...] Não o levarão. Vêm em seus calcanhares, mas não o levarão. Pensam que ele vai parar junto ao grande elevador. Mas Sem-Pernas não para. Sobe para o pequeno muro, volve o rosto para os guardas que ainda correm, ri com toda a força do seu ódio, cospe na cara de um que se aproxima estendendo os braços, se atira de costas no espaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se jogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta na montanha como um trapezista de circo que não tivesse alcançado o outro trapézio. O cachorro late entre as grades do muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e manja-pega.\n\nNa frase “E acima de tudo não queria que o pegassem” ($1^{o}$ parágrafo), a expressão sublinhada indica que a ação pretendida pelo personagem é",
+    "statement": "Leia o trecho do romance Capitães da areia, de Jorge Amado, para responder às questões de 06 a 08.\n\nPedro Bala e João Grande abalaram pela ladeira da Praça. Barandão abriu no mundo também. Mas o Sem-Pernas ficou encurralado na rua. Jogava picula¹ com os guardas. Estes tinham se despreocupado dos outros, pensavam que já era alguma coisa pegar aquele coxo. Sem-Pernas corria de um lado para outro da rua, os guardas avançavam. Ele fez que ia escapulir por outro lado, driblou um dos guardas, saiu pela ladeira. Mas em vez de descer e tomar pela Baixa dos Sapateiros, se dirigiu para a praça do Palácio. Porque Sem-Pernas sabia que se corresse na rua o pegariam com certeza. Eram homens, de pernas maiores que as suas, e além do mais ele era coxo, pouco podia correr. E acima de tudo não queria que o pegassem. Lembrava-se da vez que fora à polícia. Dos sonhos das suas noites más. Não o pegariam e enquanto corre este é o único pensamento que vai com ele. [...] Não o levarão. Vêm em seus calcanhares, mas não o levarão. Pensam que ele vai parar junto ao grande elevador. Mas Sem-Pernas não para. Sobe para o pequeno muro, volve o rosto para os guardas que ainda correm, ri com toda a força do seu ódio, cospe na cara de um que se aproxima estendendo os braços, se atira de costas no espaço como se fosse um trapezista de circo.\n\nA praça toda fica em suspenso por um momento. “Se jogou”, diz uma mulher, e desmaia. Sem-Pernas se rebenta na montanha como um trapezista de circo que não tivesse alcançado o outro trapézio. O cachorro late entre as grades do muro.\n\n(Capitães da areia, 2008.)\n\n1 picula: brincadeira infantil também conhecida como pega-pega, pegador e manja-pega.\n\nNa frase “E acima de tudo não queria que o pegassem” (1º parágrafo), a expressão sublinhada indica que a ação pretendida pelo personagem é",
     "blockTypes": [
       "prose",
       "prose",
@@ -413,7 +413,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -467,7 +467,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q10-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q10-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -521,7 +521,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q10-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q10-1.svg",
         "alt": "Imagem de apoio da questão 11 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -664,7 +664,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q14-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1157,7 +1157,7 @@ export const uea2024Vestibular = [
     "subject": "Filosofia",
     "detail": "Filosofia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o gráfico que apresenta o desmatamento da Amazônia no período de 2008 até o $1^{o}$ bimestre de 2024.\n\n600 564\n\n523\n\n2)Área (km 400 330 284 290 375 200 145 111 145 143 140 80 118 52 69 201 196 0 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n\n(https://imazon.org.br, 18.03.2024.)\n\nA análise do gráfico e conhecimentos sobre a ação do desmatamento na Amazônia revelam que, na série histórica,",
+    "statement": "Analise o gráfico que apresenta o desmatamento da Amazônia no período de 2008 até o 1º bimestre de 2024.\n\n600 564\n\n523\n\n0 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024\n\n(https://imazon.org.br, 18.03.2024.)\n\nA análise do gráfico e conhecimentos sobre a ação do desmatamento na Amazônia revelam que, na série histórica,",
     "blockTypes": [
       "prose",
       "source",
@@ -1250,7 +1250,7 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise o mapa, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que indica a distribuição georreferenciada dos domicílios durante a operação censitária de 2022, no estado Amazonas.\n\nEspécies de Endereços Domicílio particular Estabelecimento de outras Domicílio coletivo finalidades Estabelecimento agropecuário Edificação em construção Estabelecimento de ensino Estabelecimento religioso Estabelecimento de saúde Municípios amazonas\n\n(https://realtime1.com.br, 02.02.2024.)\n\nNo estado do Amazonas, a ocupação dos domicílios está concentrada",
+    "statement": "Analise o mapa, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que indica a distribuição georreferenciada dos domicílios durante a operação censitária de 2022, no estado Amazonas.\n\nDomicílio particular Estabelecimento de outras Domicílio coletivo finalidades Estabelecimento agropecuário Edificação em construção Estabelecimento de ensino Estabelecimento religioso Estabelecimento de saúde Municípios amazonas\n\n(https://realtime1.com.br, 02.02.2024.)\n\nNo estado do Amazonas, a ocupação dos domicílios está concentrada",
     "blockTypes": [
       "prose",
       "source",
@@ -1259,7 +1259,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q27-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1301,10 +1301,8 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Persuadidos e convencidos a embrenharem-se no desconhecido, homens, mulheres e crianças estavam agora determinados a prestarem “seu amor” à pátria. Os soldados e as soldadas da borracha não mediram esforços em abraçar a mãe seringueira e extrair dela seu sustento. O “paraíso” parecia estar mais perto do que se poderia imaginar. O sonho de riqueza e de uma vida próspera adquiria cada vez mais esperança e fortalecimento. Parecia que todos os problemas oriundos da vida de seca e de sofrimento seriam superados através de um toque de mágica.\n\n(Marquelino Santana. https://newsrondonia.com.br, 13.08.2023. Adaptado.)\n\nConsiderando o contexto apresentado, para a instalação da atividade extrativista na Amazônia, o Estado brasileiro estimulou",
+    "statement": "Persuadidos e convencidos a embrenharem-se no desconhecido, homens, mulheres e crianças estavam agora determinados a prestarem “seu amor” à pátria. Os soldados e as soldadas da borracha não mediram esforços em abraçar a mãe seringueira e extrair dela seu sustento. O “paraíso”",
     "blockTypes": [
-      "prose",
-      "source",
       "command"
     ],
     "images": [],
@@ -1400,7 +1398,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q30-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q30-1.svg",
         "alt": "Imagem de apoio da questão 30 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1442,11 +1440,9 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Quantidade de conflitos por terra em 2023\n\nNorte 700 (40%)\n\nNordeste 530 (30%)\n\nCentro-Oeste 300 (17%)\n\nSudeste 106 (6%)\n\nSul 88 (5%)\n\n(https://apublica.org, 22.04.2024. Adaptado.)\n\nNo Brasil, os conflitos por terra na região",
+    "statement": "Quantidade de conflitos por terra em 2023\n\nNorte 700 (40%)\n\nCentro-Oeste 300 (17%)\n\nSul 88 (5%)\n\n(https://apublica.org, 22.04.2024. Adaptado.)\n\nNo Brasil, os conflitos por terra na região",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
       "source",
       "source",
       "source",
@@ -1455,7 +1451,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q31-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1543,7 +1539,7 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O Amazonas ficou entre os oito estados brasileiros com a maior taxa de desocupação em 2023 com 9,9%. A taxa anual ficou 2,1 pontos percentuais acima do resultado nacional (7,8%). A taxa de desocupação representa o percentual de pessoas desocupadas em relação às pessoas na força de trabalho. Entre as pessoas, de 14 anos ou mais, e que estão em idade de trabalhar, em 2023, no Amazonas, 54% atuavam na informalidade. A taxa ficou maior 1,7 ponto percentual do que a da região Norte e 14,8 pontos percentuais maior que a do país. Com um rendimento médio real de R$ 2.367,00, o Amazonas ficou na $17^{a}$ posição entre as Unidades da Federação. O rendimento ficou menor em R$ 612,00 que o rendimento médio do país (R$ 2.979,00).\n\n(https://g1.globo.com, 16.02.2024. Adaptado.)\n\nAs características do mercado de trabalho retratado no excerto têm como consequência socioeconômica aos trabalhadores o aumento",
+    "statement": "O Amazonas ficou entre os oito estados brasileiros com a maior taxa de desocupação em 2023 com 9,9%. A taxa anual ficou 2,1 pontos percentuais acima do resultado nacional (7,8%). A taxa de desocupação representa o percentual de pessoas desocupadas em relação às pessoas na força de trabalho. Entre as pessoas, de 14 anos ou mais, e que estão em idade de trabalhar, em 2023, no Amazonas, 54% atuavam na informalidade. A taxa ficou maior 1,7 ponto percentual do que a da região Norte e 14,8 pontos percentuais maior que a do país. Com um rendimento médio real de R$ 2.367,00, o Amazonas ficou na 17ª posição entre as Unidades da Federação. O rendimento ficou menor em R$ 612,00 que o rendimento médio do país (R$ 2.979,00).\n\n(https://g1.globo.com, 16.02.2024. Adaptado.)\n\nAs características do mercado de trabalho retratado no excerto têm como consequência socioeconômica aos trabalhadores o aumento",
     "blockTypes": [
       "prose",
       "source",
@@ -1596,7 +1592,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q34-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1638,20 +1634,15 @@ export const uea2024Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine o esquema que representa as diversas etapas entre a coleta e o processamento final dos resíduos sólidos em determinadas nas cidades.\n\nCOLETA DE RESÍDUOS SÓLIDOS INCINERAÇÃOCENTRAL DE\n\nSEPARAÇÃO\n\nTRANSPORTE\n\nPROCESSADOPRODUTO\n\nEMBALAGEM RECICLAGEM\n\n(https://energes.com.br. Adaptado.)\n\nNesse esquema, o processamento de resíduos sólidos contribui para",
+    "statement": "Examine o esquema que representa as diversas etapas entre a coleta e o processamento final dos resíduos sólidos em determinadas nas cidades.\n\n(https://energes.com.br. Adaptado.)\n\nNesse esquema, o processamento de resíduos sólidos contribui para",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q35-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q35-1.svg",
         "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1701,7 +1692,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q36-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q36-1.svg",
         "alt": "Imagem de apoio da questão 36 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1743,24 +1734,15 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O esquema a seguir ilustra a diversidade de seres vivos no planeta.\n\nCordados\n\nAngiospermas Artrópodes\n\nGimnospermas Anelídeos Equinodermos\n\nFilicíneas Briófitas Basidiomicetos Moluscos Nematelmintes\n\nLicopodíneasAlgas verdesEquisetíneasAlgascastanhas AlgasvermelhasAscomicetosMixomicetosZigomicetosCnidáriosZooflageladosCiliados Poríferos(ou Espongiários)Platelmintes\n\nRizópodes\n\nDinoflagelados Esporozoários\n\nArqueobactérias\n\nEubactérias\n\n(https://emsinapse.wordpress.com. Adaptado.)\n\nA organização dos seres vivos ilustrada nesse esquema está fundamentada na",
+    "statement": "O esquema a seguir ilustra a diversidade de seres vivos no planeta.\n\n(https://emsinapse.wordpress.com. Adaptado.)\n\nA organização dos seres vivos ilustrada nesse esquema está fundamentada na",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q37-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q37-1.svg",
         "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1810,7 +1792,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q38-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q38-1.svg",
         "alt": "Imagem de apoio da questão 38 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -1895,20 +1877,15 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere a seguinte a teia alimentar.\n\nCorujaCoruja\n\nRaposaRaposa\n\nPássaroPássaro\n\nCoelhoCoelho RatoRato GafanhotoGafanhoto\n\nCenouraCenoura GramaGrama TrigoTrigo\n\n(www.gestaoeducacional.com.br. Adaptado.)\n\nNa teia alimentar ilustrada,",
+    "statement": "Considere a seguinte a teia alimentar.\n\n(www.gestaoeducacional.com.br. Adaptado.)\n\nNa teia alimentar ilustrada,",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "prose",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q40-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q40-1.svg",
         "alt": "Imagem de apoio da questão 40 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -2000,7 +1977,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q42-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q42-1.svg",
         "alt": "Imagem de apoio da questão 42 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -2085,10 +2062,9 @@ export const uea2024Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "2 atmosfé-\n\n430 420 410 400 390 380 (ppm) 370 360 $CO^{2}$350 340 330 320 310 1960 1970 1980 1990 2000 2010 2020\n\n(www.ecodebate.com.br. Adaptado.)\n\nEssa mesma tendência de crescimento, nesse mesmo período, também é observada em um gráfico que considera os dados referentes",
+    "statement": "O gráfico ilustra a variação na concentração de CO₂ atmosférico nos últimos sessenta anos.\n\n(www.ecodebate.com.br. Adaptado.)\n\nEssa mesma tendência de crescimento, nesse mesmo período, também é observada em um gráfico que considera os dados referentes",
     "blockTypes": [
       "prose",
-      "source",
       "source",
       "command"
     ],
@@ -2562,9 +2538,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nModelo da camiseta $N^{o}$ de camisetas compradas Valor unitário Decote careca 3 R$ 46,00 Gola polo 2? Decote em V 4 R$ 37,50 Considerando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
+    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nModelo da camiseta\tNº de camisetas compradas\t\tValor unitário\nDecote careca\t\t3\tR$ 46,00\nGola polo\t\t2\t?\nDecote em V\t\t4\tR$ 37,50\n\nConsiderando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
     "blockTypes": [
       "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -2753,7 +2730,7 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O setor de vendas de determinada empresa dividiu um bônus de R$ 15.000,00 entre os três funcionários que obtiveram os maiores valores em vendas no $1^{o}$ bimestre de 2024, de modo diretamente proporcional ao valor das vendas de cada um. Desses três vendedores, Marcos não foi quem obteve o maior valor em vendas, e Pedro, que recebeu R$ 4.500,00 de bônus, foi quem obteve o menor valor em vendas. Sabendo que o valor das vendas feitas por Pedro foi 90% do valor das vendas feitas por Marcos e que o valor total das vendas feitas por esses três vendedores foi R$ 900.000,00, o bônus recebido pelo funcionário que obteve o maior valor em vendas foi",
+    "statement": "O setor de vendas de determinada empresa dividiu um bônus de R$ 15.000,00 entre os três funcionários que obtiveram os maiores valores em vendas no 1º bimestre de 2024, de modo diretamente proporcional ao valor das vendas de cada um. Desses três vendedores, Marcos não foi quem obteve o maior valor em vendas, e Pedro, que recebeu R$ 4.500,00 de bônus, foi quem obteve o menor valor em vendas. Sabendo que o valor das vendas feitas por Pedro foi 90% do valor das vendas feitas por Marcos e que o valor total das vendas feitas por esses três vendedores foi R$ 900.000,00, o bônus recebido pelo funcionário que obteve o maior valor em vendas foi",
     "blockTypes": [
       "command"
     ],
@@ -2886,20 +2863,14 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No ramo da construção civil, normas mínimas de segurança são estabelecidas para assegurar que não haja riscos às pessoas. Apesar disso, é bastante comum nesse ramo ultrapassar esses níveis mínimos para garantir maior margem de segurança. Um exemplo dessa prática é a instalação de redes de proteção para janelas e sacadas de apartamentos. A rede de proteção ilustrada na figura possui 10 parafusos de fixação, sendo que cada um deles pode suportar até 540 N de tração sem que seja arrancado da parede.\n\nParafusos Janela\n\nParede\n\nParede\n\nRede\n\nParede\n\nParede\n\nConsiderando a massa de uma pessoa como sendo de 90 kg e a aceleração da gravidade igual a 10 m/$s^{2}$, a rede representada na figura seria capaz de suportar uma força equivalente ao peso de até",
+    "statement": "No ramo da construção civil, normas mínimas de segurança são estabelecidas para assegurar que não haja riscos às pessoas. Apesar disso, é bastante comum nesse ramo ultrapassar esses níveis mínimos para garantir maior margem de segurança. Um exemplo dessa prática é a instalação de redes de proteção para janelas e sacadas de apartamentos. A rede de proteção ilustrada na figura possui 10 parafusos de fixação, sendo que cada um deles pode suportar até 540 N de tração sem que seja arrancado da parede.\n\nConsiderando a massa de uma pessoa como sendo de 90 kg e a aceleração da gravidade igual a 10 m/$s^{2}$, a rede representada na figura seria capaz de suportar uma força equivalente ao peso de até",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q63-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q63-1.svg",
         "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3221,9 +3192,8 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Sob a iluminação de uma lâmpada, um estudante segura uma caneta paralelamente à superfície de uma mesa, projetando sobre a mesa uma sombra dessa caneta. Com o auxílio de uma régua, ele mede algumas dimensões, que estão indicadas na imagem.\n\nLâmpada\n\nCaneta\n\n20 cm 15 cm\n\nMesa\n\n22 cm 1 cm\n\nfora de escala\n\nConsidere que a lâmpada e a caneta se encontrem em um plano ortogonal à superfície da mesa. Com base nas medidas obtidas, o estudante conclui que a lâmpada está distanciada da mesa em",
+    "statement": "Sob a iluminação de uma lâmpada, um estudante segura uma caneta paralelamente à superfície de uma mesa, projetando sobre a mesa uma sombra dessa caneta. Com o auxílio de uma régua, ele mede algumas dimensões, que estão indicadas na imagem.\n\nLâmpada\n\nCaneta\n\nMesa\n\n22 cm 1 cm\n\nfora de escala\n\nConsidere que a lâmpada e a caneta se encontrem em um plano ortogonal à superfície da mesa. Com base nas medidas obtidas, o estudante conclui que a lâmpada está distanciada da mesa em",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -3234,7 +3204,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q70-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q70-1.svg",
         "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3283,7 +3253,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q71-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q71-1.svg",
         "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3325,19 +3295,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para evitar que cargas elétricas negativas se acumulem na superfície de um carro e produzam faíscas no momento do abastecimento, os engenheiros de uma equipe de corrida projetaram uma pintura especial que permite que a carga acumulada seja ejetada da carroceria do carro por efeito fotoelétrico.\n\nLuz Elétron\n\nejetado\n\nPara que os elétrons sejam ejetados da superfície da pintura do carro, é necessário que a energia de cada fóton incidente seja de no mínimo 2,5 eV. Considere o espectro eletromagnético a seguir e que a energia de um fóton seja dada por\n\n, em que λ é o comprimento de onda em nm.\n\nVioleta Azul Verde Amarela Laranja Vermelha\n\n400 450 500 550 600 650 700 750 (nm) Com base nesses dados, o carro será eletricamente descarregado quando sobre ele incidir luz monocromática",
+    "statement": "Para evitar que cargas elétricas negativas se acumulem na superfície de um carro e produzam faíscas no momento do abastecimento, os engenheiros de uma equipe de corrida projetaram uma pintura especial que permite que a carga acumulada seja ejetada da carroceria do carro por efeito fotoelétrico.\n\nPara que os elétrons sejam ejetados da superfície da pintura do carro, é necessário que a energia de cada fóton incidente seja de no mínimo 2,5 eV. Considere o espectro eletromagnético a seguir e que a energia de um fóton seja dada por\n\nCom base nesses dados, o carro será eletricamente descarregado quando sobre ele incidir luz monocromática",
     "blockTypes": [
-      "prose",
-      "source",
-      "source",
-      "prose",
       "prose",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q72-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q72-1.svg",
         "alt": "Imagem de apoio da questão 72 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3379,19 +3345,15 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\n+mL1502002501005%500 15010020030025050+5%mL\n\nNeônio Propanona Gálio\n\nA tabela apresenta valores de temperaturas de fusão e ebulição, a 1 atm, relacionadas às três substâncias do quadro, aleatoriamente.\n\nSubstância Temperatura de fusão Temperatura de ebulição\n\n1 302,9 K 2676 K\n2 173 K 337,7K\n3 24 K 27 K\n\nO dado da substância da tabela corresponde à substância do quadro. As lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\n1\t302,9 K\t2676 K\n2\t173 K\t337,7K\n3\t24 K\t27 K\n\nO dado da substância da tabela corresponde à substância do quadro. As lacunas do texto são preenchidas, respectivamente, por",
     "blockTypes": [
       "prose",
-      "source",
-      "prose",
-      "prose",
-      "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q73-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q73-1.svg",
         "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3433,16 +3395,14 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A evolução do conhecimento da estrutura da matéria teve a contribuição de diversos pesquisadores que elaboraram modelos explicativos para a estrutura do átomo. Um desses modelos assemelha-se a um doce inglês denominado pudim de passas, pois descreve uma massa esférica que tem partículas carregadas negativamente inseridas em seu interior, conforme representado nas figuras.\n\nPudim de passas Modelo Atômico\n\n(www.cupcakeproject.com) (http://bilgioloji.com)\n\nO nome do pesquisador que propôs esse modelo atômico e o nome dessas partículas são, respectivamente,",
+    "statement": "A evolução do conhecimento da estrutura da matéria teve a contribuição de diversos pesquisadores que elaboraram modelos explicativos para a estrutura do átomo. Um desses modelos assemelha-se a um doce inglês denominado pudim de passas, pois descreve uma massa esférica que tem partículas carregadas negativamente inseridas em seu interior, conforme representado nas figuras.\n\nO nome do pesquisador que propôs esse modelo atômico e o nome dessas partículas são, respectivamente,",
     "blockTypes": [
       "prose",
-      "prose",
-      "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-cg/q74-1.png",
+        "src": "/images/uea/vestibular-2024-cg/q74-1.svg",
         "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2024)."
       }
     ],
@@ -3660,15 +3620,13 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de\n\n3. Ao entrar em\n\no hidróxido de alumínio reage formando água (Hcloreto de alumínio ($AlCl_{3}$ 2O) e o sal\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:\n\n3 $2H_{2}$O + $AlCl_{3}$\n\n3 3 ($H_{2}$ 3 + $AlCl_{3}$\n\n3 $6H_{2}$O + $AlCl_{3}$",
+    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de\n\n3. Ao entrar em\n\no hidróxido de alumínio reage formando água (Hcloreto de alumínio ($AlCl_{3}$ 2O) e o sal\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:\n\n\t3\t$2H_{2}$O + $AlCl_{3}$\n3\t3\t($H_{2}$ 3 + $AlCl_{3}$\n\t3\t$6H_{2}$O + $AlCl_{3}$",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "command"
+      "table"
     ],
     "images": [],
     "alternatives": [
@@ -3709,14 +3667,12 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O radioisótopo tálio-201 é usado como contraste injetável em exames de imagem que avaliam o fluxo sanguíneo e a função cardíaca. O gráfico representa a curva de decaimento radioativo desse radioisótopo.\n\n100\n\n75 Quantidade (%) 50\n\n25\n\n0 50 100 200 250 300 350 400\n\n146 Tempo (horas)\n\nA meia-vida do tálio-201 é",
+    "statement": "O radioisótopo tálio-201 é usado como contraste injetável em exames de imagem que avaliam o fluxo sanguíneo e a função cardíaca. O gráfico representa a curva de decaimento radioativo desse radioisótopo.\n\n100\n\n75 Quantidade (%) 50\n\n25\n\nA meia-vida do tálio-201 é",
     "blockTypes": [
       "prose",
       "source",
       "source",
       "source",
-      "source",
-      "prose",
       "command"
     ],
     "images": [],
@@ -3994,7 +3950,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q02-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q02-1.svg",
         "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4045,7 +4001,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q03-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q03-1.svg",
         "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4228,7 +4184,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q07-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q07-1.svg",
         "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4279,7 +4235,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q08-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4587,8 +4543,9 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "no controle da transpiração e do odor corporal, sendo am-O cloreto de alumínio ($AlCl_{3}$) é um dos compostos eficazes plamente utilizado em antitranspirantes comerciais. Sua obtenção pode ser feita por meio da reação representada na equação balanceada:\n\n2Al (s) + 6HCl (aq) $2AlCl_{3}$ (aq) + $3H_{2}$ (g) A quantidade necessária de HCl para a obtenção de 15 mol de cloreto de alumínio é",
+    "statement": "O cloreto de alumínio (AlCl₃) é um dos compostos eficazes no controle da transpiração e do odor corporal, sendo amplamente utilizado em antitranspirantes comerciais. Sua obtenção pode ser feita por meio da reação representada na equação balanceada:\n\n2 Al (s) + 6 HCl (aq) → 2 AlCl₃ (aq) + 3 H₂ (g)\n\nA quantidade necessária de HCl para a obtenção de 15 mol de cloreto de alumínio é",
     "blockTypes": [
+      "prose",
       "prose",
       "command"
     ],
@@ -4768,17 +4725,14 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Bombas calorimétricas são dispositivos utilizados para o estudo da entalpia de combustão. Trata-se de uma câmara interna, onde ocorre a combustão, envolta por água que interage com o calor liberado. Nesse estudo, a amostra a ser analisada é queimada em condições controladas e o calor, que é transferido para a água, é detectado por um termômetro. A figura mostra um esquema de uma bomba calorimétrica.\n\n(www.chimica-online.it. Adaptado.)\n\nFoi utilizada uma bomba calorimétrica para o estudo da combustão de determinada substância sólida. Os dados do experimento são apresentados na tabela.\n\nMassa Calor liberado Entalpia de combustão da substância na combustão da substância\n\n1,2 g 39,4 kJ 394 kJ/mol A massa molar da substância estudada é igual a",
+    "statement": "Bombas calorimétricas são dispositivos utilizados para o estudo da entalpia de combustão. Trata-se de uma câmara interna, onde ocorre a combustão, envolta por água que interage com o calor liberado. Nesse estudo, a amostra a ser analisada é queimada em condições controladas e o calor, que é transferido para a água, é detectado por um termômetro. A figura mostra um esquema de uma bomba calorimétrica.\n\n1,2 g 39,4 kJ 394 kJ/mol A massa molar da substância estudada é igual a",
     "blockTypes": [
-      "prose",
-      "source",
-      "prose",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q19-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4829,7 +4783,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q20-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4881,7 +4835,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q21-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -4924,16 +4878,13 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em um experimento de cinética química, o consumo de amô-\n\nreação ocorre conforme representado na equação:nia ($NH_{3}$) foi monitorado na reação com o oxigênio ($O_{2}$). Essa\n\n$4NH_{3}$ (g) + $5O_{2}$ (g) 4NO (g) + $6H_{2}$O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo Concentraçã$oNH_{3}$\n0 s 1\n10 s 1\n20 s 1\n30 s 1\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consu-\n\n1 1, é\n\n2.\n1.\n2.\n1.\n1.",
+    "statement": "Em um experimento de cinética química, o consumo de amônia (NH₃) foi monitorado na reação com o oxigênio (O₂). Essa reação ocorre conforme representado na equação:\n\n4 NH₃ (g) + 5 O₂ (g) → 4 NO (g) + 6 H₂O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo\tConcentração de NH₃\n0 s\t0,320 mol·L⁻¹\n10 s\t0,240 mol·L⁻¹\n20 s\t0,160 mol·L⁻¹\n30 s\t0,080 mol·L⁻¹\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consumo de oxigênio nesse experimento, em mol·L⁻¹·s⁻¹, é",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
-      "prose",
-      "poem",
-      "prose",
-      "prose",
-      "poem"
+      "table",
+      "command"
     ],
     "images": [],
     "alternatives": [
@@ -4975,9 +4926,8 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Ao longo dos processos nucleares que envolvem o isótopo natural urânio-238, ocorre a formação de diversos produtos de\n\n239Pu), utilizado em armas\n\n235U), con-\n\nforme representado na equação nuclear:\n\nNa equação do processo de decaimento radioativo do plutônio-239, a emissão representada por j é",
+    "statement": "Ao longo dos processos nucleares que envolvem o isótopo natural urânio-238, ocorre a formação de diversos produtos de\n\n239Pu), utilizado em armas\n\n235U), conforme representado na equação nuclear:\n\nNa equação do processo de decaimento radioativo do plutônio-239, a emissão representada por j é",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5030,7 +4980,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q25-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -5179,7 +5129,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7º parágrafo), a palavra “evasivamente” indica que a resposta foi",
     "blockTypes": [
       "prose",
       "prose",
@@ -5232,7 +5182,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” (11º parágrafo), passada ao discurso indireto, assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5285,7 +5235,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” (9º parágrafo) Em relação à primeira, a segunda oração expressa uma",
     "blockTypes": [
       "prose",
       "prose",
@@ -5345,7 +5295,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g1/q31-1.png",
+        "src": "/images/uea/vestibular-2024-g1/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo I, 2024)."
       }
     ],
@@ -5388,7 +5338,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” (1º parágrafo) tem o sentido de algo que",
     "blockTypes": [
       "prose",
       "prose",
@@ -5446,7 +5396,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” (13º parágrafo), o autor recorre, sobretudo,",
     "blockTypes": [
       "prose",
       "prose",
@@ -5504,7 +5454,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” (13º parágrafo) O pronome sublinhado refere-se a",
     "blockTypes": [
       "prose",
       "prose",
@@ -5720,7 +5670,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q02-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q02-1.svg",
         "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6000,7 +5950,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q08-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6098,7 +6048,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q10-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q10-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6149,7 +6099,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q11-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q11-1.svg",
         "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6385,7 +6335,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q16-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6528,7 +6478,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q19-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6717,7 +6667,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q23-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6813,7 +6763,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q25-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -6962,7 +6912,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7º parágrafo), a palavra “evasivamente” indica que a resposta foi",
     "blockTypes": [
       "prose",
       "prose",
@@ -7015,7 +6965,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” (11º parágrafo), passada ao discurso indireto, assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7068,7 +7018,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” (9º parágrafo) Em relação à primeira, a segunda oração expressa uma",
     "blockTypes": [
       "prose",
       "prose",
@@ -7128,7 +7078,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g2/q31-1.png",
+        "src": "/images/uea/vestibular-2024-g2/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo II, 2024)."
       }
     ],
@@ -7171,7 +7121,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” (1º parágrafo) tem o sentido de algo que",
     "blockTypes": [
       "prose",
       "prose",
@@ -7229,7 +7179,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” (13º parágrafo), o autor recorre, sobretudo,",
     "blockTypes": [
       "prose",
       "prose",
@@ -7287,7 +7237,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” (13º parágrafo) O pronome sublinhado refere-se a",
     "blockTypes": [
       "prose",
       "prose",
@@ -7632,9 +7582,8 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma sala de aula há determinado número de alunos, sendo que 2 deles escrevem com as duas mãos, 4 alunos só escrevem com a mão esquerda e os demais só escrevem com a mão direita. Sorteando-se aleatoriamente um aluno dessa sala, a probabilidade de que ele escreva com a mão esquerda é. O número de alunos dessa sala que escre-\n\nvem com a mão direita é",
+    "statement": "Em uma sala de aula há determinado número de alunos, sendo que 2 deles escrevem com as duas mãos, 4 alunos só escrevem com a mão esquerda e os demais só escrevem com a mão direita. Sorteando-se aleatoriamente um aluno dessa sala, a probabilidade de que ele escreva com a mão esquerda é. O número de alunos dessa sala que escrevem com a mão direita é",
     "blockTypes": [
-      "prose",
       "command"
     ],
     "images": [],
@@ -7766,13 +7715,10 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nTurmas $N_{o}$ de alunos comprados por alunoNo de convites $\\frac{P}{Q}$ 20 6\n\n30 4\n\n$\\frac{R}{S}$ 25 3\n\n45?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
+    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nTurmas\tNº de alunos\tcomprados por alunoNo de convites\t\n$\\frac{P}{Q}$\t20\t\t6\n\t30\t\t4\n$\\frac{R}{S}$\t25\t\t3\n\t45\t\t?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -7903,9 +7849,8 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um sólido, no formato de um cilindro circular reto, tem volume\n\nL 3 L) é calculada pela ex-\n\nda altura desse cilindro é o dobro da medida do raio da sua base, a área lateral desse cilindro é",
+    "statement": "Um sólido, no formato de um cilindro circular reto, tem volume\n\nL 3 L) é calculada pela exda altura desse cilindro é o dobro da medida do raio da sua base, a área lateral desse cilindro é",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],
@@ -7949,16 +7894,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "No muro de uma escola está pintado o desenho de uma régua, graduada em metros. Como atividade, o professor de Física pede para que os alunos gravem um vídeo de uma pessoa andando ao lado desse muro e, com as informações do vídeo, determinem a velocidade média da pessoa. As figuras 1 e 2 representam quadros do vídeo obtido pelos alunos.\n\nFigura 1\n\nFigura 2\n\nCom base na análise das figuras, os alunos devem calcular que a velocidade média da pessoa é de",
+    "statement": "No muro de uma escola está pintado o desenho de uma régua, graduada em metros. Como atividade, o professor de Física pede para que os alunos gravem um vídeo de uma pessoa andando ao lado desse muro e, com as informações do vídeo, determinem a velocidade média da pessoa. As figuras 1 e 2 representam quadros do vídeo obtido pelos alunos.\n\nFigura 1\n\nCom base na análise das figuras, os alunos devem calcular que a velocidade média da pessoa é de",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q13-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8001,14 +7945,14 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um professor de Física constrói um experimento para apresentar a seus alunos a $2^{a}$ Lei de Newton. Sobre um trilho reto e horizontal, ele coloca um carrinho de massa desprezível e, a esse carrinho, prende uma corda com um dinamômetro, como apresentado na figura. A corda passa por uma roldana e é presa a um tijolo. Os alunos, então, inserem um objeto de massa desconhecida m dentro do carrinho e liberam o sistema.\n\nSabendo que o sistema é livre de atritos, que a leitura do dinamômetro foi de 7,5 N e que a aceleração obtida pelo carrinho foi de 2,5 m/$s^{2}$, os alunos calculam que m vale",
+    "statement": "Um professor de Física constrói um experimento para apresentar a seus alunos a 2ª Lei de Newton. Sobre um trilho reto e horizontal, ele coloca um carrinho de massa desprezível e, a esse carrinho, prende uma corda com um dinamômetro, como apresentado na figura. A corda passa por uma roldana e é presa a um tijolo. Os alunos, então, inserem um objeto de massa desconhecida m dentro do carrinho e liberam o sistema.\n\nSabendo que o sistema é livre de atritos, que a leitura do dinamômetro foi de 7,5 N e que a aceleração obtida pelo carrinho foi de 2,5 m/$s^{2}$, os alunos calculam que m vale",
     "blockTypes": [
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q15-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8051,16 +7995,15 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Pontes geralmente são construídas com segmentos que, dentre várias outras funções, servem para impedir que dilatações térmicas danifiquem suas estruturas. A figura a seguir destaca como se dá a junção dos segmentos de uma ponte.\n\n(www.aecweb.com.br. Adaptado.)\n\nConsidere que o comprimento de um desses segmentos da ponte varie linearmente em função da temperatura, conforme descrito no gráfico.\n\nCom base nos dados apresentados no gráfico, conclui-se que, dada uma variação de temperatura de 20 ºC, o segmento da ponte dilatará em",
+    "statement": "Pontes geralmente são construídas com segmentos que, dentre várias outras funções, servem para impedir que dilatações térmicas danifiquem suas estruturas. A figura a seguir destaca como se dá a junção dos segmentos de uma ponte.\n\nConsidere que o comprimento de um desses segmentos da ponte varie linearmente em função da temperatura, conforme descrito no gráfico.\n\nCom base nos dados apresentados no gráfico, conclui-se que, dada uma variação de temperatura de 20 ºC, o segmento da ponte dilatará em",
     "blockTypes": [
       "prose",
-      "source",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q16-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8110,7 +8053,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q17-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q17-1.svg",
         "alt": "Imagem de apoio da questão 17 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8160,7 +8103,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q18-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8210,7 +8153,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q19-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8304,7 +8247,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q21-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8400,7 +8343,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q23-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8450,7 +8393,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q25-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8599,7 +8542,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” ($7^{o}$ parágrafo), a palavra “evasivamente” indica que a resposta foi",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nNo trecho “— Estou fazendo uma coisa — respondeu evasivamente” (7º parágrafo), a palavra “evasivamente” indica que a resposta foi",
     "blockTypes": [
       "prose",
       "prose",
@@ -8652,7 +8595,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” ($11^{o}$ parágrafo), passada ao discurso indireto, assume a seguinte redação:",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\nA fala “quem manda em mim é meu pai” (11º parágrafo), passada ao discurso indireto, assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -8705,7 +8648,7 @@ export const uea2024Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” ($9^{o}$ parágrafo) Em relação à primeira, a segunda oração expressa uma",
+    "statement": "Leia o trecho do romance Ciranda de pedra, de Lygia Fagundes Telles, para responder às questões de 26 a 30.\n\nVirgínia subiu precipitadamente a escada e trancou-se no quarto.\n\n— Abre, menina — ordenou Luciana do lado de fora. Virgínia encostou-se à parede e pôs-se a roer as unhas, seguindo com o olhar uma formiguinha que subia pelo batente da porta. “Se entrar aí nessa fresta, você morre!”, sussurrou soprando-a para o chão. “Eu te salvo, bobinha, não tenha medo”, disse em voz alta. E afastou-a com o indicador. Nesse instante fixou o olhar na unha roída até a carne. Pensou nas unhas de Otávia. E esmagou a formiga.\n\n— Virgínia, eu não estou brincando, menina. Abre logo, anda!\n\n— Agora não posso. — Não pode por quê? — Estou fazendo uma coisa — respondeu evasivamente. Pensava em Conrado a lhe explicar que os bichos são como gente, têm alma de gente, e que matar um bichinho era o mesmo que matar uma pessoa. “Se você for má e começar a matar só por gosto, na outra vida você será bicho também, mas um desses bichos horríveis, cobra, rato, aranha...” Deitou-se no assoalho e começou a se espojar angustiosamente, avançando de rastros até o meio do quarto.\n\n— Ou você abre ou conto para o seu tio. É isto que você quer, é isto?\n\nVirgínia imobilizou-se. Ser cobra machucava os cotovelos, melhor ser borboleta. Mas quem ia ser borboleta decerto era Otávia, que era linda. “E eu sou feia e ruim, ruim, ruim!”, exclamou dando murros no chão. Ergueu a cabeça num desafio:\n\n— Pode contar tudo, tio Daniel não me manda, quem manda em mim é meu pai, ouviu? Meu pai.\n\n(Ciranda de pedra, 2009.)\n\n“— Ou você abre ou conto para o seu tio.” (9º parágrafo) Em relação à primeira, a segunda oração expressa uma",
     "blockTypes": [
       "prose",
       "prose",
@@ -8765,7 +8708,7 @@ export const uea2024Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2024-g3/q31-1.png",
+        "src": "/images/uea/vestibular-2024-g3/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA Unificado — Específicos Grupo III, 2024)."
       }
     ],
@@ -8808,7 +8751,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” ($1^{o}$ parágrafo) tem o sentido de algo que",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nNo contexto em que está inserida, a palavra sublinhada em “É uma traição póstuma, retardatária, residual” (1º parágrafo) tem o sentido de algo que",
     "blockTypes": [
       "prose",
       "prose",
@@ -8866,7 +8809,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” ($13^{o}$ parágrafo), o autor recorre, sobretudo,",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\nEm “porém a consciência não é boba e um dia se vinga” (13º parágrafo), o autor recorre, sobretudo,",
     "blockTypes": [
       "prose",
       "prose",
@@ -8924,7 +8867,7 @@ export const uea2024Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” ($13^{o}$ parágrafo) O pronome sublinhado refere-se a",
+    "statement": "Considere o texto “Serial lover”, escrito por Carpinejar, para responder às questões de 32 a 35.\n\nExiste uma infidelidade mais secreta e menos evidente, que acontece depois do relacionamento. Só acontece depois. É uma traição póstuma, retardatária, residual.\n\nÉ quando você repete os mesmos lugares, os mesmos apelos, as mesmas confidências com outro. É quando você insiste em escrever e tecer declarações exatamente iguais.\n\nÉ uma extorsão sentimental colocar um desejo para sua nova companhia como se fosse inédito.\n\nPois a paixão só é idêntica para quem não enxerga as diferenças.\n\nÉ como remanejar presentes, aproveitar alianças antigas. Você prova que não tem criatividade nenhuma, demonstra a maior apatia: refaz os passeios que já realizou, leva para os restaurantes que frequentava, as baladas e festas conhecidas, reincide nos roteiros de viagem, destina sonhos e palavras já gastos, reemprega até os nomes aprovados para quando nascessem seus filhos.\n\nMudou a pessoa, mas não o seu jeito de seduzir. Mudou a pessoa, mas não sua rotina de amar. Mudou a pessoa, mas não seu script.\n\nÉ uma melancólica sobreposição, desastrada colagem. Nem precisa cometer o ato falho de trocar o nome do atual pelo ex, porque estará revisitando atmosferas e cenários. Experimenta locações contaminadas por juras velhas.\n\nNão há sensação mais ingrata para seu namorado anterior ao perceber que era mais um. Um qualquer, nem um pouco especial. Um sósia de cenas românticas. Um dublê da adrenalina e dos feromônios.\n\nVocê oferece um passado usado sob o disfarce de futuro. Alcança aquilo que foi ensaiado com o antecessor. Não se dá o luxo de disfarçar, o trabalho de maquiar, colocar uma manta no mobiliário da memória.\n\nRecorrendo à fórmula fixa de história feliz, estabelece uma competição imaginária, anula a individualidade do seu par, apaga a invenção a dois e a costura por caminhos surpreendentes e inesquecíveis.\n\nAcredita em sua inocência porque ninguém comentará o assunto. Desfruta da tolerância dos garçons, dos colegas, dos amigos, dos parentes. É realmente um segredo com pequenas chances de ser revelado, porém a consciência não é boba e um dia se vinga.\n\nO que vive está longe de ser amor, é obsessão.\n\n(Carpinejar. Para onde vai o amor, 2015.)\n\n“Acredita em sua inocência porque ninguém comentará o assunto.” (13º parágrafo) O pronome sublinhado refere-se a",
     "blockTypes": [
       "prose",
       "prose",

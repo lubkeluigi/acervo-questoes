@@ -21,7 +21,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q01-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -63,7 +63,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” ($7^{o}$ parágrafo) refere-se ao fato de que Macunaíma",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nA expressão “gato miador, pouco caçador” (7º parágrafo) refere-se ao fato de que Macunaíma",
     "blockTypes": [
       "prose",
       "prose",
@@ -117,7 +117,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\n“o herói murmurou: — Aqui serve.” ($1^{o}$ e $2^{o}$ parágrafos). Ao ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\n“o herói murmurou: — Aqui serve.” (1º e 2º parágrafos). Ao ser transposto para o discurso indireto, esse trecho assume a seguinte redação:",
     "blockTypes": [
       "prose",
       "prose",
@@ -171,7 +171,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após o verbo. Ocorre sujeito posposto na seguinte oração:",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nEm uma oração, sujeito posposto é aquele que aparece após o verbo. Ocorre sujeito posposto na seguinte oração:",
     "blockTypes": [
       "prose",
       "prose",
@@ -225,7 +225,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamusca-\ndos que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, sobretudo,",
+    "statement": "Leia o trecho, retirado do romance Macuaíma, de Mário de Andrade, para responder às questões de 02 a 05.\n\n1 Quando chegaram ao bosque da Saúde o herói murmurou:\n\n— Aqui serve. Dispôs os manos nas esperas, botou fogo no bosque e ficou também amoitado esperando que saísse algum viado mateiro pra ele caçar. Porém não tinha nenhum viado lá e quando queimada acabou, jacaré saiu? pois nem viado mateiro nem viado catingueiro, saíram só dois ratos chamuscados. Então o herói caçou os ratos chamuscados, comeu-os e sem chamar os manos voltou pra pensão.\n\nLá chegado ajuntou os vizinhos, criados a patroa cunhãs datilógrafas estudantes empregados-públicos, muitos empregados-públicos! todos esses vizinhos e contou pra eles que tinha ido caçar na feira do Arouche e matara dois... 5 —...mateiros, não eram viados mateiros não, dois viados catingueiros que comi com os manos. Até vinha trazendo um naco pra vocês mas porém escorreguei na esquina, caí derrubei o embrulho e cachorro comeu tudo.\n\nToda a gente se sarapantou com o sucedido e desconfiaram do herói. Quando Maanape e Jiguê voltaram, os vizinhos foram perguntar pra eles si era verdade que Macunaíma caçara dois catingueiros na feira do Arouche. Os manos ficaram\n\n1 porque não sabiam mentir e exclamaram\n\nirritadíssimos:\n\n— Mas que catingueiros esses! O herói nunca matou\n\nviado! Não tinha nenhum viado na caçada não! Gato miador,\npouco caçador, gente! Em vez foram dois ratos chamuscados que Macunaíma pegou e comeu.\n\n(Macunaíma, 2022.)\n\n1 \u0007enquizilado: aborrecido.\n\nNo romance Macunaíma, a “mata virgem” onde o protagonista nasceu contrasta com a urbanidade representada, sobretudo,",
     "blockTypes": [
       "prose",
       "prose",
@@ -313,31 +313,31 @@ export const uea2026Vestibular = [
     "alternativeImages": [
       [
         {
-          "src": "/images/uea/vestibular-2026-cg/q06-a.png",
+          "src": "/images/uea/vestibular-2026-cg/q06-a.svg",
           "alt": "Lyubov Popova. Modelo de um vestido, 1923-1924."
         }
       ],
       [
         {
-          "src": "/images/uea/vestibular-2026-cg/q06-b.png",
+          "src": "/images/uea/vestibular-2026-cg/q06-b.svg",
           "alt": "Claude Monet. Impressão, sol nascente, 1872-1873."
         }
       ],
       [
         {
-          "src": "/images/uea/vestibular-2026-cg/q06-c.png",
+          "src": "/images/uea/vestibular-2026-cg/q06-c.svg",
           "alt": "Mark Rothko. O ocre, 1954."
         }
       ],
       [
         {
-          "src": "/images/uea/vestibular-2026-cg/q06-d.png",
+          "src": "/images/uea/vestibular-2026-cg/q06-d.svg",
           "alt": "Vincent van Gogh. A noite estrelada, 1889."
         }
       ],
       [
         {
-          "src": "/images/uea/vestibular-2026-cg/q06-e.png",
+          "src": "/images/uea/vestibular-2026-cg/q06-e.svg",
           "alt": "Andy Warhol. Díptico de Marilyn, 1962."
         }
       ]
@@ -358,7 +358,7 @@ export const uea2026Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 06 a 08, leia um trecho do livro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não imitam ou mesmo tentam representar um objeto físico, como uma casa ou um cão. Fazê-lo seria um fracasso aos olhos do artista abstrato, que visa produzir uma obra de arte que seja uma façanha da imaginação, em que sejamos incapazes de reconhecer alguma coisa de nosso mundo conhecido. Por vezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e quadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que poderia ser o caso, mas na realidade é muito improvável. É algo surpreendentemente difícil definir com clareza o que é que torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma coisa. Há algo relacionado à sua fluidez, ou composição, ou forma, que leva milhões de nós às galerias de arte moderna [...]. De alguma maneira, os artistas abstratos conseguiram arranjar suas formas e pinceladas em desenhos capazes de estabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata encerra certo mistério; algo que confunde nossos cérebros racionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa que é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm “A verdade é que a arte abstrata encerra certo mistério” ($2^{o}$ parágrafo), o verbo sublinhado pode ser substituído, sem prejuízo para o sentido da frase, por:",
+    "statement": "Para responder às questões de 06 a 08, leia um trecho do livro Isto é arte?, de Will Gompertz.\n\n“Arte abstrata” designa pinturas ou esculturas que não imitam ou mesmo tentam representar um objeto físico, como uma casa ou um cão. Fazê-lo seria um fracasso aos olhos do artista abstrato, que visa produzir uma obra de arte que seja uma façanha da imaginação, em que sejamos incapazes de reconhecer alguma coisa de nosso mundo conhecido. Por vezes ela é chamada de “arte não figurativa”.\n\nVocê conhece esse tipo de coisa, aqueles rabiscos e quadrados aparentemente aleatórios que nos levam a pensar: “Uma criança de cinco anos poderia ter feito isso.” O que poderia ser o caso, mas na realidade é muito improvável. É algo surpreendentemente difícil definir com clareza o que é que torna essas linhas de alguma maneira diferentes daquelas que você ou eu poderíamos desenhar, mas existe alguma coisa. Há algo relacionado à sua fluidez, ou composição, ou forma, que leva milhões de nós às galerias de arte moderna [...]. De alguma maneira, os artistas abstratos conseguiram arranjar suas formas e pinceladas em desenhos capazes de estabelecer uma conexão significativa conosco, sem que saibamos como ou por quê. A verdade é que a arte abstrata encerra certo mistério; algo que confunde nossos cérebros racionais quando acreditamos que pinturas e esculturas precisam contar uma história. Trata-se de uma ideia complexa que é tipicamente expressada de maneira simples.\n\n(Isto é arte?, 2013. Adaptado.)\n\nEm “A verdade é que a arte abstrata encerra certo mistério” (2º parágrafo), o verbo sublinhado pode ser substituído, sem prejuízo para o sentido da frase, por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -876,7 +876,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q18-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -964,7 +964,7 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Examine o artigo $1^{o}$ da Lei Eusébio de Queirós, aprovada em 4 de setembro de 1850.\n\nArt. $1^{o}$ — As embarcações brasileiras encontradas em qualquer parte, e as estrangeiras encontradas nos portos, enseadas, ancoradouros, ou mares territoriais do Brasil, tendo a seu bordo escravizados, cuja importação é proibida pela lei de 7 de novembro de 1831, ou havendo-os desembarcado, serão apreendidas pelas autoridades, ou pelos navios de guerra brasileiros e consideradas importadoras de escravizados.\n\n(Apud Clóvis Moura. Dicionário da Escravidão negra no Brasil,\n\n2013. Adaptado.)\n\nO artigo da lei tinha como principal objetivo",
+    "statement": "Examine o artigo 1º da Lei Eusébio de Queirós, aprovada em 4 de setembro de 1850.\n\nArt. 1º — As embarcações brasileiras encontradas em qualquer parte, e as estrangeiras encontradas nos portos, enseadas, ancoradouros, ou mares territoriais do Brasil, tendo a seu bordo escravizados, cuja importação é proibida pela lei de 7 de novembro de 1831, ou havendo-os desembarcado, serão apreendidas pelas autoridades, ou pelos navios de guerra brasileiros e consideradas importadoras de escravizados.\n\n(Apud Clóvis Moura. Dicionário da Escravidão negra no Brasil,\n\n2013. Adaptado.)\n\nO artigo da lei tinha como principal objetivo",
     "blockTypes": [
       "prose",
       "prose",
@@ -1103,7 +1103,7 @@ export const uea2026Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O racismo estrutural configura desde sistemas de apreciação moral e estética às políticas institucionais, passando pelo acesso diferenciado à saúde e à educação. Dito de outro modo, o racismo estrutura a sociedade brasileira, assentada, historicamente, em quase 400 anos de relações escravocratas. O racismo estrutural manifesta-se na esfera pública e privada, em discursos e práticas sociais, de forma praticamente invisível porque naturalizada: está incorporado na materialidade de nossos corpos e em nossos esquemas de percepção, pensamento e ação — constituindo o que o sociólogo Pierre Bourdieu chamaria de habitus, isto é, uma relação social somatizada, efeito da inscrição das estruturas sociais e simbólicas no corpo; um habitus racializado.\n\n(Gerusa Faria Rodrigues e Debora Breder. “‘Raça’ e racismo estrutural:\n\n(re)pensando a formação de professores na educação básica”. Revista Brasileira de Política e Administração da Educação,\n\nvol. 39, $n^{o}$ 1, 2024. Adaptado.)\n\nNo excerto, relaciona-se o conceito de habitus ao fenômeno do racismo estrutural porque",
+    "statement": "O racismo estrutural configura desde sistemas de apreciação moral e estética às políticas institucionais, passando pelo acesso diferenciado à saúde e à educação. Dito de outro modo, o racismo estrutura a sociedade brasileira, assentada, historicamente, em quase 400 anos de relações escravocratas. O racismo estrutural manifesta-se na esfera pública e privada, em discursos e práticas sociais, de forma praticamente invisível porque naturalizada: está incorporado na materialidade de nossos corpos e em nossos esquemas de percepção, pensamento e ação — constituindo o que o sociólogo Pierre Bourdieu chamaria de habitus, isto é, uma relação social somatizada, efeito da inscrição das estruturas sociais e simbólicas no corpo; um habitus racializado.\n\n(Gerusa Faria Rodrigues e Debora Breder. “‘Raça’ e racismo estrutural:\n\n(re)pensando a formação de professores na educação básica”. Revista Brasileira de Política e Administração da Educação,\n\nvol. 39, nº 1, 2024. Adaptado.)\n\nNo excerto, relaciona-se o conceito de habitus ao fenômeno do racismo estrutural porque",
     "blockTypes": [
       "prose",
       "source",
@@ -1206,7 +1206,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q25-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -1302,7 +1302,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q27-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -1389,7 +1389,7 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O $3^{o}$ Encontro das Partes (MOP-3), realizado em Curitiba (PR), definiu a posição de alguns países em relação a vários pontos sobre um determinado pacto internacional. O Brasil, embora signatário desse pacto, chega ao evento com algumas divergências, principalmente no que diz respeito à identificação dos alimentos geneticamente modificados. Esse pacto internacional, que faz parte da Convenção sobre Diversidade Biológica (CDB), foi aprovado em janeiro de 2000 e entrou em vigor em setembro do ano seguinte. Atualmente, mais de 130 países fazem parte desse pacto. O Brasil confirmou sua adesão em novembro de 2003.\n\n(www12.senado.leg.br, 13.03.2026. Adaptado.)\n\nO objetivo central da Convenção sobre Diversidade Biológica e o nome do pacto internacional vigente para implementar esse objetivo são, respectivamente,",
+    "statement": "O 3º Encontro das Partes (MOP-3), realizado em Curitiba (PR), definiu a posição de alguns países em relação a vários pontos sobre um determinado pacto internacional. O Brasil, embora signatário desse pacto, chega ao evento com algumas divergências, principalmente no que diz respeito à identificação dos alimentos geneticamente modificados. Esse pacto internacional, que faz parte da Convenção sobre Diversidade Biológica (CDB), foi aprovado em janeiro de 2000 e entrou em vigor em setembro do ano seguinte. Atualmente, mais de 130 países fazem parte desse pacto. O Brasil confirmou sua adesão em novembro de 2003.\n\n(www12.senado.leg.br, 13.03.2026. Adaptado.)\n\nO objetivo central da Convenção sobre Diversidade Biológica e o nome do pacto internacional vigente para implementar esse objetivo são, respectivamente,",
     "blockTypes": [
       "prose",
       "source",
@@ -1487,7 +1487,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q31-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -1537,7 +1537,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q32-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q32-1.svg",
         "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -1679,7 +1679,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q35-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q35-1.svg",
         "alt": "Imagem de apoio da questão 35 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2041,7 +2041,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q43-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q43-1.svg",
         "alt": "Imagem de apoio da questão 43 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2091,7 +2091,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q44-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q44-1.svg",
         "alt": "Imagem de apoio da questão 44 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2140,7 +2140,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q45-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2533,7 +2533,7 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma exposição sobre manifestações culturais regionais oferece aos participantes oficinas de artesanato. Cada participante paga uma taxa fixa de R$ 25,00 para entrar na exposição e mais R$ 18,00 a cada oficina realizada, de maneira que o valor v(n) que um participante pagará nessa exposição, em reais, obedece à função polinomial do $1^{o}$ grau: v(n) = 25 + 18n, em que n é o número de oficinas realizadas pelo participante. Se um participante desse evento pretende gastar, no máximo, R$ 133,00, o maior número de oficinas que ele poderá fazer será",
+    "statement": "Uma exposição sobre manifestações culturais regionais oferece aos participantes oficinas de artesanato. Cada participante paga uma taxa fixa de R$ 25,00 para entrar na exposição e mais R$ 18,00 a cada oficina realizada, de maneira que o valor v(n) que um participante pagará nessa exposição, em reais, obedece à função polinomial do 1º grau: v(n) = 25 + 18n, em que n é o número de oficinas realizadas pelo participante. Se um participante desse evento pretende gastar, no máximo, R$ 133,00, o maior número de oficinas que ele poderá fazer será",
     "blockTypes": [
       "command"
     ],
@@ -2766,7 +2766,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q59-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q59-1.svg",
         "alt": "Imagem de apoio da questão 59 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2905,7 +2905,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q62-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q62-1.svg",
         "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -2956,7 +2956,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q63-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q63-1.svg",
         "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -3267,7 +3267,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q70-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q70-1.svg",
         "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -3309,10 +3309,9 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A parte estaiada da ponte sobre o Rio Negro tem 400 m de extensão, sendo construída com dois blocos de concreto de 200 m de comprimento cada um. A fotografia mostra esses dois blocos já suspensos pelos estais.\n\n(www.locabens.com.br. Adaptado.)\n\nAdmita que o gráfico que segue é um estudo da variação do comprimento de um dos blocos desse trecho da ponte em função da variação da temperatura.\n\nSabe-se que coeficiente de dilatação linear de um material é dado pela equação:\n\nα = L · TΔL\n\n0 Δ\n\nNessa equação, α representa o coeficiente de dilatação\n\ncial e linear, ΔΔT a variação de temperatura. Considerando que o L a variação de comprimento, $L_{0}$ o comprimento inicomprimento de um dos blocos do vão central dessa ponte é igual a 200 m, o coeficiente de dilatação linear do concreto que constitui esse bloco é igual a\n\n$5^{o}$ 1.\n$3^{o}$ 1.\n$4^{o}$ 1.\n$2^{o}$ 1.\n$6^{o}$ 1.",
+    "statement": "A parte estaiada da ponte sobre o Rio Negro tem 400 m de extensão, sendo construída com dois blocos de concreto de 200 m de comprimento cada um. A fotografia mostra esses dois blocos já suspensos pelos estais.\n\nAdmita que o gráfico que segue é um estudo da variação do comprimento de um dos blocos desse trecho da ponte em função da variação da temperatura.\n\nSabe-se que coeficiente de dilatação linear de um material é dado pela equação:\n\nα = L · TΔL\n\n0 Δ\n\nNessa equação, α representa o coeficiente de dilatação\n\ncial e linear, ΔΔT a variação de temperatura. Considerando que o L a variação de comprimento, $L_{0}$ o comprimento inicomprimento de um dos blocos do vão central dessa ponte é igual a 200 m, o coeficiente de dilatação linear do concreto que constitui esse bloco é igual a\n\n5º 1.\n3º 1.\n4º 1.\n2º 1.\n6º 1.",
     "blockTypes": [
       "prose",
-      "source",
       "prose",
       "prose",
       "prose",
@@ -3323,7 +3322,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q71-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q71-1.svg",
         "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -3409,14 +3408,14 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A figura representa um experimento de química no qual coletou-se vapor de iodo a $120^{o}$C em um balão de vidro fechado com uma rolha. Esse balão foi resfriado em um banho de gelo, e o iodo passou para o estado sólido.\n\nNesse experimento, ocorreu uma transformação",
+    "statement": "A figura representa um experimento de química no qual coletou-se vapor de iodo a 120ºC em um balão de vidro fechado com uma rolha. Esse balão foi resfriado em um banho de gelo, e o iodo passou para o estado sólido.\n\nNesse experimento, ocorreu uma transformação",
     "blockTypes": [
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q73-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q73-1.svg",
         "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -3503,10 +3502,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nIsótopo atômico (Z)Número Número demassa (A) de nêutronsQuantidade\nNd 60 x 86\nEu 63 152 y\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
+    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nIsótopo\tatômico (Z)Número\tNúmero demassa (A)\tde nêutronsQuantidade\nNd\t60\tx\t86\nEu\t63\t152\ty\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
     "blockTypes": [
       "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -3734,7 +3733,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-cg/q80-1.png",
+        "src": "/images/uea/vestibular-2026-cg/q80-1.svg",
         "alt": "Imagem de apoio da questão 80 (UEA Unificado — Conhecimentos Gerais, 2026)."
       }
     ],
@@ -4004,7 +4003,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q02-1.png",
+        "src": "/images/uea/vestibular-2026-g1/q02-1.svg",
         "alt": "Imagem de apoio da questão 02 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
@@ -4150,7 +4149,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q05-1.png",
+        "src": "/images/uea/vestibular-2026-g1/q05-1.svg",
         "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
@@ -4201,7 +4200,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q06-1.png",
+        "src": "/images/uea/vestibular-2026-g1/q06-1.svg",
         "alt": "Imagem de apoio da questão 06 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
@@ -4301,7 +4300,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q08-1.png",
+        "src": "/images/uea/vestibular-2026-g1/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
@@ -4480,13 +4479,10 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\nBranca Amarelo-clara Amarelo-escura Marrom-clara Marrom-escura\n\noriginalIlha 2% 18% 62% 12% 6%\n\nNorteIlha 1% 12% 76% 8% 3% IlhaSul 36% 12% 8% 11% 33%\n\nLesteIlha 3% 10% 17% 19% 51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
+    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\n\tBranca\tAmarelo-clara\tAmarelo-escura\tMarrom-clara\tMarrom-escura\noriginalIlha\t2%\t18%\t62%\t12%\t6%\nNorteIlha\t1%\t12%\t76%\t8%\t3%\nIlhaSul\t36%\t12%\t8%\t11%\t33%\nLesteIlha\t3%\t10%\t17%\t19%\t51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
+      "table",
       "command"
     ],
     "images": [],
@@ -4529,11 +4525,10 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\nSubstância oC) oC)\n\n1 144 191\n2 28 671\n3 –220 –188\n4 –7,2 59\n5 –10 102\n\nSob pressão de 1 atm e temperatura de $25^{o}$C, a substância que se apresentará em estado gasoso é a de número",
+    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\nSubstância\toC)\t\toC)\n1\t144\t191\t\n2\t28\t671\t\n3\t–220\t–188\t\n4\t–7,2\t59\t\n5\t–10\t102\t\n\nSob pressão de 1 atm e temperatura de 25ºC, a substância que se apresentará em estado gasoso é a de número",
     "blockTypes": [
       "prose",
-      "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -4845,10 +4840,8 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "empregados como combustíveis para a propulsão no sistema O peróxido de hidrogênio ($H_{2}$ $O_{2}$) e a hidrazina ($N_{2}$$H_{4}$) são de lançamento de foguetes. Ao interagirem, o peróxido de hi-\n\nágua (Hdrogênio e a hidrazina podem formar ácido nítrico ($HNO_{2}$ 3) e\n\n$7H_{2}$ $O_{2}$ (l) + $N_{2}$$H_{4}$ (l) $2HNO_{3}$ (l) + $8H_{2}$O (g)\n\nNessa reação, quando 5,6 mol de peróxido de hidrogê-\n\nforma é igual anio reagem completamente, a quantidade de $HNO_{3}$ que se",
+    "statement": "O peróxido de hidrogênio (H₂O₂) e a hidrazina (N₂H₄) são empregados como combustíveis para a propulsão no sistema de lançamento de foguetes. Ao interagirem, o peróxido de hidrogênio e a hidrazina podem formar ácido nítrico (HNO₃) e água (H₂O), de acordo com a equação:\n\n7 H₂O₂ (l) + N₂H₄ (l) → 2 HNO₃ (l) + 8 H₂O (g)\n\nNessa reação, quando 5,6 mol de peróxido de hidrogênio reagem completamente, a quantidade de HNO₃ que se forma é igual a",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "prose",
       "command"
@@ -4952,7 +4945,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g1/q22-1.png",
+        "src": "/images/uea/vestibular-2026-g1/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA Unificado — Específicos Grupo I, 2026)."
       }
     ],
@@ -5223,7 +5216,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5º parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5327,7 +5320,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” (3º parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5379,7 +5372,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” (3º parágrafo) assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5431,7 +5424,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” (1º parágrafo). Os pronomes sublinhados referem-se",
     "blockTypes": [
       "prose",
       "prose",
@@ -5483,7 +5476,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” (2º parágrafo), a autora contesta a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -5534,7 +5527,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” (1º parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5916,7 +5909,7 @@ export const uea2026Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O aparecimento do cangaço, no Nordeste brasileiro, está relacionado à decadência e reveses da cadeia produtiva ligada à agricultura e pecuária, à vida de penúria da população sertaneja, às penosas secas, à ausência do poder público, às injustiças advindas dos “coronéis” e seus jagunços, às rivalidades e brigas fratricidas entre clãs familiares, aos abusos e truculência da polícia, aos códigos de honra, vingança e violência do sertão, à fragilidade das instituições responsáveis pela lei, ordem e justiça, à falta de perspectivas e esperanças de dias melhores.\n\n(Petrônio Domingues. “O ‘Corisco preto’: cangaço, raça e banditismo no\n\nNordeste brasileiro”. Revista de História, $n^{o}$ 176, 2017. Adaptado.)\n\nSegundo o excerto, o aparecimento do cangaço, na região Nordeste do Brasil, relaciona-se, sobretudo,",
+    "statement": "O aparecimento do cangaço, no Nordeste brasileiro, está relacionado à decadência e reveses da cadeia produtiva ligada à agricultura e pecuária, à vida de penúria da população sertaneja, às penosas secas, à ausência do poder público, às injustiças advindas dos “coronéis” e seus jagunços, às rivalidades e brigas fratricidas entre clãs familiares, aos abusos e truculência da polícia, aos códigos de honra, vingança e violência do sertão, à fragilidade das instituições responsáveis pela lei, ordem e justiça, à falta de perspectivas e esperanças de dias melhores.\n\n(Petrônio Domingues. “O ‘Corisco preto’: cangaço, raça e banditismo no\n\nNordeste brasileiro”. Revista de História, nº 176, 2017. Adaptado.)\n\nSegundo o excerto, o aparecimento do cangaço, na região Nordeste do Brasil, relaciona-se, sobretudo,",
     "blockTypes": [
       "prose",
       "source",
@@ -6195,7 +6188,7 @@ export const uea2026Vestibular = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Este é um grande dilema dos meios de comunicação de massa. Embora sua recepção seja mais democrática, pois pretende-se que seus conteúdos atinjam o maior número de pessoas, a escolha dos conteúdos é limitada a interesses econômicos e ao aumento da audiência. Por isso, o acesso às decisões do que deve ser transmitido por esses meios é menos democrático. Afinal, o que acaba sendo transmitido são aqueles conteúdos que agradam ao gosto da massa, estatisticamente determinados por pesquisas. Esse processo é o que leva à massificação dos conteúdos e à uniformização das informações, características comuns da comunicação de massa.\n\nEsse efeito massificante dos conteúdos, que esperava-se eliminar com o surgimento dos meios digitais, a internet e as redes sociais, parece cada vez mais revigorado na atualidade. O funcionamento dos meios digitais, pelo uso de algoritmos (e outros sistemas), parece cada vez mais vinculado à velha fórmula dos meios de comunicação de massa, em que a informação é vista mais como mercadoria, um mero produto, do que um conteúdo capaz de desenvolver a autonomia e a emancipação humana. O uso dos algoritmos é um jogo de cartas marcadas, cada vez mais similar às estratégias usadas pelos meios de comunicação de massa, pois possibilitam que empresas, instituições e governos possam interferir, manipular e regular a distribuição da informação, criando, de certa forma, territórios e governos virtuais.\n\n(Patrício Dugnani. “Meios de Comunicação de Massa e\n\nMeios Digitais: Remassificação e internetilização”. Revista Anagramas Rumbos y Sentidos de la Comunicación, vol. 22, $n^{o}$ 44, 2024. Adaptado.)\n\nDe acordo com o excerto, os meios digitais promovem a massificação da informação, porque",
+    "statement": "Este é um grande dilema dos meios de comunicação de massa. Embora sua recepção seja mais democrática, pois pretende-se que seus conteúdos atinjam o maior número de pessoas, a escolha dos conteúdos é limitada a interesses econômicos e ao aumento da audiência. Por isso, o acesso às decisões do que deve ser transmitido por esses meios é menos democrático. Afinal, o que acaba sendo transmitido são aqueles conteúdos que agradam ao gosto da massa, estatisticamente determinados por pesquisas. Esse processo é o que leva à massificação dos conteúdos e à uniformização das informações, características comuns da comunicação de massa.\n\nEsse efeito massificante dos conteúdos, que esperava-se eliminar com o surgimento dos meios digitais, a internet e as redes sociais, parece cada vez mais revigorado na atualidade. O funcionamento dos meios digitais, pelo uso de algoritmos (e outros sistemas), parece cada vez mais vinculado à velha fórmula dos meios de comunicação de massa, em que a informação é vista mais como mercadoria, um mero produto, do que um conteúdo capaz de desenvolver a autonomia e a emancipação humana. O uso dos algoritmos é um jogo de cartas marcadas, cada vez mais similar às estratégias usadas pelos meios de comunicação de massa, pois possibilitam que empresas, instituições e governos possam interferir, manipular e regular a distribuição da informação, criando, de certa forma, territórios e governos virtuais.\n\n(Patrício Dugnani. “Meios de Comunicação de Massa e\n\nMeios Digitais: Remassificação e internetilização”. Revista Anagramas Rumbos y Sentidos de la Comunicación, vol. 22, nº 44, 2024. Adaptado.)\n\nDe acordo com o excerto, os meios digitais promovem a massificação da informação, porque",
     "blockTypes": [
       "prose",
       "prose",
@@ -6297,7 +6290,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q14-1.png",
+        "src": "/images/uea/vestibular-2026-g2/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
@@ -6340,7 +6333,7 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O trajeto do rio São Francisco já foi 250 quilômetros mais extenso, antes de seu trecho inicial ser tomado pelo rio Grande, o principal formador do rio Paraná. Por meio da chamada captura fluvial, os rios agem como canibais, incorporando partes de outros, que encolherão ou desaparecerão. O ritmo das mudanças superficiais ou subterrâneas do fluxo da água depende do tipo de solo, da natureza das rochas e da inclinação do terreno, já que a água tende a fluir para as áreas mais baixas.\n\n(Carlos Fioravanti. https://revistapesquisa.fapesp.br, 11.12.2025. Adaptado.)\n\nConsiderando o excerto e os mapas sobre as mudanças na\nbacia hidrográfica do rio São Francisco, o processo respon-\nsável por essas mudanças corresponde",
+    "statement": "O trajeto do rio São Francisco já foi 250 quilômetros mais extenso, antes de seu trecho inicial ser tomado pelo rio Grande, o principal formador do rio Paraná. Por meio da chamada captura fluvial, os rios agem como canibais, incorporando partes de outros, que encolherão ou desaparecerão. O ritmo das mudanças superficiais ou subterrâneas do fluxo da água depende do tipo de solo, da natureza das rochas e da inclinação do terreno, já que a água tende a fluir para as áreas mais baixas.\n\n(Carlos Fioravanti. https://revistapesquisa.fapesp.br, 11.12.2025. Adaptado.)\n\nConsiderando o excerto e os mapas sobre as mudanças na\nbacia hidrográfica do rio São Francisco, o processo responsável por essas mudanças corresponde",
     "blockTypes": [
       "prose",
       "source",
@@ -6348,7 +6341,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q15-1.png",
+        "src": "/images/uea/vestibular-2026-g2/q15-1.svg",
         "alt": "Mapa da bacia do rio São Francisco."
       }
     ],
@@ -6399,7 +6392,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q16-1.png",
+        "src": "/images/uea/vestibular-2026-g2/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
@@ -6589,7 +6582,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g2/q20-1.png",
+        "src": "/images/uea/vestibular-2026-g2/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2026)."
       }
     ],
@@ -6771,7 +6764,7 @@ export const uea2026Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Os governos de Argentina, Brasil, Paraguai e Uruguai, países-membros do Mercado Comum do Sul (Mercosul), concordaram com o início das negociações de um acordo comercial com o Japão, como o que foi realizado com a União Europeia. O anúncio foi feito em comunicado conjunto do bloco, no dia 30.06.2026, durante a $68^{a}$ Cúpula de Chefes de Estado do Mercosul. O Japão é a quarta maior economia do mundo e já está entre os dez maiores parceiros comerciais do Mercosul, com uma corrente de comércio de US$ 13,7 bilhões em 2025.\n\n(https://oglobo.globo.com, 30.06.2026. Adaptado.)\n\nO modelo de integração regional ente o Mercosul e Japão e o contexto internacional para essa integração entre países são, respectivamente,",
+    "statement": "Os governos de Argentina, Brasil, Paraguai e Uruguai, países-membros do Mercado Comum do Sul (Mercosul), concordaram com o início das negociações de um acordo comercial com o Japão, como o que foi realizado com a União Europeia. O anúncio foi feito em comunicado conjunto do bloco, no dia 30.06.2026, durante a 68ª Cúpula de Chefes de Estado do Mercosul. O Japão é a quarta maior economia do mundo e já está entre os dez maiores parceiros comerciais do Mercosul, com uma corrente de comércio de US$ 13,7 bilhões em 2025.\n\n(https://oglobo.globo.com, 30.06.2026. Adaptado.)\n\nO modelo de integração regional ente o Mercosul e Japão e o contexto internacional para essa integração entre países são, respectivamente,",
     "blockTypes": [
       "prose",
       "source",
@@ -6953,7 +6946,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5º parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7057,7 +7050,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” (3º parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7109,7 +7102,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” (3º parágrafo) assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7161,7 +7154,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” (1º parágrafo). Os pronomes sublinhados referem-se",
     "blockTypes": [
       "prose",
       "prose",
@@ -7213,7 +7206,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” (2º parágrafo), a autora contesta a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -7264,7 +7257,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” (1º parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7732,7 +7725,7 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em um plano cartesiano de origem O(0, 0), o gráfico da função exponencial f(x) = 2x + 2 intersecta o eixo das ordenadas no ponto P, e o gráfico da função do $2^{o}$ grau g(x) =- $x^{2}$ + 6x - 9 tem seu ponto de máximo (V) sobre o eixo das abscissas.\n\nA área do triângulo POV é",
+    "statement": "Em um plano cartesiano de origem O(0, 0), o gráfico da função exponencial f(x) = 2x + 2 intersecta o eixo das ordenadas no ponto P, e o gráfico da função do 2º grau g(x) =- $x^{2}$ + 6x - 9 tem seu ponto de máximo (V) sobre o eixo das abscissas.\n\nA área do triângulo POV é",
     "blockTypes": [
       "prose",
       "command"
@@ -7779,7 +7772,7 @@ export const uea2026Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "O lucro de uma gráfica ao imprimir folhetos é calculado pela função do $2^{o}$ grau L(x) =- $x^{2}$ + 6x - 2, em que L(x) é o lucro em milhares de reais e x é a quantidade, em milhares, de folhetos impressos. Nessas condições, o lucro máximo obtido e a quantidade de folhetos impressos, para que esse lucro máximo ocorra, são, respectivamente,",
+    "statement": "O lucro de uma gráfica ao imprimir folhetos é calculado pela função do 2º grau L(x) =- $x^{2}$ + 6x - 2, em que L(x) é o lucro em milhares de reais e x é a quantidade, em milhares, de folhetos impressos. Nessas condições, o lucro máximo obtido e a quantidade de folhetos impressos, para que esse lucro máximo ocorra, são, respectivamente,",
     "blockTypes": [
       "command"
     ],
@@ -8014,7 +8007,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q14-1.png",
+        "src": "/images/uea/vestibular-2026-g3/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
@@ -8290,7 +8283,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q20-1.png",
+        "src": "/images/uea/vestibular-2026-g3/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
@@ -8340,7 +8333,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q21-1.png",
+        "src": "/images/uea/vestibular-2026-g3/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
@@ -8383,14 +8376,10 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo Diferença de potencial (V) Corrente (A) $\\frac{P}{Q}$ 127 V 20\n\n127 V 40\n\n$\\frac{R}{S}$ 220 V 15\n\n220 V 20\n\nT 220 V 30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
+    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo\tDiferença de potencial (V)\t\tCorrente (A)\n$\\frac{P}{Q}$\t\t127 V\t20\n\t\t127 V\t40\n$\\frac{R}{S}$\t\t220 V\t15\n\t\t220 V\t20\nT\t\t220 V\t30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -8441,7 +8430,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q23-1.png",
+        "src": "/images/uea/vestibular-2026-g3/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
@@ -8492,7 +8481,7 @@ export const uea2026Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2026-g3/q24-1.png",
+        "src": "/images/uea/vestibular-2026-g3/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo III, 2026)."
       }
     ],
@@ -8671,7 +8660,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” ($5^{o}$ parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.” (5º parágrafo) No contexto do romance, a expressão sublinhada faz referência à seguinte característica de Policarpo:",
     "blockTypes": [
       "prose",
       "prose",
@@ -8775,7 +8764,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” ($3^{o}$ parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Tão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça.” (3º parágrafo) Mantendo o sentido original da frase, a oração sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -8827,7 +8816,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” ($3^{o}$ parágrafo) assume a forma:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\nTransposta para a voz passiva, a oração “tirar da terra o alimento” (3º parágrafo) assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -8879,7 +8868,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” ($1^{o}$ parágrafo). Os pronomes sublinhados referem-se",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 28 a 32.\n\n1 Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão, Olga dirigiu-se um dia ao padrinho meiga e filialmente:\n\n— O padrinho por que não compra um sítio? Seria tão bom fazer as suas culturas, ter o seu pomar, a sua horta... não acha?\n\nTão taciturno que ele estivesse, não pôde deixar de modificar imediatamente a sua fisionomia à lembrança da moça. Era um velho desejo seu, esse de tirar da terra o alimento, a alegria e a fortuna; e foi lembrando dos seus antigos projetos que respondeu à afilhada:\n\n— É verdade, minha filha. Que magnífica ideia tens tu! Há por aí tantas terras férteis sem emprego... A nossa terra tem os terrenos mais férteis do mundo... O milho pode dar até duas colheitas e quatrocentos por um... 5 A moça esteve quase arrependida da sua lembrança. Pareceu-lhe que ia atear no espírito do padrinho manias já extintas.\n\n— Em toda a parte — não acha, meu padrinho? — há terras férteis.\n\n— Mas como no Brasil, apressou-se ele em dizer, há poucos países que as tenham.\n\n(Triste fim de Policarpo Quaresma, 2021.)\n\n“Não fora ele, porém, quem se lembrara; fora a afilhada que lhe trouxe à ideia aquele doce acabar para a sua vida. Vendo-o naquele estado de abatimento, triste e taciturno, sem coragem de sair, enclausurado em sua casa de São Cristóvão” (1º parágrafo). Os pronomes sublinhados referem-se",
     "blockTypes": [
       "prose",
       "prose",
@@ -8931,7 +8920,7 @@ export const uea2026Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” ($2^{o}$ parágrafo), a autora contesta a ideia de que",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\nNo trecho “Cinquenta/cinquenta, não é? Não.” (2º parágrafo), a autora contesta a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -8982,7 +8971,7 @@ export const uea2026Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” ($1^{o}$ parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho inicial do texto “Santo de casa não faz milagre”, de Vera Iaconelli, para responder às questões de 33 a 35.\n\n1 Você pode ter a seu lado o melhor dos companheiros, daqueles que não acham que estão te fazendo um favor ao “ajudar” e que sinceramente sabem suas responsabilidades junto aos filhos. Um cara maduro o suficiente para não sentir sua virilidade ameaçada por cuidar de crianças, nem obcecado pela carreira de tal forma que eliminaria qualquer chance de conviver com a família. Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.\n\nTendo a melhor aposta de pai e companheiro a seu lado, vocês decidem ter filhos. Cinquenta/cinquenta, não é? Não.\n\nHaja a revolução social que houver, o ciclo gravidez, parto e pós-parto cobra um preço inexorável de quem gesta. Os enjoos e o sono do primeiro trimestre — tente escrever uma tese com as pálpebras fechando! —, as infindáveis consultas, as avaliações médicas, a abstinência alcoólica, a experiência acachapante do parto, a corrida de obstáculos da amamentação tiram qualquer dúvida de que a conta não é divisível por dois.\n\nNa reprodução humana, o corpo de quem gesta está totalmente comprometido por, no mínimo, um ano — mas, de fato, eternamente. 5 Os homens, mesmo os descritos antes, não têm como dividir isso com a mulher, e por vezes chegam a invejar a experiência que jamais terão — nesse sentido, temos que dar graças aos céus por pelo menos um ficar fora dessa loucura.\n\nAlém disso, por esse recolhimento, necessário para termos filhos, as mulheres são penalizadas em suas carreiras de forma clara. O famoso “quem pariu Mateus o embale” funciona de forma exemplar, sobretudo se ela trabalha — o que implica a maioria absoluta das mulheres hoje. Enquanto o homem recebe felicitações no trabalho pela futura paternidade, o afastamento físico, cognitivo e psíquico da gestante cobra seu preço na carreira e na vida pessoal.\n\n(Felicidade ordinária, 2024.)\n\n“Um tipo de homem que já foi inimaginável e tão fácil de encontrar quanto um unicórnio passa a ser cada vez mais comum, cultuado e exigido. Talvez você seja a sortuda que se casou com um.” (1º parágrafo) Sem alterar o sentido do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",

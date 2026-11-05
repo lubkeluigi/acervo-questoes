@@ -9,7 +9,23 @@ import pymupdf as fitz
 import uea_reextract as U
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ALL = json.load(open('/tmp/uea_all.json'))
+ALL = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_all.json')))
+FP = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_figplan.json'))) if os.path.exists(os.path.join(ROOT,'scripts','uea_state','uea_figplan.json')) else {}
+
+# Figure rects per (pdf, page): text falling inside a figure is a label baked
+# into the image and must not be duplicated in the statement. Keyed by pdf too,
+# since every PDF has its own page 0..N.
+PAGE_RECTS = collections.defaultdict(list)
+for _q in ALL:
+    for _f in FP.get(_q['id'], []):
+        PAGE_RECTS[(_q['sourcePdf'], _q['sourcePage'] - 1)].append(_f['rect'])
+
+def in_figure(ln, pdf):
+    x, y = ln['x'], ln['y']
+    for r in PAGE_RECTS.get((pdf, ln.get('page')), []):
+        if r[0] - 8 <= x <= r[2] + 8 and r[1] - 2 <= y <= r[3] + 2:
+            return True
+    return False
 
 def num_of(q):
     m = re.search(r'(\d+)', str(q['number']))
@@ -32,7 +48,12 @@ def blocks_to_statement(blocks):
 def parse_pdf(pdf, pages=None):
     doc = fitz.open(os.path.join(ROOT, pdf))
     rng = range(len(doc)) if pages is None else pages
-    lines = U.ordered_lines(doc, rng)
+    def keep(ln):
+        # never drop question markers or alternatives, even if a rect overlaps
+        if U.QMARK.match(ln['text']) or U.ALT.match(ln['text']):
+            return True
+        return not in_figure(ln, pdf)
+    lines = [ln for ln in U.ordered_lines(doc, rng) if keep(ln)]
     qs = U.parse_questions(lines)
     doc.close()
     return qs
@@ -87,8 +108,8 @@ def main():
         for uid, n, c in multi[:30]:
             print(f'   {uid} q{n} x{c}')
     if mode == '--write':
-        json.dump(results, open('/tmp/uea_reextracted.json', 'w'), ensure_ascii=False, indent=1)
-        print('wrote /tmp/uea_reextracted.json')
+        json.dump(results, open(os.path.join(ROOT,'scripts','uea_state','uea_reextracted.json'), 'w'), ensure_ascii=False, indent=1)
+        print('wrote scripts/uea_state/uea_reextracted.json')
 
 if __name__ == '__main__':
     main()

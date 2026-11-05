@@ -22,7 +22,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q01-1.png",
+        "src": "/images/uea/sis-2024-a1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -566,7 +566,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q12-1.png",
+        "src": "/images/uea/sis-2024-a1/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -657,7 +657,7 @@ export const uea2024Sis = [
     "subject": "História",
     "detail": "História — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise as duas notícias.\n\nInstrumentistas em roda, melodia, ritmo e sorrisos. O Choro agora é Patrimônio Cultural do Brasil. Durante a $103^{a}$ reunião ordinária, os membros do Conselho Consultivo, órgão colegiado de decisão máxima do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), aprovaram o registro da manifestação cultural no Livro das Formas de Expressão.\n\n(www.gov.br, 05.04.2024. Adaptado.)\n\nUm patrimônio ao qual milhões de brasileiros, há inúmeras gerações, devem literalmente a vida. Esse foi um dos temas centrais da $104^{a}$ Reunião do Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), quando o grupo reconheceu o “Ofício, Saberes e Práticas das Parteiras Tradicionais do Brasil” como Patrimônio Cultural do País.\n\n(www.gov.br, 20.05.2024. Adaptado.)\n\nOs excertos referem-se a patrimônios",
+    "statement": "Analise as duas notícias.\n\nInstrumentistas em roda, melodia, ritmo e sorrisos. O Choro agora é Patrimônio Cultural do Brasil. Durante a 103ª reunião ordinária, os membros do Conselho Consultivo, órgão colegiado de decisão máxima do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), aprovaram o registro da manifestação cultural no Livro das Formas de Expressão.\n\n(www.gov.br, 05.04.2024. Adaptado.)\n\nUm patrimônio ao qual milhões de brasileiros, há inúmeras gerações, devem literalmente a vida. Esse foi um dos temas centrais da 104ª Reunião do Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), quando o grupo reconheceu o “Ofício, Saberes e Práticas das Parteiras Tradicionais do Brasil” como Patrimônio Cultural do País.\n\n(www.gov.br, 20.05.2024. Adaptado.)\n\nOs excertos referem-se a patrimônios",
     "blockTypes": [
       "prose",
       "prose",
@@ -1096,7 +1096,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q23-1.png",
+        "src": "/images/uea/sis-2024-a1/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -1148,7 +1148,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q24-1.png",
+        "src": "/images/uea/sis-2024-a1/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -1200,7 +1200,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q25-1.png",
+        "src": "/images/uea/sis-2024-a1/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -1531,7 +1531,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q32-1.png",
+        "src": "/images/uea/sis-2024-a1/q32-1.svg",
         "alt": "Imagem de apoio da questão 32 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -1628,7 +1628,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q34-1.png",
+        "src": "/images/uea/sis-2024-a1/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -1727,7 +1727,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q36-1.png",
+        "src": "/images/uea/sis-2024-a1/q36-1.svg",
         "alt": "Imagem de apoio da questão 36 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -2043,11 +2043,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários Salário em R$\n\n15 3.100,00\n22 2.900,00\n35 2.500,00\n28 1.800,00\n\nA mediana dos salários desses funcionários é",
+    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários\t\tSalário em R$\n\t15\t3.100,00\n\t22\t2.900,00\n\t35\t2.500,00\n\t28\t1.800,00\n\nA mediana dos salários desses funcionários é",
     "blockTypes": [
       "prose",
-      "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -2091,7 +2090,7 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "No plano cartesiano, o gráfico que representa uma função polinomial de $1^{o}$ grau passa pelos pontos B, C e D.\n\nfora de escala\n\nAs coordenadas do ponto B são",
+    "statement": "No plano cartesiano, o gráfico que representa uma função polinomial de 1º grau passa pelos pontos B, C e D.\n\nfora de escala\n\nAs coordenadas do ponto B são",
     "blockTypes": [
       "prose",
       "source",
@@ -2326,7 +2325,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q50-1.png",
+        "src": "/images/uea/sis-2024-a1/q50-1.svg",
         "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -2377,7 +2376,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q52-1.png",
+        "src": "/images/uea/sis-2024-a1/q52-1.svg",
         "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -2559,9 +2558,8 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "2$H_{5}$OH) dissolvido em água ($H_{2}$O) com concen-\n\ngado como antisséptico de mãos e superfícies. A eficácia da ação antisséptica do etanol é mais alta nessa concentração do que no etanol puro, pois, se puro, ele se volatiliza muito rápido. O nome da principal força de interação entre as moléculas do etanol e da água é",
+    "statement": "O etanol (C₂H₅OH) dissolvido em água (H₂O) com concentração 70%, na forma de solução aquosa ou de gel, é empregado como antisséptico de mãos e superfícies. A eficácia da ação antisséptica do etanol é mais alta nessa concentração do que no etanol puro, pois, se puro, ele se volatiliza muito rápido. O nome da principal força de interação entre as moléculas do etanol e da água é",
     "blockTypes": [
-      "prose",
       "command"
     ],
     "images": [],
@@ -2658,7 +2656,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a1/q58-1.png",
+        "src": "/images/uea/sis-2024-a1/q58-1.svg",
         "alt": "Imagem de apoio da questão 58 (UEA SIS — Acompanhamento I, 2024)."
       }
     ],
@@ -2956,7 +2954,7 @@ export const uea2024Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nAdjetivo é a palavra que atribui uma característica a um substantivo. Por exemplo, na frase “Ao contrário, a noite foi excelente” ($1^{o}$ parágrafo), “excelente” é um adjetivo que qualifica “noite”. A oração sublinhada funciona como um adjetivo em:",
+    "statement": "Para responder às questões de 01 a 04, leia o trecho do conto “Marcha fúnebre”, de Machado de Assis, que integra a coletânea Relíquias de casa velha.\n\nO deputado Cordovil não podia pregar olho uma noite de agosto de 186… Viera cedo do Cassino Fluminense, depois da retirada do imperador, e durante o baile não tivera o mínimo incômodo moral nem físico. Ao contrário, a noite foi excelente; tão excelente que um inimigo seu, que padecia do coração, faleceu antes das dez horas, e a notícia chegou ao Cassino pouco depois das onze.\n\nNaturalmente concluis que ele ficou alegre com a morte do homem, espécie de vingança que os corações adversos e fracos tomam em falta de outra. Digo-te que concluis mal; não foi alegria, foi desabafo. A morte vinha de meses, era daquelas que não acabam mais, e moem, mordem, comem, trituram a pobre criatura humana. Cordovil sabia dos padecimentos do adversário. Alguns amigos, para o consolar de antigas injúrias, iam contar-lhe o que viam ou sabiam do enfermo, pregado a uma cadeira de braços, vivendo as noites horrivelmente, sem que as auroras lhe trouxessem esperanças, nem as tardes desenganos. Cordovil pagava-lhes com alguma palavra de compaixão, que o alvissareiro adotava, e repetia, e era mais sincera naquele que neste. Enfim acabara de padecer; daí o desabafo.\n\nEste sentimento pegava com a piedade humana. Cordovil, salvo em política, não gostava do mal alheio. Quando rezava, ao levantar da cama: “Padre Nosso, que estás no céu, santificado seja o teu nome, venha a nós o teu reino, seja feita a tua vontade, assim na terra como no céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, como nós perdoamos aos nossos devedores...” não imitava um de seus amigos que rezava a mesma prece, sem todavia perdoar aos devedores, como dizia de língua; esse chegava a cobrar além do que eles lhe deviam, isto é, se ouvia maldizer de alguém, decorava tudo e mais alguma coisa e ia repeti-lo a outra parte. No dia seguinte, porém, a bela oração de Jesus tornava a sair dos lábios da véspera com a mesma caridade de ofício.\n\nCordovil não ia nas águas desse amigo; perdoava deveras. Que entrasse no perdão um tantinho de preguiça, é possível, sem aliás ser evidente. Preguiça amamenta muita virtude. Sempre é alguma coisa minguar força à ação do mal. Não esqueça que o deputado só gostava do mal alheio em política, e o inimigo morto era inimigo pessoal. Quanto à causa da inimizade, não a sei eu, e o nome do homem acabou com a vida.\n\n— Coitado! descansou, disse Cordovil.\n\n(Machado de Assis. Contos: uma antologia, 1998.)\n\nAdjetivo é a palavra que atribui uma característica a um substantivo. Por exemplo, na frase “Ao contrário, a noite foi excelente” (1º parágrafo), “excelente” é um adjetivo que qualifica “noite”. A oração sublinhada funciona como um adjetivo em:",
     "blockTypes": [
       "prose",
       "prose",
@@ -3014,7 +3012,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q05-1.png",
+        "src": "/images/uea/sis-2024-a2/q05-1.svg",
         "alt": "Imagem de apoio da questão 05 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -3366,7 +3364,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q12-1.png",
+        "src": "/images/uea/sis-2024-a2/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -3554,13 +3552,11 @@ export const uea2024Sis = [
     "subject": "Sociologia",
     "detail": "Sociologia — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A legalização de posses irregulares por meio de alie-\n\n1 é extremamente coerente com a\n\nhistória de ocupação da região amazônica. Diferentes estudiosos têm demonstrado a posse como principal forma de aquisição de terras nesta região. De acordo com a historiadora Maria José dos Santos, “novos sujeitos sociais — degredados, militares e servidores do Estado — se tornaram detentores de extensos territórios, sem obterem títulos ou cartas de\n\n2, ocorrendo uma posse simples.\n\n(Pedro Parga Rodrigues. Revista Maracanan, $n^{o}$ 23, 2020. Adaptado.) 1\u0007alienação de terras devolutas: transferência de terras públicas para particulares. 2\u0007carta de sesmaria: documento produzido por autoridades coloniais para a doação de terras.\n\nNo contexto das políticas públicas do Segundo Reinado (1840-1889), o excerto demonstra que, na região amazônica, havia",
+    "statement": "A legalização de posses irregulares por meio de alienação de terras devolutas¹ é extremamente coerente com a história de ocupação da região amazônica. Diferentes estudiosos têm demonstrado a posse como principal forma de aquisição de terras nesta região. De acordo com a historiadora Maria José dos Santos, “novos sujeitos sociais — degredados, militares e servidores do Estado — se tornaram detentores de extensos territórios, sem obterem títulos ou cartas de sesmarias², ocorrendo uma posse simples.\n\n(Pedro Parga Rodrigues. Revista Maracanan, nº 23, 2020. Adaptado.)\n\n1 alienação de terras devolutas: transferência de terras públicas para particulares.\n2 carta de sesmaria: documento produzido por autoridades coloniais para a doação de terras.\n\nNo contexto das políticas públicas do Segundo Reinado (1840-1889), o excerto demonstra que, na região amazônica, havia",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -3612,7 +3608,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q17-1.png",
+        "src": "/images/uea/sis-2024-a2/q17-1.svg",
         "alt": "Imagem de apoio da questão 17 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -3809,7 +3805,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q21-1.png",
+        "src": "/images/uea/sis-2024-a2/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -3908,7 +3904,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q23-1.png",
+        "src": "/images/uea/sis-2024-a2/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -4058,7 +4054,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q26-1.png",
+        "src": "/images/uea/sis-2024-a2/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -4111,7 +4107,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q27-1.png",
+        "src": "/images/uea/sis-2024-a2/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -4390,7 +4386,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q33-1.png",
+        "src": "/images/uea/sis-2024-a2/q33-1.svg",
         "alt": "Imagem de apoio da questão 33 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -4799,9 +4795,10 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021 1 006 995 1 028 1 017 1 006 996 1 012 1 023 1 010 1 029 1 014 1 003 1 020 1 009 Considerando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
+    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\t1 006\t995\t1 028\t1 017\n1 006\t996\t1 012\t1 023\t1 010\n1 029\t1 014\t1 003\t1 020\t1 009\n\nConsiderando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
     "blockTypes": [
       "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -5120,11 +5117,8 @@ export const uea2024Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Estão representados, nas figuras 1, 2, 3 e 4, os processos realizados por um único pistão durante um ciclo completo de um motor de combustão interna.\n\nFigura 1\n\nFigura 2\n\nFigura 3\n\nFigura 4\n\n(https://motulexpert.com.br. Adaptado.)\n\nOs processos representados nas figuras 1, 2, 3 e 4 são, respectivamente:",
+    "statement": "Estão representados, nas figuras 1, 2, 3 e 4, os processos realizados por um único pistão durante um ciclo completo de um motor de combustão interna.\n\nFigura 1\n\n(https://motulexpert.com.br. Adaptado.)\n\nOs processos representados nas figuras 1, 2, 3 e 4 são, respectivamente:",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
       "prose",
       "prose",
       "source",
@@ -5132,7 +5126,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q50-1.png",
+        "src": "/images/uea/sis-2024-a2/q50-1.svg",
         "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -5413,7 +5407,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a2/q57-1.png",
+        "src": "/images/uea/sis-2024-a2/q57-1.svg",
         "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento II, 2024)."
       }
     ],
@@ -5502,9 +5496,8 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O uso excessivo de fertilizantes nitrogenados e as constantes queimadas provocam desequilíbrio no ciclo do nitrogênio, devido, principalmente, à contaminação de corpos d’água com nutrientes em excesso e à geração de óxidos,\n\n2, que são lançados na atmosfera. Essa con-\n\npactos denominados, respectivamente,",
+    "statement": "O uso excessivo de fertilizantes nitrogenados e as constantes queimadas provocam desequilíbrio no ciclo do nitrogênio, devido, principalmente, à contaminação de corpos d’água com nutrientes em excesso e à geração de óxidos,\n\n2, que são lançados na atmosfera. Essa conpactos denominados, respectivamente,",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],
@@ -5976,31 +5969,31 @@ export const uea2024Sis = [
     "alternativeImages": [
       [
         {
-          "src": "/images/uea/sis-2024-a3/q08-a.png",
+          "src": "/images/uea/sis-2024-a3/q08-a.svg",
           "alt": "Edvard Munch. O grito, 1910."
         }
       ],
       [
         {
-          "src": "/images/uea/sis-2024-a3/q08-b.png",
+          "src": "/images/uea/sis-2024-a3/q08-b.svg",
           "alt": "Pablo Picasso. Duas meninas lendo, 1934."
         }
       ],
       [
         {
-          "src": "/images/uea/sis-2024-a3/q08-c.png",
+          "src": "/images/uea/sis-2024-a3/q08-c.svg",
           "alt": "René Magritte. Os amantes, 1928."
         }
       ],
       [
         {
-          "src": "/images/uea/sis-2024-a3/q08-d.png",
+          "src": "/images/uea/sis-2024-a3/q08-d.svg",
           "alt": "Otto Dix. Retrato de Sylvia von Harden, 1926."
         }
       ],
       [
         {
-          "src": "/images/uea/sis-2024-a3/q08-e.png",
+          "src": "/images/uea/sis-2024-a3/q08-e.svg",
           "alt": "Roy Lichtenstein. No carro, 1963."
         }
       ]
@@ -6124,7 +6117,7 @@ export const uea2024Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nAtlas: the new movie from Jennifer Lopez\n\nAtlas is a sci-fi thriller in which humanity faces the fury of Artificial Intelligence (AI). Filled with impressive visuals and intense action sequences, the movie explores themes of technology, ethics, and humanity’s future in an increasingly interconnected world. However, despite Jennifer Lopez’s convincing performance, the film’s predictability impedes its potential to become an incredible masterpiece.\n\nJennifer Lopez is simply superb as a human distrusting machine. Her struggle to survive the battle and her transformation from analyst to combat fighter are convincing. Simu Liu, as the villainous robotic character Harlan, is believable, though he could have been more impactful. Sterling K. Brown, as Colonel Elias, delivers a strong performance, and Abraham Popoola, as the unbeatable AI fighter Casca, is brilliant. In a limited role as Atlas’s mother, Lana Parrilla plays a key character in the film.\n\n(Archika Khurana. https://timesofindia.indiatimes.com, 24.05.2024.\n\nAdaptado.)\n\nEm “Simu Liu, as the villainous robotic character Harlan, is believable” ($2^{o}$ parágrafo), o trecho sublinhado apresenta",
+    "statement": "Leia o texto para responder às questões de 09 a 11.\n\nAtlas: the new movie from Jennifer Lopez\n\nAtlas is a sci-fi thriller in which humanity faces the fury of Artificial Intelligence (AI). Filled with impressive visuals and intense action sequences, the movie explores themes of technology, ethics, and humanity’s future in an increasingly interconnected world. However, despite Jennifer Lopez’s convincing performance, the film’s predictability impedes its potential to become an incredible masterpiece.\n\nJennifer Lopez is simply superb as a human distrusting machine. Her struggle to survive the battle and her transformation from analyst to combat fighter are convincing. Simu Liu, as the villainous robotic character Harlan, is believable, though he could have been more impactful. Sterling K. Brown, as Colonel Elias, delivers a strong performance, and Abraham Popoola, as the unbeatable AI fighter Casca, is brilliant. In a limited role as Atlas’s mother, Lana Parrilla plays a key character in the film.\n\n(Archika Khurana. https://timesofindia.indiatimes.com, 24.05.2024.\n\nAdaptado.)\n\nEm “Simu Liu, as the villainous robotic character Harlan, is believable” (2º parágrafo), o trecho sublinhado apresenta",
     "blockTypes": [
       "prose",
       "prose",
@@ -6183,7 +6176,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q12-1.png",
+        "src": "/images/uea/sis-2024-a3/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -6564,7 +6557,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q20-1.png",
+        "src": "/images/uea/sis-2024-a3/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -6615,7 +6608,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q21-1.png",
+        "src": "/images/uea/sis-2024-a3/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -6856,7 +6849,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q26-1.png",
+        "src": "/images/uea/sis-2024-a3/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -7231,7 +7224,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q34-1.png",
+        "src": "/images/uea/sis-2024-a3/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -7784,7 +7777,7 @@ export const uea2024Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2024-a3/q49-1.png",
+        "src": "/images/uea/sis-2024-a3/q49-1.svg",
         "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento III, 2024)."
       }
     ],
@@ -8009,15 +8002,11 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto Fórmula estrutural de ebulição\n\n(ºC)\n\nPentano 36\n\nMetilbutano 30\n\nDimetilpropano 9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
+    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\tFórmula estrutural\tde ebulição (ºC)\nPentano\t\t36\nMetilbutano\t\t30\nDimetilpropano\t\t9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
     "blockTypes": [
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -8198,9 +8187,8 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Lise Meitner foi uma cientista que trabalhou no início do século XX em pesquisas que envolviam o cálculo da energia libe-\n\n235U) e um nêu-\n\ntron. Em reconhecimento à sua contribuição para a ciência, a União Internacional de Química Pura e Aplicada (IUPAC) a homenageou atribuindo seu nome a um elemento químico. O processo nuclear pesquisado por Lise Meitner e o número atômico do elemento químico que a homenageia são:",
+    "statement": "Lise Meitner foi uma cientista que trabalhou no início do século XX em pesquisas que envolviam o cálculo da energia liberada na reação entre o núcleo de urânio-235 (²³⁵U) e um nêutron. Em reconhecimento à sua contribuição para a ciência, a União Internacional de Química Pura e Aplicada (IUPAC) a homenageou atribuindo seu nome a um elemento químico.\n\nO processo nuclear pesquisado por Lise Meitner e o número atômico do elemento químico que a homenageia são:",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],

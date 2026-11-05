@@ -116,7 +116,7 @@ export const uea2023Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\nA palavra “semienterramento” ($1^{o}$ parágrafo) é formada com o prefixo “semi-”, que adiciona à palavra “enterramento” o sentido de:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\nA palavra “semienterramento” (1º parágrafo) é formada com o prefixo “semi-”, que adiciona à palavra “enterramento” o sentido de:",
     "blockTypes": [
       "prose",
       "prose",
@@ -167,7 +167,7 @@ export const uea2023Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\n“quando ela se evola não se sabe por que orifício do corpo” ($1^{o}$ parágrafo). No contexto em que se encontra, o pronome sublinhado refere-se à palavra",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\n“quando ela se evola não se sabe por que orifício do corpo” (1º parágrafo). No contexto em que se encontra, o pronome sublinhado refere-se à palavra",
     "blockTypes": [
       "prose",
       "prose",
@@ -218,7 +218,7 @@ export const uea2023Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\n“Antes uma boa morte, diziam.” ($2^{o}$ parágrafo) O termo sublinhado é utilizado nesse contexto para",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 01 a 05.\n\nSó o nome da casa metia medo. O hospício! É assim como uma sepultura em vida, um semienterramento, enterramento do espírito, da razão condutora, de cuja ausência os corpos raramente se ressentem. A saúde não depende dela e há muitos que parecem até adquirir mais força de vida, prolongar a existência, quando ela se evola¹ não se sabe por que orifício do corpo e para onde.\n\nCom que terror, uma espécie de pavor de coisa sobrenatural, espanto de inimigo invisível e onipresente, não ouvia a gente pobre referir-se ao estabelecimento da praia das Saudades! Antes uma boa morte, diziam.\n\nNo primeiro aspecto, não se compreendia bem esse pasmo, esse espanto, esse terror do povo por aquela casa imensa, severa e grave, meio hospital, meio prisão, com seu alto gradil, suas janelas gradeadas, a se estender por uns centos de metros, em face do mar imenso e verde, lá na entrada da baía, na praia das Saudades. Entrava-se, viam-se uns homens calmos, pensativos, meditabundos, como monges em recolhimento e prece.\n\nDe resto, com aquela entrada silenciosa, clara e respeitável, perdia-se logo a ideia popular da loucura; o escarcéu, os trejeitos, as fúrias, o entrechoque de tolices ditas aqui e ali.\n\nNão havia nada disso; era uma calma, um silêncio, uma ordem perfeitamente naturais. No fim, porém, quando se examinavam bem, na sala das visitas, aquelas faces transtornadas, aqueles ares aparvalhados, alguns idiotas e sem expressão, outros como alheados e mergulhados em um sonho íntimo sem fim, e via-se também a excitação de uns, mais viva em face à atonia de outros, é que se sentia bem o horror da loucura, o angustioso mistério que ela encerra, feito não sei de que inexplicável fuga do espírito daquilo que se supõe o real, para se apossar e viver das aparências das coisas ou de aparências das mesmas.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 evolar: voar para longe.\n\n“Antes uma boa morte, diziam.” (2º parágrafo) O termo sublinhado é utilizado nesse contexto para",
     "blockTypes": [
       "prose",
       "prose",
@@ -319,7 +319,7 @@ export const uea2023Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Austin Kleon, retirado do livro Roube como um artista, para responder às questões de 06 a 08.\n\nO escritor Jonathan Lethem disse que, quando as pessoas chamam algo de “original”, nove entre dez vezes elas não conhecem as referências ou as fontes originais envolvidas.\n\nO que um bom artista entende é que nada vem do nada. Todo trabalho criativo é construído sobre o que veio antes. Nada é totalmente original.\n\nEstá lá na Bíblia: “Não há nada de novo debaixo do sol.” (Eclesiastes 1:9)\n\nAlguns acham essa ideia deprimente, mas ela me enche de esperança. É como o escritor francês André Gide assinalou: “Tudo que precisa ser dito já foi dito. Mas, já que ninguém estava ouvindo, é preciso dizer outra vez.”\n\nSe estivermos livres do fardo de ser completamente originais, podemos parar de tentar construir algo do nada e abraçar a influência ao invés de fugirmos dela.\n\n(Roube como um artista, 2013.)\n\nEm “Tudo que precisa ser dito já foi dito. Mas, já que ninguém estava ouvindo, é preciso dizer outra vez.” ($4^{o}$ parágrafo), a expressão sublinhada pode ser substituída, sem prejuízo para o sentido do texto, por:",
+    "statement": "Leia o texto de Austin Kleon, retirado do livro Roube como um artista, para responder às questões de 06 a 08.\n\nO escritor Jonathan Lethem disse que, quando as pessoas chamam algo de “original”, nove entre dez vezes elas não conhecem as referências ou as fontes originais envolvidas.\n\nO que um bom artista entende é que nada vem do nada. Todo trabalho criativo é construído sobre o que veio antes. Nada é totalmente original.\n\nEstá lá na Bíblia: “Não há nada de novo debaixo do sol.” (Eclesiastes 1:9)\n\nAlguns acham essa ideia deprimente, mas ela me enche de esperança. É como o escritor francês André Gide assinalou: “Tudo que precisa ser dito já foi dito. Mas, já que ninguém estava ouvindo, é preciso dizer outra vez.”\n\nSe estivermos livres do fardo de ser completamente originais, podemos parar de tentar construir algo do nada e abraçar a influência ao invés de fugirmos dela.\n\n(Roube como um artista, 2013.)\n\nEm “Tudo que precisa ser dito já foi dito. Mas, já que ninguém estava ouvindo, é preciso dizer outra vez.” (4º parágrafo), a expressão sublinhada pode ser substituída, sem prejuízo para o sentido do texto, por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -430,7 +430,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -534,7 +534,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1199,7 +1199,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q21-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1294,7 +1294,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q23-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1389,7 +1389,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q25-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1484,7 +1484,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q27-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q27-1.svg",
         "alt": "Imagem de apoio da questão 27 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1579,7 +1579,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q29-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1666,7 +1666,7 @@ export const uea2023Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A Finlândia se tornou o $31^{o}$ país-membro da Organização do Tratado do Atlântico Norte (Otan) em 04 de abril de 2023. A solicitação formal para a adesão da Finlândia à Otan ocorreu em conjunto com a Suécia, em maio de 2021.\n\n(www.bbc.com, 04.04.2023. Adaptado.)\n\nA adesão dos países mencionados no excerto como novos membros da Otan tem como intuito",
+    "statement": "A Finlândia se tornou o 31º país-membro da Organização do Tratado do Atlântico Norte (Otan) em 04 de abril de 2023. A solicitação formal para a adesão da Finlândia à Otan ocorreu em conjunto com a Suécia, em maio de 2021.\n\n(www.bbc.com, 04.04.2023. Adaptado.)\n\nA adesão dos países mencionados no excerto como novos membros da Otan tem como intuito",
     "blockTypes": [
       "prose",
       "source",
@@ -1719,7 +1719,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q32-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q32-1.svg",
         "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -1952,7 +1952,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q37-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q37-1.svg",
         "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -2132,7 +2132,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q41-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q41-1.svg",
         "alt": "Imagem de apoio da questão 41 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -2313,7 +2313,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q45-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -2449,7 +2449,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q48-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q48-1.svg",
         "alt": "Imagem de apoio da questão 48 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -2707,9 +2707,8 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O interior do quadrado ABCD foi dividido em 3 quadrados menores, $Q_{1}$, $Q_{2}$ e $Q_{3}$, e 2 polígonos, $P_{1}$ e $P_{2}$, conforme figura.\n\nSabendo que as áreas dos quadrados Qpectivamente, 16 $cm_{2}$, 1 $cm_{2}$ e 9 $cm_{2}$, o perímetro do polígono₁, $Q_{2}$ e $Q_{3}$ são, res$P_{1}$, destacado na figura, é",
+    "statement": "O interior do quadrado ABCD foi dividido em 3 quadrados menores, $Q_{1}$, $Q_{2}$ e $Q_{3}$, e 2 polígonos, $P_{1}$ e $P_{2}$, conforme figura. Sabendo que as áreas dos quadrados $Q_{1}$, $Q_{2}$ e $Q_{3}$ são, respectivamente, 16 cm², 1 cm² e 9 cm², o perímetro do polígono $P_{1}$, destacado na figura, é",
     "blockTypes": [
-      "prose",
       "command"
     ],
     "images": [],
@@ -2751,11 +2750,10 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma faculdade oferece dois cursos de especialização, P e Q. A tabela apresenta algumas informações sobre o número de matriculados e o número de aprovados em cada curso.\n\nCurso $N^{o}$ de matriculados $N^{o}$ de aprovados\n$\\frac{P}{Q}$ x 36\n\nx + 6 42\n\nSe no curso Q houvesse um aluno a mais matriculado do que o curso P e esse aluno não tivesse sido aprovado, a razão do número de alunos matriculados para o número de alunos aprovados no curso Q seria a mesma que no curso P. A soma do número de alunos matriculados nesses dois cursos é",
+    "statement": "Uma faculdade oferece dois cursos de especialização, P e Q. A tabela apresenta algumas informações sobre o número de matriculados e o número de aprovados em cada curso.\n\nCurso\tNº de matriculados\t\tNº de aprovados\t\n$\\frac{P}{Q}$\t\tx\t\t36\n\t\tx + 6\t\t42\n\nSe no curso Q houvesse um aluno a mais matriculado do que o curso P e esse aluno não tivesse sido aprovado, a razão do número de alunos matriculados para o número de alunos aprovados no curso Q seria a mesma que no curso P. A soma do número de alunos matriculados nesses dois cursos é",
     "blockTypes": [
       "prose",
-      "poem",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -2841,7 +2839,7 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere as funções polinomiais do $1^{o}$ grau f(x) = 2x + 3 e g(x) = - x + 6. Sobre essas funções, afirma-se que",
+    "statement": "Considere as funções polinomiais do 1º grau f(x) = 2x + 3 e g(x) = - x + 6. Sobre essas funções, afirma-se que",
     "blockTypes": [
       "command"
     ],
@@ -2884,10 +2882,11 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Determinado produto é vendido por 5 sites diferentes na internet, P, Q, R, S e T. A tabela apresenta o valor desse produto em 4 desses sites.\n\nSite Preço do produto\nP R$ 124,00\nQ R$ 132,00\nR?\nS R$ 127,00\nT R$ 130,00\n\nSabendo que o preço desse produto no site R é R$ 13,00 a menos do que a média aritmética dos preços nesses 5 sites, então, a diferença entre o maior e o menor preço desse produto, nesses sites, é",
+    "statement": "Determinado produto é vendido por 5 sites diferentes na internet, P, Q, R, S e T. A tabela apresenta o valor desse produto em 4 desses sites.\n\nSite\tPreço do produto\nP\tR$ 124,00\nQ\tR$ 132,00\n\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nSabendo que o preço desse produto no site R é R$ 13,00 a menos do que a média aritmética dos preços nesses 5 sites, então, a diferença entre o maior e o menor preço desse produto, nesses sites, é",
     "blockTypes": [
       "prose",
-      "poem",
+      "table",
+      "table",
       "command"
     ],
     "images": [],
@@ -3067,7 +3066,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q62-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q62-1.svg",
         "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3116,7 +3115,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q63-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q63-1.svg",
         "alt": "Imagem de apoio da questão 63 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3210,7 +3209,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q65-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q65-1.svg",
         "alt": "Imagem de apoio da questão 65 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3345,7 +3344,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q68-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q68-1.svg",
         "alt": "Imagem de apoio da questão 68 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3438,7 +3437,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q72-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q72-1.svg",
         "alt": "Imagem de apoio da questão 72 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3480,11 +3479,10 @@ export const uea2023Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na tabela são apresentados dados de temperatura de mudança de estado físico de cinco substâncias químicas.\n\nSubstância Temperatura de fusão Temperatura de ebulição\n\n1 266 K 332 K\n2 301 K 942 K\n3 172 K 238 K\n4 386 K 720 K\n5 234 K 629 K\n\nEm um ambiente com temperatura 37 ºC, a substância da tabela que estará no estado gasoso e a que estará no estado sólido são, respectivamente, as de números",
+    "statement": "Na tabela são apresentados dados de temperatura de mudança de estado físico de cinco substâncias químicas.\n\nSubstância\tTemperatura de fusão\tTemperatura de ebulição\n1\t266 K\t332 K\n2\t301 K\t942 K\n3\t172 K\t238 K\n4\t386 K\t720 K\n5\t234 K\t629 K\n\nEm um ambiente com temperatura 37 ºC, a substância da tabela que estará no estado gasoso e a que estará no estado sólido são, respectivamente, as de números",
     "blockTypes": [
       "prose",
-      "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -3753,7 +3751,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-cg/q79-1.png",
+        "src": "/images/uea/vestibular-2023-cg/q79-1.svg",
         "alt": "Imagem de apoio da questão 79 (UEA Unificado — Conhecimentos Gerais, 2023)."
       }
     ],
@@ -3882,21 +3880,10 @@ export const uea2023Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "No quadro são apresentadas as origens de cinco diferentes combustíveis.\n\nCombustível Origem\n\nResultado da decomposição de restos\n\n1 orgânicos de plantas e animais que vive-\n\nram há milhões de anos.\nFormado a partir de restos orgânicos,\ncomo matéria vegetal e microrganismos\n\n2 marinhos, depositados em sedimentos e\n\nsubmetidos a pressões e temperaturas\nelevadas.\nFormado a partir do acúmulo e da de-\n\n3 composição de matéria orgânica vegetal, como restos de plantas, em áreas panta-\n\nnosas ou florestas úmidas.\nObtido a partir da fermentação de cana-\n\n4 -de-açúcar, milho, beterraba e outras cul-\n\nturas ricas em açúcar ou amido.\nDerivado do petróleo bruto. Sua produ-\n\n5 ção envolve o processamento e o refino\n\ndo petróleo em refinarias.\n\nDentre os combustíveis do quadro, aquele que é classificado como biocombustível é o de número",
+    "statement": "No quadro são apresentadas as origens de cinco diferentes combustíveis.\n\nCombustível\tOrigem\n1\tResultado da decomposição de restos orgânicos de plantas e animais que viveram há milhões de anos.\n2\tFormado a partir de restos orgânicos, como matéria vegetal e microrganismos marinhos, depositados em sedimentos e submetidos a pressões e temperaturas elevadas.\n3\tFormado a partir do acúmulo e da decomposição de matéria orgânica vegetal, como restos de plantas, em áreas pantanosas ou florestas úmidas.\n4\tObtido a partir da fermentação de cana-de-açúcar, milho, beterraba e outras culturas ricas em açúcar ou amido.\n5\tDerivado do petróleo bruto. Sua produção envolve o processamento e o refino do petróleo em refinarias.\n\nDentre os combustíveis do quadro, aquele que é classificado como biocombustível é o de número",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "poem",
-      "prose",
-      "poem",
-      "prose",
-      "poem",
-      "prose",
-      "poem",
-      "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -3990,7 +3977,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q01-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4079,16 +4066,15 @@ export const uea2023Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra, simplificadamente, a reação da fotossíntese.\n\n‘\n\n(www.iguiecologia.com. Adaptado.)\n\nCom relação à reação da fotossíntese, afirma-se que",
+    "statement": "A figura ilustra, simplificadamente, a reação da fotossíntese.\n\n(www.iguiecologia.com. Adaptado.)\n\nCom relação à reação da fotossíntese, afirma-se que",
     "blockTypes": [
-      "prose",
       "prose",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q03-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q03-1.svg",
         "alt": "Imagem de apoio da questão 03 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4185,7 +4171,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q05-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q05-1.svg",
         "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4280,7 +4266,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q07-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q07-1.svg",
         "alt": "Imagem de apoio da questão 07 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4508,7 +4494,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q12-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4653,7 +4639,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q15-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4696,7 +4682,7 @@ export const uea2023Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "interações entre as moléculas, tais quais as representa-A água ($H_{2}$O) apresenta forças intermoleculares, isto é, das na figura por meio das linhas tracejadas.\n\n(www.usgs.gov. Adaptado.)\n\nA substância que apresenta o mesmo tipo de força intermolecular que a água é a representada pela fórmula:",
+    "statement": "A água (H₂O) apresenta forças intermoleculares, isto é, interações entre as moléculas, tais quais as representadas na figura por meio das linhas tracejadas.\n\n(www.usgs.gov. Adaptado.)\n\nA substância que apresenta o mesmo tipo de força intermolecular que a água é a representada pela fórmula:",
     "blockTypes": [
       "prose",
       "source",
@@ -4704,7 +4690,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q16-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4800,7 +4786,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q18-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -4843,13 +4829,12 @@ export const uea2023Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "2 $O_{2}$) é uma\n\n$2H_{2}$ $O_{2}$ (aq) $2H_{2}$O (l) + $O_{2}$ (g)\n\nPara estudar a cinética da decomposição do peróxido de hidrogênio, foram preparadas soluções com concentrações diferentes, as quais foram submetidas a diferentes temperaturas, sendo que em uma das soluções foi adicionado um catalisador. A tabela apresenta as diferentes condições a que as soluções foram submetidas e o tempo necessário para iniciar a decomposição do $H_{2}$$O_{2}$ em cada caso.\n\nExperimento Concentração de H2O2 Temperatura Tempo para iniciar a liberação de O2\n\n1 10 mol/L 30 ºC 5 minutos 2 10 mol/L 50 ºC 1 minuto 3 5,0 mol/L 30 ºC 8 minutos 4 5,0 mol/L 30 ºC 1 minuto 5 5,0 mol/L 50 ºC 5 minutos\n\nA solução em que foi adicionado um catalisador é a do experimento de número",
+    "statement": "A decomposição do peróxido de hidrogênio (H₂O₂) é uma reação que ocorre de acordo com a equação:\n\n2 H₂O₂ (aq) → 2 H₂O (l) + O₂ (g)\n\nPara estudar a cinética da decomposição do peróxido de hidrogênio, foram preparadas soluções com concentrações diferentes, as quais foram submetidas a diferentes temperaturas, sendo que em uma das soluções foi adicionado um catalisador. A tabela apresenta as diferentes condições a que as soluções foram submetidas e o tempo necessário para iniciar a decomposição do H₂O₂ em cada caso.\n\nExperimento\tConcentração de H₂O₂\tTemperatura\tTempo para iniciar a liberação de O₂\n1\t10 mol/L\t30 ºC\t5 minutos\n2\t10 mol/L\t50 ºC\t1 minuto\n3\t5,0 mol/L\t30 ºC\t8 minutos\n4\t5,0 mol/L\t30 ºC\t1 minuto\n5\t5,0 mol/L\t50 ºC\t5 minutos\n\nA solução em que foi adicionado um catalisador é a de experimento",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
-      "source",
-      "source",
+      "table",
       "command"
     ],
     "images": [],
@@ -4991,7 +4976,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q22-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -5313,7 +5298,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g1/q29-1.png",
+        "src": "/images/uea/vestibular-2023-g1/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA Unificado — Específicos Grupo I, 2023)."
       }
     ],
@@ -5403,7 +5388,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” ($3^{a}$ estrofe) expressa a ideia de que",
+    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” (3ª estrofe) expressa a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -5603,7 +5588,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” ($2^{o}$ parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",
@@ -5708,7 +5693,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q01-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6035,7 +6020,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q08-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6132,7 +6117,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q10-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q10-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6276,7 +6261,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q13-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6327,7 +6312,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q14-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q14-1.svg",
         "alt": "Imagem de apoio da questão 14 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6609,7 +6594,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q20-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6660,7 +6645,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q21-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6712,7 +6697,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q22-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -6763,7 +6748,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q23-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -7039,7 +7024,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g2/q29-1.png",
+        "src": "/images/uea/vestibular-2023-g2/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA Unificado — Específicos Grupo II, 2023)."
       }
     ],
@@ -7129,7 +7114,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” ($3^{a}$ estrofe) expressa a ideia de que",
+    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” (3ª estrofe) expressa a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -7329,7 +7314,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” ($2^{o}$ parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",
@@ -7515,7 +7500,7 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "As notas de matemática obtidas por um estudante na $1^{a}$, $2^{a}$ e $3^{a}$ provas do ano formam, nessa ordem, uma progressão aritmética de razão 3. Se o estudante tivesse obtido um ponto a mais na $1^{a}$ prova e mantivesse as mesmas notas da $2^{a}$ e da $3^{a}$ provas, essa nova sequência de notas, nessa ordem, formaria uma progressão geométrica de razão. A nota obtida por ele na $3^{a}$ prova foi",
+    "statement": "As notas de matemática obtidas por um estudante na 1ª, 2ª e 3ª provas do ano formam, nessa ordem, uma progressão aritmética de razão 3. Se o estudante tivesse obtido um ponto a mais na 1ª prova e mantivesse as mesmas notas da 2ª e da 3ª provas, essa nova sequência de notas, nessa ordem, formaria uma progressão geométrica de razão. A nota obtida por ele na 3ª prova foi",
     "blockTypes": [
       "command"
     ],
@@ -7921,7 +7906,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g3/q13-1.png",
+        "src": "/images/uea/vestibular-2023-g3/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo III, 2023)."
       }
     ],
@@ -8053,14 +8038,14 @@ export const uea2023Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Um artista sonha com um relógio em formato elíptico e pede a um físico para projetar seu maquinário. O relógio deve possuir apenas um ponteiro composto por uma haste de comprimento variável e uma esfera em sua ponta, que se desloca em uma trajetória elíptica pelo relógio, para indicar as horas, conforme a figura.\n\nBaseando-se na $2^{a}$ lei de Kepler, o físico projeta o maquinário de forma que o eixo do ponteiro seja fixo e fique localizado sobre um dos focos da elipse. Para que o relógio possa marcar as horas corretamente, é necessário que",
+    "statement": "Um artista sonha com um relógio em formato elíptico e pede a um físico para projetar seu maquinário. O relógio deve possuir apenas um ponteiro composto por uma haste de comprimento variável e uma esfera em sua ponta, que se desloca em uma trajetória elíptica pelo relógio, para indicar as horas, conforme a figura.\n\nBaseando-se na 2ª lei de Kepler, o físico projeta o maquinário de forma que o eixo do ponteiro seja fixo e fique localizado sobre um dos focos da elipse. Para que o relógio possa marcar as horas corretamente, é necessário que",
     "blockTypes": [
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g3/q16-1.png",
+        "src": "/images/uea/vestibular-2023-g3/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo III, 2023)."
       }
     ],
@@ -8110,7 +8095,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g3/q17-1.png",
+        "src": "/images/uea/vestibular-2023-g3/q17-1.svg",
         "alt": "Imagem de apoio da questão 17 (UEA Unificado — Específicos Grupo III, 2023)."
       }
     ],
@@ -8160,7 +8145,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g3/q19-1.png",
+        "src": "/images/uea/vestibular-2023-g3/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo III, 2023)."
       }
     ],
@@ -8613,7 +8598,7 @@ export const uea2023Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2023-g3/q29-1.png",
+        "src": "/images/uea/vestibular-2023-g3/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA Unificado — Específicos Grupo III, 2023)."
       }
     ],
@@ -8703,7 +8688,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” ($3^{a}$ estrofe) expressa a ideia de que",
+    "statement": "Leia o poema de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder às questões de 30 a 32.\n\nO que nós vemos das cousas são as cousas. Por que veríamos nós uma cousa se houvesse outra? Por que é que ver e ouvir seria iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê Nem ver quando se pensa. Mas isso (tristes de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores.\n\n(Poemas escolhidos, 1997.)\n\nNo contexto do poema, o trecho “tristes de nós que trazemos a alma vestida!” (3ª estrofe) expressa a ideia de que",
     "blockTypes": [
       "prose",
       "prose",
@@ -8903,7 +8888,7 @@ export const uea2023Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2023 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” ($2^{o}$ parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
+    "statement": "Leia o trecho inicial do conto “Miss Dollar”, de Machado de Assis, para responder às questões de 33 a 35.\n\nEra conveniente ao romance que o leitor ficasse muito tempo sem saber quem era Miss Dollar. Mas por outro lado, sem a apresentação de Miss Dollar, seria o autor obrigado a longas digressões, que encheriam o papel sem adiantar a ação. Não há hesitação possível: vou apresentar-lhes Miss Dollar.\n\nSe o leitor é rapaz e dado ao gênio melancólico, imagina que Miss Dollar é uma inglesa pálida e delgada, escassa de carnes e de sangue, abrindo à flor do rosto dous grandes olhos azuis e sacudindo ao vento umas longas tranças louras. A moça em questão deve ser vaporosa e ideal como uma criação de Shakespeare; deve ser o contraste do roastbeef britânico, com que se alimenta a liberdade do Reino Unido [...] A sua fala deve ser um murmúrio de harpa-eó$lia^{1}$; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.\n\nA figura é poética, mas não é a da heroína do romance. Suponhamos que o leitor não é dado a estes devaneios e melancolias; nesse caso imagina uma Miss Dollar totalmente diferente da outra. Desta vez será uma robusta americana, vertendo sangue pelas faces, formas arredondadas, olhos vivos e ardentes, mulher feita, refeita e perfeita. [...]\n\nJá não será do mesmo sentir o leitor que tiver passado a segunda mocidade e vir diante de si uma velhice sem recurso. Para esse, a Miss Dollar verdadeiramente digna de ser contada em algumas páginas, seria uma boa inglesa de cinquenta anos, dotada com algumas mil libras esterlinas, e que, aportando ao Brasil em procura de assunto para escrever um romance, realizasse um romance verdadeiro, casando com o leitor aludido. [...]\n\nMais esperto, que os outros, acode um leitor dizendo que a heroína do romance não é nem foi inglesa, mas brasileira dos quatro costados, e que o nome de Miss Dollar quer dizer simplesmente que a rapariga é rica.\n\nA descoberta seria excelente, se fosse exata; infelizmente nem esta nem as outras são exatas. A Miss Dollar do romance não é a menina romântica, nem a mulher robusta, nem a velha literata, nem a brasileira rica. Falha desta vez a proverbial perspicácia dos leitores; Miss Dollar é uma cadelinha galga².\n\n(Todos os contos, 2019. Adaptado.)\n\n1 \u0007harpa-eólia: instrumento musical antigo em que o som é produzido pela fricção do vento em cordas tensionadas. 2 \u0007galgo: raça canina cujos indivíduos têm patas e pescoço alongados.\n\n“A sua fala deve ser um murmúrio de harpa-eólia; o seu amor um desmaio, a sua vida uma contemplação, a sua morte um suspiro.” (2º parágrafo) Tal caracterização da mulher está presente, sobretudo, em obras do período",
     "blockTypes": [
       "prose",
       "prose",

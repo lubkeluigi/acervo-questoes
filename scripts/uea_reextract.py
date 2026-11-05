@@ -18,7 +18,25 @@ def tidy(s):
     s = re.sub(r'\s+([,.;:!?%)\]])', r'\1', s)
     s = re.sub(r'([(\[])\s+', r'\1', s)
     s = re.sub(r'\s{2,}', ' ', s)
+    # degree Celsius: the glyph "°" is often extracted as a stray "o" before C
+    s = re.sub(r'(\d)\s*o\s*C\b', r'\1 °C', s)
+    s = re.sub(r'(\d)\s*o\s*F\b', r'\1 °F', s)
+    # ordinal indicators that slipped into math mode: N^o / 1^o / 2^a -> Nº / 1º / 2ª
+    s = re.sub(r'\$([Nn])[\^_]\{o\}\$', r'\1º', s)
+    s = re.sub(r'\$(\d+)\^\{o\}\$', r'\1º', s)
+    s = re.sub(r'\$(\d+)\^\{a\}\$', r'\1ª', s)
     return s.strip()
+
+def dehyphenate(lines):
+    """Join words split across line breaks by a trailing hyphen (nave-\\ngação)."""
+    out = []
+    for t in lines:
+        t = t.rstrip()
+        if out and out[-1].endswith('-') and re.match(r'^[a-záàâãéêíóôõúüç]', t):
+            out[-1] = out[-1][:-1] + t
+        else:
+            out.append(t)
+    return out
 
 def is_noise(t):
     t = t.strip()
@@ -116,6 +134,14 @@ def apply_scripts(items):
             if len(base_tok) > 8:
                 result.append(it); continue
             is_sup = script.startswith('^')
+            # ordinal / numero indicator: keep as plain unicode, not KaTeX
+            if stxt in ('o', 'a') and (base_tok.isdigit() or base_tok in ('N', 'n')):
+                if is_sup or stxt == 'o':
+                    plain = base_tok + ('º' if stxt == 'o' else 'ª')
+                    if lead.strip():
+                        li = dict(base_parts[0]); li['text'] = lead; result.append(li)
+                    ni = dict(base_parts[0]); ni['text'] = plain; ni['x1'] = it['x1']
+                    result.append(ni); continue
             is_word = bool(re.fullmatch(r'[A-Za-z]{4,}', base_tok))
             if is_word:
                 upper = sum(1 for ch in base_tok if ch.isupper())
@@ -174,37 +200,144 @@ def spans_to_lines(spans, fracs, consumed):
     for ln in lines:
         ln = apply_scripts(ln)
         ln.sort(key=lambda it: it['x'])
+        # group spans into visual cells (large x-gap => new column/cell)
+        cells = []; cur = []
+        for it in ln:
+            if cur and it['x'] - cur[-1]['x1'] > 12:
+                cells.append(cur); cur = []
+            cur.append(it)
+        if cur: cells.append(cur)
+        cell_list = [dict(x=c[0]['x'], x1=c[-1]['x1'], text=join_spans(c)) for c in cells]
         L.append(dict(text=join_spans(ln),
                       x=min(it['x'] for it in ln), y=ln[0]['y'],
                       y1=max(it['y1'] for it in ln),
                       size=max(it['size'] for it in ln),
-                      italic=all(it['italic'] for it in ln if not it['frac'])))
+                      italic=all(it['italic'] for it in ln if not it['frac']),
+                      cells=cell_list))
     return L
+
+NUMCELL = re.compile(r'^[\d\s.,%]+$|^(R\$|US\$)\s*[\d.,]+$|^[\d.,]+\s*(R\$|US\$)?$')
+
+def _numeric_cell(t):
+    t = t.strip()
+    return bool(NUMCELL.match(t)) and any(ch.isdigit() for ch in t)
+
+def try_table(blk):
+    """Detect a tabular block and return a TSV string (rows\\n, cells\\t) or None."""
+    if len(blk) < 3: return None
+    multi = [l for l in blk if len(l.get('cells', [])) >= 2]
+    if len(multi) < max(3, int(len(blk) * 0.6)): return None
+    # data rows = lines whose cells are mostly numeric
+    data = [l for l in blk if len(l.get('cells', [])) >= 2
+            and sum(1 for c in l['cells'] if _numeric_cell(c['text'])) >= max(1, len(l['cells']) // 2)]
+    if len(data) < 2: return None
+    ncols = max(len(l['cells']) for l in data)
+    if ncols < 2: return None
+    # cluster cell x-starts into columns
+    xs = sorted(c['x'] for l in blk for c in l.get('cells', []))
+    cols = []
+    for x in xs:
+        if not cols or x - cols[-1][-1] > 25: cols.append([x])
+        else: cols[-1].append(x)
+    centers = [sum(c) / len(c) for c in cols]
+    if len(centers) < ncols: return None
+    centers = centers[:max(ncols, len(centers))]
+    def assign(line):
+        row = [''] * len(centers)
+        for c in line.get('cells', []):
+            j = min(range(len(centers)), key=lambda k: abs(centers[k] - c['x']))
+            row[j] = (row[j] + ' ' + c['text']).strip()
+        return row
+    first_data_y = min(l['y'] for l in data)
+    header_rows = [l for l in blk if l['y'] < first_data_y]
+    body_rows = [l for l in blk if l['y'] >= first_data_y]
+    out = []
+    if header_rows:
+        head = [''] * len(centers)
+        for l in header_rows:
+            r = assign(l)
+            for j, v in enumerate(r):
+                if v: head[j] = (head[j] + ' ' + v).strip()
+        if any(head): out.append('\t'.join(head))
+    for l in body_rows:
+        out.append('\t'.join(assign(l)))
+    return '\n'.join(out)
+
+def _is_data_row(l):
+    cs = l.get('cells', [])
+    return len(cs) >= 2 and sum(1 for c in cs if _numeric_cell(c['text'])) >= max(1, len(cs) // 2)
+
+def find_table_regions(L, body_x):
+    """Return (regions, used) where each region is (start, end) line indices of a
+    table (header lines + numeric data rows)."""
+    n = len(L); used = [False] * n; regions = []
+    i = 0
+    while i < n:
+        if _is_data_row(L[i]) and not used[i]:
+            j = i
+            while j + 1 < n and _is_data_row(L[j + 1]) and not used[j + 1]: j += 1
+            if j - i + 1 >= 2:
+                s = i
+                # absorb indented header lines immediately above the data
+                while s - 1 >= 0 and not used[s - 1] and i - s < 4:
+                    pl = L[s - 1]; cs = pl.get('cells', []); txt = pl['text'].strip()
+                    indented = pl['x'] > body_x + 5
+                    multi = len(cs) >= 2
+                    continuation = bool(re.match(r'^[a-záàâãéêíóôõúüç(]', txt))
+                    if indented and (multi or continuation): s -= 1
+                    else: break
+                regions.append((s, j))
+                for k in range(s, j + 1): used[k] = True
+                i = j + 1
+            else:
+                i += 1
+        else:
+            i += 1
+    return regions, used
 
 def lines_to_blocks(L, body_x=None):
     if not L: return []
     if body_x is None: body_x = min(l['x'] for l in L)
-    blocks = []; cur = []; prev = None
-    for ln in L:
-        if prev is not None:
+    regions, used = find_table_regions(L, body_x)
+    # emit table blocks for each region
+    table_at = {}
+    for (s, e) in regions:
+        tsv = try_table(L[s:e + 1])
+        if tsv is not None: table_at[s] = (e, tsv)
+    blocks = []; cur = []; prev = None; idx = 0
+    def flush():
+        nonlocal cur
+        if cur: blocks.append(cur); cur = []
+    while idx < len(L):
+        if idx in table_at:
+            flush()
+            e, tsv = table_at[idx]
+            blocks.append(('TABLE', tsv))
+            prev = L[e]; idx = e + 1; continue
+        if used[idx]:
+            idx += 1; continue
+        ln = L[idx]
+        if prev is not None and not isinstance(prev, tuple):
             gap = ln['y'] - prev['y1']
             indent_increase = ln['x'] - prev['x'] > 15
             leaving_indent = prev['x'] > body_x + 30 and ln['x'] < prev['x'] - 15
             sizechange = abs(ln['size'] - prev['size']) > 1.0
             if gap > 8 or indent_increase or leaving_indent or sizechange:
-                blocks.append(cur); cur = []
-        cur.append(ln); prev = ln
-    if cur: blocks.append(cur)
+                flush()
+        cur.append(ln); prev = ln; idx += 1
+    flush()
     out = []
     for blk in blocks:
+        if isinstance(blk, tuple) and blk[0] == 'TABLE':
+            out.append(('table', blk[1])); continue
         x0 = min(l['x'] for l in blk); sz = max(l['size'] for l in blk)
         texts = [l['text'] for l in blk]
         is_source = sz < 8.5
         is_poem = (x0 > body_x + 18) and len(blk) >= 2
         is_list = sum(1 for t in texts if re.match(r'^(\d+[.)]|[a-e][.)]|[-•]|[IVX]+[.)])\s', t)) >= max(2, len(blk) // 2)
         if is_source: out.append(('source', join_lines(texts)))
-        elif is_poem: out.append(('poem', '\n'.join(tidy(t) for t in texts)))
-        elif is_list: out.append(('list', '\n'.join(tidy(t) for t in texts)))
+        elif is_poem: out.append(('poem', '\n'.join(dehyphenate([tidy(t) for t in texts]))))
+        elif is_list: out.append(('list', '\n'.join(dehyphenate([tidy(t) for t in texts]))))
         else: out.append(('prose', join_lines(texts)))
     return out
 

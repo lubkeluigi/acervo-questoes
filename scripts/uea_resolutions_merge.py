@@ -2,8 +2,8 @@
 """Merge authored KaTeX resolutions into UEA data; strip gabarito/caderno wording everywhere."""
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ALL = json.load(open('/tmp/uea_all.json'))
-R = json.load(open('/tmp/uea_authored.json'))
+ALL = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_all.json')))
+R = json.load(open(os.path.join(ROOT,'scripts','uea_state','uea_authored.json')))
 authored = 0
 for q in ALL:
     n = len(q['alternatives']); c = q['correct']; letter = chr(65 + c)
@@ -18,5 +18,5 @@ for q in ALL:
         # factual, no official-key / caderno references; full commentary rolls out in batches
         q['resolution'] = [f"A alternativa correta é a {letter}."]
         q['analyses'] = ["Correta." if i == c else "Incorreta." for i in range(n)]
-json.dump(ALL, open('/tmp/uea_all.json', 'w'), ensure_ascii=False)
+json.dump(ALL, open(os.path.join(ROOT,'scripts','uea_state','uea_all.json'), 'w'), ensure_ascii=False)
 print('authored merged:', authored, '/', len(ALL))

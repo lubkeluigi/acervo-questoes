@@ -21,7 +21,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q01-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -159,7 +159,7 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Para salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética.” ($2^{o}$ parágrafo) No contexto em que se encontra, a palavra sublinhada deve ser entendida como:",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Para salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética.” (2º parágrafo) No contexto em que se encontra, a palavra sublinhada deve ser entendida como:",
     "blockTypes": [
       "prose",
       "prose",
@@ -263,7 +263,7 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir” ($6^{o}$ parágrafo) Sem modificar o sentido da frase, a expressão sublinhada pode ser substituída por",
+    "statement": "Para responder às questões de 03 a 06, considere o artigo escrito por Rafael Magalhães dos Santos e editado por Layse Ventura.\n\nA televisão já foi vista como o fim do cinema. Mas, em vez de morrer, a sétima arte evoluiu: criou novas linguagens, reinventou formatos e encontrou seu próprio espaço. Hoje, a Inteligência Artificial é tratada como a próxima ameaça às indústrias criativas. Será? A história mostra que, diante de grandes mudanças, quem inova sobrevive — e ainda brilha.\n\nPara salvar a experiência do cinema diante da televisão, a indústria apostou na inovação técnica e estética. Vieram o widescreen, o 3D e o som multicanal, criando um espetáculo que nenhuma TV da época podia replicar. As produções também aceleraram a adoção do filme colorido e passaram a se associar a eventos de “alta cultura”, como teatro e ópera, com filmes mais longos, aberturas e intervalos.\n\nNem todas as ideias pegaram — e algumas soaram até ridículas, como o “smell-o-vision”, que liberava cheiros durante o filme Scent of Mystery (1960). Ainda assim, o esforço de inovar transformou a própria linguagem do cinema.\n\nO impacto foi tão profundo que o cinema deixou de disputar espaço com a TV e criou uma experiência sensorial própria. Inovar não era apenas uma questão de sobrevivência, era uma forma de transformar limitações em novas possibilidades estéticas. Em vez de resistir à mudança, o cinema a incorporou como motor de evolução.\n\nA Inteligência Artificial gera hoje o mesmo frio na barriga que a televisão causou décadas atrás. Textos, músicas, pinturas e roteiros podem ser produzidos em minutos, desafiando a ideia de autoria e talento humano. Mas, assim como o cinema não desapareceu, a criação humana também não precisa ser substituída, ela pode evoluir junto.\n\nA IA não é apenas uma máquina de cópias. Ela pode ser uma ferramenta de experimentação, inspiração e até democratização do acesso criativo. Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir: emoção, nuance, surpresa.\n\nA Inteligência Artificial pode ser a faísca de uma nova era nas artes. A criatividade continua a ser um terreno humano — e, agora, com novos instrumentos para explorá-lo como nunca antes.\n\n(www.olhardigital.com.br, 02.05.2025. Adaptado.)\n\n“Em vez de temer o que a tecnologia pode fazer, a chave está em usá-la para ampliar o que só os humanos conseguem transmitir” (6º parágrafo) Sem modificar o sentido da frase, a expressão sublinhada pode ser substituída por",
     "blockTypes": [
       "prose",
       "prose",
@@ -422,7 +422,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -476,7 +476,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -530,7 +530,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q09-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q09-1.svg",
         "alt": "Imagem de apoio da questão 09 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -755,7 +755,7 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O excerto apresenta a atuação do jornal O Exemplo, publicado em Porto Alegre entre os anos de 1892 e 1930.\n\nDurante a primeira década do século XX, O Exemplo denunciou abusos contra as mulheres negras nos transportes públicos, particularmente na Cia. Carris de Ferro Porto-Alegrense; a violência praticada pela polícia administrativa espancando negros arbitrariamente; o desrespeito público aos negros, que eram xingados quando andavam à noite pela rua; a invasão dos lares negros em festa, por falta de licença da polícia para dançarem; a recusa de matrícula de um menino no colégio Nossa Senhora do Rosário, por ser muito moreno; [...].\n\n(Maria Angélica Zubaran. “Comemorações da liberdade: lugares de\n\nmemórias negras diaspóricas”. Revista Anos 90, $n^{o}$ 27, 2008.)\n\nCom base no excerto e no período pós-abolição da escravidão no Brasil, o jornal O Exemplo",
+    "statement": "O excerto apresenta a atuação do jornal O Exemplo, publicado em Porto Alegre entre os anos de 1892 e 1930.\n\nDurante a primeira década do século XX, O Exemplo denunciou abusos contra as mulheres negras nos transportes públicos, particularmente na Cia. Carris de Ferro Porto-Alegrense; a violência praticada pela polícia administrativa espancando negros arbitrariamente; o desrespeito público aos negros, que eram xingados quando andavam à noite pela rua; a invasão dos lares negros em festa, por falta de licença da polícia para dançarem; a recusa de matrícula de um menino no colégio Nossa Senhora do Rosário, por ser muito moreno; [...].\n\n(Maria Angélica Zubaran. “Comemorações da liberdade: lugares de\n\nmemórias negras diaspóricas”. Revista Anos 90, nº 27, 2008.)\n\nCom base no excerto e no período pós-abolição da escravidão no Brasil, o jornal O Exemplo",
     "blockTypes": [
       "prose",
       "prose",
@@ -802,7 +802,7 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A fotografia mostra o presidente Getúlio Vargas anunciando a Consolidação das Leis Trabalhistas (CLT), em $1^{o}$ de maio de 1943, no Rio de Janeiro.\n\n(https://memorialdademocracia.com.br)\n\nA CLT estabeleceu",
+    "statement": "A fotografia mostra o presidente Getúlio Vargas anunciando a Consolidação das Leis Trabalhistas (CLT), em 1º de maio de 1943, no Rio de Janeiro.\n\n(https://memorialdademocracia.com.br)\n\nA CLT estabeleceu",
     "blockTypes": [
       "prose",
       "source",
@@ -810,7 +810,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q17-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q17-1.svg",
         "alt": "Imagem de apoio da questão 17 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -989,7 +989,7 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "José Coelho da Gama e Abreu, o barão de Marajó, colocou em discussão a necessidade de integração da região amazônica ao território nacional. Esta preocupação remetia ao período em que administrou a província do Amazonas, entre os anos de 1866 e 1868, e Pará, nos anos de 1879 a 1881. Neste aspecto, a integração da Amazônia ao restante do Brasil pressupunha desvincular as relações que a região estabelecia com o comércio internacional, submetendo a economia local aos interesses do país. A aproximação da atividade econômica da Amazônia aos interesses do governo imperial estaria condicionada ao desenvolvimento da agricultura e da produção de gêneros de lavoura regular para comercialização interna, permitindo que outras regiões, como o Sudeste do país, se especializassem na produção para atender o mercado externo, principalmente a cafeicultura.\n\n(Francivaldo Alves Nunes. “A Amazônia e a formação do Estado Imperial no Brasil: unidade do território e expansão de domínio”.\n\nAlmanack, $n^{o}$ 3, 2012. Adaptado.)\n\nSegundo o excerto, a integração da Amazônia ao restante do Brasil, no Período Imperial, dependia da",
+    "statement": "José Coelho da Gama e Abreu, o barão de Marajó, colocou em discussão a necessidade de integração da região amazônica ao território nacional. Esta preocupação remetia ao período em que administrou a província do Amazonas, entre os anos de 1866 e 1868, e Pará, nos anos de 1879 a 1881. Neste aspecto, a integração da Amazônia ao restante do Brasil pressupunha desvincular as relações que a região estabelecia com o comércio internacional, submetendo a economia local aos interesses do país. A aproximação da atividade econômica da Amazônia aos interesses do governo imperial estaria condicionada ao desenvolvimento da agricultura e da produção de gêneros de lavoura regular para comercialização interna, permitindo que outras regiões, como o Sudeste do país, se especializassem na produção para atender o mercado externo, principalmente a cafeicultura.\n\n(Francivaldo Alves Nunes. “A Amazônia e a formação do Estado Imperial no Brasil: unidade do território e expansão de domínio”.\n\nAlmanack, nº 3, 2012. Adaptado.)\n\nSegundo o excerto, a integração da Amazônia ao restante do Brasil, no Período Imperial, dependia da",
     "blockTypes": [
       "prose",
       "source",
@@ -1043,7 +1043,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q22-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q22-1.svg",
         "alt": "Imagem de apoio da questão 22 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1187,7 +1187,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q25-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1327,7 +1327,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q28-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q28-1.svg",
         "alt": "Imagem de apoio da questão 28 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1369,9 +1369,8 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Analise os mapas referentes ao período entre setembro de 2022 e setembro de 2023.\n\nPerda de água na superfície dos municípios do estado do\n\nAmazonas, por hectare\n\nÁreas dos municípios do estado do Amazonas em situação de emergência pela perda de água na superfície\n\n(https://brasil.mapbiomas.org. Adaptado.)\n\nNo estado do Amazonas, a perda de água na superfície tem como consequência o impacto",
+    "statement": "Analise os mapas referentes ao período entre setembro de 2022 e setembro de 2023.\n\nPerda de água na superfície dos municípios do estado do\n\nAmazonas, por hectare\n\n(https://brasil.mapbiomas.org. Adaptado.)\n\nNo estado do Amazonas, a perda de água na superfície tem como consequência o impacto",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -1380,7 +1379,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q29-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1520,7 +1519,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q32-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q32-1.svg",
         "alt": "Imagem de apoio da questão 32 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1751,7 +1750,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q37-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q37-1.svg",
         "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1799,7 +1798,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q37-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q37-1.svg",
         "alt": "Imagem de apoio da questão 37 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -1936,7 +1935,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q41-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q41-1.svg",
         "alt": "Imagem de apoio da questão 41 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -2117,7 +2116,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q45-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -2167,7 +2166,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q46-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q46-1.svg",
         "alt": "Imagem de apoio da questão 46 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -2818,15 +2817,14 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Para a Física, a energia é uma grandeza que não pode ser criada ou destruída, embora possa ser transformada entre suas diversas modalidades. Essa capacidade de transição possibilitou que o ser humano construísse usinas, como a apresentada na figura.\n\n(www.enelgreenpower.com)\n\nNessa usina eólica, o objetivo é transformar a energia",
+    "statement": "Para a Física, a energia é uma grandeza que não pode ser criada ou destruída, embora possa ser transformada entre suas diversas modalidades. Essa capacidade de transição possibilitou que o ser humano construísse usinas, como a apresentada na figura.\n\nNessa usina eólica, o objetivo é transformar a energia",
     "blockTypes": [
       "prose",
-      "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q62-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q62-1.svg",
         "alt": "Imagem de apoio da questão 62 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -2919,7 +2917,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q64-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q64-1.svg",
         "alt": "Imagem de apoio da questão 64 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3005,11 +3003,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A escala Celsius atual tem como pontos fixos o valor 0 ºC para o ponto de congelamento da água e 100 ºC para o ponto de ebulição da água e foi criada em 1742 pelo astrônomo sueco Anders Celsius. Originalmente, Celsius usou zero grau para o ponto de ebulição da água e cem graus para o ponto de fusão da neve. Mais tarde, isso foi invertido para os valores utilizados atualmente e, dessa forma, ganhou amplo uso.\n\n(www.britannica.com. Adaptado.)\n\nRepresentando a unidade de medida na escala original cria-\n\ntermos atuais, de 23 ºC, correspondia na escala original ada pelo astrônomo Celsius por º$C_{o}$, a temperatura escrita em",
+    "statement": "A escala Celsius atual tem como pontos fixos o valor 0 ºC para o ponto de congelamento da água e 100 ºC para o ponto de ebulição da água e foi criada em 1742 pelo astrônomo sueco Anders Celsius. Originalmente, Celsius usou zero grau para o ponto de ebulição da água e cem graus para o ponto de fusão da neve. Mais tarde, isso foi invertido para os valores utilizados atualmente e, dessa forma, ganhou amplo uso.\n\n(www.britannica.com. Adaptado.)\n\nRepresentando a unidade de medida na escala original criatermos atuais, de 23 ºC, correspondia na escala original ada pelo astrônomo Celsius por º$C_{o}$, a temperatura escrita em",
     "blockTypes": [
       "prose",
       "source",
-      "prose",
       "command"
     ],
     "images": [],
@@ -3102,7 +3099,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q68-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q68-1.svg",
         "alt": "Imagem de apoio da questão 68 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3152,7 +3149,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q69-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q69-1.svg",
         "alt": "Imagem de apoio da questão 69 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3202,7 +3199,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q70-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q70-1.svg",
         "alt": "Imagem de apoio da questão 70 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3252,7 +3249,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q71-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q71-1.svg",
         "alt": "Imagem de apoio da questão 71 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3344,7 +3341,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q73-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q73-1.svg",
         "alt": "Imagem de apoio da questão 73 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3394,7 +3391,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q74-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q74-1.svg",
         "alt": "Imagem de apoio da questão 74 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3488,7 +3485,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q76-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q76-1.svg",
         "alt": "Imagem de apoio da questão 76 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3581,7 +3578,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q78-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q78-1.svg",
         "alt": "Imagem de apoio da questão 78 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3807,7 +3804,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-cg/q84-1.png",
+        "src": "/images/uea/vestibular-2025-cg/q84-1.svg",
         "alt": "Imagem de apoio da questão 84 (UEA Unificado — Conhecimentos Gerais, 2025)."
       }
     ],
@@ -3849,18 +3846,15 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra uma célula bacteriana e seus componentes estruturais.\n\nPilus\n\nRibossomo\nCápsula Flagelo\nParede\ncelular\n\nNucleoide (DNA)\nMembrana\nplasmática\n\n(www.mundovestibular.com.br)\n\nTendo em vista os componentes estruturais indicados, a função principal",
+    "statement": "A figura ilustra uma célula bacteriana e seus componentes estruturais.\n\n(www.mundovestibular.com.br)\n\nTendo em vista os componentes estruturais indicados, a função principal",
     "blockTypes": [
       "prose",
-      "prose",
-      "poem",
-      "poem",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q01-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q01-1.svg",
         "alt": "Imagem de apoio da questão 01 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -3991,19 +3985,15 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Examine o esquema que ilustra, em um ecossistema, a energia do Sol captada pelas plantas e que, a partir delas, é transformada e transferida aos demais seres vivos por meio das cadeias alimentares.\n\nEnergia gasta\n\nEnergia captada pelas plantas\n\nEnergia transferida\n\nFluxo energético\n\n(http://educacao.globo.com)\n\nA matéria é transferida entre os organismos e o ambiente, passando por processos como alimentação, excreção e decomposição. De acordo com o comportamento da energia e da matéria ao longo das cadeias alimentares, espera-se que",
+    "statement": "Examine o esquema que ilustra, em um ecossistema, a energia do Sol captada pelas plantas e que, a partir delas, é transformada e transferida aos demais seres vivos por meio das cadeias alimentares.\n\n(http://educacao.globo.com)\n\nA matéria é transferida entre os organismos e o ambiente, passando por processos como alimentação, excreção e decomposição. De acordo com o comportamento da energia e da matéria ao longo das cadeias alimentares, espera-se que",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q04-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q04-1.svg",
         "alt": "Imagem de apoio da questão 04 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -4222,18 +4212,15 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A sequência de imagens mostra o movimento peristáltico, processo responsável pelo transporte do bolo alimentar ao longo do esôfago. Esse processo é fundamental para a digestão, pois garante que o alimento chegue ao estômago mesmo quando estamos deitados.\n\ncontraçãoÁrea de Esôfago\n\nBolo alimentar\n\nCamada Área de muscular relaxamento\n\n(www.todamateria.com.br)\n\nCom relação ao processo ilustrado, tem-se que o movimento peristáltico",
+    "statement": "A sequência de imagens mostra o movimento peristáltico, processo responsável pelo transporte do bolo alimentar ao longo do esôfago. Esse processo é fundamental para a digestão, pois garante que o alimento chegue ao estômago mesmo quando estamos deitados.\n\n(www.todamateria.com.br)\n\nCom relação ao processo ilustrado, tem-se que o movimento peristáltico",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q09-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q09-1.svg",
         "alt": "Imagem de apoio da questão 09 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -4320,16 +4307,15 @@ export const uea2025Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A figura ilustra algumas estruturas formadas durante o desenvolvimento embrionário humano. Durante esse período, a placenta e o cordão umbilical desempenham papéis essenciais na manutenção da vida fetal.\n\nPlacenta\nCordão\numbilical\nÚtero\n\n(https://onlinelibrary.wiley.com. Adaptado.)\n\nPara que o feto se desenvolva de forma saudável, é necessário que",
+    "statement": "A figura ilustra algumas estruturas formadas durante o desenvolvimento embrionário humano. Durante esse período, a placenta e o cordão umbilical desempenham papéis essenciais na manutenção da vida fetal.\n\n(https://onlinelibrary.wiley.com. Adaptado.)\n\nPara que o feto se desenvolva de forma saudável, é necessário que",
     "blockTypes": [
       "prose",
-      "poem",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q11-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q11-1.svg",
         "alt": "Imagem de apoio da questão 11 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -4466,7 +4452,7 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "As interações intermoleculares podem ocorrer entre estruturas presentes em uma mesma molécula e desempenham papel fundamental em muitas macromoléculas. Na celulose, principal componente das paredes celulares vegetais, as interações intermoleculares são responsáveis por conferir rigidez e estabilidade mecânica aos tecidos vegetais, permitindo, por exemplo, que árvores gigantescas da Floresta Amazônica, que atingem 70 metros de altura, como as samaúmas (Ceiba pentandra), sustentem seus próprios pesos e resistam a ventos e intempéries. A figura representa uma fração da molécula de celulose, em que as interações intermoleculares estão representadas por linhas hachuradas.\n\nH H H H\n\nH O H O H O $CH_{2}$ H O\n$\\frac{O}{H}$ O $CH_{2}$ H O HO O H O H $\\frac{O}{H}$\nH H\n\n(Ígor A. N. Donini. “Biossíntese e recentes avanços na produção de\n\ncelulose bacteriana”. Eclética Química, $n^{o}$4, 2010.)\n\nAs interações intermoleculares representadas por linhas hachuradas na fórmula estrutural da molécula de celulose correspondem a",
+    "statement": "As interações intermoleculares podem ocorrer entre estruturas presentes em uma mesma molécula e desempenham papel fundamental em muitas macromoléculas. Na celulose, principal componente das paredes celulares vegetais, as interações intermoleculares são responsáveis por conferir rigidez e estabilidade mecânica aos tecidos vegetais, permitindo, por exemplo, que árvores gigantescas da Floresta Amazônica, que atingem 70 metros de altura, como as samaúmas (Ceiba pentandra), sustentem seus próprios pesos e resistam a ventos e intempéries. A figura representa uma fração da molécula de celulose, em que as interações intermoleculares estão representadas por linhas hachuradas.\n\nH H H H\n\nH O H O H O $CH_{2}$ H O\n$\\frac{O}{H}$ O $CH_{2}$ H O HO O H O H $\\frac{O}{H}$\nH H\n\n(Ígor A. N. Donini. “Biossíntese e recentes avanços na produção de\n\ncelulose bacteriana”. Eclética Química, nº4, 2010.)\n\nAs interações intermoleculares representadas por linhas hachuradas na fórmula estrutural da molécula de celulose correspondem a",
     "blockTypes": [
       "prose",
       "prose",
@@ -4649,7 +4635,7 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O metano (CHlizado como combustível em geradores de energia elétrica₄), principal componente do gás natural, é uti-\n\ninstalados em localidades remotas, onde não há acesso à rede elétrica convencional. A reação da combustão completa do metano é representada na equação a seguir.\n\n$CH_{4}$(g) + $O_{2}$(g) $CO_{2}$(g) + $H_{2}$O (l)\n\nPara a reação de combustão completa de 2 mol de gás metano, há o consumo de de gás oxigênio, o que resulta na formação de de produtos no total. As lacunas do texto são preenchidas, respectivamente, por:",
+    "statement": "O metano (CH₄), principal componente do gás natural, é utilizado como combustível em geradores de energia elétrica instalados em localidades remotas, onde não há acesso à rede elétrica convencional. A reação da combustão completa do metano é representada na equação a seguir.\n\nCH₄ (g) + O₂ (g) → CO₂ (g) + H₂O (l)\n\nPara a reação de combustão completa de 2 mol de gás metano, há o consumo de ____ de gás oxigênio, o que resulta na formação de ____ de produtos no total.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -4696,11 +4682,8 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma aula de química, para estudar os fatores que influenciam a rapidez da reação, foram preparados cinco experimentos, 1, 2, 3, 4, 5, contendo uma mistura de carbonato\n\nconforme ilustrado nas figuras e descrito na tabela a seguir.de cálcio sólido ($CaCO_{3}$) e solução de ácido clorídrico (HCl),\n\n1 2 3 4 5\n\nCondições experimentais\n\nExperimento $CaCO5g_{3}$ 100 mLHCl Temperatura\n\n1 Pulverizado 1,0 mol/L 65 ºC 2 Pulverizado 1,0 mol/L 5 ºC 3 Comprimido 1,0 mol/L 5 ºC 4 Pulverizado 0,5 mol/L 25 ºC 5 Comprimido 0,5 mol/L 25 ºC Foi monitorado o tempo necessário para a reação completa do carbonato de cálcio, que ocorreu de acordo com a equação:\n\n$CaCO_{3}$(s) + 2HCl (aq) $CaCl_{2}$(aq) + $CO_{2}$(g) + $H_{2}$O (l) O experimento em que a massa de carbonato de cálcio reagiu completamente no menor intervalo de tempo corresponde ao número",
+    "statement": "Em uma aula de química, para estudar os fatores que influenciam a rapidez da reação, foram preparados cinco experimentos, 1, 2, 3, 4, 5, contendo uma mistura de carbonato\n\nconforme ilustrado nas figuras e descrito na tabela a seguir.de cálcio sólido ($CaCO_{3}$) e solução de ácido clorídrico (HCl),\n\n2 Pulverizado 1,0 mol/L 5 ºC 3 Comprimido 1,0 mol/L 5 ºC 4 Pulverizado 0,5 mol/L 25 ºC 5 Comprimido 0,5 mol/L 25 ºC Foi monitorado o tempo necessário para a reação completa do carbonato de cálcio, que ocorreu de acordo com a equação:\n\n$CaCO_{3}$(s) + 2HCl (aq) $CaCl_{2}$(aq) + $CO_{2}$(g) + $H_{2}$O (l) O experimento em que a massa de carbonato de cálcio reagiu completamente no menor intervalo de tempo corresponde ao número",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -4708,7 +4691,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q19-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -4795,7 +4778,7 @@ export const uea2025Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "O hidrogênio verde é uma fonte energética considerada sustentável, pois é obtido a partir da eletrólise da água, utilizando-se a eletricidade proveniente de fontes renováveis, como a energia eólica. O equipamento usado para a eletrólise é o eletrolisador, que converte energia elétrica em energia química. O esquema de um eletrolisador é mostrado na figura.\n\nCátodo – + Ânodo\n\n$H_{2}$ O2– 1 $O2_{2}$\n\n$H_{2}$O\n\nCátodo Ânodo\n\nEletrólito\n\nÂnodo O2– 1 $O2_{2}$ + 2e–\nCátodo $H_{2}$O + 2e– $H_{2}$ + O2–\n\n(S. Shiva Kumar e V. Himabindu. “Hydrogen production by PEM water electrolysis”. Materials Science for Energy Technologies, $n^{o}$ 3, 2019.\n\nAdaptado.)\n\nNa produção de hidrogênio verde em um eletrolisador alimentado por energia eólica,",
+    "statement": "O hidrogênio verde é uma fonte energética considerada sustentável, pois é obtido a partir da eletrólise da água, utilizando-se a eletricidade proveniente de fontes renováveis, como a energia eólica. O equipamento usado para a eletrólise é o eletrolisador, que converte energia elétrica em energia química. O esquema de um eletrolisador é mostrado na figura.\n\nCátodo – + Ânodo\n\n$H_{2}$ O2– 1 $O2_{2}$\n\n$H_{2}$O\n\nCátodo Ânodo\n\nEletrólito\n\nÂnodo O2– 1 $O2_{2}$ + 2e–\nCátodo $H_{2}$O + 2e– $H_{2}$ + O2–\n\n(S. Shiva Kumar e V. Himabindu. “Hydrogen production by PEM water electrolysis”. Materials Science for Energy Technologies, nº 3, 2019.\n\nAdaptado.)\n\nNa produção de hidrogênio verde em um eletrolisador alimentado por energia eólica,",
     "blockTypes": [
       "prose",
       "prose",
@@ -4991,7 +4974,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -5041,7 +5024,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g1/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g1/q25-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo I, 2025)."
       }
     ],
@@ -5084,9 +5067,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5140,9 +5122,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5196,9 +5177,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5252,9 +5232,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4º parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5308,9 +5287,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” (1º parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -5463,7 +5441,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2º parágrafo) era que as lojas",
     "blockTypes": [
       "prose",
       "prose",
@@ -5515,7 +5493,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3º parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5567,7 +5545,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3º parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -5809,7 +5787,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q05-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q05-1.svg",
         "alt": "Imagem de apoio da questão 05 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6047,7 +6025,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q10-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q10-1.svg",
         "alt": "Imagem de apoio da questão 10 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6090,11 +6068,10 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o trecho do artigo “Existe uma Crise da Democracia no Brasil?”, escrito pelo sociólogo Florestan Fernandes, em 1954.\n\n[...] toda a argumentação desenrolada tenta mostrar que um dos fatores que prejudicam o desenvolvimento da democracia no Brasil é a persistência de uma mentalidade política arcaica, inadequada para promover ajustamentos dinâmicos não só a situações que se alteram socialmente, mas que estão em fluxo contínuo no presente. A contribuição que a educação sistemática pode oferecer para alterar semelhante mentalidade exprime, naturalmente, as tarefas políticas que ela pode preencher em uma esfera neutra.\n\n(apud: Enno D. Liedke Filho. “A Sociologia no Brasil: história, teorias e desa-\n\nfios”. Sociologias, $n^{o}$ 14, 2005.)\n\nDe acordo com o sociólogo, “um dos fatores que prejudicam o desenvolvimento da democracia no Brasil” é a",
+    "statement": "Analise o trecho do artigo “Existe uma Crise da Democracia no Brasil?”, escrito pelo sociólogo Florestan Fernandes, em 1954.\n\n[...] toda a argumentação desenrolada tenta mostrar que um dos fatores que prejudicam o desenvolvimento da democracia no Brasil é a persistência de uma mentalidade política arcaica, inadequada para promover ajustamentos dinâmicos não só a situações que se alteram socialmente, mas que estão em fluxo contínuo no presente. A contribuição que a educação sistemática pode oferecer para alterar semelhante mentalidade exprime, naturalmente, as tarefas políticas que ela pode preencher em uma esfera neutra.\n\n(apud: Enno D. Liedke Filho. “A Sociologia no Brasil: história, teorias e desafios”. Sociologias, nº 14, 2005.)\n\nDe acordo com o sociólogo, “um dos fatores que prejudicam o desenvolvimento da democracia no Brasil” é a",
     "blockTypes": [
       "prose",
       "prose",
-      "source",
       "source",
       "command"
     ],
@@ -6184,15 +6161,13 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a representação cartográfica que apresenta os principais pontos turísticos do estado do Amazonas.\n\n(www.amazonastur.am.gov.br. Adaptado.)\n\nA representação cartográfica sobre os pontos turísticos do estado Amazonas é um tipo de mapa",
+    "statement": "estado Amazonas é um tipo de mapa",
     "blockTypes": [
-      "prose",
-      "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q13-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q13-1.svg",
         "alt": "Imagem de apoio da questão 13 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6235,7 +6210,7 @@ export const uea2025Vestibular = [
     "subject": "História",
     "detail": "História — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O estado do Amazonas apresenta um conjunto de vulnerabilidades socioeconômicas que o posicionam entre as unidades federativas com os indicadores mais preocupantes do país. Dados do Censo Demográfico de 2022, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), evidenciam disparidades significativas em relação ao restante do território nacional, especialmente no que se refere à renda domiciliar per capita, à informalidade nas relações de trabalho e ao acesso a serviços públicos essenciais, como saúde e educação. A realidade socioeconômica amazonense é agravada por uma expressiva taxa de informalidade no mercado de trabalho, que atinge mais de 58% da população ocupada, e pela elevada dependência de políticas de transferência de renda, das quais aproximadamente um quarto da população é beneficiária.\n\n(Daniel Castro Ferreira. Revista FT, $n^{o}$ 146, 2025. Adaptado.)\n\nConsiderando o contexto apresentado pelo excerto, uma política pública para amenizar a vulnerabilidade socioeconômica do estado do Amazonas seria, dentre outras,",
+    "statement": "O estado do Amazonas apresenta um conjunto de vulnerabilidades socioeconômicas que o posicionam entre as unidades federativas com os indicadores mais preocupantes do país. Dados do Censo Demográfico de 2022, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), evidenciam disparidades significativas em relação ao restante do território nacional, especialmente no que se refere à renda domiciliar per capita, à informalidade nas relações de trabalho e ao acesso a serviços públicos essenciais, como saúde e educação. A realidade socioeconômica amazonense é agravada por uma expressiva taxa de informalidade no mercado de trabalho, que atinge mais de 58% da população ocupada, e pela elevada dependência de políticas de transferência de renda, das quais aproximadamente um quarto da população é beneficiária.\n\n(Daniel Castro Ferreira. Revista FT, nº 146, 2025. Adaptado.)\n\nConsiderando o contexto apresentado pelo excerto, uma política pública para amenizar a vulnerabilidade socioeconômica do estado do Amazonas seria, dentre outras,",
     "blockTypes": [
       "prose",
       "source",
@@ -6281,21 +6256,14 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Por trás das belas imagens em preto e branco de montanhas, rios e da floresta amazônica, Sebastião Salgado documentou histórias de garimpo ilegal, conflitos com madeireiros, garimpeiros e autoridades locais, mortes por falta de atendimento médico e episódios de perseguição. O fotógrafo brasileiro faleceu em 23.05.2025, aos 81 anos, na França, onde vivia. Salgado dedicou sete anos ao projeto Amazônia, que resultou em um livro e em exposições fotográficas internacionais, que passaram por Londres, Roma, Paris e São Paulo.\n\nTerras indígenas (TI) fotografadas por Sebastião Salgado\n\nTI Yanomami MonteRoraima TI RaposaSerra do Sol BRASIL\n\nPico daNeblina\n\nTI Valedo Javari\n\nTI RioGregório\n\nOutras Terras Indígenas Bioma Amazônia\n\n(www.bbc.com, 23.05.2021. Adaptado.)\n\nDe acordo com o excerto e a análise do mapa das terras indígenas fotografadas por Sebastião Salgado, o trabalho de documentação histórica elaborado pelo fotógrafo",
+    "statement": "Por trás das belas imagens em preto e branco de montanhas, rios e da floresta amazônica, Sebastião Salgado documentou histórias de garimpo ilegal, conflitos com madeireiros, garimpeiros e autoridades locais, mortes por falta de atendimento médico e episódios de perseguição. O fotógrafo brasileiro faleceu em 23.05.2025, aos 81 anos, na França, onde vivia. Salgado dedicou sete anos ao projeto Amazônia, que resultou em um livro e em exposições fotográficas internacionais, que passaram por Londres, Roma, Paris e São\n\nindígenas fotografadas por Sebastião Salgado, o trabalho de documentação histórica elaborado pelo fotógrafo",
     "blockTypes": [
       "prose",
-      "prose",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q15-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6338,19 +6306,15 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise o mapa que apresenta dois corredores logísticos, 1 e 2, construídos na Amazônia Legal, os quais contribuíram com o processo de produção do espaço amazônico.\n\nSantarém (PA) Belém (PA) Corredor logístico 2\n\nManaus (AM)\n\nLábrea (AM)\n\nCorredor logístico 1 Cuiabá (MT)\n\n(Atlas da Amazônia Brasileira, 2025. Adaptado.)\n\nUm impacto decorrente da construção de corredores logísticos no território da Amazônia Legal e a denominação dos corredores logísticos 1 e 2 são, respectivamente:",
+    "statement": "Analise o mapa que apresenta dois corredores logísticos, 1 e 2, construídos na Amazônia Legal, os quais contribuíram com o processo de produção do espaço amazônico.\n\n(Atlas da Amazônia Brasileira, 2025. Adaptado.)\n\nUm impacto decorrente da construção de corredores logísticos no território da Amazônia Legal e a denominação dos corredores logísticos 1 e 2 são, respectivamente:",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q16-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q16-1.svg",
         "alt": "Imagem de apoio da questão 16 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6440,15 +6404,14 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Analise a charge publicada no perfil @chappatte_cartoons, em 22.06.2025.\n\n(www.instagram.com. Adaptado.)\n\nNo cenário geopolítico mundial, a parceria entre os Estados Unidos da América (EUA) e Israel, representada na charge, busca",
+    "statement": "Analise a charge publicada no perfil @chappatte_cartoons, em 22.06.2025.\n\nNo cenário geopolítico mundial, a parceria entre os Estados Unidos da América (EUA) e Israel, representada na charge, busca",
     "blockTypes": [
       "prose",
-      "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q18-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6537,19 +6500,15 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Apesar dos alertas científicos, da proposta de transição ecológica e das diretrizes constitucionais, o Estado brasileiro ainda sustenta, com recursos públicos, setores que aceleram a crise climática.\n\nEstou subfinanciada!\n\nBancos públicos deveriam redirecionar\n\nrecursos que impulsionam\n\ndesmatamento e energias fósseis\npara atividades sustentáveis\n\n(https://arvoreagua.org, 01.04.2025. Adaptado.)\n\nConsiderando o excerto e a charge, qual modelo produtivo subfinanciado pelo Estado brasileiro deveria ser fomentado pelo estado do Amazonas para estimular iniciativas produtivas?",
+    "statement": "Apesar dos alertas científicos, da proposta de transição ecológica e das diretrizes constitucionais, o Estado brasileiro ainda sustenta, com recursos públicos, setores que aceleram a crise climática.\n\n(https://arvoreagua.org, 01.04.2025. Adaptado.)\n\nConsiderando o excerto e a charge, qual modelo produtivo subfinanciado pelo Estado brasileiro deveria ser fomentado pelo estado do Amazonas para estimular iniciativas produtivas?",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "poem",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q20-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q20-1.svg",
         "alt": "Imagem de apoio da questão 20 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6735,24 +6694,15 @@ export const uea2025Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Examine o mapa que apresenta uma área em disputa por dois países.\n\nChina\n\nCedido pelo Paquistão à China\n\nGeleiraSiachen\n\nAskai Chin(Administradapela China)\n\nBalakot Linha de controle\n\nSrinagar\n\nPaquistão Pulwana\n\nÍndia\n\nÁrea em disputa\n\n(www.bbc.com. Adaptado.)\n\nConsiderando o mapa e o contexto geopolítico asiático, a área que está em disputa corresponde",
+    "statement": "Examine o mapa que apresenta uma área em disputa por dois países.\n\n(www.bbc.com. Adaptado.)\n\nConsiderando o mapa e o contexto geopolítico asiático, a área que está em disputa corresponde",
     "blockTypes": [
       "prose",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
-      "source",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q24-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6802,7 +6752,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6852,7 +6802,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g2/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g2/q25-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo II, 2025)."
       }
     ],
@@ -6895,9 +6845,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -6951,9 +6900,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -7007,9 +6955,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -7063,9 +7010,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4º parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -7119,9 +7065,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” (1º parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -7274,7 +7219,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2º parágrafo) era que as lojas",
     "blockTypes": [
       "prose",
       "prose",
@@ -7326,7 +7271,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3º parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7378,7 +7323,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3º parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",
@@ -7750,10 +7695,10 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nItem $N^{o}$compradas de unidades Valor unitário do item\n\nCaneta 5 R$ 4,60 Lápis? R$ 2,00 Marca textos 2 R$ 2,50 Considerando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
+    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nItem\tNºcompradas de unidades Valor unitário do item\t\t\nCaneta\t\t5\tR$ 4,60\nLápis\t\t?\tR$ 2,00\nMarca textos\t\t2\tR$ 2,50\n\nConsiderando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
     "blockTypes": [
       "prose",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -7990,11 +7935,10 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite Período orbital (dias terrestres)\nCalisto 16,7\nEuropa 3,6\nGanimedes 7,2\n\nIo 1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
+    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite\tPeríodo orbital (dias terrestres)\t\nCalisto\t\t16,7\nEuropa\t\t3,6\nGanimedes\t\t7,2\nIo\t\t1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
     "blockTypes": [
       "prose",
-      "poem",
-      "prose",
+      "table",
       "command"
     ],
     "images": [],
@@ -8221,9 +8165,8 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em uma usina termoelétrica, um combustível é utilizado para vaporizar água em uma caldeira e o vapor produzido aciona uma turbina que, por fim, movimenta um gerador. Nesse processo, cada etapa de transformação de energia apresenta um rendimento: vaporização de água na caldeira, com ren-\n\nC G, conformeT,\n\nEntrada de\nenergia\n\nCaldeira Rendimento C\n\nTurbina Rendimento T\n\nGerador Rendimento G\n\nSaída de\nenergia\n\nP, é dado por\n\nP = C T G)\n\nP C T G)\n\nP = C T G)\n\nP C T G\n\nP C T G",
+    "statement": "Em uma usina termoelétrica, um combustível é utilizado para vaporizar água em uma caldeira e o vapor produzido aciona uma turbina que, por fim, movimenta um gerador. Nesse processo, cada etapa de transformação de energia apresenta um rendimento: vaporização de água na caldeira, com renC G, conformeT,\n\nEntrada de\nenergia\n\nCaldeira Rendimento C\n\nTurbina Rendimento T\n\nGerador Rendimento G\n\nSaída de\nenergia\n\nP, é dado por\n\nP = C T G)\n\nP C T G)\n\nP = C T G)\n\nP C T G\n\nP C T G",
     "blockTypes": [
-      "prose",
       "prose",
       "poem",
       "prose",
@@ -8431,9 +8374,8 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Nos reatores nucleares, a liberação de energia nuclear\n\n235U) absorve um\n\nnêutron, torna-se extremamente instável e rompe-se quase que instantaneamente em dois outros núcleos, como os de\n\n141 92Kr). Desse processo, resul-\n\ntam ainda três nêutrons (n) e liberação de 2,70 × 10-11 J de energia, como mostra a equação:\n\n235 141 92Kr + 3n + 2,70 × 10–11 J\n\nNesse caso, a liberação de energia nuclear ocorre por meio de um processo de",
+    "statement": "Nos reatores nucleares, a liberação de energia nuclear\n\n235U) absorve um\n\nnêutron, torna-se extremamente instável e rompe-se quase que instantaneamente em dois outros núcleos, como os de\n\n141 92Kr). Desse processo, resultam ainda três nêutrons (n) e liberação de 2,70 × 10-11 J de energia, como mostra a equação:\n\n235 141 92Kr + 3n + 2,70 × 10–11 J\n\nNesse caso, a liberação de energia nuclear ocorre por meio de um processo de",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8488,7 +8430,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g3/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g3/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA Unificado — Específicos Grupo III, 2025)."
       }
     ],
@@ -8538,7 +8480,7 @@ export const uea2025Vestibular = [
     ],
     "images": [
       {
-        "src": "/images/uea/vestibular-2025-g3/q25-1.png",
+        "src": "/images/uea/vestibular-2025-g3/q25-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA Unificado — Específicos Grupo III, 2025)."
       }
     ],
@@ -8581,9 +8523,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nUma característica do personagem Policarpo Quaresma que o acompanha ao longo de todo o romance e que está presente nesse trecho é sua obsessão",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8637,9 +8578,8 @@ export const uea2025Vestibular = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nO narrador do romance manifesta-se ironicamente, em tom jocoso, em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8693,9 +8633,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\nNo contexto em que está inserido, o trecho sublinhado expressa um tempo em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8749,9 +8688,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” ($4^{o}$ parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…” (4º parágrafo) Mantendo a correção gramatical e o sentido original do texto, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8805,9 +8743,8 @@ export const uea2025Vestibular = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exempla-\n\nres dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” ($1^{o}$ parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
+    "statement": "Leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto, para responder às questões de 27 a 31.\n\nRicardo agarrou o cálice com delicadeza e respeito, levou-o aos lábios e foi como se todo ele bebesse o licor nacional.\n\n— Está bom, hein? — indagou o major. — Magnífico — fez Ricardo, estalando os lábios. — É de Angra. Agora tu vais ver que magnífico vinho do Rio Grande temos… Qual Borgonha! Qual Bordeaux! Temos no Sul muito melhores…\n\nE o jantar correu assim, nesse tom. Quaresma exaltando os produtos nacionais: a banha, o toucinho e o arroz; a irmã fazia pequenas objeções e Ricardo dizia: “É, é, não há dúvida” — rolando nas órbitas os olhos pequenos, franzindo a testa diminuta que se sumia no cabelo áspero, forçando muito a sua fisionomia miúda e dura a adquirir uma expressão sincera de delicadeza e satisfação.\n\nAcabado o jantar foram ver o jardim. Era uma maravilha; não tinha nem uma flor… Certamente não se podia tomar por tal míseros beijos-de-frade, palmas-de-santa-rita, quaresmas\n\n1, manacás melancólicos e outros belos exemplares dos nossos campos e prados. Como em tudo o mais, o major era em jardinagem essencialmente nacional. Nada de rosas, de crisântemos, de magnólias — flores exóticas; as nossas terras tinham outras mais belas, mais expressivas, mais olentes², como aquelas que ele tinha ali.\n\nRicardo ainda uma vez concordou e os dois entraram na sala, quando o crepúsculo vinha devagar, muito vagaroso e lento, como se fosse um longo adeus saudoso do sol ao deixar a terra, pondo nas coisas a sua poesia dolente³ e a sua deliquescência⁴.\n\nMal foi aceso o gás, o mestre de violão empunhou o instrumento, apertou as cravelhas, correu a escala, abaixando-se sobre ele como se o quisesse beijar. Tirou alguns acordes, para experimentar; e dirigiu-se ao discípulo, que já tinha o seu em posição:\n\n— Vamos ver. Tire a escala, major.\n\n(Triste fim de Policarpo Quaresma, 2010.)\n\n1 lutulento: lamacento, lodoso. 2 olente: cheiroso, perfumado. 3 dolente: lamentosa, queixosa. 4 deliquescência: propriedade que certas substâncias têm de extrair água.\n\n“e foi como se todo ele bebesse o licor nacional” (1º parágrafo) Nessa frase, o verbo sublinhado tem um objeto direto — “o licor nacional” —, isto é, o verbo tem um complemento e é ligado a ele diretamente, sem a presença de uma preposição. O verbo sublinhado tem também um objeto direto em:",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "prose",
@@ -8960,7 +8897,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” ($2^{o}$ parágrafo) era que as lojas",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\nA característica das lojas de suvenires que as fazia semelhantes a “barracas de limonada” (2º parágrafo) era que as lojas",
     "blockTypes": [
       "prose",
       "prose",
@@ -9012,7 +8949,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” ($3^{o}$ parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Dan assumiu a tarefa de capturar o ladrão” (3º parágrafo) Ao se transpor a oração centrada no verbo sublinhado para a voz passiva, esse verbo assume a forma:",
     "blockTypes": [
       "prose",
       "prose",
@@ -9064,7 +9001,7 @@ export const uea2025Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” ($3^{o}$ parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
+    "statement": "Leia o texto de Dan Ariely, traduzido por Ivo Korytowski, para responder às questões de 33 a 36.\n\nO chamado da arte\n\nEm abril de 2011, o programa de rádio This American Life apresentou uma matéria sobre Dan Weiss, um jovem universitário que trabalhava no Centro John F. Kennedy de Artes Cênicas, em Washington. Sua função era cuidar do estoque das lojas de suvenires do centro, onde uma equipe de 300 voluntários bem-intencionados — em sua maioria, aposentados que adoravam teatro e música — vendia as mercadorias aos visitantes.\n\nAs lojas de suvenires eram administradas como barracas de limonada. Não havia caixas registradoras, apenas caixas de papel onde os voluntários depositavam o dinheiro e de onde pegavam o troco. As lojinhas eram um ótimo negócio, com mais de 400 mil dólares em vendas de mercadorias anualmente. Mas tinham um grande problema: daquela quantia, uns 150 mil dólares desapareciam a cada ano.\n\nQuando foi promovido a gerente, Dan assumiu a tarefa de capturar o ladrão. Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco. Contratou um detetive para montar uma operação e, numa noite de fevereiro, armaram a cilada. Dan colocou notas marcadas na caixa de papel e partiu. Depois, ele e o detetive se esconderam atrás de umas árvores ali por perto, aguardando pelo suspeito. Quando acabou o expediente e o membro suspeito da equipe foi embora, eles o abordaram e acharam algumas das notas marcadas no seu bolso. Caso encerrado, certo?\n\nNão exatamente, como se constatou depois. O jovem empregado furtou apenas 60 dólares naquela noite, e, mesmo após sua demissão, o dinheiro e as mercadorias continuaram desaparecendo. O próximo passo de Dan foi criar um sistema de estoque com listas de preços e registros de vendas. Ele orientou os aposentados a anotarem o que era vendido e o que recebiam, e os furtos cessaram. O problema não era um único ladrão, mas a multidão de voluntários idosos, bem-intencionados, amantes das artes que se apropriavam dos produtos e do dinheiro que estavam ali de bobeira.\n\nA moral dessa história não é nada edificante. Nas palavras de Dan: “Nós vamos nos apropriar de coisas que não nos pertencem se tivermos uma chance. (...) Muitas pessoas precisam de alguma forma de controle para fazerem a coisa certa.”\n\n(A (honesta) verdade sobre a desonestidade, 2021. Adaptado.)\n\n“Começou a suspeitar de outro jovem funcionário cujo trabalho era levar o dinheiro ao banco.” (3º parágrafo) Suponha que o trecho sublinhado seja substituído por “era destinada a tarefa de levar o dinheiro ao banco”. Para manter a correção gramatical, na nova frase a palavra “cujo” deve ser substituída por:",
     "blockTypes": [
       "prose",
       "prose",

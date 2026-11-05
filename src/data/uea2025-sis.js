@@ -405,7 +405,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q08-1.png",
+        "src": "/images/uea/sis-2025-a1/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -896,7 +896,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q18-1.png",
+        "src": "/images/uea/sis-2025-a1/q18-1.svg",
         "alt": "Imagem de apoio da questão 18 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1189,7 +1189,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q24-1.png",
+        "src": "/images/uea/sis-2025-a1/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1285,7 +1285,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q26-1.png",
+        "src": "/images/uea/sis-2025-a1/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1431,7 +1431,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q29-1.png",
+        "src": "/images/uea/sis-2025-a1/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1483,7 +1483,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q30-1.png",
+        "src": "/images/uea/sis-2025-a1/q30-1.svg",
         "alt": "Imagem de apoio da questão 30 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1534,7 +1534,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q31-1.png",
+        "src": "/images/uea/sis-2025-a1/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -1858,11 +1858,11 @@ export const uea2025Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Considere a tabela que registra as alturas de 20 alunos de uma turma.\n\nAlturas dos alunos (em cm)\n\n160 180 160 160 160\n160 165 155 155 155\n165 160 165 160 175\n165 165 160 170 165\n\nSeja Mo a moda das alturas desses 20 alunos. Um grupo foi formado com todos os alunos da turma que tinham alturas diferentes de Mo. A média das alturas dos alunos do grupo formado é igual a",
+    "statement": "Considere a tabela que registra as alturas de 20 alunos de uma turma.\n\nAlturas dos alunos (em cm)\n\n160\t180\t160\t160\t160\n160\t165\t155\t155\t155\n165\t160\t165\t160\t175\n165\t165\t160\t170\t165\n\nSeja Mo a moda das alturas desses 20 alunos. Um grupo foi formado com todos os alunos da turma que tinham alturas diferentes de Mo. A média das alturas dos alunos do grupo formado é igual a",
     "blockTypes": [
       "prose",
       "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -2090,10 +2090,10 @@ export const uea2025Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O motorista de um caminhão costuma registrar, para cada entrega realizada, o instante em que inicia o deslocamento para a entrega, o instante da chegada ao local de entrega e a distância percorrida durante a entrega. Em determinado dia de trabalho, esse motorista fez 3 entregas, cujos registros estão indicados na tabela.\n\nInício Fim Distância percorrida\n(h) (h) (km)\n7:00 9:00 50\n10:00 11:00 10\n13:00 16:00 30\n\nConsiderando apenas os tempos em que o motorista esteve em deslocamento durante essas entregas, ou seja, do início de cada deslocamento até sua chegada ao local de cada entrega, e suas respectivas distâncias percorridas, a velocidade escalar média desenvolvida pelo caminhão, nesse dia de trabalho, foi de",
+    "statement": "O motorista de um caminhão costuma registrar, para cada entrega realizada, o instante em que inicia o deslocamento para a entrega, o instante da chegada ao local de entrega e a distância percorrida durante a entrega. Em determinado dia de trabalho, esse motorista fez 3 entregas, cujos registros estão indicados na tabela.\n\nInício (h)\tFim (h)\tDistância percorrida\t(km)\n7:00\t9:00\t\t50\n10:00\t11:00\t\t10\n13:00\t16:00\t\t30\n\nConsiderando apenas os tempos em que o motorista esteve em deslocamento durante essas entregas, ou seja, do início de cada deslocamento até sua chegada ao local de cada entrega, e suas respectivas distâncias percorridas, a velocidade escalar média desenvolvida pelo caminhão, nesse dia de trabalho, foi de",
     "blockTypes": [
       "prose",
-      "poem",
+      "table",
       "command"
     ],
     "images": [],
@@ -2190,7 +2190,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q47-1.png",
+        "src": "/images/uea/sis-2025-a1/q47-1.svg",
         "alt": "Imagem de apoio da questão 47 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -2287,7 +2287,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q49-1.png",
+        "src": "/images/uea/sis-2025-a1/q49-1.svg",
         "alt": "Imagem de apoio da questão 49 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -2339,7 +2339,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q50-1.png",
+        "src": "/images/uea/sis-2025-a1/q50-1.svg",
         "alt": "Imagem de apoio da questão 50 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -2612,19 +2612,18 @@ export const uea2025Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "2, da atmosfera é uma\n\nfa. Uma técnica de captura direta envolve fazer o ar passar global, pois o $CO_{2}$ é um dos principais gases do efeito estupor uma fase líquida alcalina que contém hidróxido de cálcio, Ca(OH)de acordo com a equação:precipitado de carbonato de cálcio, $CaCO_{2}$, que reage com o $CO_{2}$ (M = 44 g/mol), formando $um_{3}$ (M = 100 g/mol),\n\n2 (aq) + $CO_{2}$ (g) $CaCO_{3}$ (s) + $H_{2}$O (ℓ)\n\nA figura representa um dispositivo usado para a captura do $CO_{2}$ do ar.\n\n(https://www.mdpi.com. Adaptado.)\n\nApós um período de funcionamento, foram coletados no dis-\n\nde COpositivo 50 kg de $CaCO_{2}$ 3, que correspondeu a kg A lacuna é preenchida por",
+    "statement": "2, da atmosfera é uma\n\nfa. Uma técnica de captura direta envolve fazer o ar passar global, pois o $CO_{2}$ é um dos principais gases do efeito estupor uma fase líquida alcalina que contém hidróxido de cálcio, Ca(OH)de acordo com a equação:precipitado de carbonato de cálcio, $CaCO_{2}$, que reage com o $CO_{2}$ (M = 44 g/mol), formando $um_{3}$ (M = 100 g/mol),\n\n2 (aq) + $CO_{2}$ (g) $CaCO_{3}$ (s) + $H_{2}$O (ℓ)\n\nA figura representa um dispositivo usado para a captura do $CO_{2}$ do ar.\n\n(https://www.mdpi.com. Adaptado.)\n\nApós um período de funcionamento, foram coletados no disde COpositivo 50 kg de $CaCO_{2}$ 3, que correspondeu a kg A lacuna é preenchida por",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
       "source",
-      "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a1/q57-1.png",
+        "src": "/images/uea/sis-2025-a1/q57-1.svg",
         "alt": "Imagem de apoio da questão 57 (UEA SIS — Acompanhamento I, 2025)."
       }
     ],
@@ -2760,11 +2759,8 @@ export const uea2025Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para realizar o tratamento de água em uma estação de trata-\n\n2($SO_{4}$ 3,\n\nApós essa etapa, a água passa por um sistema de filtros e recebe a adição de hipoclorito de sódio, NaCℓO, e fluossilicato\n\n2 $SiF_{6}$, para completar o processo. As substâncias",
+    "statement": "Para realizar o tratamento de água em uma estação de tratamento, inicialmente dissolve-se sulfato de alumínio, Al₂(SO₄)₃, para a remoção da maior parte da sujeira dispersa na água. Após essa etapa, a água passa por um sistema de filtros e recebe a adição de hipoclorito de sódio, NaClO, e fluossilicato de sódio, Na₂SiF₆, para completar o processo. As substâncias citadas no texto têm como função, respectivamente,",
     "blockTypes": [
-      "prose",
-      "prose",
-      "prose",
       "command"
     ],
     "images": [],
@@ -2808,7 +2804,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\nContida na fala do médico de Quincas Borba de que “filosofia é uma coisa, e morrer de verdade é outra” ($5^{o}$ parágrafo) está a seguinte oposição:",
+    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\nContida na fala do médico de Quincas Borba de que “filosofia é uma coisa, e morrer de verdade é outra” (5º parágrafo) está a seguinte oposição:",
     "blockTypes": [
       "prose",
       "prose",
@@ -2860,7 +2856,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\n“Este Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena.” ($1^{o}$ parágrafo) Observa-se nesse parágrafo o seguinte procedimento estilístico que caracteriza a prosa madura de Machado de Assis:",
+    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\n“Este Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena.” (1º parágrafo) Observa-se nesse parágrafo o seguinte procedimento estilístico que caracteriza a prosa madura de Machado de Assis:",
     "blockTypes": [
       "prose",
       "prose",
@@ -2964,7 +2960,7 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\n“Saberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu.” ($2^{o}$ parágrafo) No contexto em que se insere, a conjunção sublinhada expressa ideia de",
+    "statement": "Para responder às questões de 01 a 04, leia o capítulo IV do romance Quincas Borba, de Machado de Assis.\n\nEste Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. [...]\n\nSaberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu. Quincas Borba tivera ali alguns parentes, mortos já agora em 1867; o último foi o tio que o deixou por herdeiro de seus bens. Rubião ficou sendo o único amigo do filósofo. Regia então uma escola de meninos, que fechou para tratar do enfermo. Antes de professor, metera ombros a algumas empresas, que foram a pique. [...]\n\nA opinião ostensiva do médico era que a doença do Quincas Borba iria saindo devagar. Um dia, o nosso Rubião, acompanhando o médico até à porta da rua, perguntou-lhe qual era o verdadeiro estado do amigo. Ouviu que estava perdido, completamente perdido; mas, que o fosse animando. Para que tornar-lhe a morte mais aflitiva pela certeza...?\n\n— Lá isso, não, atalhou Rubião; para ele, morrer é negócio fácil. Nunca leu um livro que ele escreveu, há anos, não sei que negócio de filosofia...\n\n— Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.\n\n(Quincas Borba, 2012.)\n\n“Saberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-lhe? Seguramente, não; tinha-o por homem esquisito. É, todavia, certo que o grãozinho não se despegou do cérebro de Quincas Borba, — nem antes, nem depois da moléstia que lentamente o comeu.” (2º parágrafo) No contexto em que se insere, a conjunção sublinhada expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
@@ -3023,7 +3019,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q05-1.png",
+        "src": "/images/uea/sis-2025-a2/q05-1.svg",
         "alt": "Imagem de apoio da questão 05 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -3397,7 +3393,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q12-1.png",
+        "src": "/images/uea/sis-2025-a2/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -3544,7 +3540,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q15-1.png",
+        "src": "/images/uea/sis-2025-a2/q15-1.svg",
         "alt": "Imagem de apoio da questão 15 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -3636,7 +3632,7 @@ export const uea2025Sis = [
     "subject": "História",
     "detail": "História — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "DECRETO-LEI $N^{o}$ 288,\n\nDE 28 DE FEVEREIRO DE 1967\n\nArt. 10. A administração das instalações e serviços da Zona Franca será exercida pela Superintendência da Zona Franca de Manaus (SUFRAMA) entidade autárquica, com personalidade jurídica e patrimônio próprio, autonomia administrativa e financeira, com sede e foro na cidade de Manaus, capital do Estado do Amazonas.\n\n(www2.camara.leg.br)\n\nA Superintendência da Zona Franca de Manaus (SUFRAMA), criada em 1967, tem como objetivo",
+    "statement": "DECRETO-LEI Nº 288,\n\nDE 28 DE FEVEREIRO DE 1967\n\nArt. 10. A administração das instalações e serviços da Zona Franca será exercida pela Superintendência da Zona Franca de Manaus (SUFRAMA) entidade autárquica, com personalidade jurídica e patrimônio próprio, autonomia administrativa e financeira, com sede e foro na cidade de Manaus, capital do Estado do Amazonas.\n\n(www2.camara.leg.br)\n\nA Superintendência da Zona Franca de Manaus (SUFRAMA), criada em 1967, tem como objetivo",
     "blockTypes": [
       "prose",
       "prose",
@@ -3741,7 +3737,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q19-1.png",
+        "src": "/images/uea/sis-2025-a2/q19-1.svg",
         "alt": "Imagem de apoio da questão 19 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -3927,18 +3923,16 @@ export const uea2025Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Examine as imagens de satélite, as fotos e o mapa relativos ao desmatamento na floresta Amazônica.\n\nImagens de satélite e fotos\nda respectiva superfície, em 2019\n\n(https://g1.globo.com, 24.08.2020. Adaptado.)\n\nAmazônia Legal\n\n(https://site-antigo.socioambiental.org, 17.12.2019. Adaptado.)\n\nNo contexto das pesquisas sobre a floresta Amazônica, as imagens de satélite, as fotos e o mapa mostram",
+    "statement": "Examine as imagens de satélite, as fotos e o mapa relativos ao desmatamento na floresta Amazônica.\n\nImagens de satélite e fotos\nda respectiva superfície, em 2019\n\n(https://site-antigo.socioambiental.org, 17.12.2019. Adaptado.)\n\nNo contexto das pesquisas sobre a floresta Amazônica, as imagens de satélite, as fotos e o mapa mostram",
     "blockTypes": [
       "prose",
       "poem",
-      "source",
-      "prose",
       "source",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q23-1.png",
+        "src": "/images/uea/sis-2025-a2/q23-1.svg",
         "alt": "Imagem de apoio da questão 23 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -3990,7 +3984,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q24-1.png",
+        "src": "/images/uea/sis-2025-a2/q24-1.svg",
         "alt": "Imagem de apoio da questão 24 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -4044,7 +4038,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q25-1.png",
+        "src": "/images/uea/sis-2025-a2/q25-1.svg",
         "alt": "Imagem de apoio da questão 25 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -4282,7 +4276,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q30-1.png",
+        "src": "/images/uea/sis-2025-a2/q30-1.svg",
         "alt": "Imagem de apoio da questão 30 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -4334,7 +4328,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q31-1.png",
+        "src": "/images/uea/sis-2025-a2/q31-1.svg",
         "alt": "Imagem de apoio da questão 31 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -4751,7 +4745,7 @@ export const uea2025Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere que m representa uma constante real. No plano cartesiano, está representado o gráfico da função polinomial do $2^{o}$ grau f(x) =- $x^{2}$ + 10x + m, destacando que o ponto (3, 5) pertence a esse gráfico.\n\nO valor de f(5) é",
+    "statement": "Considere que m representa uma constante real. No plano cartesiano, está representado o gráfico da função polinomial do 2º grau f(x) =- $x^{2}$ + 10x + m, destacando que o ponto (3, 5) pertence a esse gráfico.\n\nO valor de f(5) é",
     "blockTypes": [
       "prose",
       "command"
@@ -4989,7 +4983,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q45-1.png",
+        "src": "/images/uea/sis-2025-a2/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -5312,7 +5306,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q52-1.png",
+        "src": "/images/uea/sis-2025-a2/q52-1.svg",
         "alt": "Imagem de apoio da questão 52 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -5492,9 +5486,8 @@ export const uea2025Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Na indústria de produção de soda cáustica a partir da ele-\n\nprocesso é utilizado na própria indústria, gerando o calor trólise aquosa do NaCℓ, o gás hidrogênio ($H_{2}$) produzido no que evapora a água na secagem da soda cáustica. Considerando que a combustão de 1 mol de hidrogênio (massa molar = 2 g/mol) libera 286 kJ de energia e que, para evaporar 1 g de água, são necessários cerca de 2,3 kJ de energia, ao queimar 200 g de gás hidrogênio, a massa de água, em quilogramas, que poderá ser evaporada com essa energia é de, aproximadamente,",
+    "statement": "Na indústria de produção de soda cáustica a partir da eleprocesso é utilizado na própria indústria, gerando o calor trólise aquosa do NaCℓ, o gás hidrogênio ($H_{2}$) produzido no que evapora a água na secagem da soda cáustica. Considerando que a combustão de 1 mol de hidrogênio (massa molar = 2 g/mol) libera 286 kJ de energia e que, para evaporar 1 g de água, são necessários cerca de 2,3 kJ de energia, ao queimar 200 g de gás hidrogênio, a massa de água, em quilogramas, que poderá ser evaporada com essa energia é de, aproximadamente,",
     "blockTypes": [
-      "prose",
       "command"
     ],
     "images": [],
@@ -5638,7 +5631,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a2/q59-1.png",
+        "src": "/images/uea/sis-2025-a2/q59-1.svg",
         "alt": "Imagem de apoio da questão 59 (UEA SIS — Acompanhamento II, 2025)."
       }
     ],
@@ -5729,18 +5722,14 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\nO trecho evidencia uma característica central do personagem Policarpo Quaresma, a saber, sua personalidade",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nO trecho evidencia uma característica central do personagem Policarpo Quaresma, a saber, sua personalidade",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -5784,18 +5773,14 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\nComo se sabe, o nacionalismo exacerbado e delirante de Policarpo Quaresma leva-o a se engajar em três projetos que visavam reformar o Brasil. O trecho transcrito dá conta do projeto agrícola do protagonista que, no contexto do romance, foi",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nComo se sabe, o nacionalismo exacerbado e delirante de Policarpo Quaresma leva-o a se engajar em três projetos que visavam reformar o Brasil. O trecho transcrito dá conta do projeto agrícola do protagonista que, no contexto do romance, foi",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -5839,18 +5824,14 @@ export const uea2025Sis = [
     "subject": "Literatura",
     "detail": "Literatura — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\nNo contexto do romance, “a tempestade” a que o narrador se refere no primeiro parágrafo relaciona-se ao seguinte tópico:",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nNo contexto do romance, “a tempestade” a que o narrador se refere no primeiro parágrafo relaciona-se ao seguinte tópico:",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -5894,18 +5875,14 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\n“Como era tão simples viver na nossa terra!” ($2^{o}$ parágrafo) “Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho?” ($2^{o}$ parágrafo) “o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” ($3^{o}$ parágrafo) Os termos sublinhados estão empregados, respectivamente, em sentido",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\n“Como era tão simples viver na nossa terra!” (2º parágrafo) “Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho?” (2º parágrafo) “o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” (3º parágrafo) Os termos sublinhados estão empregados, respectivamente, em sentido",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -5949,18 +5926,14 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\n“o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” ($3^{o}$ parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\n“o que era principal à grandeza da pátria estremecida era uma forte base agrícola [...] para alicerçar fortemente todos os outros destinos que ela tinha de preencher.” (3º parágrafo) Em relação ao trecho que o antecede, o trecho sublinhado expressa ideia de",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -6004,18 +5977,14 @@ export const uea2025Sis = [
     "subject": "Português",
     "detail": "Português — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de\n\n1 da repar-\n\ntição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhe-\n\n2 das ter-\n\nras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 \u0007emasculamento: perda da virilidade, perda da força ou do vigor. 2 \u0007feracidade: fertilidade. 3 \u0007ubérrimo: extremamente úbere (ou seja, fértil).\n\nSufixação é o processo de formação de palavras por meio de sufixo. É formada pelo acréscimo de um sufixo superlativo a seguinte palavra do texto:",
+    "statement": "Para responder às questões de 01 a 06, leia o trecho do romance Triste fim de Policarpo Quaresma, de Lima Barreto.\n\nE foi obedecendo a essa ordem de ideias que [Policarpo Quaresma] comprou aquele sítio, cujo nome — Sossego — cabia tão bem à nova vida que adotara, após a tempestade que o sacudira durante quase um ano. [...]\n\nEle foi contente. Como era tão simples viver na nossa terra! Quatro contos de réis por ano, tirados da terra, facilmente, docemente, alegremente! Oh! terra abençoada! Como é que toda a gente queria ser empregado público, apodrecer numa banca, sofrer na sua independência e no seu orgulho? Como é que se preferia viver em casas apertadas, sem ar, sem luz, respirar um ambiente epidêmico, sustentar-se de maus alimentos, quando se podia tão facilmente obter uma vida feliz, farta, livre, alegre e saudável?\n\nE era agora que ele chegava a essa conclusão, depois de emasculamento¹ da repartição pública, durante tanto tempo! Chegara tarde, mas não a ponto de que não pudesse, antes da morte, travar conhecimento com a doce vida campestre e a feracidade² das terras brasileiras. Então pensou que foram vãos aqueles seus desejos de reformas capitais nas instituições e costumes: o que era principal à grandeza da pátria estremecida era uma forte base agrícola, um culto pelo seu solo ubérrimo³, para alicerçar fortemente todos os outros destinos que ela tinha de preencher.\n\n(Triste fim de Policarpo Quaresma, 2011.)\n\n1 emasculamento: perda da virilidade, perda da força ou do vigor.\n2 feracidade: fertilidade.\n3 ubérrimo: extremamente úbere (ou seja, fértil).\n\nSufixação é o processo de formação de palavras por meio de sufixo. É formada pelo acréscimo de um sufixo superlativo a seguinte palavra do texto:",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "prose",
       "source",
-      "source",
+      "note",
       "command"
     ],
     "images": [],
@@ -6116,7 +6085,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q08-1.png",
+        "src": "/images/uea/sis-2025-a3/q08-1.svg",
         "alt": "Imagem de apoio da questão 08 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -6324,7 +6293,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q12-1.png",
+        "src": "/images/uea/sis-2025-a3/q12-1.svg",
         "alt": "Imagem de apoio da questão 12 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -6417,7 +6386,7 @@ export const uea2025Sis = [
     "subject": "História",
     "detail": "História — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "O conflito do Contestado teve lugar no território que hoje compõe o meio-oeste de Santa Catarina, na época disputado com o Paraná. Entre os anos de 1912 e 1916, cerca de 20 000 pessoas reuniram-se sob a expectativa de retorno dos monges João Maria e José Maria — aquele, considerado “encantado” em um morro da região; este, assassinado em um conflito com forças legais em 1912. Como as primeiras expedições das forças públicas dos estados paranaense e catarinense não puderam derrotar os rebeldes, solicitou-se a intervenção do Exército.\n\n(Márcia Janete Espig. “O uso da fonte\n\njornalística no trabalho historiográfico: o caso do Contestado”.\n\nEstudos Ibero-Americanos, $n^{o}$ 02, 1998. Adaptado.)\n\nO movimento descrito no excerto é caracterizado",
+    "statement": "O conflito do Contestado teve lugar no território que hoje compõe o meio-oeste de Santa Catarina, na época disputado com o Paraná. Entre os anos de 1912 e 1916, cerca de 20 000 pessoas reuniram-se sob a expectativa de retorno dos monges João Maria e José Maria — aquele, considerado “encantado” em um morro da região; este, assassinado em um conflito com forças legais em 1912. Como as primeiras expedições das forças públicas dos estados paranaense e catarinense não puderam derrotar os rebeldes, solicitou-se a intervenção do Exército.\n\n(Márcia Janete Espig. “O uso da fonte\n\njornalística no trabalho historiográfico: o caso do Contestado”.\n\nEstudos Ibero-Americanos, nº 02, 1998. Adaptado.)\n\nO movimento descrito no excerto é caracterizado",
     "blockTypes": [
       "prose",
       "source",
@@ -6756,7 +6725,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q21-1.png",
+        "src": "/images/uea/sis-2025-a3/q21-1.svg",
         "alt": "Imagem de apoio da questão 21 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -6994,7 +6963,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q26-1.png",
+        "src": "/images/uea/sis-2025-a3/q26-1.svg",
         "alt": "Imagem de apoio da questão 26 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -7094,7 +7063,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q28-1.png",
+        "src": "/images/uea/sis-2025-a3/q28-1.svg",
         "alt": "Imagem de apoio da questão 28 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -7146,7 +7115,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q29-1.png",
+        "src": "/images/uea/sis-2025-a3/q29-1.svg",
         "alt": "Imagem de apoio da questão 29 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -7386,7 +7355,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q34-1.png",
+        "src": "/images/uea/sis-2025-a3/q34-1.svg",
         "alt": "Imagem de apoio da questão 34 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -7805,7 +7774,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q45-1.png",
+        "src": "/images/uea/sis-2025-a3/q45-1.svg",
         "alt": "Imagem de apoio da questão 45 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -8133,7 +8102,7 @@ export const uea2025Sis = [
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q53-1.png",
+        "src": "/images/uea/sis-2025-a3/q53-1.svg",
         "alt": "Imagem de apoio da questão 53 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
@@ -8314,16 +8283,15 @@ export const uea2025Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2025 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Para que uma reação química ocorra, é necessário que as moléculas dos reagentes colidam entre si, possibilitando a formação de um complexo ativado, que pode dar origem aos produtos. No entanto, nem toda colisão leva à formação de produto reacional. A seguir, são apresentadas duas reações, I e II, envolvendo poluentes atmosféricos, realizadas em condições diferentes. Em uma das condições, ocorre a reação química (colisão efetiva) e formação de produto; na outra condição, não há reação (colisão não efetiva) e não se forma produto.\n\nReação I\n\nReação II\n\nAs justificativas das colisões não efetivas na reação I e na reação II são, respectivamente,",
+    "statement": "Para que uma reação química ocorra, é necessário que as moléculas dos reagentes colidam entre si, possibilitando a formação de um complexo ativado, que pode dar origem aos produtos. No entanto, nem toda colisão leva à formação de produto reacional. A seguir, são apresentadas duas reações, I e II, envolvendo poluentes atmosféricos, realizadas em condições diferentes. Em uma das condições, ocorre a reação química (colisão efetiva) e formação de produto; na outra condição, não há reação (colisão não efetiva) e não se forma produto.\n\nReação I\n\nAs justificativas das colisões não efetivas na reação I e na reação II são, respectivamente,",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "command"
     ],
     "images": [
       {
-        "src": "/images/uea/sis-2025-a3/q59-1.png",
+        "src": "/images/uea/sis-2025-a3/q59-1.svg",
         "alt": "Imagem de apoio da questão 59 (UEA SIS — Acompanhamento III, 2025)."
       }
     ],
