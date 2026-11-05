@@ -87,6 +87,28 @@ extract_vector(page, rect, os.path.join(outdir, 'q15-1.svg'))
 doc.close()
 refs['uea-vestibular-2026-g2-q15'] = [{'src': '/images/uea/vestibular-2026-g2/q15-1.svg', 'alt': 'Mapa da bacia do rio São Francisco.'}]
 
+# --- 2025-g3 q20: thermoelectric block diagram in the opposite (right) column ---
+q = ALL['uea-vestibular-2025-g3-q20']
+doc = fitz.open(os.path.join(ROOT, q['sourcePdf']))
+page = doc[q['sourcePage'] - 1]
+bx0 = by0 = 1e9; bx1 = by1 = -1e9
+for b in page.get_text('dict')['blocks']:
+    if b['type'] != 0: continue
+    for l in b['lines']:
+        r = fitz.Rect(l['bbox']); txt = ''.join(s['text'] for s in l['spans']).strip()
+        if r.x0 > 340 and 385 < r.y0 < 585 and txt:
+            bx0=min(bx0,r.x0); by0=min(by0,r.y0); bx1=max(bx1,r.x1); by1=max(by1,r.y1)
+for d in page.get_drawings():
+    r = d['rect']
+    if r.x0 > 340 and 380 < r.y0 < 590 and r.width > 2 and r.height > 2:
+        bx0=min(bx0,r.x0); by0=min(by0,r.y0); bx1=max(bx1,r.x1); by1=max(by1,r.y1)
+rect = fitz.Rect(bx0-4, by0-4, bx1+4, by1+4)
+outdir = os.path.join(ROOT, 'public', 'images', 'uea', 'vestibular-2025-g3')
+os.makedirs(outdir, exist_ok=True)
+extract_vector(page, rect, os.path.join(outdir, 'q20-1.svg'))
+doc.close()
+refs['uea-vestibular-2025-g3-q20'] = [{'src': '/images/uea/vestibular-2025-g3/q20-1.svg', 'alt': 'Esquema de uma usina termoelétrica: entrada de energia, caldeira, turbina e gerador, com os rendimentos de cada etapa e saída de energia.'}]
+
 json.dump(refs, open(os.path.join(STATE, 'uea_imgrefs.json'), 'w'), ensure_ascii=False, indent=1)
 json.dump(altimg, open(os.path.join(STATE, 'uea_altimg.json'), 'w'), ensure_ascii=False, indent=1)
 print('special cases done; refs:', len(refs), 'altimg:', len(altimg))

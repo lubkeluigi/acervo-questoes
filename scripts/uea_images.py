@@ -266,9 +266,12 @@ def main():
                     for l in b['lines']:
                         txt = ''.join(sp['text'] for sp in l['spans']).strip()
                         if not txt or len(txt) > 30: continue
+                        # prose sentences (terminal punctuation) are never figure
+                        # labels — don't let them bleed into the crop
+                        if txt[-1] in '.;?!': continue
                         lr = fitz.Rect(l['bbox'])
-                        if abs(lr.y0 - rr.y0) < 25 or abs(lr.y1 - rr.y1) < 25:
-                            if lr.x0 > rr.x0 - 40 and lr.x1 < rr.x1 + 40:
+                        if abs(lr.y0 - rr.y0) < 18 or abs(lr.y1 - rr.y1) < 18:
+                            if lr.x0 > rr.x0 - 12 and lr.x1 < rr.x1 + 12:
                                 rr |= lr
                 rect = tuple(rr)
                 if f['kind'] == 'raster':

@@ -63,10 +63,8 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nSegundo o texto, o experimento proposto por Danto serviria para mostrar que o significado de um objeto de arte depende",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese wölffliniana² de que nem tudo é possível em qualquer época, ou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nSegundo o texto, o experimento proposto por Danto serviria para mostrar que o significado de um objeto de arte depende",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "prose",
       "source",
@@ -112,10 +110,8 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes.” Ao falar dos objetos e seus significados, a autora estabelece uma oposição entre",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese wölffliniana² de que nem tudo é possível em qualquer época, ou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes.” Ao falar dos objetos e seus significados, a autora estabelece uma oposição entre",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "prose",
       "source",
@@ -161,10 +157,8 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“Danto concorda, portanto, com a tese wölffliniana de que nem tudo é possível em qualquer época” Mantendo o sentido original e a correção gramatical, a palavra sublinhada pode ser substituída por:",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese wölffliniana² de que nem tudo é possível em qualquer época, ou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\n“Danto concorda, portanto, com a tese wölffliniana de que nem tudo é possível em qualquer época” Mantendo o sentido original e a correção gramatical, a palavra sublinhada pode ser substituída por:",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "prose",
       "source",
@@ -210,10 +204,8 @@ export const uea2024Vestibular = [
     "subject": "Artes",
     "detail": "Artes — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese\n\n2 de que nem tudo é possível em qualquer época,\n\nou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nEstá na voz passiva a oração:",
+    "statement": "Leia o texto de Debora Pazetto Ferreira para responder às questões de 02 a 05.\n\nDanto¹ introduz o problema da interpretação de obras de arte propondo, como de costume, um experimento mental: imaginar duas obras de arte que sejam sensorialmente indiscerníveis, mas que foram produzidas em épocas e lugares diferentes. Esse experimento tem o objetivo de mostrar que, embora os objetos materiais que as corporificam sejam idênticos, as referidas obras são distintas, uma vez que têm significados diferentes. Danto concorda, portanto, com a tese wölffliniana² de que nem tudo é possível em qualquer época, ou seja, os significados artísticos são condicionados pelo seu contexto histórico. Desse modo, o problema da interpretação está inserido no cerne da definição de arte.\n\n(Revista Kriterion, 2018. Adaptado.)\n\n1 Arthur Danto (1924-2013): filósofo e crítico de arte estadunidense. 2 Heinrich Wölfflin (1864-1945): filósofo e crítico de arte suíço.\n\nEstá na voz passiva a oração:",
     "blockTypes": [
-      "prose",
-      "prose",
       "prose",
       "prose",
       "source",
@@ -2682,7 +2674,7 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma fábrica de doces faz bombons maciços de chocolate na forma de um prisma reto de base quadrada e com 1,5 cm de altura, conforme mostra a figura.\n\n1,5 cm\n\nx\n\nx\n\nfora de escala\n\nSabendo que para fabricar 85 bombons desse tipo são necessários 510 $cm^{3}$ de massa de chocolate, a medida da aresta da base, indicada na figura pela letra x, é igual a",
+    "statement": "Uma fábrica de doces faz bombons maciços de chocolate na forma de um prisma reto de base quadrada e com 1,5 cm de altura, conforme mostra a figura.\n\n1,5 cm\n\nx\n\nx\n\nfora de escala\n\nSabendo que para fabricar 85 bombons desse tipo são necessários 510 cm³ de massa de chocolate, a medida da aresta da base, indicada na figura pela letra x, é igual a",
     "blockTypes": [
       "prose",
       "prose",
@@ -2912,9 +2904,8 @@ export const uea2024Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um motorista distraído está descendo uma pista de declive acentuado com seu carro quando percebe que logo à frente há uma lombada. Assustado, o motorista inicia o processo de frenagem, de forma que o carro começa a derrapar. Derrapando, o carro diminui sua velocidade até parar pouco antes da lombada.\n\nSuponha que, nesse processo, estavam envolvidas apenas a\n\ndo carro (Eenergia cinética do carro (Emica do asfalto da pista (Egrandezas, representada $por_{P}$), a energia térmica dos pneus ($ETa_{c}$). Considerando a variação dessas), a energia potencial gravitacional ∆, desde o início da frenagem até Tp) e a energia téra parada do carro, tem-se que:",
+    "statement": "Um motorista distraído está descendo uma pista de declive acentuado com seu carro quando percebe que logo à frente há uma lombada. Assustado, o motorista inicia o processo de frenagem, de forma que o carro começa a derrapar. Derrapando, o carro diminui sua velocidade até parar pouco antes da lombada.\n\nSuponha que, nesse processo, estavam envolvidas apenas a energia cinética do carro ($E_{c}$), a energia potencial gravitacional do carro ($E_{P}$), a energia térmica dos pneus ($E_{Tp}$) e a energia térmica do asfalto da pista ($E_{Ta}$). Considerando a variação dessas grandezas, representada por ∆, desde o início da frenagem até a parada do carro, tem-se que:",
     "blockTypes": [
-      "prose",
       "prose",
       "command"
     ],

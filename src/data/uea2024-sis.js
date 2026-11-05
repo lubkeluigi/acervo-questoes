@@ -4704,7 +4704,7 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Uma das faces de um paralelepípedo retorretângulo tem 44 $cm^{2}$ de área, sendo que nessa face a medida da maior aresta excede a medida da menor aresta em 7 cm. Sabendo que o volume desse paralelepípedo é 308 $cm^{3}$, sua área total é",
+    "statement": "Uma das faces de um paralelepípedo retorretângulo tem 44 cm² de área, sendo que nessa face a medida da maior aresta excede a medida da menor aresta em 7 cm. Sabendo que o volume desse paralelepípedo é 308 cm³, sua área total é",
     "blockTypes": [
       "command"
     ],
@@ -7496,7 +7496,7 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Um ponto E está no interior de um quadrilátero ABCD de área 32 $cm^{2}$ e o divide em 4 triângulos, conforme mostra a figura.\n\nA área do triângulo ADE é 4 $cm^{2}$ a mais do que a área do triângulo CDE. A área do triângulo CDE é 2 $cm^{2}$ a mais do que a área do triângulo BCE. Sabendo que os triângulos BCE e ABE têm a mesma área, a altura do triângulo ADE, relativamente ao vértice E, é",
+    "statement": "Um ponto E está no interior de um quadrilátero ABCD de área 32 cm² e o divide em 4 triângulos, conforme mostra a figura.\n\nA área do triângulo ADE é 4 cm² a mais do que a área do triângulo CDE. A área do triângulo CDE é 2 cm² a mais do que a área do triângulo BCE. Sabendo que os triângulos BCE e ABE têm a mesma área, a altura do triângulo ADE, relativamente ao vértice E, é",
     "blockTypes": [
       "prose",
       "command"

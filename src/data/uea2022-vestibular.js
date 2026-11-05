@@ -2738,7 +2738,7 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "As circunferências de raios R e r, medidos em cm, são concêntricas e a coroa circular determinada por elas tem área de 80p $cm^{2}$, como mostra a figura:\n\nSabendo que a média aritmética das medidas de R e r é igual a 10 cm, conclui-se que o raio maior excede o menor em",
+    "statement": "As circunferências de raios R e r, medidos em cm, são concêntricas e a coroa circular determinada por elas tem área de 80p cm², como mostra a figura:\n\nSabendo que a média aritmética das medidas de R e r é igual a 10 cm, conclui-se que o raio maior excede o menor em",
     "blockTypes": [
       "prose",
       "command"
@@ -3643,7 +3643,7 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Considere que em um processo físico de separação de misturas foi empregado um funil em que foram adicionadas as substâncias álcool etílico (d = 0,789 g/ $cm^{3}$) e óleo (d = 0,91 g/ $cm^{3}$). Após a agitação e o repouso do funil, observou-se a formação de duas fases líquidas diferentes, A e B, que podiam ser separadas após a abertura da torneira desse funil.\n\nO processo de separação descrito foi empregado para separar uma mistura de líquidos. No béquer, foi recolhida a substância densa. As lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "Considere que em um processo físico de separação de misturas foi empregado um funil em que foram adicionadas as substâncias álcool etílico (d = 0,789 g/cm³) e óleo (d = 0,91 g/cm³). Após a agitação e o repouso do funil, observou-se a formação de duas fases líquidas diferentes, A e B, que podiam ser separadas após a abertura da torneira desse funil.\n\nO processo de separação descrito foi empregado para separar uma mistura de líquidos. No béquer, foi recolhida a substância densa. As lacunas do texto são preenchidas, respectivamente, por",
     "blockTypes": [
       "prose",
       "command"
@@ -4795,7 +4795,7 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio ($KMnO_{4}$) de cor violeta é gotejada em uma solução aquosa de ácido clorídrico (HCℓ), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n$2KMnO_{4}$ + 16HCℓ 2 2 + $8H_{2}$O\n\nA variação do número de oxidação (Nox) do agente redutor da reação de descoloração é de",
+    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio (KMnO₄) de cor violeta é gotejada em uma solução aquosa de ácido clorídrico (HCl), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n2 KMnO₄ + 16 HCl → 2 KCl + 2 MnCl₂ + 5 Cl₂ + 8 H₂O\n\nA variação do número de oxidação (Nox) do agente redutor da reação de descoloração é de",
     "blockTypes": [
       "prose",
       "prose",
@@ -6886,7 +6886,7 @@ export const uea2022Vestibular = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Específicos Grupo II",
     "difficulty": "Difícil",
-    "statement": "O Brasil foi responsável por 40% do desmatamento global em 2021, segundo dados da ONG Global Forest Watch divulgados no dia 28.04.2022. O país perdeu cerca de 1,5 milhão de hectares (15 000 $km^{2}$) das chamadas florestas primárias, aquelas que se encontram em seu estado natural. A maior perda foi na região Norte. O número é menor do que o registrado em 2020, mas maior do que os registrados em 2019 e 2018.\n\n(www.nexojornal.com.br, 28.04.2022. Adaptado.)\n\nO desmatamento de florestas primárias, conforme descrito no excerto, contribui para",
+    "statement": "O Brasil foi responsável por 40% do desmatamento global em 2021, segundo dados da ONG Global Forest Watch divulgados no dia 28.04.2022. O país perdeu cerca de 1,5 milhão de hectares (15 000 km²) das chamadas florestas primárias, aquelas que se encontram em seu estado natural. A maior perda foi na região Norte. O número é menor do que o registrado em 2020, mas maior do que os registrados em 2019 e 2018.\n\n(www.nexojornal.com.br, 28.04.2022. Adaptado.)\n\nO desmatamento de florestas primárias, conforme descrito no excerto, contribui para",
     "blockTypes": [
       "prose",
       "source",

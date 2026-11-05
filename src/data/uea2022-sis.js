@@ -4916,7 +4916,7 @@ export const uea2022Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Considere um sólido oco, com a forma de paralelepípedo reto-retângulo, contendo 1 344 $cm^{3}$ de água, com faces e arestas de espessura desprezível, em que uma das arestas mede 16 cm e outra aresta mede 12 cm. Esse sólido está apoiado sobre uma das faces de maneira que a altura da coluna de água seja igual a 14 cm. A área total desse sólido é",
+    "statement": "Considere um sólido oco, com a forma de paralelepípedo reto-retângulo, contendo 1 344 cm³ de água, com faces e arestas de espessura desprezível, em que uma das arestas mede 16 cm e outra aresta mede 12 cm. Esse sólido está apoiado sobre uma das faces de maneira que a altura da coluna de água seja igual a 14 cm. A área total desse sólido é",
     "blockTypes": [
       "command"
     ],
@@ -5484,9 +5484,8 @@ export const uea2022Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "O metal estanho, amplamente empregado em ligas de solda,\n\n2, com\n\n$SnO_{2}$ (s) + 2C (s) Sn (s) + 2CO (g)\n\nSabendo que o volume molar de um gás, medido nas CATP (Condições Ambiente de Temperatura e Pressão), é igual a 25 L/mol, calcula-se que, na produção de 1,19 t de estanho, o volume gerado de CO (g), medido nessas condições, é próximo de",
+    "statement": "O metal estanho, amplamente empregado em ligas de solda, é obtido a partir da reação do mineral cassiterita, SnO₂, com o carvão, de acordo com a equação global:\n\nSnO₂ (s) + 2 C (s) → Sn (s) + 2 CO (g)\n\nSabendo que o volume molar de um gás, medido nas CATP (Condições Ambiente de Temperatura e Pressão), é igual a 25 L/mol, calcula-se que, na produção de 1,19 t de estanho, o volume gerado de CO (g), medido nessas condições, é próximo de",
     "blockTypes": [
-      "prose",
       "prose",
       "prose",
       "command"
@@ -8015,7 +8014,7 @@ export const uea2022Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Dados os coeficientes reais p, q e r, a equação polinomial do 3º grau – $8x^{3}$ + $px^{2}$ + qx + r = 0 tem raízes –1, –3 e 6. O valor de p + q + r é igual a",
+    "statement": "Dados os coeficientes reais p, q e r, a equação polinomial do 3º grau – $8x^{3}$ + px² + qx + r = 0 tem raízes –1, –3 e 6. O valor de p + q + r é igual a",
     "blockTypes": [
       "command"
     ],
@@ -8332,7 +8331,7 @@ export const uea2022Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma carga pontual de valor igual a – 2 × 10–3 C é colocada em uma região onde atua um campo elétrico de direção vertical e voltado para cima, de intensidade igual a 5× $10^{5}$ N/C. A força elétrica à qual ficará submetida essa carga elétrica terá direção vertical, sentido para",
+    "statement": "Uma carga pontual de valor igual a – 2 × 10–3 C é colocada em uma região onde atua um campo elétrico de direção vertical e voltado para cima, de intensidade igual a $5×10^{5}$ N/C. A força elétrica à qual ficará submetida essa carga elétrica terá direção vertical, sentido para",
     "blockTypes": [
       "command"
     ],

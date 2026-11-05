@@ -126,35 +126,37 @@ def apply_scripts(items):
                    and not result[-1].get('math')):
                 base_parts.insert(0, result.pop())
             base_text = ''.join(bp['text'] for bp in base_parts)
-            m = re.search(r'([A-Za-z0-9]+)\s*$', base_text)
+            # include accented letters so a footnote attaches to the whole word
+            # (família¹) instead of only its ASCII tail (famí + $lia^{1}$)
+            m = re.search(r'([A-Za-z0-9\u00C0-\u017F]+)\s*$', base_text)
             if not m:
                 result.append(it); continue
             lead = base_text[:m.start(1)]
             base_tok = m.group(1)
-            if len(base_tok) > 8:
-                result.append(it); continue
             is_sup = script.startswith('^')
+            sup_map = {'0':'⁰','1':'¹','2':'²','3':'³','4':'⁴','5':'⁵','6':'⁶','7':'⁷','8':'⁸','9':'⁹'}
+            sub_map = {'0':'₀','1':'₁','2':'₂','3':'₃','4':'₄','5':'₅','6':'₆','7':'₇','8':'₈','9':'₉'}
+            def emit_plain(plain):
+                if lead.strip():
+                    li = dict(base_parts[0]); li['text'] = lead; result.append(li)
+                ni = dict(base_parts[0]); ni['text'] = plain; ni['x1'] = it['x1']
+                result.append(ni)
             # ordinal / numero indicator: keep as plain unicode, not KaTeX
             if stxt in ('o', 'a') and (base_tok.isdigit() or base_tok in ('N', 'n')):
                 if is_sup or stxt == 'o':
-                    plain = base_tok + ('º' if stxt == 'o' else 'ª')
-                    if lead.strip():
-                        li = dict(base_parts[0]); li['text'] = lead; result.append(li)
-                    ni = dict(base_parts[0]); ni['text'] = plain; ni['x1'] = it['x1']
-                    result.append(ni); continue
-            is_word = bool(re.fullmatch(r'[A-Za-z]{4,}', base_tok))
+                    emit_plain(base_tok + ('º' if stxt == 'o' else 'ª')); continue
+            # footnote marker: a superscript digit glued to a word is a note
+            # reference, never an exponent -> render as unicode, out of math mode
+            if is_sup and stxt.isdigit() and re.fullmatch(r'[A-Za-z\u00C0-\u017F]{2,}', base_tok):
+                emit_plain(base_tok + ''.join(sup_map.get(ch, ch) for ch in stxt)); continue
+            if len(base_tok) > 8:
+                result.append(it); continue
+            is_word = bool(re.fullmatch(r'[A-Za-z\u00C0-\u017F]{4,}', base_tok))
             if is_word:
                 upper = sum(1 for ch in base_tok if ch.isupper())
                 if is_sup or upper < 2:
-                    # footnote marker / plain word: keep out of math mode
-                    sup_map = {'0':'⁰','1':'¹','2':'²','3':'³','4':'⁴','5':'⁵','6':'⁶','7':'⁷','8':'⁸','9':'⁹'}
-                    sub_map = {'0':'₀','1':'₁','2':'₂','3':'₃','4':'₄','5':'₅','6':'₆','7':'₇','8':'₈','9':'₉'}
                     mp = sup_map if is_sup else sub_map
-                    plain = base_tok + ''.join(mp.get(ch, ch) for ch in stxt)
-                    if lead.strip():
-                        li = dict(base_parts[0]); li['text'] = lead; result.append(li)
-                    ni = dict(base_parts[0]); ni['text'] = plain; ni['x1'] = it['x1']
-                    result.append(ni); continue
+                    emit_plain(base_tok + ''.join(mp.get(ch, ch) for ch in stxt)); continue
             if lead.strip():
                 lead_it = dict(base_parts[0]); lead_it['text'] = lead
                 result.append(lead_it)

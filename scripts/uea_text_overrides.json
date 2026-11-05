@@ -215,5 +215,75 @@
       "prose",
       "command"
     ]
+  },
+  "uea-sis-2023-a2-q59": {
+    "statement": "A fixação de nitrogênio no solo é parte importante do ciclo biogeoquímico desse elemento, pois as plantas não conseguem absorver nitrogênio atmosférico (N₂) para realizar seu metabolismo. Bactérias nitrificantes convertem o N₂ em compostos solúveis em água, que são absorvidos pelas plantas. Uma sequência de etapas possíveis de ocorrer no processo de fixação do nitrogênio atmosférico é:\n\nNas etapas 1, 2 e 3, respectivamente, o elemento nitrogênio passa por processos de",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2026-a2-q57": {
+    "statement": "Em uma competição entre alunos para o lançamento de foguetes construídos com garrafas PET, foi proposta uma construção representada no esquema da figura.\n\n(http://static.even3.com)\n\nNessa proposta de foguete, o propulsor deveria ter a pressão gerada por uma reação química entre o ácido acético (CH₃COOH) contido no vinagre e o bicarbonato de sódio (NaHCO₃). O alcance do foguete depende, entre outros fatores, da pressão gerada pela produção do dióxido de carbono, conforme a reação a seguir.\n\nCH₃COOH (aq) + NaHCO₃ (s) → CH₃COONa (aq) + CO₂ (g) + H₂O (ℓ)\n\nConsiderando que a massa de bicarbonato de sódio e o volume de vinagre utilizados pelos competidores sejam os mesmos, o foguete que atingirá mais rapidamente a pressão interna necessária para o lançamento será o construído pelo competidor que utilizar",
+    "blockTypes": [
+      "prose",
+      "source",
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2022-a2-q56": {
+    "statement": "O metal estanho, amplamente empregado em ligas de solda, é obtido a partir da reação do mineral cassiterita, SnO₂, com o carvão, de acordo com a equação global:\n\nSnO₂ (s) + 2 C (s) → Sn (s) + 2 CO (g)\n\nSabendo que o volume molar de um gás, medido nas CATP (Condições Ambiente de Temperatura e Pressão), é igual a 25 L/mol, calcula-se que, na produção de 1,19 t de estanho, o volume gerado de CO (g), medido nessas condições, é próximo de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-g1-q15": {
+    "statement": "Leia o texto para responder às questões 15 e 16.\n\nQuando numa solução aquosa de permanganato de potássio (KMnO₄) de cor violeta é gotejada em uma solução aquosa de ácido clorídrico (HCl), esta nova solução sofre uma descoloração, ou seja, torna-se incolor, e é representada pela reação:\n\n2 KMnO₄ + 16 HCl → 2 KCl + 2 MnCl₂ + 5 Cl₂ + 8 H₂O\n\nA variação do número de oxidação (Nox) do agente redutor da reação de descoloração é de",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-cg-q64": {
+    "statement": "Um motorista distraído está descendo uma pista de declive acentuado com seu carro quando percebe que logo à frente há uma lombada. Assustado, o motorista inicia o processo de frenagem, de forma que o carro começa a derrapar. Derrapando, o carro diminui sua velocidade até parar pouco antes da lombada.\n\nSuponha que, nesse processo, estavam envolvidas apenas a energia cinética do carro ($E_{c}$), a energia potencial gravitacional do carro ($E_{P}$), a energia térmica dos pneus ($E_{Tp}$) e a energia térmica do asfalto da pista ($E_{Ta}$). Considerando a variação dessas grandezas, representada por ∆, desde o início da frenagem até a parada do carro, tem-se que:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a1-q58": {
+    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância\tMassa molar (g/mol)\tFórmula estrutural\tTemperatura de ebulição (ºC)\nÉter dimetílico\t46\t\t– 25\nEtanol\t46\t\t78\nPropan-1-ol\t60\t\t97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-g1-q15": {
+    "statement": "A queima de diesel e certos processos industriais liberam para o meio ambiente o dióxido de enxofre (SO₂). Na atmosfera, esse gás reage com o oxigênio (O₂) e com a umidade (H₂O), formando substâncias que prejudicam o ambiente. Para evitar essas emissões, algumas indústrias instalam nas chaminés filtros contendo compostos químicos, como o carbonato de cálcio (CaCO₃). Esse composto reage com o SO₂ e com o oxigênio em várias etapas, transformando o gás poluente em sulfato de cálcio sólido (CaSO₄), popularmente conhecido como gesso.\n\nA instalação desses filtros nas chaminés das indústrias é importante para",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2025-g3-q20": {
+    "statement": "Em uma usina termoelétrica, um combustível é utilizado para vaporizar água em uma caldeira e o vapor produzido aciona uma turbina que, por fim, movimenta um gerador. Nesse processo, cada etapa de transformação de energia apresenta um rendimento: vaporização de água na caldeira, com rendimento $\\eta_{C}$, movimentação da turbina, com rendimento $\\eta_{T}$, e movimentação do gerador, com rendimento $\\eta_{G}$, conforme mostra o esquema.\n\nO rendimento total desse processo, $\\eta_{P}$, é dado por",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2026-a2-q43": {
+    "statement": "A figura representa uma praça, com o formato de um paralelogramo, que será reformada de modo que se tenha duas regiões gramadas, $R_{1}$ e $R_{3}$, e uma região asfaltada $R_{2}$.\n\nSabendo que a área da região $R_{1}$ excede em 9 $m^{2}$ a área da região $R_{3}$, a área da região $R_{2}$ é",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
   }
 }
