@@ -2,6 +2,8 @@
 
 Aplicação estática em React + Vite para revisar questões de vestibulares com resolução comentada, filtros, listas, correção e histórico local no navegador.
 
+**Acervo atual:** 2.595 questões objetivas, incluindo UEA (Vestibular Unificado e SIS) separada por modalidade, caderno/grupo, acompanhamento/série e ano de aplicação. As questões UEA importadas usam gabarito oficial; a classificação por matéria segue os blocos de disciplina dos cadernos VUNESP.
+
 ## Rodar localmente
 
 ```bash

@@ -1,6 +1,6 @@
 # UEA — fontes de provas e gabaritos (2022–2026)
 
-Esta pasta contém **50 PDFs-fonte**: 26 do Vestibular Unificado e 24 do SIS. Os arquivos ainda não representam questões importadas no acervo.
+Esta pasta contém **50 PDFs-fonte**: 26 do Vestibular Unificado e 24 do SIS. **1.802 questões foram importadas** para o acervo, separadas por modalidade, caderno/grupo, acompanhamento/série e ano de aplicação. O detalhamento e as pendências estão em `indice.json`.
 
 ## Separação obrigatória na importação
 
@@ -37,4 +37,9 @@ O SIS 2026 corresponde ao triênio 2027–2029. Não misturar questões de acomp
 - `indice.json`: inventário com classificação, páginas e SHA-256 de cada PDF;
 - `LINKS.md`: referências e observações do levantamento recebido.
 
-Antes da importação, ainda será necessário conferir cada caderno, separar prova e gabarito quando estiverem no mesmo PDF e validar as respostas oficiais individualmente.
+## Status da importação
+
+- Importadas: **1.802 questões objetivas**, com gabarito oficial (`officialAnswerOnly: true`).
+- Exames no app: `UEA Unificado — Conhecimentos Gerais`, `UEA Unificado — Específicos Grupo I/II/III`, `UEA SIS — Acompanhamento I/II/III`.
+- Pendências: **2022 Específicos Grupo III** sem gabarito válido no PDF combinado (36 questões); **42 questões** com alternativas apenas em imagem/vetor não recuperável.
+- As matérias foram atribuídas pelos blocos de disciplina dos cadernos VUNESP, com refinamento para Português/Literatura/Artes, Humanas e língua estrangeira. A dificuldade é heurística (SIS I/II/III e tipo de caderno), não uma medida oficial.

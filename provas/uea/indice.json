@@ -4,8 +4,8 @@
   "total_pdfs": 50,
   "vestibular_unificado_pdfs": 26,
   "sis_pdfs": 24,
-  "questoes_importadas": 0,
-  "observacao": "Inventário de fontes. A separação dos exames é obrigatória na futura importação.",
+  "questoes_importadas": 1802,
+  "observacao": "Questões importadas dos PDFs oficiais e separadas por modalidade, caderno/grupo, acompanhamento/série e ano de aplicação. Pendências: 2022 Específicos Grupo III sem gabarito válido; 42 questões com alternativas apenas em imagem/vetor não recuperável.",
   "arquivos": [
     {
       "arquivo": "sis/2022_SIS_acompanhamento-1_prova+gabarito.pdf",
@@ -14,14 +14,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2022,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2022-acompanhamento-1",
       "acompanhamento": 1,
       "serie": "1ª série",
       "ingresso_trienio": "2023–2025",
       "paginas": 22,
       "tamanho_bytes": 1550344,
-      "sha256": "121c6a8908176fb81cadf30e7e4b607312cc2cb12c4cccc5831b0e14e39ff585"
+      "sha256": "121c6a8908176fb81cadf30e7e4b607312cc2cb12c4cccc5831b0e14e39ff585",
+      "questoes_importadas": 58
     },
     {
       "arquivo": "sis/2022_SIS_acompanhamento-2_prova+gabarito.pdf",
@@ -30,14 +31,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2022,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2022-acompanhamento-2",
       "acompanhamento": 2,
       "serie": "2ª série",
       "ingresso_trienio": "2023–2025",
       "paginas": 22,
       "tamanho_bytes": 3357247,
-      "sha256": "df96ab19c0e78cbb540ca829a58f1f24b3b023a3329035ba75bf305b8fb3d809"
+      "sha256": "df96ab19c0e78cbb540ca829a58f1f24b3b023a3329035ba75bf305b8fb3d809",
+      "questoes_importadas": 62
     },
     {
       "arquivo": "sis/2022_SIS_acompanhamento-3_prova+gabarito.pdf",
@@ -46,14 +48,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2022,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2022-acompanhamento-3",
       "acompanhamento": 3,
       "serie": "3ª série",
       "ingresso_trienio": "2023–2025",
       "paginas": 22,
       "tamanho_bytes": 1573226,
-      "sha256": "8a85f6e612f3591da018f4119e82f5d60beecad8535fa22ae6cefeff3c438db0"
+      "sha256": "8a85f6e612f3591da018f4119e82f5d60beecad8535fa22ae6cefeff3c438db0",
+      "questoes_importadas": 63
     },
     {
       "arquivo": "sis/2023_SIS_acompanhamento-1_prova+gabarito.pdf",
@@ -62,14 +65,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2023,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2023-acompanhamento-1",
       "acompanhamento": 1,
       "serie": "1ª série",
       "ingresso_trienio": "2024–2026",
       "paginas": 22,
       "tamanho_bytes": 1492731,
-      "sha256": "571413ab6f808f8d453a456070444e8369154b014ee4a40469536fbc1731cef6"
+      "sha256": "571413ab6f808f8d453a456070444e8369154b014ee4a40469536fbc1731cef6",
+      "questoes_importadas": 58
     },
     {
       "arquivo": "sis/2023_SIS_acompanhamento-2_prova+gabarito.pdf",
@@ -78,14 +82,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2023,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2023-acompanhamento-2",
       "acompanhamento": 2,
       "serie": "2ª série",
       "ingresso_trienio": "2024–2026",
       "paginas": 22,
       "tamanho_bytes": 1764433,
-      "sha256": "3facb2fb52e73d483c71d5a3c7ce76e5a78c8df16d087a3952c214b4e664e562"
+      "sha256": "3facb2fb52e73d483c71d5a3c7ce76e5a78c8df16d087a3952c214b4e664e562",
+      "questoes_importadas": 60
     },
     {
       "arquivo": "sis/2023_SIS_acompanhamento-3_prova+gabarito.pdf",
@@ -94,14 +99,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2023,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2023-acompanhamento-3",
       "acompanhamento": 3,
       "serie": "3ª série",
       "ingresso_trienio": "2024–2026",
       "paginas": 26,
       "tamanho_bytes": 1802442,
-      "sha256": "b57e9a55187da95bc1a4d9cc0365000592a4bcd08bdc454bd24c470bf9adf7ad"
+      "sha256": "b57e9a55187da95bc1a4d9cc0365000592a4bcd08bdc454bd24c470bf9adf7ad",
+      "questoes_importadas": 62
     },
     {
       "arquivo": "sis/2024_SIS_acompanhamento-1_gabarito.pdf",
@@ -126,14 +132,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2024-acompanhamento-1",
       "acompanhamento": 1,
       "serie": "1ª série",
       "ingresso_trienio": "2025–2027",
       "paginas": 20,
       "tamanho_bytes": 1381610,
-      "sha256": "a6dd0047aa829651e33a6c152b134228534161ab061bb633abe5efceff38e74e"
+      "sha256": "a6dd0047aa829651e33a6c152b134228534161ab061bb633abe5efceff38e74e",
+      "questoes_importadas": 58
     },
     {
       "arquivo": "sis/2024_SIS_acompanhamento-2_gabarito.pdf",
@@ -158,14 +165,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2024-acompanhamento-2",
       "acompanhamento": 2,
       "serie": "2ª série",
       "ingresso_trienio": "2025–2027",
       "paginas": 20,
       "tamanho_bytes": 1462799,
-      "sha256": "a4344f16ffb5cea4805cdf4d78a54d0890067721ceaf24d5975c00db40f4067f"
+      "sha256": "a4344f16ffb5cea4805cdf4d78a54d0890067721ceaf24d5975c00db40f4067f",
+      "questoes_importadas": 58
     },
     {
       "arquivo": "sis/2024_SIS_acompanhamento-3_gabarito.pdf",
@@ -190,14 +198,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2024-acompanhamento-3",
       "acompanhamento": 3,
       "serie": "3ª série",
       "ingresso_trienio": "2025–2027",
       "paginas": 24,
       "tamanho_bytes": 1519199,
-      "sha256": "df0055c9bded22133bc937a669c0a378db023e813c7c125831f2b52fbf4921b6"
+      "sha256": "df0055c9bded22133bc937a669c0a378db023e813c7c125831f2b52fbf4921b6",
+      "questoes_importadas": 55
     },
     {
       "arquivo": "sis/2025_SIS_acompanhamento-1_gabarito.pdf",
@@ -222,14 +231,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2025-acompanhamento-1",
       "acompanhamento": 1,
       "serie": "1ª série",
       "ingresso_trienio": "2026–2028",
       "paginas": 20,
       "tamanho_bytes": 1421781,
-      "sha256": "a019705489814c779719cc0b0329e1b229a7e82dcb5544082136c1e6ed6036b7"
+      "sha256": "a019705489814c779719cc0b0329e1b229a7e82dcb5544082136c1e6ed6036b7",
+      "questoes_importadas": 57
     },
     {
       "arquivo": "sis/2025_SIS_acompanhamento-2_gabarito.pdf",
@@ -254,14 +264,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2025-acompanhamento-2",
       "acompanhamento": 2,
       "serie": "2ª série",
       "ingresso_trienio": "2026–2028",
       "paginas": 24,
       "tamanho_bytes": 1425972,
-      "sha256": "c0fbe242774de31121daa89c1971f96dd63e7b3d5083df50e4f36337075c1115"
+      "sha256": "c0fbe242774de31121daa89c1971f96dd63e7b3d5083df50e4f36337075c1115",
+      "questoes_importadas": 60
     },
     {
       "arquivo": "sis/2025_SIS_acompanhamento-3_gabarito.pdf",
@@ -286,14 +297,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2025-acompanhamento-3",
       "acompanhamento": 3,
       "serie": "3ª série",
       "ingresso_trienio": "2026–2028",
       "paginas": 24,
       "tamanho_bytes": 1745246,
-      "sha256": "c3ea6e36a9a9cd5376d481194e3618d452472b0bb705258e65390b855d43a964"
+      "sha256": "c3ea6e36a9a9cd5376d481194e3618d452472b0bb705258e65390b855d43a964",
+      "questoes_importadas": 55
     },
     {
       "arquivo": "sis/2026_SIS_acompanhamento-1_gabarito.pdf",
@@ -318,14 +330,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2026-acompanhamento-1",
       "acompanhamento": 1,
       "serie": "1ª série",
       "ingresso_trienio": "2027–2029",
       "paginas": 24,
       "tamanho_bytes": 1603043,
-      "sha256": "fc03542cdae8d1004b433732d3b1c0e8b5426a0a0907a1a74e1b5b17d8064036"
+      "sha256": "fc03542cdae8d1004b433732d3b1c0e8b5426a0a0907a1a74e1b5b17d8064036",
+      "questoes_importadas": 59
     },
     {
       "arquivo": "sis/2026_SIS_acompanhamento-2_gabarito.pdf",
@@ -350,14 +363,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2026-acompanhamento-2",
       "acompanhamento": 2,
       "serie": "2ª série",
       "ingresso_trienio": "2027–2029",
       "paginas": 24,
       "tamanho_bytes": 1661127,
-      "sha256": "04096c0cd78ca6c09c66c010c9421bede720d8170f6e5c8cf7f08a8793be076f"
+      "sha256": "04096c0cd78ca6c09c66c010c9421bede720d8170f6e5c8cf7f08a8793be076f",
+      "questoes_importadas": 59
     },
     {
       "arquivo": "sis/2026_SIS_acompanhamento-3_gabarito.pdf",
@@ -382,14 +396,15 @@
       "modalidade": "sis-seriado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "exame_id": "uea-sis-2026-acompanhamento-3",
       "acompanhamento": 3,
       "serie": "3ª série",
       "ingresso_trienio": "2027–2029",
       "paginas": 24,
       "tamanho_bytes": 1395986,
-      "sha256": "e42da0136b8d8a4f559ebbd062c3870789be106b89fe539181af8f18efdd3a72"
+      "sha256": "e42da0136b8d8a4f559ebbd062c3870789be106b89fe539181af8f18efdd3a72",
+      "questoes_importadas": 60
     },
     {
       "arquivo": "vestibular/2022_UEA_vestibular_prova+gabarito.pdf",
@@ -398,13 +413,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2022,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado-parcial",
       "ingresso_ano": 2023,
       "caderno": "vestibular-completo",
       "exame_id": "uea-vestibular-2022",
       "paginas": 81,
       "tamanho_bytes": 4906063,
-      "sha256": "5d6757392eb33ec85666c17ea77ff54d664070a619254f3e508a155a968c04f0"
+      "sha256": "5d6757392eb33ec85666c17ea77ff54d664070a619254f3e508a155a968c04f0",
+      "questoes_importadas": 160,
+      "pendencia": "Específicos Grupo III (004) sem gabarito válido; 36 questões pendentes."
     },
     {
       "arquivo": "vestibular/2023_UEA_vestibular_prova+gabarito.pdf",
@@ -413,13 +430,14 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2023,
       "tipo_arquivo": "prova+gabarito",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2024,
       "caderno": "vestibular-completo",
       "exame_id": "uea-vestibular-2023",
       "paginas": 81,
       "tamanho_bytes": 5102464,
-      "sha256": "a1ac914772bd4d0c0f88ac960c7c9fd704922575d10a618a5eb375fb6c8459d8"
+      "sha256": "a1ac914772bd4d0c0f88ac960c7c9fd704922575d10a618a5eb375fb6c8459d8",
+      "questoes_importadas": 191
     },
     {
       "arquivo": "vestibular/2024_UEA_conhecimentos_gerais_gabarito.pdf",
@@ -443,13 +461,14 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2025,
       "caderno": "conhecimentos-gerais",
       "exame_id": "uea-vestibular-2024-conhecimentos-gerais",
       "paginas": 24,
       "tamanho_bytes": 2213682,
-      "sha256": "7209586e2a339c31fc0c7bd5fd412869d9be12a6be6d69169246c766cf18c56e"
+      "sha256": "7209586e2a339c31fc0c7bd5fd412869d9be12a6be6d69169246c766cf18c56e",
+      "questoes_importadas": 83
     },
     {
       "arquivo": "vestibular/2024_UEA_especificos_1_gabarito.pdf",
@@ -474,14 +493,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2025,
       "caderno": "conhecimentos-especificos",
       "grupo": 1,
       "exame_id": "uea-vestibular-2024-especificos-grupo-1",
       "paginas": 16,
       "tamanho_bytes": 1249971,
-      "sha256": "2f0891980bf6179dc982d5aca9a219757bb5ffbaf6b959219dd1a1bd82fea50c"
+      "sha256": "2f0891980bf6179dc982d5aca9a219757bb5ffbaf6b959219dd1a1bd82fea50c",
+      "questoes_importadas": 35
     },
     {
       "arquivo": "vestibular/2024_UEA_especificos_2_gabarito.pdf",
@@ -506,14 +526,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2025,
       "caderno": "conhecimentos-especificos",
       "grupo": 2,
       "exame_id": "uea-vestibular-2024-especificos-grupo-2",
       "paginas": 16,
       "tamanho_bytes": 1064071,
-      "sha256": "b2ea2009f05911a077ae3474b048314915dd3889b03011d99336c6895b891609"
+      "sha256": "b2ea2009f05911a077ae3474b048314915dd3889b03011d99336c6895b891609",
+      "questoes_importadas": 36
     },
     {
       "arquivo": "vestibular/2024_UEA_especificos_3_gabarito.pdf",
@@ -538,14 +559,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2024,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2025,
       "caderno": "conhecimentos-especificos",
       "grupo": 3,
       "exame_id": "uea-vestibular-2024-especificos-grupo-3",
       "paginas": 16,
       "tamanho_bytes": 912029,
-      "sha256": "4155fe8a7bbd07ab5a71f3615d77db1cede64ddf559814361f55633667cc77cc"
+      "sha256": "4155fe8a7bbd07ab5a71f3615d77db1cede64ddf559814361f55633667cc77cc",
+      "questoes_importadas": 33
     },
     {
       "arquivo": "vestibular/2025_UEA_conhecimentos_gerais_gabarito.pdf",
@@ -569,13 +591,14 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2026,
       "caderno": "conhecimentos-gerais",
       "exame_id": "uea-vestibular-2025-conhecimentos-gerais",
       "paginas": 28,
       "tamanho_bytes": 1701998,
-      "sha256": "b8d3d28668fa43c41853a1cd50e8b021236e5f75a81209e5d236dc120d7daa13"
+      "sha256": "b8d3d28668fa43c41853a1cd50e8b021236e5f75a81209e5d236dc120d7daa13",
+      "questoes_importadas": 82
     },
     {
       "arquivo": "vestibular/2025_UEA_especificos_grupo1_gabarito.pdf",
@@ -600,14 +623,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2026,
       "caderno": "conhecimentos-especificos",
       "grupo": 1,
       "exame_id": "uea-vestibular-2025-especificos-grupo-1",
       "paginas": 16,
       "tamanho_bytes": 1421433,
-      "sha256": "ba64de903ef19fca6398546dc4eb9ae33d1bc8c2f06a7a4818cf9d30a2c3eaf9"
+      "sha256": "ba64de903ef19fca6398546dc4eb9ae33d1bc8c2f06a7a4818cf9d30a2c3eaf9",
+      "questoes_importadas": 36
     },
     {
       "arquivo": "vestibular/2025_UEA_especificos_grupo2_gabarito.pdf",
@@ -632,14 +656,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2026,
       "caderno": "conhecimentos-especificos",
       "grupo": 2,
       "exame_id": "uea-vestibular-2025-especificos-grupo-2",
       "paginas": 16,
       "tamanho_bytes": 1004139,
-      "sha256": "c1bbf48b9f0eec0d208c875c9e071a2fe69a0325dfeb0cf30c1bfe237fee6e96"
+      "sha256": "c1bbf48b9f0eec0d208c875c9e071a2fe69a0325dfeb0cf30c1bfe237fee6e96",
+      "questoes_importadas": 36
     },
     {
       "arquivo": "vestibular/2025_UEA_especificos_grupo3_gabarito.pdf",
@@ -664,14 +689,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2025,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2026,
       "caderno": "conhecimentos-especificos",
       "grupo": 3,
       "exame_id": "uea-vestibular-2025-especificos-grupo-3",
       "paginas": 16,
       "tamanho_bytes": 998745,
-      "sha256": "0f4884af9199ba76191ece4d3ea38a86748d059128a1a5a6c5c49353aa6e1799"
+      "sha256": "0f4884af9199ba76191ece4d3ea38a86748d059128a1a5a6c5c49353aa6e1799",
+      "questoes_importadas": 34
     },
     {
       "arquivo": "vestibular/2026_UEA_conhecimentos_gerais_gabarito.pdf",
@@ -695,13 +721,14 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2027,
       "caderno": "conhecimentos-gerais",
       "exame_id": "uea-vestibular-2026-conhecimentos-gerais",
       "paginas": 28,
       "tamanho_bytes": 1713242,
-      "sha256": "2abc73e729c6935b2cdd81e328d4474927b0c2759af447ccf6dd48cd765b1d55"
+      "sha256": "2abc73e729c6935b2cdd81e328d4474927b0c2759af447ccf6dd48cd765b1d55",
+      "questoes_importadas": 84
     },
     {
       "arquivo": "vestibular/2026_UEA_especificos_grupo1_gabarito.pdf",
@@ -726,14 +753,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2027,
       "caderno": "conhecimentos-especificos",
       "grupo": 1,
       "exame_id": "uea-vestibular-2026-especificos-grupo-1",
       "paginas": 16,
       "tamanho_bytes": 997632,
-      "sha256": "1af06956c0564571e6d4394362801f1992b0a49c532a92a31d06a59f47aa34f5"
+      "sha256": "1af06956c0564571e6d4394362801f1992b0a49c532a92a31d06a59f47aa34f5",
+      "questoes_importadas": 36
     },
     {
       "arquivo": "vestibular/2026_UEA_especificos_grupo2_gabarito.pdf",
@@ -758,14 +786,15 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2027,
       "caderno": "conhecimentos-especificos",
       "grupo": 2,
       "exame_id": "uea-vestibular-2026-especificos-grupo-2",
       "paginas": 16,
       "tamanho_bytes": 622288,
-      "sha256": "5d512460cccef3de41436718b18207ec754908e97220a704ac1286a22a5870fb"
+      "sha256": "5d512460cccef3de41436718b18207ec754908e97220a704ac1286a22a5870fb",
+      "questoes_importadas": 36
     },
     {
       "arquivo": "vestibular/2026_UEA_especificos_grupo3_gabarito.pdf",
@@ -790,14 +819,95 @@
       "modalidade": "vestibular-unificado",
       "ano_aplicacao": 2026,
       "tipo_arquivo": "prova",
-      "status": "fonte-nao-importada",
+      "status": "importado",
       "ingresso_ano": 2027,
       "caderno": "conhecimentos-especificos",
       "grupo": 3,
       "exame_id": "uea-vestibular-2026-especificos-grupo-3",
       "paginas": 16,
       "tamanho_bytes": 494299,
-      "sha256": "f9bdf020117153cdba2c45d08c7892a19e17930a36b21dbdc9a4734c2fa0a812"
+      "sha256": "f9bdf020117153cdba2c45d08c7892a19e17930a36b21dbdc9a4734c2fa0a812",
+      "questoes_importadas": 36
     }
-  ]
+  ],
+  "status_importacao": "importado-parcial",
+  "importacao": {
+    "data": "2026-11-04",
+    "total_questoes": 1802,
+    "total_imagens": 588,
+    "por_exame": {
+      "UEA SIS — Acompanhamento I": 290,
+      "UEA SIS — Acompanhamento II": 299,
+      "UEA SIS — Acompanhamento III": 295,
+      "UEA Unificado — Conhecimentos Gerais": 422,
+      "UEA Unificado — Específicos Grupo I": 179,
+      "UEA Unificado — Específicos Grupo II": 180,
+      "UEA Unificado — Específicos Grupo III": 137
+    },
+    "por_modalidade": {
+      "sis-seriado": 884,
+      "vestibular-unificado": 918
+    },
+    "classificacao_materias": "Blocos de disciplina por caderno (VUNESP), com refinamento para Português/Literatura/Artes, Humanas e língua estrangeira.",
+    "gabarito": "Apenas gabarito oficial; sem resolução comentada autoral.",
+    "pendencias": {
+      "secoes_sem_gabarito_valido": [
+        {
+          "exame": "UEA Unificado — Específicos Grupo III",
+          "ano_aplicacao": 2022,
+          "caderno": "004/CE-T3",
+          "questoes_pendentes": 36,
+          "motivo": "A página de gabarito do PDF combinado é de 2020 (UEAM2001), não de 2022."
+        }
+      ],
+      "questoes_alternativas_imagem": {
+        "total": 42,
+        "motivo": "Alternativas desenhadas como vetor/imagem sem texto recuperável; não importadas para não arriscar conteúdo.",
+        "ids": [
+          "sis-2022-a1-q38",
+          "sis-2022-a1-q40",
+          "sis-2022-a2-q44",
+          "sis-2022-a2-q51",
+          "sis-2022-a3-q59",
+          "sis-2023-a1-q37",
+          "sis-2023-a1-q39",
+          "sis-2023-a3-q50",
+          "sis-2023-a3-q60",
+          "vestibular-2023-cg-q69",
+          "vestibular-2023-cg-q71",
+          "vestibular-2023-cg-q83",
+          "vestibular-2023-g3-q07",
+          "vestibular-2023-g3-q18",
+          "sis-2024-a1-q47",
+          "sis-2024-a1-q51",
+          "sis-2024-a2-q39",
+          "sis-2024-a2-q54",
+          "sis-2024-a3-q41",
+          "sis-2024-a3-q42",
+          "sis-2024-a3-q44",
+          "sis-2024-a3-q58",
+          "sis-2024-a3-q60",
+          "vestibular-2024-cg-q52",
+          "vestibular-2024-g1-q22",
+          "vestibular-2024-g3-q11",
+          "vestibular-2024-g3-q14",
+          "vestibular-2024-g3-q24",
+          "sis-2025-a1-q43",
+          "sis-2025-a1-q44",
+          "sis-2025-a1-q52",
+          "sis-2025-a3-q41",
+          "sis-2025-a3-q42",
+          "sis-2025-a3-q49",
+          "sis-2025-a3-q54",
+          "sis-2025-a3-q55",
+          "vestibular-2025-cg-q60",
+          "vestibular-2025-cg-q82",
+          "vestibular-2025-g3-q08",
+          "vestibular-2025-g3-q14",
+          "sis-2026-a1-q45",
+          "sis-2026-a2-q41"
+        ]
+      }
+    }
+  }
 }
