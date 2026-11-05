@@ -71,11 +71,22 @@ import { uerj2027eq1Lote01 } from './uerj2027eq1-lote01.js';
 import { uerj2027eq1Lote02 } from './uerj2027eq1-lote02.js';
 import { uerj2027eq1Lote03 } from './uerj2027eq1-lote03.js';
 import { uerj2027eq1Lote04 } from './uerj2027eq1-lote04.js';
+import { uea2022Sis } from './uea2022-sis.js';
+import { uea2022Vestibular } from './uea2022-vestibular.js';
+import { uea2023Sis } from './uea2023-sis.js';
+import { uea2023Vestibular } from './uea2023-vestibular.js';
+import { uea2024Sis } from './uea2024-sis.js';
+import { uea2024Vestibular } from './uea2024-vestibular.js';
+import { uea2025Sis } from './uea2025-sis.js';
+import { uea2025Vestibular } from './uea2025-vestibular.js';
+import { uea2026Sis } from './uea2026-sis.js';
+import { uea2026Vestibular } from './uea2026-vestibular.js';
 import { withTaxonomy } from './taxonomy.js';
 
 export const SUBJECT_COLORS = {
   'Português': '#416f9f',
   'Inglês': '#4c7da8',
+  'Espanhol': '#c25e5e',
   'Literatura': '#8b5fbf',
   'Artes': '#b0638b',
   'História': '#a36b45',
@@ -89,7 +100,7 @@ export const SUBJECT_COLORS = {
 };
 
 // A prova é incorporada em lotes revisados. Os próximos lotes entram neste mesmo acervo.
-const allQuestions = [...fuvest2027Questions, ...fuvest2027Lote02, ...fuvest2027Lote03, ...fuvest2027Lote04, ...fuvest2027Lote05, ...fuvest2027Lote06, ...fuvest2027Lote07, ...santaCasa2027Lote01, ...santaCasa2027Lote02, ...santaCasa2027Lote03, ...santaCasa2027Lote04, ...santaCasa2027Lote05, ...santaCasa2027Lote06, ...santaCasa2027Lote07, ...santaCasa2027Lote08, ...santaCasa2027Lote09, ...santaCasa2027Lote10, ...santaCasa2027Lote11, ...unisa2027Lote01, ...unisa2027Lote02, ...unisa2027Lote03, ...unisa2027Lote04, ...saocamilo2026Lote01, ...saocamilo2026Lote02, ...saocamilo2026Lote03, ...saocamilo2026Lote04, ...saocamilo2026Lote05, ...unifunec2027Lote01, ...unifunec2027Lote02, ...unifunec2027Lote03, ...unifunec2027Lote04, ...unifunec2027Lote05, ...unisul2027Lote01, ...unisul2027Lote02, ...unisul2027Lote03, ...unisul2027Lote04, ...unisul2027Lote05, ...unifimesmineiros2027Lote01, ...unifimesmineiros2027Lote02, ...unifimesmineiros2027Lote03, ...unifimesmineiros2027Lote04, ...unifimesmineiros2027Lote05, ...unifimestrindade2027Lote01, ...unifimestrindade2027Lote02, ...unifimestrindade2027Lote03, ...unifimestrindade2027Lote04, ...unifimestrindade2027Lote05, ...uscs2026Lote01, ...uscs2026Lote02, ...uscs2026Lote03, ...uscs2026Lote04, ...uscs2026Lote05, ...insper2027Lote01, ...insper2027Lote02, ...insper2027Lote03, ...insper2027Lote04, ...fcmh2027Lote01, ...fcmh2027Lote02, ...fcmh2027Lote03, ...fcmh2027Lote04, ...fcmh2027Lote05, ...univas2027Lote01, ...univas2027Lote02, ...univas2027Lote03, ...univas2027Lote04, ...univesp2026Lote01, ...univesp2026Lote02, ...univesp2026Lote03, ...univesp2026Lote04, ...uerj2027eq1Lote01, ...uerj2027eq1Lote02, ...uerj2027eq1Lote03, ...uerj2027eq1Lote04];
+const allQuestions = [...fuvest2027Questions, ...fuvest2027Lote02, ...fuvest2027Lote03, ...fuvest2027Lote04, ...fuvest2027Lote05, ...fuvest2027Lote06, ...fuvest2027Lote07, ...santaCasa2027Lote01, ...santaCasa2027Lote02, ...santaCasa2027Lote03, ...santaCasa2027Lote04, ...santaCasa2027Lote05, ...santaCasa2027Lote06, ...santaCasa2027Lote07, ...santaCasa2027Lote08, ...santaCasa2027Lote09, ...santaCasa2027Lote10, ...santaCasa2027Lote11, ...unisa2027Lote01, ...unisa2027Lote02, ...unisa2027Lote03, ...unisa2027Lote04, ...saocamilo2026Lote01, ...saocamilo2026Lote02, ...saocamilo2026Lote03, ...saocamilo2026Lote04, ...saocamilo2026Lote05, ...unifunec2027Lote01, ...unifunec2027Lote02, ...unifunec2027Lote03, ...unifunec2027Lote04, ...unifunec2027Lote05, ...unisul2027Lote01, ...unisul2027Lote02, ...unisul2027Lote03, ...unisul2027Lote04, ...unisul2027Lote05, ...unifimesmineiros2027Lote01, ...unifimesmineiros2027Lote02, ...unifimesmineiros2027Lote03, ...unifimesmineiros2027Lote04, ...unifimesmineiros2027Lote05, ...unifimestrindade2027Lote01, ...unifimestrindade2027Lote02, ...unifimestrindade2027Lote03, ...unifimestrindade2027Lote04, ...unifimestrindade2027Lote05, ...uscs2026Lote01, ...uscs2026Lote02, ...uscs2026Lote03, ...uscs2026Lote04, ...uscs2026Lote05, ...insper2027Lote01, ...insper2027Lote02, ...insper2027Lote03, ...insper2027Lote04, ...fcmh2027Lote01, ...fcmh2027Lote02, ...fcmh2027Lote03, ...fcmh2027Lote04, ...fcmh2027Lote05, ...univas2027Lote01, ...univas2027Lote02, ...univas2027Lote03, ...univas2027Lote04, ...univesp2026Lote01, ...univesp2026Lote02, ...univesp2026Lote03, ...univesp2026Lote04, ...uerj2027eq1Lote01, ...uerj2027eq1Lote02, ...uerj2027eq1Lote03, ...uerj2027eq1Lote04, ...uea2022Sis, ...uea2022Vestibular, ...uea2023Sis, ...uea2023Vestibular, ...uea2024Sis, ...uea2024Vestibular, ...uea2025Sis, ...uea2025Vestibular, ...uea2026Sis, ...uea2026Vestibular];
 
 export const questions = allQuestions.map(withTaxonomy);
 

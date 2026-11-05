@@ -202,6 +202,13 @@ const RULES = {
     ['Gramática e coesão', 'Referenciação e coesão', /referenc|coesao/],
     ['Gramática e coesão', 'Estruturas e relações discursivas', /modal|comparativas|relacoes|as soon as/],
   ],
+  'Espanhol': [
+    ['Comprensión textual', 'Información e inferencia', /comprension|interpretacion|informacion|finalidad|lectura|inferencia|segun el texto|de acuerdo con/],
+    ['Comprensión textual', 'Tirinhas e multimodalidade', /tirinha|imagen|poster|infografia|caricatura/],
+    ['Vocabulario y semántica', 'Vocabulario en contexto', /vocabulario|expresiones idiomaticas|significado|sentido|sinonimo|antonimo/],
+    ['Gramática y cohesión', 'Referencia y cohesión', /referencia|cohesion|pronombre|conector|conjuncion/],
+    ['Gramática y cohesión', 'Estructuras y relaciones discursivas', /verbos|tiempos verbales|comparativas|relaciones|causa|consecuencia|condicion/],
+  ],
   'Filosofia': [
     ['Filosofia social e política', 'Mal e responsabilidade', /hannah arendt e banalidade do mal/],
     ['História da filosofia', 'Filosofia antiga', /heraclito/],
@@ -233,6 +240,7 @@ const FALLBACKS = {
   'História': ['História geral', 'Temas integradores'],
   'Geografia': ['Geografia geral', 'Temas integradores'],
   'Inglês': ['Língua inglesa', 'Temas integradores'],
+  'Espanhol': ['Língua espanhola', 'Temas integradores'],
   'Filosofia': ['Filosofia geral', 'Temas integradores'],
   'Sociologia': ['Sociologia geral', 'Temas integradores'],
   'Artes': ['Arte e cultura visual', 'Temas integradores'],
@@ -240,7 +248,9 @@ const FALLBACKS = {
 
 export function withTaxonomy(question) {
   const detail = question.detail || question.content;
-  const text = normalize(detail);
+  // Provas importadas de PDF (UEA) usam o enunciado como fonte de classificação,
+  // pois o detail editorial é apenas institucional.
+  const text = normalize(question.officialAnswerOnly ? (question.statement || detail) : detail);
   const match = (RULES[question.subject] || []).find(([, , pattern]) => pattern.test(text));
   const [content, subtopic] = match ? [match[0], match[1]] : (FALLBACKS[question.subject] || ['Temas gerais', 'Temas integradores']);
   return { ...question, content, subtopic, detail };
