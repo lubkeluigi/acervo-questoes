@@ -100,13 +100,16 @@
     ]
   },
   "uea-vestibular-2024-g1-q23": {
-    "statement": "Em um experimento de cinética química, o consumo de amônia (NH₃) foi monitorado na reação com o oxigênio (O₂). Essa reação ocorre conforme representado na equação:\n\n4 NH₃ (g) + 5 O₂ (g) → 4 NO (g) + 6 H₂O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo\tConcentração de NH₃\n0 s\t0,320 mol·L⁻¹\n10 s\t0,240 mol·L⁻¹\n20 s\t0,160 mol·L⁻¹\n30 s\t0,080 mol·L⁻¹\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consumo de oxigênio nesse experimento, em mol·L⁻¹·s⁻¹, é",
+    "statement": "Em um experimento de cinética química, o consumo de amô-\n\nreação ocorre conforme representado na equação:nia ($NH_{3}$) foi monitorado na reação com o oxigênio ($O_{2}$). Essa\n\n$4NH_{3}$ (g) + $5O_{2}$ (g) 4NO (g) + $6H_{2}$O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\n0 s\tL–1 0,320 mol ⋅\n10 s\tL–1 0,240 mol ⋅\n20 s\tL–1 0,160 mol ⋅\n30 s\tL–1 0,080 mol ⋅\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consu-\n\n1 1, é\n\n2.\n1.\n2.\n1.\n1.",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
+      "prose",
       "table",
-      "command"
+      "prose",
+      "prose",
+      "poem"
     ]
   },
   "uea-sis-2025-a1-q60": {
@@ -258,7 +261,7 @@
     ]
   },
   "uea-sis-2023-a1-q58": {
-    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância\tMassa molar (g/mol)\tFórmula estrutural\tTemperatura de ebulição (ºC)\nÉter dimetílico\t46\t\t– 25\nEtanol\t46\t\t78\nPropan-1-ol\t60\t\t97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
+    "statement": "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição:\n\nSubstância\tMassa molar (g/mol)\tFórmula estrutural\tTemperatura de ebulição (ºC)\nÉter dimetílico\t46\tH₃C—O—CH₃\t– 25\nEtanol\t46\tH₃C—CH₂—OH\t78\nPropan-1-ol\t60\tH₃C—CH₂—CH₂—OH\t97\n\nAnalisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
     "blockTypes": [
       "prose",
       "table",
@@ -288,18 +291,300 @@
   },
   "uea-vestibular-2022-cg-q63": {
     "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nConsiderando que a vela permaneça acesa até seu completo derretimento e que obedeça à estimativa do fabricante, a velocidade média com que a vela derrete é de",
-    "blockTypes": ["prose", "prose", "command"]
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
   },
   "uea-vestibular-2022-cg-q64": {
     "statement": "Leia o texto para responder às questões 63 e 64.\n\nNa figura estão representadas uma vela, que acaba ser acesa, e uma estátua, a 16 cm da vela, ambas dispostas sobre uma mesa. Devido à iluminação da vela, forma-se uma sombra da estátua sobre a mesa, que se estende por 24 cm a partir de sua base. A estátua possui altura de 18 cm e a vela, no momento em que foi acesa, possuía 30 cm de altura. O fabricante da vela estima que ela derreta totalmente em 5 dias após ser acesa.\n\nPara que a sombra da estátua dobre de tamanho em relação ao momento em que a vela foi acesa, será necessário que se passe",
-    "blockTypes": ["prose", "prose", "command"]
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
   },
   "uea-vestibular-2022-cg-q79": {
     "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nCom base nas informações fornecidas, afirma-se que, na reação ocorrida no “flare”,",
-    "blockTypes": ["prose", "prose", "command"]
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
   },
   "uea-vestibular-2022-cg-q80": {
     "statement": "Leia o texto para responder às questões 79 e 80.\n\nEm um aterro sanitário, o gás metano (CH₄) gerado pela decomposição de resíduos orgânicos pode ser captado e direcionado para um “flare” (queimador de biogás), sofrendo uma reação química, conforme a ilustração.\n\nA geometria molecular do gás metano e a do gás dióxido de carbono são, respectivamente,",
-    "blockTypes": ["prose", "prose", "command"]
+    "blockTypes": [
+      "prose",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2022-a1-q23": {
+    "statement": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\tOcorrências de conflitos\tAssassinatos no campo\n2012\t828\t34\n2013\t802\t30\n2014\t820\t37\n2015\t828\t49\n2016\t1 112\t61\n2017\t1 033\t70\n2018\t1 000\t27\n2019\t1 260\t27\n2020\t1 576\t14\n2021\t1 242\t35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "source",
+      "command"
+    ]
+  },
+  "uea-sis-2022-a1-q48": {
+    "statement": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\tDeformação da espiral (m)\n1\t0,04\n2\t0,08\n3\t0,12\n. . .\t. . .\n\n......\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
+    "blockTypes": [
+      "prose",
+      "table",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2022-a3-q42": {
+    "statement": "Uma prova foi aplicada em uma turma de 40 alunos e com os resultados foi construída a tabela seguinte.\n\nConceito\tnúmero de alunos\nSS\t8\nMS\t12\nMM\t15\nMI\t2\nII\t3\n\nUm gráfico de setores será construído a partir dos resultados dessa prova e o ângulo do setor que representará o conceito MM terá medida igual a",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a1-q54": {
+    "statement": "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade.\n\nPolietileno de baixa densidade\tPEBD\t0,92\nPolietileno de alta densidade\tPEAD\t0,96\nPolietileno tereftalato\tPET\t1,36\nPolicloreto de vinila\tPVC\t1,40\n\nPara a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa.\n\nConsiderando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) e água de torneira (d = 1,05 g/mL) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "table",
+      "prose",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a2-q55": {
+    "statement": "A sustentabilidade está relacionada ao conceito de manutenção de um equilíbrio entre o que é consumido e o que é renovado. Um dos combustíveis renováveis é o etanol, utilizado em substituição dos combustíveis fósseis como gasolina e óleo diesel. No entanto, a produção de etanol ainda utiliza, em grande parte, combustíveis fósseis, seja na lavoura ou na indústria de fertilizantes e defensivos agrícolas. Um fator importante considerado na sustentabilidade de um combustível é a sua eficiência energética, que é calculada conforme a equação:\n\nEficiência energética =\n\nA tabela apresenta a relação entre a energia produzida pela utilização de etanol e a energia consumida em sua produção, considerando diversas matérias-primas.\n\nMatéria-prima\tEnergia renovável/energia fóssil usada\nMilho\t1,3\nCana-de-açúcar\t8,9\nBeterraba\t2,0\nSorgo sacarino\t4,0\nMandioca\t1,0\n\nCom base na tabela, a matéria-prima mais sustentável para a produção do etanol é",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a3-q23": {
+    "statement": "Analise a tabela.\n\nDistribuição da população urbana\n\nTamanho das Cidades\t1970\t1980\t1991\t2000\t2010\n< 20 000\t26,92\t21,36\t19,34\t18,81\t17,13\n20 000 a 50 000\t12,04\t11,40\t12,44\t11,49\t11,83\n50 000 a 100 000\t7,80\t10,50\t10,23\t10,57\t9,93\n100 000 a 500 000\t19,59\t21,92\t24,43\t26,11\t27,34\nMais de 500 000\t29,0\t34,83\t33,55\t33,01\t33,78\nMais de 1 000 000\t53,24\t56,75\t57,98\t59,12\t61,12\n\n(Marco A. D. Zazyki et al. “Relação entre a urbanização brasileira e o direito de propriedade”. Desenvolvimento em questão, jan./mar. 2021. Adaptado.)\n\nA análise dos dados da tabela e conhecimentos sobre a urbanização brasileira evidenciam que",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "source",
+      "command"
+    ]
+  },
+  "uea-sis-2023-a3-q36": {
+    "statement": "Em um estudo sobre a dinâmica populacional em uma ilha, a população de determinada espécie de ave era formada no início por 1 000 indivíduos vivendo em uma área de 1 000 $m^{2}$, revelando uma densidade de uma ave por metro quadrado. Esses animais foram monitorados durante dois anos e, nesse tempo, contabilizaram-se as taxas de natalidade, de mortalidade, de imigração e de emigração, como mostra a tabela.\n\nAno\tNatalidade\tMortalidade\tImigração\tEmigração\n2019\t270\t90\t50\t30\n2020\t310\t110\t35\t235\n\nDe acordo com os dados da tabela, em 2020 a densidade da população da ave estudada foi de",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a1-q43": {
+    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários\tSalário em R$\n15\t3.100,00\n22\t2.900,00\n35\t2.500,00\n28\t1.800,00\n\nA mediana dos salários desses funcionários é",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a2-q43": {
+    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\t1 006\t995\t1 028\t1 017\n1 006\t996\t1 012\t1 023\t1 010\n1 029\t1 014\t1 003\t1 020\t1 009\n\nConsiderando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a1-q38": {
+    "statement": "Considere a tabela que registra as alturas de 20 alunos de uma turma.\n\nAlturas dos alunos (em cm), em cm.\n\n160\t180\t160\t160\t160\n160\t165\t155\t155\t155\n165\t160\t165\t160\t175\n165\t165\t160\t170\t165\n\nSeja Mo a moda das alturas desses 20 alunos. Um grupo foi formado com todos os alunos da turma que tinham alturas diferentes de Mo. A média das alturas dos alunos do grupo formado é igual a",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2025-a1-q45": {
+    "statement": "O motorista de um caminhão costuma registrar, para cada entrega realizada, o instante em que inicia o deslocamento para a entrega, o instante da chegada ao local de entrega e a distância percorrida durante a entrega. Em determinado dia de trabalho, esse motorista fez 3 entregas, cujos registros estão indicados na tabela.\n\n7:00\t9:00\t50\n10:00\t11:00\t10\n13:00\t16:00\t30\n\nConsiderando apenas os tempos em que o motorista esteve em deslocamento durante essas entregas, ou seja, do início de cada deslocamento até sua chegada ao local de cada entrega, e suas respectivas distâncias percorridas, a velocidade escalar média desenvolvida pelo caminhão, nesse dia de trabalho, foi de",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2026-a2-q25": {
+    "statement": "A tabela apresenta a relação dos principais produtos industrializados brasileiros exportados em 2025.\n\nProduto\tExportações (%)\nAçúcar de cana, em bruto\t12,9\nCelulose\t9,6\nÓleos Combustíveis\t7,5\nDemais produtos semimanufaturados\t5,3\nProdutos semimanufaturados de ferro ou aços\t3,8\nÓxidos e hidróxidos de alumínio\t3,6\nAviões\t3,1\nFerro-ligas\t2,8\nAçúcar refinado\t2,2\nDemais produtos manufaturados\t2,2\n\n(“Perfil da Indústria Brasileira”.\n\nhttps://industriabrasileira.portaldaindustria.com.br. Adaptado.)\n\nA análise da tabela revela que os produtos industrializados brasileiros são, em sua maioria, caracterizados por serem",
+    "blockTypes": [
+      "prose",
+      "table",
+      "source",
+      "source",
+      "command"
+    ]
+  },
+  "uea-sis-2026-a2-q27": {
+    "statement": "Analise a tabela que apresenta os dados do Índice de Desenvolvimento Humano Municipal (IDHM) para os estados da região Norte.\n\nRegião\t2019\t2021\t2024\nNorte\t0,732\t0,705\t0,767\nTocantins\t0,762\t0,731\t0,797\nRondônia\t0,752\t0,708\t0,786\nRoraima\t0,757\t0,694\t0,780\nAmazonas\t0,739\t0,700\t0,767\nAmapá\t0,732\t0,681\t0,759\nPará\t0,717\t0,706\t0,758\nAcre\t0,738\t0,702\t0,754\n\n(Radar IDHM: evolução do IDHM e de seus componentes-\n\nperíodo de 2012 a 2024, 2026. Adaptado.)\n\nCom base nos dados da tabela e em conhecimentos acerca do IDHM no período retratado, verifica-se que o estado",
+    "blockTypes": [
+      "prose",
+      "table",
+      "source",
+      "source",
+      "command"
+    ]
+  },
+  "uea-sis-2026-a3-q24": {
+    "statement": "Analise a tabela que apresenta o número de empresas de plataformas digitais instaladas em alguns países.\n\nChina\t1031\nEstados Unidos\t855\nIlhas Cayman\t165\nReino Unido\t124\nJapão\t117\nCoreia do Sul\t84\nAustrália\t73\nÍndia\t62\nCanadá\t59\n\n(Victo José da Silva Neto, Tulio Chiarini e Leonardo da Costa Ribeiro. “Viagens de descobrimento: mapeando a geografia da economia de plataformas”. VI Encontro Nacional de Economia Industrial, 2022.\n\nAdaptado.)\n\nOs dados apresentados na tabela mostram que as empresas de plataformas digitais estão concentradas, principalmente, em países com",
+    "blockTypes": [
+      "prose",
+      "table",
+      "source",
+      "source",
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-cg-q51": {
+    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\n10 minutos\t30%\n30 minutos\t40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-cg-q60": {
+    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\n1\t30,00\t37,00\n2\t12,00\t15,00\n3\t18,00\t22,00\n4\t15,00\t18,00\n5\t24,00\t29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2022-cg-q84": {
+    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\ntempo (min)\tNaN3 (mol)\n0\t0,8\n10\t0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3\t1.\n2\t1.\n4\t1.\n4\t1.\n2\t1.",
+    "blockTypes": [
+      "prose",
+      "table",
+      "prose",
+      "table"
+    ]
+  },
+  "uea-vestibular-2023-cg-q55": {
+    "statement": "Uma faculdade oferece dois cursos de especialização, P e Q. A tabela apresenta algumas informações sobre o número de matriculados e o número de aprovados em cada curso.\n\nCurso\tNo de matriculados\tNo de aprovados\nP\tx\t36\nQ\tx 6 +\t42\n\nSe no curso Q houvesse um aluno a mais matriculado do que o curso P e esse aluno não tivesse sido aprovado, a razão do número de alunos matriculados para o número de alunos aprovados no curso Q seria a mesma que no curso P. A soma do número de alunos matriculados nesses dois cursos é",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-cg-q58": {
+    "statement": "Determinado produto é vendido por 5 sites diferentes na internet, P, Q, R, S e T. A tabela apresenta o valor desse produto em 4 desses sites.\n\nSite\tPreço do produto\nP\tR$ 124,00\nQ\tR$ 132,00\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nSabendo que o preço desse produto no site R é R$ 13,00 a menos do que a média aritmética dos preços nesses 5 sites, então, a diferença entre o maior e o menor preço desse produto, nesses sites, é",
+    "blockTypes": [
+      "prose",
+      "table",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2023-cg-q73": {
+    "statement": "Na tabela são apresentados dados de temperatura de mudança de estado físico de cinco substâncias químicas.\n\n1\t266 K\t332 K\n2\t301 K\t942 K\n3\t172 K\t238 K\n4\t386 K\t720 K\n5\t234 K\t629 K\n\nEm um ambiente com temperatura 37 ºC, a substância da tabela que estará no estado gasoso e a que estará no estado sólido são, respectivamente, as de números",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-cg-q56": {
+    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nDecote careca\t3\tR$ 46,00\nGola polo\t2\t?\nDecote em V\t4\tR$ 37,50\n\nConsiderando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-cg-q73": {
+    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\nA tabela apresenta valores de temperaturas de fusão e ebulição, a 1 atm, relacionadas às três substâncias do quadro, aleatoriamente.\n\nSubstância\tTemperatura de fusão\tTemperatura de ebulição\n1\t302,9 K\t2676 K\n2\t173 K\t337,7 K\n3\t24 K\t27 K\n\nO dado da substância _____ da tabela corresponde à substância _____ do quadro. As lacunas do texto são preenchidas, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-g3-q08": {
+    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nP\t20\t6\nQ\t30\t4\nR\t25\t3\nS\t45\t?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2025-g3-q09": {
+    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nCaneta\t5\tR$ 4,60\nLápis\t?\tR$ 2,00\nMarca textos\t2\tR$ 2,50\n\nConsiderando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2025-g3-q15": {
+    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite\tPeríodo orbital (dias terrestres)\nCalisto\t16,7\nEuropa\t3,6\nGanimedes\t7,2\nIo\t1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-cg-q75": {
+    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nNd\t60\tx\t86\nEu\t63\t152\ty\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-g1-q13": {
+    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\n1\t144\t191\n2\t28\t671\n3\t–220\t–188\n4\t–7,2\t59\n5\t–10\t102\n\nSob pressão de 1 atm e temperatura de 25ºC, a substância que se apresentará em estado gasoso é a de número",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-g3-q22": {
+    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo\tDiferença de potencial (V)\tCorrente (A)\nP\t127 V\t20\nQ\t127 V\t40\nR\t220 V\t15\nS\t220 V\t20\nT\t220 V\t30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-sis-2024-a3-q54": {
+    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\tFórmula estrutural\tTemperatura de ebulição (ºC)\nPentano\tCH₃—CH₂—CH₂—CH₂—CH₃\t36\nMetilbutano\tCH₃—CH(CH₃)—CH₂—CH₃\t30\nDimetilpropano\tC(CH₃)₄\t9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
+    "blockTypes": [
+      "prose",
+      "prose",
+      "table",
+      "command"
+    ]
+  },
+  "uea-vestibular-2024-cg-q79": {
+    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de pastilhas de hidróxido de alumínio, $Al(OH)_3$. Ao entrar em contato com o ácido clorídrico ($HCl$) presente no estômago, o hidróxido de alumínio reage formando água ($H_2O$) e o sal cloreto de alumínio ($AlCl_3$).\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:",
+    "blockTypes": [
+      "prose",
+      "command"
+    ]
+  },
+  "uea-vestibular-2026-g1-q12": {
+    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\nIlha\tBranca\tAmarelo-clara\tAmarelo-escura\tMarrom-clara\tMarrom-escura\nIlha original\t2%\t18%\t62%\t12%\t6%\nIlha Norte\t1%\t12%\t76%\t8%\t3%\nIlha Sul\t36%\t12%\t8%\t11%\t33%\nIlha Leste\t3%\t10%\t17%\t19%\t51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
+    "blockTypes": [
+      "prose",
+      "table",
+      "command"
+    ]
   }
 }

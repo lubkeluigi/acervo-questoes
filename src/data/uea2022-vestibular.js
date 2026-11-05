@@ -2624,7 +2624,7 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\nTempo após o início da entrada de água\tPorcentagem da capacidade total do reservatório preenchida\t\n10 minutos\t\t30%\n30 minutos\t\t40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
+    "statement": "Um reservatório de água estava parcialmente cheio quando passou a receber, de uma torneira, um fluxo constante de água. Em dois momentos, após receber água dessa torneira, foi registrada em uma tabela a porcentagem da capacidade total do reservatório que estava preenchida.\n\n10 minutos\t30%\n30 minutos\t40%\n\nA partir do momento em que a torneira foi aberta, o tempo para que o reservatório ficasse completamente cheio foi de",
     "blockTypes": [
       "prose",
       "table",
@@ -3034,7 +3034,7 @@ export const uea2022Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\nProduto\tPreço antes do reajuste (em R$)\tPreço depois do reajuste (em R$)\n1\t30,00\t37,00\n2\t12,00\t15,00\n3\t18,00\t22,00\n4\t15,00\t18,00\n5\t24,00\t29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
+    "statement": "Cinco dos produtos vendidos em determinada loja tiveram seus preços reajustados. A tabela mostra os preços antes e depois do reajuste:\n\n1\t30,00\t37,00\n2\t12,00\t15,00\n3\t18,00\t22,00\n4\t15,00\t18,00\n5\t24,00\t29,00\n\nPercentualmente, o maior aumento ocorreu no preço do produto",
     "blockTypes": [
       "prose",
       "table",
@@ -4156,7 +4156,7 @@ export const uea2022Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2022 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\n$2NaN_{3}$ (s) tempo (min)\t$3N_{2}$ (g) + 2Na (s) $NaN_{3}$ (mol)\n0\t0,8\n10\t0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3\t1.\n2\t1.\n4\t1.\n4\t1.\n2\t1.",
+    "statement": "O airbag, componente de segurança passiva dos veículos automotores, possui um balão de ar muito resistente que contém, entre outras substâncias, o sólido azida de sódio ($NaN_{3}$). Quando ocorre uma colisão, os sensores distribuídos em partes especificas dos veículos transmitem um impulso elétrico (faísca) que provoca a rápida decomposição desse sólido, em gás nitrogênio ($N_{2}$), responsável por inflar o airbag, e o sólido sódio (Na), conforme a equação da reação:\n\ntempo (min)\tNaN3 (mol)\n0\t0,8\n10\t0,5\n\nConsiderando a reação de decomposição e os dados da tabela, a velocidade média de formação do gás nitrogênio, no intervalo entre 0 e 10 minutos, é igual a\n\n3\t1.\n2\t1.\n4\t1.\n4\t1.\n2\t1.",
     "blockTypes": [
       "prose",
       "table",

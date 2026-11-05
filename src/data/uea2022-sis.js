@@ -1100,7 +1100,7 @@ export const uea2022Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\tOcorrências de conflitos\tAssassinatos no campo\n2012\t828\t34\n2013\t802\t30\n2014\t820\t37\n2015\t828\t49\n2016\t1 112\t61\n2017\t1 033\t70\n2018\t1 000\t27\n2019\t1 260\t27\n2020\t1 576\t14\n2021\t1 242\t35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
+    "statement": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\tOcorrências de conflitos\tAssassinatos no campo\n2012\t828\t34\n2013\t802\t30\n2014\t820\t37\n2015\t828\t49\n2016\t1 112\t61\n2017\t1 033\t70\n2018\t1 000\t27\n2019\t1 260\t27\n2020\t1 576\t14\n2021\t1 242\t35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
     "blockTypes": [
       "prose",
       "prose",
@@ -2178,7 +2178,7 @@ export const uea2022Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2022 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\t\tDeformação da espiral (m)\t\n\t1\t\t0,04\n\t2\t\t0,08\n\t3\t\t0,12\n\n......\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
+    "statement": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\tDeformação da espiral (m)\n1\t0,04\n2\t0,08\n3\t0,12\n. . .\t. . .\n\n......\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
     "blockTypes": [
       "prose",
       "table",
@@ -7997,7 +7997,7 @@ export const uea2022Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2022 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Uma prova foi aplicada em uma turma de 40 alunos e com os resultados foi construída a tabela seguinte.\n\nConceito\tnúmero de alunos\t\nSS\t\t8\nMS\t\t12\nMM\t\t15\nMI\t\t2\nII\t\t3\n\nUm gráfico de setores será construído a partir dos resultados dessa prova e o ângulo do setor que representará o conceito MM terá medida igual a",
+    "statement": "Uma prova foi aplicada em uma turma de 40 alunos e com os resultados foi construída a tabela seguinte.\n\nConceito\tnúmero de alunos\nSS\t8\nMS\t12\nMM\t15\nMI\t2\nII\t3\n\nUm gráfico de setores será construído a partir dos resultados dessa prova e o ângulo do setor que representará o conceito MM terá medida igual a",
     "blockTypes": [
       "prose",
       "table",

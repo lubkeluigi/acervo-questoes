@@ -2540,7 +2540,7 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nModelo da camiseta\tNº de camisetas compradas\t\tValor unitário\nDecote careca\t\t3\tR$ 46,00\nGola polo\t\t2\t?\nDecote em V\t\t4\tR$ 37,50\n\nConsiderando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
+    "statement": "Uma pessoa comprou 9 camisetas de modelos diferentes. A tabela mostra o número de camisetas compradas de cada modelo e o valor unitário de dois desses modelos.\n\nDecote careca\t3\tR$ 46,00\nGola polo\t2\t?\nDecote em V\t4\tR$ 37,50\n\nConsiderando-se o número total de camisetas compradas, na média, o preço de uma camiseta saiu por R$ 45,00. O valor unitário da camiseta de gola polo era",
     "blockTypes": [
       "prose",
       "table",
@@ -3371,8 +3371,9 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\n1\t302,9 K\t2676 K\n2\t173 K\t337,7K\n3\t24 K\t27 K\n\nO dado da substância da tabela corresponde à substância do quadro. As lacunas do texto são preenchidas, respectivamente, por",
+    "statement": "O quadro apresenta os nomes de três substâncias químicas a 25 ºC e pressão de 1 atm.\n\nA tabela apresenta valores de temperaturas de fusão e ebulição, a 1 atm, relacionadas às três substâncias do quadro, aleatoriamente.\n\nSubstância\tTemperatura de fusão\tTemperatura de ebulição\n1\t302,9 K\t2676 K\n2\t173 K\t337,7 K\n3\t24 K\t27 K\n\nO dado da substância _____ da tabela corresponde à substância _____ do quadro. As lacunas do texto são preenchidas, respectivamente,",
     "blockTypes": [
+      "prose",
       "prose",
       "table",
       "command"
@@ -3646,21 +3647,18 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de\n\n3. Ao entrar em\n\no hidróxido de alumínio reage formando água (Hcloreto de alumínio ($AlCl_{3}$ 2O) e o sal\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:\n\n\t3\t$2H_{2}$O + $AlCl_{3}$\n3\t3\t($H_{2}$ 3 + $AlCl_{3}$\n\t3\t$6H_{2}$O + $AlCl_{3}$",
+    "statement": "A azia é um desconforto causado pela acidez estomacal excessiva e que pode ser combatida com a ingestão de pastilhas de hidróxido de alumínio, $Al(OH)_3$. Ao entrar em contato com o ácido clorídrico ($HCl$) presente no estômago, o hidróxido de alumínio reage formando água ($H_2O$) e o sal cloreto de alumínio ($AlCl_3$).\n\nA equação química balanceada que representa a ação do hidróxido de alumínio no combate à azia é:",
     "blockTypes": [
       "prose",
-      "prose",
-      "prose",
-      "prose",
-      "table"
+      "command"
     ],
     "images": [],
     "alternatives": [
-      "2HCl + Al(OH)3 2H2O + AlCl3",
-      "(HCl)3 + Al(OH)3 (H2O)3 + AlCl3",
-      "3HCl + Al(OH)3 6H2O + AlCl3",
-      "HCl3 + Al(OH)3 (H2O)3 + AlCl3",
-      "3HCl + Al(OH)3 3H2O + AlCl3"
+      "$2HCl + Al(OH)_3 \\rightarrow 2H_2O + AlCl_3$",
+      "$(HCl)_3 + Al(OH)_3 \\rightarrow (H_2O)_3 + AlCl_3$",
+      "$3HCl + Al(OH)_3 \\rightarrow 6H_2O + AlCl_3$",
+      "$HCl_3 + Al(OH)_3 \\rightarrow (H_2O)_3 + AlCl_3$",
+      "$3HCl + Al(OH)_3 \\rightarrow 3H_2O + AlCl_3$"
     ],
     "correct": 4,
     "resolution": [
@@ -4924,13 +4922,15 @@ export const uea2024Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em um experimento de cinética química, o consumo de amônia (NH₃) foi monitorado na reação com o oxigênio (O₂). Essa reação ocorre conforme representado na equação:\n\n4 NH₃ (g) + 5 O₂ (g) → 4 NO (g) + 6 H₂O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\nTempo\tConcentração de NH₃\n0 s\t0,320 mol·L⁻¹\n10 s\t0,240 mol·L⁻¹\n20 s\t0,160 mol·L⁻¹\n30 s\t0,080 mol·L⁻¹\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consumo de oxigênio nesse experimento, em mol·L⁻¹·s⁻¹, é",
+    "statement": "Em um experimento de cinética química, o consumo de amôreação ocorre conforme representado na equação:nia ($NH_{3}$) foi monitorado na reação com o oxigênio ($O_{2}$). Essa\n\n$4NH_{3}$ (g) + $5O_{2}$ (g) 4NO (g) + $6H_{2}$O (g)\n\nA tabela apresenta a variação da concentração de amônia ao longo do tempo nesse experimento.\n\n0 s\tL–1 0,320 mol ⋅\n10 s\tL–1 0,240 mol ⋅\n20 s\tL–1 0,160 mol ⋅\n30 s\tL–1 0,080 mol ⋅\n\nConsiderando o intervalo de 0 a 30 s, a velocidade de consu-\n\n1 1, é\n\n2.\n1.\n2.\n1.\n1.",
     "blockTypes": [
       "prose",
       "prose",
       "prose",
       "table",
-      "command"
+      "prose",
+      "prose",
+      "poem"
     ],
     "images": [],
     "alternatives": [
@@ -7771,7 +7771,7 @@ export const uea2024Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nTurmas\tNº de alunos\tcomprados por alunoNo de convites\t\n$\\frac{P}{Q}$\t20\t\t6\n\t30\t\t4\n$\\frac{R}{S}$\t25\t\t3\n\t45\t\t?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
+    "statement": "Em determinada escola, os alunos das turmas P, Q, R e S, de uma mesma série, compraram convites para uma festa beneficente. A tabela mostra o número de convites comprados por aluno nas turmas P, Q e R.\n\nP\t20\t6\nQ\t30\t4\nR\t25\t3\nS\t45\t?\n\nConsiderando-se o número total de convites comprados pelos alunos das quatro turmas, na média, cada um comprou 4,5 convites. Portanto, cada aluno da turma S comprou um número de convites igual a",
     "blockTypes": [
       "prose",
       "table",

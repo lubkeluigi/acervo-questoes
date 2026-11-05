@@ -133,6 +133,18 @@ flare_ref = [{'src': '/images/uea/vestibular-2022-cg/q79-1.svg', 'alt': 'Ilustra
 refs['uea-vestibular-2022-cg-q79'] = flare_ref
 refs['uea-vestibular-2022-cg-q80'] = flare_ref
 
+# --- Shared-context figures: propagate the anchor question's crop to the
+#     questions that reuse the same tirinha / photo (verified on the PDF). ---
+SHARED_FIGURES = {
+    'uea-vestibular-2025-cg-q01': ['uea-vestibular-2025-cg-q02'],
+    'uea-sis-2026-a2-q11': ['uea-sis-2026-a2-q12'],
+    'uea-vestibular-2025-cg-q22': ['uea-vestibular-2025-cg-q23', 'uea-vestibular-2025-cg-q24'],
+}
+for anchor, targets in SHARED_FIGURES.items():
+    if anchor in refs:
+        for t in targets:
+            refs[t] = refs[anchor]
+
 json.dump(refs, open(os.path.join(STATE, 'uea_imgrefs.json'), 'w'), ensure_ascii=False, indent=1)
 json.dump(altimg, open(os.path.join(STATE, 'uea_altimg.json'), 'w'), ensure_ascii=False, indent=1)
 print('special cases done; refs:', len(refs), 'altimg:', len(altimg))

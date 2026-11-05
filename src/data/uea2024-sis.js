@@ -2053,7 +2053,7 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários\t\tSalário em R$\n\t15\t3.100,00\n\t22\t2.900,00\n\t35\t2.500,00\n\t28\t1.800,00\n\nA mediana dos salários desses funcionários é",
+    "statement": "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários\tSalário em R$\n15\t3.100,00\n22\t2.900,00\n35\t2.500,00\n28\t1.800,00\n\nA mediana dos salários desses funcionários é",
     "blockTypes": [
       "prose",
       "table",
@@ -4825,7 +4825,7 @@ export const uea2024Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2024 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\t1 006\t995\t1 028\t1 017\n1 006\t996\t1 012\t1 023\t1 010\n1 029\t1 014\t1 003\t1 020\t1 009\n\nConsiderando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
+    "statement": "As massas, em gramas, de 15 pacotes de arroz foram registradas em uma tabela.\n\n1 021\t1 006\t995\t1 028\t1 017\n1 006\t996\t1 012\t1 023\t1 010\n1 029\t1 014\t1 003\t1 020\t1 009\n\nConsiderando esses 15 registros, a diferença entre a média aritmética e a mediana é igual a",
     "blockTypes": [
       "prose",
       "table",
@@ -8077,7 +8077,7 @@ export const uea2024Sis = [
     "subject": "Química",
     "detail": "Química — UEA 2024 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\tFórmula estrutural\tde ebulição (ºC)\nPentano\t\t36\nMetilbutano\t\t30\nDimetilpropano\t\t9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
+    "statement": "A tabela apresenta as temperaturas de ebulição de três compostos orgânicos.\n\nTemperatura\n\nComposto\tFórmula estrutural\tTemperatura de ebulição (ºC)\nPentano\tCH₃—CH₂—CH₂—CH₂—CH₃\t36\nMetilbutano\tCH₃—CH(CH₃)—CH₂—CH₃\t30\nDimetilpropano\tC(CH₃)₄\t9,5\n\nA variação das temperaturas de ebulição informada na tabela tem como explicação",
     "blockTypes": [
       "prose",
       "prose",

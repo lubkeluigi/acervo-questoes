@@ -1856,7 +1856,7 @@ export const uea2025Sis = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "Considere a tabela que registra as alturas de 20 alunos de uma turma.\n\nAlturas dos alunos (em cm)\n\n160\t180\t160\t160\t160\n160\t165\t155\t155\t155\n165\t160\t165\t160\t175\n165\t165\t160\t170\t165\n\nSeja Mo a moda das alturas desses 20 alunos. Um grupo foi formado com todos os alunos da turma que tinham alturas diferentes de Mo. A média das alturas dos alunos do grupo formado é igual a",
+    "statement": "Considere a tabela que registra as alturas de 20 alunos de uma turma.\n\nAlturas dos alunos (em cm), em cm.\n\n160\t180\t160\t160\t160\n160\t165\t155\t155\t155\n165\t160\t165\t160\t175\n165\t165\t160\t170\t165\n\nSeja Mo a moda das alturas desses 20 alunos. Um grupo foi formado com todos os alunos da turma que tinham alturas diferentes de Mo. A média das alturas dos alunos do grupo formado é igual a",
     "blockTypes": [
       "prose",
       "prose",
@@ -2103,7 +2103,7 @@ export const uea2025Sis = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Acompanhamento I",
     "difficulty": "Fácil",
-    "statement": "O motorista de um caminhão costuma registrar, para cada entrega realizada, o instante em que inicia o deslocamento para a entrega, o instante da chegada ao local de entrega e a distância percorrida durante a entrega. Em determinado dia de trabalho, esse motorista fez 3 entregas, cujos registros estão indicados na tabela.\n\nInício (h)\tFim (h)\tDistância percorrida\t(km)\n7:00\t9:00\t\t50\n10:00\t11:00\t\t10\n13:00\t16:00\t\t30\n\nConsiderando apenas os tempos em que o motorista esteve em deslocamento durante essas entregas, ou seja, do início de cada deslocamento até sua chegada ao local de cada entrega, e suas respectivas distâncias percorridas, a velocidade escalar média desenvolvida pelo caminhão, nesse dia de trabalho, foi de",
+    "statement": "O motorista de um caminhão costuma registrar, para cada entrega realizada, o instante em que inicia o deslocamento para a entrega, o instante da chegada ao local de entrega e a distância percorrida durante a entrega. Em determinado dia de trabalho, esse motorista fez 3 entregas, cujos registros estão indicados na tabela.\n\n7:00\t9:00\t50\n10:00\t11:00\t10\n13:00\t16:00\t30\n\nConsiderando apenas os tempos em que o motorista esteve em deslocamento durante essas entregas, ou seja, do início de cada deslocamento até sua chegada ao local de cada entrega, e suas respectivas distâncias percorridas, a velocidade escalar média desenvolvida pelo caminhão, nesse dia de trabalho, foi de",
     "blockTypes": [
       "prose",
       "table",

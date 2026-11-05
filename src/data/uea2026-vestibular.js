@@ -3529,7 +3529,7 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nIsótopo\tatômico (Z)Número\tNúmero demassa (A)\tde nêutronsQuantidade\nNd\t60\tx\t86\nEu\t63\t152\ty\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
+    "statement": "A tabela apresenta informações a respeito de dois isótopos de metais de terras-raras, o neodímio (Nd) e o európio (Eu).\n\nNd\t60\tx\t86\nEu\t63\t152\ty\n\nO número de massa x do isótopo do neodímio e a quantidade de nêutrons y do isótopo do európio são, respectivamente,",
     "blockTypes": [
       "prose",
       "table",
@@ -4517,7 +4517,7 @@ export const uea2026Vestibular = [
     "subject": "Biologia",
     "detail": "Biologia — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\n\tBranca\tAmarelo-clara\tAmarelo-escura\tMarrom-clara\tMarrom-escura\noriginalIlha\t2%\t18%\t62%\t12%\t6%\nNorteIlha\t1%\t12%\t76%\t8%\t3%\nIlhaSul\t36%\t12%\t8%\t11%\t33%\nLesteIlha\t3%\t10%\t17%\t19%\t51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
+    "statement": "Em uma espécie de caramujos, a cor da concha pode ser branca, amarelo-clara, amarelo-escura, marrom-clara ou marrom-escura. A ilha original que abrigava esta espécie foi fragmentada em três ilhas menores denominadas ilhas Norte, Sul e Leste. Ao longo do tempo, houve alteração na distribuição das cores das conchas nas populações de caramujos nas três ilhas em relação às cores da população na ilha original. A tabela mostra, em porcentagem, a distribuição das cores das conchas nas populações consideradas.\n\nIlha\tBranca\tAmarelo-clara\tAmarelo-escura\tMarrom-clara\tMarrom-escura\nIlha original\t2%\t18%\t62%\t12%\t6%\nIlha Norte\t1%\t12%\t76%\t8%\t3%\nIlha Sul\t36%\t12%\t8%\t11%\t33%\nIlha Leste\t3%\t10%\t17%\t19%\t51%\n\nA explicação mais adequada para os resultados observados na tabela é que",
     "blockTypes": [
       "prose",
       "table",
@@ -4563,7 +4563,7 @@ export const uea2026Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2026 Específicos Grupo I",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\nSubstância\toC)\t\toC)\n1\t144\t191\t\n2\t28\t671\t\n3\t–220\t–188\t\n4\t–7,2\t59\t\n5\t–10\t102\t\n\nSob pressão de 1 atm e temperatura de 25ºC, a substância que se apresentará em estado gasoso é a de número",
+    "statement": "A tabela apresenta as temperaturas de fusão e de ebulição, sob pressão de 1 atm, das substâncias numeradas de 1 a 5.\n\n1\t144\t191\n2\t28\t671\n3\t–220\t–188\n4\t–7,2\t59\n5\t–10\t102\n\nSob pressão de 1 atm e temperatura de 25ºC, a substância que se apresentará em estado gasoso é a de número",
     "blockTypes": [
       "prose",
       "table",
@@ -8453,7 +8453,7 @@ export const uea2026Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2026 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo\tDiferença de potencial (V)\t\tCorrente (A)\n$\\frac{P}{Q}$\t\t127 V\t20\n\t\t127 V\t40\n$\\frac{R}{S}$\t\t220 V\t15\n\t\t220 V\t20\nT\t\t220 V\t30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
+    "statement": "A tabela apresenta as diferenças de potencial de funcionamento, e a respectiva corrente elétrica, de cinco supostos modelos de chuveiro elétrico.\n\nModelo\tDiferença de potencial (V)\tCorrente (A)\nP\t127 V\t20\nQ\t127 V\t40\nR\t220 V\t15\nS\t220 V\t20\nT\t220 V\t30\n\nConsiderando banhos que demorem o mesmo tempo, os três modelos desses chuveiros que consomem maior quantidade de energia elétrica nesses banhos, em ordem decrescente, são:",
     "blockTypes": [
       "prose",
       "table",

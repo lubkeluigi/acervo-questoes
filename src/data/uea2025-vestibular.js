@@ -68,7 +68,12 @@ export const uea2025Vestibular = [
       "prose",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q01-1.svg",
+        "alt": "Imagem de apoio da questão 01 (UEA Unificado — Conhecimentos Gerais, 2025)."
+      }
+    ],
     "alternatives": [
       "em um passado hipotético.",
       "em um futuro hipotético.",
@@ -1093,7 +1098,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q22-1.svg",
+        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Conhecimentos Gerais, 2025)."
+      }
+    ],
     "alternatives": [
       "Plano de Metas.",
       "Programa de Reformas de Base.",
@@ -1140,7 +1150,12 @@ export const uea2025Vestibular = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/vestibular-2025-cg/q22-1.svg",
+        "alt": "Imagem de apoio da questão 22 (UEA Unificado — Conhecimentos Gerais, 2025)."
+      }
+    ],
     "alternatives": [
       "a ampliação de conflitos entre os povos indígenas locais e os colonizadores em torno das disputas territoriais.",
       "a melhoria imediata e duradoura das condições de vida e de trabalho dos colonos assentados.",
@@ -7745,7 +7760,7 @@ export const uea2025Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nItem\tNºcompradas de unidades Valor unitário do item\t\t\nCaneta\t\t5\tR$ 4,60\nLápis\t\t?\tR$ 2,00\nMarca textos\t\t2\tR$ 2,50\n\nConsiderando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
+    "statement": "Uma pessoa comprou canetas, lápis e marca textos. A tabela mostra o número de unidades compradas de canetas e de marca textos e o valor unitário dos itens comprados.\n\nCaneta\t5\tR$ 4,60\nLápis\t?\tR$ 2,00\nMarca textos\t2\tR$ 2,50\n\nConsiderando-se o número total de itens comprados, na média, o valor de cada item saiu por R$ 3,00. O número de lápis comprados foi",
     "blockTypes": [
       "prose",
       "table",
@@ -7990,7 +8005,7 @@ export const uea2025Vestibular = [
     "subject": "Física",
     "detail": "Física — UEA 2025 Específicos Grupo III",
     "difficulty": "Difícil",
-    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite\tPeríodo orbital (dias terrestres)\t\nCalisto\t\t16,7\nEuropa\t\t3,6\nGanimedes\t\t7,2\nIo\t\t1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
+    "statement": "Em 1610, Galileu fez uma descoberta que contribuiu para a mudança da visão humana sobre o Universo: ele encontrou quatro satélites orbitando Júpiter, mostrando que nem tudo gira ao redor da Terra. Hoje, esses satélites são denominados Calisto, Europa, Ganimedes e Io. Seus períodos de revolução em torno de Júpiter estão indicados na tabela.\n\nSatélite\tPeríodo orbital (dias terrestres)\nCalisto\t16,7\nEuropa\t3,6\nGanimedes\t7,2\nIo\t1,8\n\nA partir desses dados, conclui-se que, entre esses quatro satélites,",
     "blockTypes": [
       "prose",
       "table",

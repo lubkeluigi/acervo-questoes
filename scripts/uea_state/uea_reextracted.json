@@ -20396,11 +20396,11 @@
    "table"
   ],
   "parsed_alts": [
-   "",
-   "",
-   "",
-   "$HCl_{3}$ 3 ($H_{2}$ 3 + $AlCl_{3}$ 3 $3H_{2}$O + $AlCl_{3}$",
-   ""
+   "$2HCl + Al(OH)_3 \\rightarrow 2H_2O + AlCl_3$",
+   "$(HCl)_3 + Al(OH)_3 \\rightarrow (H_2O)_3 + AlCl_3$",
+   "$3HCl + Al(OH)_3 \\rightarrow 6H_2O + AlCl_3$",
+   "$HCl_3 + Al(OH)_3 \\rightarrow (H_2O)_3 + AlCl_3$",
+   "$3HCl + Al(OH)_3 \\rightarrow 3H_2O + AlCl_3$"
   ]
  },
  "uea-vestibular-2024-cg-q80": {

@@ -2760,7 +2760,7 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Uma faculdade oferece dois cursos de especialização, P e Q. A tabela apresenta algumas informações sobre o número de matriculados e o número de aprovados em cada curso.\n\nCurso\tNº de matriculados\t\tNº de aprovados\t\n$\\frac{P}{Q}$\t\tx\t\t36\n\t\tx + 6\t\t42\n\nSe no curso Q houvesse um aluno a mais matriculado do que o curso P e esse aluno não tivesse sido aprovado, a razão do número de alunos matriculados para o número de alunos aprovados no curso Q seria a mesma que no curso P. A soma do número de alunos matriculados nesses dois cursos é",
+    "statement": "Uma faculdade oferece dois cursos de especialização, P e Q. A tabela apresenta algumas informações sobre o número de matriculados e o número de aprovados em cada curso.\n\nCurso\tNo de matriculados\tNo de aprovados\nP\tx\t36\nQ\tx 6 +\t42\n\nSe no curso Q houvesse um aluno a mais matriculado do que o curso P e esse aluno não tivesse sido aprovado, a razão do número de alunos matriculados para o número de alunos aprovados no curso Q seria a mesma que no curso P. A soma do número de alunos matriculados nesses dois cursos é",
     "blockTypes": [
       "prose",
       "table",
@@ -2897,7 +2897,7 @@ export const uea2023Vestibular = [
     "subject": "Matemática",
     "detail": "Matemática — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Determinado produto é vendido por 5 sites diferentes na internet, P, Q, R, S e T. A tabela apresenta o valor desse produto em 4 desses sites.\n\nSite\tPreço do produto\nP\tR$ 124,00\nQ\tR$ 132,00\n\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nSabendo que o preço desse produto no site R é R$ 13,00 a menos do que a média aritmética dos preços nesses 5 sites, então, a diferença entre o maior e o menor preço desse produto, nesses sites, é",
+    "statement": "Determinado produto é vendido por 5 sites diferentes na internet, P, Q, R, S e T. A tabela apresenta o valor desse produto em 4 desses sites.\n\nSite\tPreço do produto\nP\tR$ 124,00\nQ\tR$ 132,00\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nR\t?\nS\tR$ 127,00\nT\tR$ 130,00\n\nSabendo que o preço desse produto no site R é R$ 13,00 a menos do que a média aritmética dos preços nesses 5 sites, então, a diferença entre o maior e o menor preço desse produto, nesses sites, é",
     "blockTypes": [
       "prose",
       "table",
@@ -3509,7 +3509,7 @@ export const uea2023Vestibular = [
     "subject": "Química",
     "detail": "Química — UEA 2023 Conhecimentos Gerais",
     "difficulty": "Média",
-    "statement": "Na tabela são apresentados dados de temperatura de mudança de estado físico de cinco substâncias químicas.\n\nSubstância\tTemperatura de fusão\tTemperatura de ebulição\n1\t266 K\t332 K\n2\t301 K\t942 K\n3\t172 K\t238 K\n4\t386 K\t720 K\n5\t234 K\t629 K\n\nEm um ambiente com temperatura 37 ºC, a substância da tabela que estará no estado gasoso e a que estará no estado sólido são, respectivamente, as de números",
+    "statement": "Na tabela são apresentados dados de temperatura de mudança de estado físico de cinco substâncias químicas.\n\n1\t266 K\t332 K\n2\t301 K\t942 K\n3\t172 K\t238 K\n4\t386 K\t720 K\n5\t234 K\t629 K\n\nEm um ambiente com temperatura 37 ºC, a substância da tabela que estará no estado gasoso e a que estará no estado sólido são, respectivamente, as de números",
     "blockTypes": [
       "prose",
       "table",

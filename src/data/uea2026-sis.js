@@ -3501,7 +3501,12 @@ export const uea2026Sis = [
       "source",
       "command"
     ],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/uea/sis-2026-a2/q11-1.svg",
+        "alt": "Figura de apoio da questão 11."
+      }
+    ],
     "alternatives": [
       "uma ação que certamente acontecerá no futuro.",
       "um conselho sobre uma situação futura.",
@@ -4124,7 +4129,7 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "A tabela apresenta a relação dos principais produtos industrializados brasileiros exportados em 2025.\n\n\tProduto\tExportações (%)\nAçúcar de cana, em bruto\t\t12,9\nCelulose\t\t9,6\nÓleos Combustíveis\t\t7,5\nDemais produtos semimanufaturados\t\t5,3\nProdutos semimanufaturados de ferro ou aços\t\t3,8\nÓxidos e hidróxidos de alumínio\t\t3,6\nAviões\t\t3,1\nFerro-ligas\t\t2,8\nAçúcar refinado\t\t2,2\nDemais produtos manufaturados\t\t2,2\n\n(“Perfil da Indústria Brasileira”.\n\nhttps://industriabrasileira.portaldaindustria.com.br. Adaptado.)\n\nA análise da tabela revela que os produtos industrializados brasileiros são, em sua maioria, caracterizados por serem",
+    "statement": "A tabela apresenta a relação dos principais produtos industrializados brasileiros exportados em 2025.\n\nProduto\tExportações (%)\nAçúcar de cana, em bruto\t12,9\nCelulose\t9,6\nÓleos Combustíveis\t7,5\nDemais produtos semimanufaturados\t5,3\nProdutos semimanufaturados de ferro ou aços\t3,8\nÓxidos e hidróxidos de alumínio\t3,6\nAviões\t3,1\nFerro-ligas\t2,8\nAçúcar refinado\t2,2\nDemais produtos manufaturados\t2,2\n\n(“Perfil da Indústria Brasileira”.\n\nhttps://industriabrasileira.portaldaindustria.com.br. Adaptado.)\n\nA análise da tabela revela que os produtos industrializados brasileiros são, em sua maioria, caracterizados por serem",
     "blockTypes": [
       "prose",
       "table",
@@ -4222,7 +4227,7 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento II",
     "difficulty": "Média",
-    "statement": "Analise a tabela que apresenta os dados do Índice de Desenvolvimento Humano Municipal (IDHM) para os estados da região Norte.\n\n\t2019\t2021\t2024\nNorte\t0,732\t0,705\t0,767\nTocantins\t0,762\t0,731\t0,797\nRondônia\t0,752\t0,708\t0,786\nRoraima\t0,757\t0,694\t0,780\nAmazonas\t0,739\t0,700\t0,767\nAmapá\t0,732\t0,681\t0,759\nPará\t0,717\t0,706\t0,758\nAcre\t0,738\t0,702\t0,754\n\n(Radar IDHM: evolução do IDHM e de seus componentesperíodo de 2012 a 2024, 2026. Adaptado.)\n\nCom base nos dados da tabela e em conhecimentos acerca do IDHM no período retratado, verifica-se que o estado",
+    "statement": "Analise a tabela que apresenta os dados do Índice de Desenvolvimento Humano Municipal (IDHM) para os estados da região Norte.\n\nRegião\t2019\t2021\t2024\nNorte\t0,732\t0,705\t0,767\nTocantins\t0,762\t0,731\t0,797\nRondônia\t0,752\t0,708\t0,786\nRoraima\t0,757\t0,694\t0,780\nAmazonas\t0,739\t0,700\t0,767\nAmapá\t0,732\t0,681\t0,759\nPará\t0,717\t0,706\t0,758\nAcre\t0,738\t0,702\t0,754\n\n(Radar IDHM: evolução do IDHM e de seus componentesperíodo de 2012 a 2024, 2026. Adaptado.)\n\nCom base nos dados da tabela e em conhecimentos acerca do IDHM no período retratado, verifica-se que o estado",
     "blockTypes": [
       "prose",
       "table",
@@ -7039,7 +7044,7 @@ export const uea2026Sis = [
     "subject": "Geografia",
     "detail": "Geografia — UEA 2026 Acompanhamento III",
     "difficulty": "Difícil",
-    "statement": "Analise a tabela que apresenta o número de empresas de plataformas digitais instaladas em alguns países.\n\n\tPaís\tempresas digitaisNúmero de\t\nChina\t\t\t1031\nEstados Unidos\t\t\t855\nIlhas Cayman\t\t\t165\nReino Unido\t\t\t124\nJapão\t\t\t117\nCoreia do Sul\t\t\t84\nAustrália\t\t\t73\nÍndia\t\t\t62\nCanadá\t\t\t59\n\n(Victo José da Silva Neto, Tulio Chiarini e Leonardo da Costa Ribeiro. “Viagens de descobrimento: mapeando a geografia da economia de plataformas”. VI Encontro Nacional de Economia Industrial, 2022.\n\nAdaptado.)\n\nOs dados apresentados na tabela mostram que as empresas de plataformas digitais estão concentradas, principalmente, em países com",
+    "statement": "Analise a tabela que apresenta o número de empresas de plataformas digitais instaladas em alguns países.\n\nChina\t1031\nEstados Unidos\t855\nIlhas Cayman\t165\nReino Unido\t124\nJapão\t117\nCoreia do Sul\t84\nAustrália\t73\nÍndia\t62\nCanadá\t59\n\n(Victo José da Silva Neto, Tulio Chiarini e Leonardo da Costa Ribeiro. “Viagens de descobrimento: mapeando a geografia da economia de plataformas”. VI Encontro Nacional de Economia Industrial, 2022.\n\nAdaptado.)\n\nOs dados apresentados na tabela mostram que as empresas de plataformas digitais estão concentradas, principalmente, em países com",
     "blockTypes": [
       "prose",
       "table",
